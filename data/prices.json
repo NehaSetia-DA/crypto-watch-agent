@@ -1,21 +1,5 @@
 {
-  "fetched_at": "2026-05-29T09:15:06.295520Z",
-  "source": "unavailable \u2014 all price APIs (CoinGecko, Binance, CryptoCompare, Kraken) return 403 from this cloud IP",
-  "prices": [
-    {
-      "id": "bitcoin",
-      "usd": null,
-      "change_24h": null
-    },
-    {
-      "id": "ethereum",
-      "usd": null,
-      "change_24h": null
-    },
-    {
-      "id": "solana",
-      "usd": null,
-      "change_24h": null
-    }
-  ]
+  "fetched_at": "2026-05-29T09:25:29.010743Z",
+  "prices": [],
+  "error": "HTTP Error 403: Forbidden"
 }

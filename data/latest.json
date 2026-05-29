@@ -1,14 +1,26 @@
 {
-  "generated_at": "2026-05-29T00:00:00Z",
+  "generated_at": "2026-05-29T09:26:12.377925Z",
   "movement": [
-    {"id": "bitcoin",  "direction": "unknown", "change_24h": null},
-    {"id": "ethereum", "direction": "unknown", "change_24h": null},
-    {"id": "solana",   "direction": "unknown", "change_24h": null}
+    {
+      "id": "bitcoin",
+      "direction": "unknown",
+      "change_24h": null
+    },
+    {
+      "id": "ethereum",
+      "direction": "unknown",
+      "change_24h": null
+    },
+    {
+      "id": "solana",
+      "direction": "unknown",
+      "change_24h": null
+    }
   ],
-  "narrative": "Price data is unavailable today — the CoinGecko, Binance, CryptoCompare, and Kraken APIs all returned 403 from this cloud environment, indicating outbound access to financial data endpoints is blocked by the network policy. News data is also unavailable: no finished coindesk_com spider jobs were found in Scrapy Cloud project 864818, so there are no headlines to summarize. The watchlist covers bitcoin, ethereum, and solana; all three are being tracked but no movement can be reported.",
+  "narrative": "Price and news data remain unavailable for a second consecutive day: outbound HTTPS to CoinGecko and Binance is blocked by the cloud environment network policy, and no finished coindesk_com spider jobs exist in Scrapy Cloud project 864818. No movement can be reported for bitcoin, ethereum, or solana.",
   "worth_watching": [
-    "Verify the cloud environment's network policy allows outbound HTTPS to coingecko.com, binance.com, and cryptocompare.com — all returned 403 today",
-    "Run the coindesk_com Scrapy Cloud spider manually (project 864818) to confirm it completes and produces finished jobs before the next routine",
-    "Consider adding a fallback price source (e.g. CoinGecko Demo API key or a self-hosted price cache) to avoid silent failures"
+    "Network policy blocks financial data APIs (coingecko.com, binance.com) \u2014 configure allowed egress or add a COINGECKO_API_KEY to unlock the Demo tier",
+    "coindesk_com spider (project 864818) has no finished jobs \u2014 run it manually or schedule it before the daily brief",
+    "Consider a self-hosted price cache or alternative endpoint that is accessible from this cloud environment"
   ]
 }
