@@ -1,0 +1,6 @@
+project: 864818
+
+stack: scrapy:2.16-20260522
+
+requirements:
+  file: requirements.txt

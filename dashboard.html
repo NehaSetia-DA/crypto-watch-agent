@@ -1,0 +1,153 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>crypto-watch</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;1,9..144,400&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#0e0f12; --panel:#15171c; --line:#23262e;
+    --ink:#e9e6df; --mute:#8b8f99; --faint:#5b5f69;
+    --up:#5fd0a0; --down:#e0726b; --accent:#d4a853;
+    --mono:'IBM Plex Mono',ui-monospace,monospace;
+    --serif:'Fraunces',Georgia,serif;
+  }
+  *{box-sizing:border-box}
+  body{
+    margin:0; background:var(--bg); color:var(--ink);
+    font-family:var(--mono); font-size:15px; line-height:1.5;
+    background-image:radial-gradient(circle at 80% -10%, #1a1d24 0, transparent 55%);
+    min-height:100vh;
+  }
+  .wrap{max-width:880px; margin:0 auto; padding:48px 24px 80px}
+  header{display:flex; align-items:baseline; justify-content:space-between; flex-wrap:wrap; gap:8px; border-bottom:1px solid var(--line); padding-bottom:18px}
+  h1{font-family:var(--serif); font-weight:600; font-size:34px; margin:0; letter-spacing:-.5px}
+  h1 .blink{color:var(--accent)}
+  .stamp{color:var(--faint); font-size:12.5px; letter-spacing:.04em}
+  section{margin-top:40px}
+  .label{font-size:11px; letter-spacing:.18em; text-transform:uppercase; color:var(--mute); margin-bottom:16px}
+
+  /* prices */
+  .coins{display:grid; grid-template-columns:repeat(auto-fit,minmax(220px,1fr)); gap:14px}
+  .coin{background:var(--panel); border:1px solid var(--line); border-radius:10px; padding:18px 20px; position:relative; overflow:hidden}
+  .coin .name{font-family:var(--serif); font-size:20px; text-transform:capitalize}
+  .coin .price{font-size:24px; font-weight:600; margin-top:6px}
+  .coin .chg{font-size:14px; margin-top:4px; display:flex; align-items:center; gap:6px}
+  .up{color:var(--up)} .down{color:var(--down)}
+  .arrow{font-size:16px}
+  .coin::after{content:""; position:absolute; left:0; top:0; bottom:0; width:3px}
+  .coin.is-up::after{background:var(--up)} .coin.is-down::after{background:var(--down)}
+
+  /* brief */
+  .brief{background:var(--panel); border:1px solid var(--line); border-left:3px solid var(--accent); border-radius:10px; padding:22px 24px}
+  .brief p{font-family:var(--serif); font-size:18px; line-height:1.55; margin:0}
+  .watch{margin-top:18px; padding-top:16px; border-top:1px dashed var(--line)}
+  .watch .label{margin-bottom:10px}
+  .watch li{color:var(--ink); margin:6px 0}
+  .watch ul{margin:0; padding-left:18px}
+
+  /* news */
+  .src{margin-bottom:22px}
+  .src h3{font-family:var(--mono); font-size:13px; color:var(--accent); letter-spacing:.04em; margin:0 0 8px; text-transform:lowercase}
+  .src ul{list-style:none; margin:0; padding:0}
+  .src li{padding:7px 0; border-bottom:1px solid var(--line); color:var(--ink)}
+  .src li:last-child{border-bottom:none}
+  .src li::before{content:"› "; color:var(--faint)}
+
+  footer{margin-top:56px; color:var(--faint); font-size:12px; line-height:1.7; border-top:1px solid var(--line); padding-top:18px}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>crypto<span class="blink">·</span>watch</h1>
+    <div class="stamp" id="stamp">—</div>
+  </header>
+
+  <section>
+    <div class="label">Movement · 24h</div>
+    <div class="coins" id="coins"></div>
+  </section>
+
+  <section>
+    <div class="label">Today's read</div>
+    <div class="brief">
+      <p id="narrative">—</p>
+      <div class="watch">
+        <div class="label">Worth watching</div>
+        <ul id="watch"></ul>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="label">Headlines · scraped today</div>
+    <div id="news"></div>
+  </section>
+
+  <footer>
+    Prices via CoinGecko API. Headlines scraped with the Zyte stack. The read is
+    written by a daily routine, not a trader — it surfaces what moved and what to
+    watch, it does not give investment advice.
+  </footer>
+</div>
+
+<script>
+// In production the daily pipeline writes data/latest.json and this fetches it.
+// The inline copy below is a fallback so the page renders on its own.
+const SAMPLE = {
+  generated_at: "2026-05-28T07:00:00Z",
+  prices: [
+    { id: "bitcoin", usd: 71240, change_24h: 2.4 },
+    { id: "ethereum", usd: 3815, change_24h: -1.8 },
+    { id: "solana", usd: 168.2, change_24h: 5.1 }
+  ],
+  narrative: "Bitcoin is up on continued spot ETF inflows, per CoinDesk, while The Block notes Ethereum slipped after a quiet week for L2 activity. Decrypt flags Solana strength tied to a new wave of memecoin volume, so the price move and the discourse line up there.",
+  worth_watching: [
+    "TON appears across all three sources today but is not on the watchlist",
+    "The Block went quiet on regulation after heavy coverage last week"
+  ],
+  news: [
+    { source: "coindesk.com", headlines: ["Spot bitcoin ETFs log fourth straight week of net inflows", "Stablecoin supply hits new high as on-chain settlement grows"] },
+    { source: "theblock.co", headlines: ["Ethereum L2 transaction counts cool after spring surge", "TON ecosystem funding round draws institutional names"] },
+    { source: "decrypt.co", headlines: ["Solana memecoin volume returns, fees climb with it", "Why TON keeps showing up in this week's headlines"] }
+  ]
+};
+
+function fmtPrice(n){
+  if (n == null) return "—";
+  return "$" + Number(n).toLocaleString("en-US", { maximumFractionDigits: n < 10 ? 4 : 0 });
+}
+function fmtChg(n){ return (n>=0?"+":"") + Number(n).toFixed(1) + "%"; }
+
+function render(d){
+  document.getElementById("stamp").textContent =
+    "updated " + new Date(d.generated_at).toUTCString().replace("GMT","UTC");
+
+  document.getElementById("coins").innerHTML = d.prices.map(c => {
+    const up = (c.change_24h ?? 0) >= 0;
+    return `<div class="coin ${up?'is-up':'is-down'}">
+      <div class="name">${c.id}</div>
+      <div class="price">${fmtPrice(c.usd)}</div>
+      <div class="chg ${up?'up':'down'}"><span class="arrow">${up?'▲':'▼'}</span>${fmtChg(c.change_24h)}</div>
+    </div>`;
+  }).join("");
+
+  document.getElementById("narrative").textContent = d.narrative;
+  document.getElementById("watch").innerHTML = (d.worth_watching||[]).map(w => `<li>${w}</li>`).join("");
+  document.getElementById("news").innerHTML = (d.news||[]).map(s => `<div class="src">
+      <h3>${s.source}</h3>
+      <ul>${s.headlines.map(h => `<li>${h}</li>`).join("")}</ul>
+    </div>`).join("");
+}
+
+fetch("data/latest.json")
+  .then(r => { if(!r.ok) throw new Error(); return r.json(); })
+  .then(render)
+  .catch(() => render(SAMPLE));
+</script>
+</body>
+</html>

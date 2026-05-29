@@ -1,0 +1,58 @@
+{
+  "url": "https://www.coindesk.com/markets",
+  "status": 200,
+  "headers": {
+    "Age": [
+      "0"
+    ],
+    "Cache-Control": [
+      "private, no-cache, no-store, max-age=0, must-revalidate"
+    ],
+    "Content-Type": [
+      "text/html; charset=utf-8"
+    ],
+    "Date": [
+      "Fri, 29 May 2026 02:10:35 GMT"
+    ],
+    "Link": [
+      "</_next/static/media/dm_mono_regular-s.p.f83c7999.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/family_bold-s.p.5b65b225.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/family_bold_italic-s.p.9141d037.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/family_italic-s.p.9c1ebce1.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/family_medium-s.p.9276416f.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/family_medium_italic-s.p.5a077047.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/family_regular-s.p.23a703e3.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/neue_haas_medium-s.p.4d7962ba.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/neue_haas_medium_italic-s.p.fa4a7d4c.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/neue_haas_regular-s.p.ac742926.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/neue_haas_regular_italic-s.p.60507920.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/roc_grotesk_bold-s.p.a4713def.otf>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/otf\", </_next/static/media/roc_grotesk_medium-s.p.93a3e2c6.otf>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/otf\", </_next/static/chunks/6a4c266db8e3d52b.css?dpl=dpl_E5Cz9DcunnmNjKoH3hPvKu5NrY32>; rel=preload; as=\"style\", </_next/static/chunks/0551454108cc1e9d.css?dpl=dpl_E5Cz9DcunnmNjKoH3hPvKu5NrY32>; rel=preload; as=\"style\", </_next/static/chunks/f24efa311129c332.css?dpl=dpl_E5Cz9DcunnmNjKoH3hPvKu5NrY32>; rel=preload; as=\"style\""
+    ],
+    "Permissions-Policy": [
+      "browsing-topics=()"
+    ],
+    "Server": [
+      "Vercel"
+    ],
+    "Set-Cookie": [
+      "amplitude_flags=%7B%22article-redesign%22%3Afalse%2C%22crypto-equities%22%3Afalse%2C%22onboarding-flow%22%3Atrue%2C%22regwall-variant%22%3A%22control%22%7D; Path=/; Expires=Fri, 29 May 2026 03:10:35 GMT; Max-Age=3600; Secure; SameSite=lax"
+    ],
+    "Strict-Transport-Security": [
+      "max-age=63072000"
+    ],
+    "Vary": [
+      "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch"
+    ],
+    "X-Content-Type-Options": [
+      "nosniff"
+    ],
+    "X-Frame-Options": [
+      "DENY"
+    ],
+    "X-Locale": [
+      "en"
+    ],
+    "X-Matched-Path": [
+      "/[section]"
+    ],
+    "X-Vercel-Cache": [
+      "MISS"
+    ],
+    "X-Vercel-Id": [
+      "sin1::sin1::76xbw-1780020635183-8b92d53013a6"
+    ],
+    "X-Xss-Protection": [
+      "1; mode=block"
+    ]
+  },
+  "_encoding": "utf-8"
+}

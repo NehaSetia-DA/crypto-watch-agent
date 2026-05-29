@@ -1,0 +1,18 @@
+# crypto-watch — the only file you edit to make this yours.
+#
+# coins:   CoinGecko coin IDs. Find IDs at:
+#          https://api.coingecko.com/api/v3/coins/list
+#          Prices come from the CoinGecko API, not the scraper.
+#
+# sources: news sites the scraper reads each day. This is the part
+#          that actually gets scraped, and where Zyte does the work.
+
+coins:
+  - bitcoin
+  - ethereum
+  - solana
+
+sources:
+  - https://www.coindesk.com/
+  - https://www.theblock.co/
+  - https://decrypt.co/

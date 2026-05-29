@@ -1,0 +1,82 @@
+{
+  "url": "https://www.coindesk.com/markets",
+  "values": {
+    "items": [
+      {
+        "url": "https://www.coindesk.com/markets/2026/05/28/hyperliquid-s-pre-ipo-spacex-contracts-suffers-45-flash-crash-liquidating-usd1-5-million",
+        "text": "Hyperliquid's pre-IPO SpaceX contracts suffers 45% flash crash, liquidating $1.5 million"
+      },
+      {
+        "url": "https://www.coindesk.com/markets/2026/05/28/bitcoin-pinned-below-usd73-000-despite-potential-u-s-iran-deal-news",
+        "text": "Bitcoin pinned below $73,000 despite potential U.S.-Iran deal news"
+      },
+      {
+        "url": "https://www.coindesk.com/markets/2026/05/28/investors-are-throwing-in-the-towel-on-the-debasement-trade-as-inflation-fears-start-to-cool-jpmorgan-says",
+        "text": "'Debasement trade\u2019 falls out of favor as inflation fears cool, JPMorgan says"
+      },
+      {
+        "url": "https://www.coindesk.com/markets/2026/05/28/what-s-next-as-hot-money-cycle-has-gone-from-crypto-to-gold-to-ai-to-memory",
+        "text": "What's next as hot money cycle has gone from crypto to gold to AI to memory"
+      },
+      {
+        "url": "https://www.coindesk.com/markets/2026/05/28/standard-chartered-backs-usd4-000-ether-as-retail-piles-into-the-sub-usd2-000-drop",
+        "text": "Standard Chartered backs $4,000 ether as retail piles into the sub-$2,000 drop"
+      },
+      {
+        "url": "https://www.coindesk.com/markets/2026/05/28/bitcoin-s-famous-cme-gaps-are-about-to-disappear-though-three-remain-unresolved",
+        "text": "Bitcoin\u2019s famous CME gaps are about to disappear, though three remain unresolved"
+      },
+      {
+        "url": "https://www.coindesk.com/markets/2026/05/28/crypto-slides-on-hormuz-airstrikes-as-usd897-million-in-long-liquidations-pile-up",
+        "text": "Crypto slides on Hormuz airstrikes as $897 million in long liquidations pile up"
+      },
+      {
+        "url": "https://www.coindesk.com/policy/2026/05/28/white-house-reviews-cftc-prediction-market-rule-as-trump-backs-federal-control",
+        "text": ""
+      },
+      {
+        "url": "https://www.coindesk.com/policy/2026/05/27/u-s-cftc-files-request-to-erase-gemini-settlement-that-it-no-longer-considers-fair",
+        "text": ""
+      },
+      {
+        "url": "https://www.coindesk.com/tech/2026/05/28/why-the-ethereum-foundation-is-suddenly-again-at-the-center-of-crypto-s-culture-war",
+        "text": ""
+      },
+      {
+        "url": "https://www.coindesk.com/tech/2026/05/28/sui-blockchain-suffers-another-network-outage-as-transactions-grind-to-a-halt",
+        "text": ""
+      },
+      {
+        "url": "https://www.coindesk.com/markets/2026/05/28/diverging-trends-ether-slides-below-usd2k-while-futures-open-interest-hits-record-high-of-16-million-eth",
+        "text": "Diverging trends: Ether slides below $2,000 while futures open interest hits record high of 16 million ETH"
+      },
+      {
+        "url": "https://www.coindesk.com/markets/2026/05/28/blackrock-s-bitcoin-etf-sheds-usd528-million-the-second-largest-daily-outflow-on-record",
+        "text": "BlackRock's bitcoin ETF sheds $528 million, the second-largest daily outflow on record"
+      },
+      {
+        "url": "https://www.coindesk.com/markets/2026/05/28/bitcoin-could-be-heading-much-lower-fund-manager-warns-as-usd150-billion-treasury-operation-nears",
+        "text": "Bitcoin could be heading much lower, fund manager warns as $150 billion Treasury operation nears"
+      },
+      {
+        "url": "https://www.coindesk.com/markets/2026/05/28/xrp-drops-4-below-usd1-30-as-heavy-selling-breaks-key-support-zone",
+        "text": "XRP drops 4% below $1.30 as heavy selling breaks key support zone"
+      },
+      {
+        "url": "https://www.coindesk.com/markets/2026/05/28/bitcoin-drops-below-usd73-000-as-us-strikes-on-iran-spark-usd1-billion-liquidations",
+        "text": "Bitcoin drops below $73,000 as U.S. strikes on Iran spark $1 billion liquidations"
+      }
+    ],
+    "next_page": null,
+    "subcategories": [
+      {
+        "url": "https://www.coindesk.com/policy",
+        "text": "Policy"
+      },
+      {
+        "url": "https://www.coindesk.com/tech",
+        "text": "Tech"
+      }
+    ]
+  }
+}

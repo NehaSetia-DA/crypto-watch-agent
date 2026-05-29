@@ -1,0 +1,25 @@
+{
+  "url": "https://www.coindesk.com",
+  "data_type": "navigation",
+  "html_variant": "raw",
+  "schema": {
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "type": "object",
+    "properties": {
+      "items": {
+        "type": "array",
+        "items": {"type": "object", "properties": {"url": {"type": "string"}, "text": {"type": "string"}}},
+        "description": "Links to detail/article pages"
+      },
+      "next_page": {
+        "type": "string",
+        "description": "URL of the next page, or null"
+      },
+      "subcategories": {
+        "type": "array",
+        "items": {"type": "object", "properties": {"url": {"type": "string"}, "text": {"type": "string"}}},
+        "description": "Links to subcategory/section pages"
+      }
+    }
+  }
+}

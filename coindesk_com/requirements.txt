@@ -1,0 +1,8 @@
+# Runtime deps for Scrapy Cloud. Scrapy itself is provided by the base stack
+# (scrapy:2.16-20260522), so we only list what's added on top.
+scrapy-poet>=0.26
+scrapy-zyte-api[provider]>=0.17
+web-poet>=0.21
+extruct>=0.18
+price-parser>=0.3.4
+jmespath>=1

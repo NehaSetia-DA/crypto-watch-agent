@@ -1,0 +1,50 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+env/
+*.egg-info/
+*.egg
+build/
+dist/
+.eggs/
+
+# --- uv / pip ---
+# (uv.lock IS committed)
+
+# --- Test / coverage ---
+.pytest_cache/
+.coverage
+htmlcov/
+.cache/
+
+# --- Scrapy ---
+.scrapy/
+twistd.pid
+
+# --- Scrapy Cloud ---
+# Built deploy artifacts (shub generates these and the setup.py during deploy)
+setup.py
+project.egg-info/
+
+# --- Scraping workflow artifacts ---
+# .scrape/ holds the schema + values that drive codegen — keep it.
+# .scrape/.work/ holds intermediate analysis output (cleaned HTML, large
+# metadata blobs) that gets regenerated on every run. Skip it.
+.scrape/.work/
+
+# --- Editor / OS ---
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# --- Secrets ---
+.env
+.env.*
+*.pem
