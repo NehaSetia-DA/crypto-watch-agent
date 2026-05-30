@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T09:26:12.377925Z",
+  "generated_at": "2026-05-30T04:09:51.597750Z",
   "movement": [
     {
       "id": "bitcoin",
@@ -17,10 +17,10 @@
       "change_24h": null
     }
   ],
-  "narrative": "Price and news data remain unavailable for a second consecutive day: outbound HTTPS to CoinGecko and Binance is blocked by the cloud environment network policy, and no finished coindesk_com spider jobs exist in Scrapy Cloud project 864818. No movement can be reported for bitcoin, ethereum, or solana.",
+  "narrative": "No fresh data available for a third consecutive session: outbound HTTP is blocked by the cloud environment network policy (all requests return 403 / host-not-in-allowlist), preventing both CoinGecko price pulls and Scrapy Cloud news fetches. No price movement or news narrative can be reported until outbound access is enabled for coingecko.com, app.zyte.com, and api.resend.com.",
   "worth_watching": [
-    "Network policy blocks financial data APIs (coingecko.com, binance.com) \u2014 configure allowed egress or add a COINGECKO_API_KEY to unlock the Demo tier",
-    "coindesk_com spider (project 864818) has no finished jobs \u2014 run it manually or schedule it before the daily brief",
-    "Consider a self-hosted price cache or alternative endpoint that is accessible from this cloud environment"
+    "Network policy blocks all outbound HTTPS \u2014 add coingecko.com, storage.scrapinghub.com, app.zyte.com, and api.resend.com to the allowlist in the cloud environment settings",
+    "coindesk_com spider (project 864818) cannot be reached to confirm job status; schedule a manual run once egress is unblocked",
+    "Resend email delivery is also blocked \u2014 email steps will succeed only after the allowlist is updated"
   ]
 }
