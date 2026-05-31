@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30T04:09:51.597750Z",
+  "generated_at": "2026-05-31T04:07:24.021450Z",
   "movement": [
     {
       "id": "bitcoin",
@@ -17,10 +17,10 @@
       "change_24h": null
     }
   ],
-  "narrative": "No fresh data available for a third consecutive session: outbound HTTP is blocked by the cloud environment network policy (all requests return 403 / host-not-in-allowlist), preventing both CoinGecko price pulls and Scrapy Cloud news fetches. No price movement or news narrative can be reported until outbound access is enabled for coingecko.com, app.zyte.com, and api.resend.com.",
+  "narrative": "No live data available: outbound HTTP remains blocked by the cloud environment network policy, preventing CoinGecko price pulls (403 Forbidden) and Scrapy Cloud news fetches (host not in allowlist). This is the second consecutive session with no data; the brief is written from stubs only. No price movement or news narrative can be reported until egress is enabled.",
   "worth_watching": [
-    "Network policy blocks all outbound HTTPS \u2014 add coingecko.com, storage.scrapinghub.com, app.zyte.com, and api.resend.com to the allowlist in the cloud environment settings",
-    "coindesk_com spider (project 864818) cannot be reached to confirm job status; schedule a manual run once egress is unblocked",
-    "Resend email delivery is also blocked \u2014 email steps will succeed only after the allowlist is updated"
+    "Network egress is still blocked \u2014 add coingecko.com, storage.scrapinghub.com, app.zyte.com, and api.resend.com to the allowlist in the cloud environment settings to restore full pipeline function",
+    "coindesk_com spider (project 864818) shows no finished jobs; once egress is unblocked, verify the spider is scheduled and running",
+    "Resend email delivery cannot be confirmed until api.resend.com is reachable \u2014 check cloud environment network policy"
   ]
 }
