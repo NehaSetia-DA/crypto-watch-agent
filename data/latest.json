@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01T04:12:00Z",
+  "generated_at": "2026-06-01T04:20:49.449341Z",
   "movement": [
     {
       "id": "bitcoin",
@@ -17,10 +17,10 @@
       "change_24h": null
     }
   ],
-  "narrative": "Live price and news data remain unavailable: outbound HTTP to CoinGecko and Scrapy Cloud is blocked by the cloud environment network allowlist (403 host-not-allowed). No price movement or headlines can be reported for 2026-06-01; both inputs were stubbed with errors.",
+  "narrative": "Price data and news headlines are both unavailable today: outbound HTTP to CoinGecko and Scrapy Cloud is blocked by the cloud environment network policy. No movement or headline signals can be reported; restore egress to api.coingecko.com, app.zyte.com, storage.scrapinghub.com, and api.resend.com to resume normal operation.",
   "worth_watching": [
-    "Add coingecko.com, app.zyte.com, storage.scrapinghub.com, and api.resend.com to the egress allowlist in cloud environment settings",
-    "Verify the coindesk_com Scrapy Cloud spider (project 864818) is scheduled and producing finished jobs",
-    "Once egress is restored, check Bitcoin, Ethereum, and Solana for any macro-driven price action accumulated during this outage window"
+    "Add api.coingecko.com and app.zyte.com to the egress allowlist in cloud environment settings",
+    "Verify coindesk_com spider (project 864818) is scheduled and producing finished jobs on Scrapy Cloud",
+    "Check whether Bitcoin, Ethereum, and Solana accumulated notable moves during this data-gap window"
   ]
 }

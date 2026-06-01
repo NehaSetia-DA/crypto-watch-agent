@@ -1,21 +1,5 @@
 {
-  "fetched_at": "2026-06-01T04:11:33.712699Z",
-  "prices": [
-    {
-      "id": "bitcoin",
-      "usd": null,
-      "change_24h": null
-    },
-    {
-      "id": "ethereum",
-      "usd": null,
-      "change_24h": null
-    },
-    {
-      "id": "solana",
-      "usd": null,
-      "change_24h": null
-    }
-  ],
+  "fetched_at": "2026-06-01T04:20:20.850901Z",
+  "prices": [],
   "error": "HTTP Error 403: Forbidden"
 }
