@@ -1,0 +1,52 @@
+name: Daily data fetch
+
+# This Action does the boring fetching part of the daily pipeline.
+# Runs 5 minutes before the Claude routine, so the routine sees fresh data.
+#
+# - Pulls prices from CoinGecko (no auth)
+# - Pulls latest spider items from Scrapy Cloud (SHUB_APIKEY repo secret)
+# - Commits data/prices.json + data/news.json
+#
+# The Claude routine then reads these files and writes the brief.
+
+on:
+  schedule:
+    # 03:25 UTC = 08:55 IST — 5 min before the routine fires at 09:00 IST
+    - cron: "25 3 * * *"
+  workflow_dispatch: {}  # allow manual fire from the Actions UI
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install deps
+        run: pip install pyyaml
+
+      - name: Fetch prices
+        run: python fetch_prices.py
+
+      - name: Fetch latest spider news
+        env:
+          SHUB_APIKEY: ${{ secrets.SHUB_APIKEY }}
+        run: python fetch_news.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name "crypto-watch-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data/prices.json data/news.json
+          if git diff --cached --quiet; then
+            echo "No data changes to commit"
+          else
+            git commit -m "data: $(date -u +%Y-%m-%dT%H:%MZ) (fetch action)"
+            git push
+          fi
