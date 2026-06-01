@@ -96,25 +96,17 @@
 </div>
 
 <script>
-// In production the daily pipeline writes data/latest.json and this fetches it.
-// The inline copy below is a fallback so the page renders on its own.
+// Fallback when data/latest.json can't be loaded — most commonly because the
+// page was opened via file:// (browsers block local fetches) instead of served.
+// No fake prices, no fake headlines: just an empty state with instructions.
+// To see real data: run `python -m http.server` in the repo and open
+// http://localhost:8000/dashboard.html — or push to a GitHub Pages site.
 const SAMPLE = {
-  generated_at: "2026-05-28T07:00:00Z",
-  prices: [
-    { id: "bitcoin", usd: 71240, change_24h: 2.4 },
-    { id: "ethereum", usd: 3815, change_24h: -1.8 },
-    { id: "solana", usd: 168.2, change_24h: 5.1 }
-  ],
-  narrative: "Bitcoin is up on continued spot ETF inflows, per CoinDesk, while The Block notes Ethereum slipped after a quiet week for L2 activity. Decrypt flags Solana strength tied to a new wave of memecoin volume, so the price move and the discourse line up there.",
-  worth_watching: [
-    "TON appears across all three sources today but is not on the watchlist",
-    "The Block went quiet on regulation after heavy coverage last week"
-  ],
-  news: [
-    { source: "coindesk.com", headlines: ["Spot bitcoin ETFs log fourth straight week of net inflows", "Stablecoin supply hits new high as on-chain settlement grows"] },
-    { source: "theblock.co", headlines: ["Ethereum L2 transaction counts cool after spring surge", "TON ecosystem funding round draws institutional names"] },
-    { source: "decrypt.co", headlines: ["Solana memecoin volume returns, fees climb with it", "Why TON keeps showing up in this week's headlines"] }
-  ]
+  generated_at: new Date().toISOString(),
+  prices: [],
+  narrative: "No data loaded. Open this page via a local http server (run `python -m http.server` in the repo root and visit http://localhost:8000/dashboard.html) so the browser can fetch data/latest.json. Then refresh.",
+  worth_watching: [],
+  news: []
 };
 
 function fmtPrice(n){
