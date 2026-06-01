@@ -1,26 +1,29 @@
 {
-  "generated_at": "2026-06-01T05:35:00.799517Z",
-  "movement": [
-    {
-      "id": "bitcoin",
-      "direction": "unknown",
-      "change_24h": null
-    },
-    {
-      "id": "ethereum",
-      "direction": "unknown",
-      "change_24h": null
-    },
-    {
-      "id": "solana",
-      "direction": "unknown",
-      "change_24h": null
-    }
+  "generated_at": "2026-06-01T09:00:00.000000Z",
+  "prices": [
+    {"id": "bitcoin", "usd": null, "change_24h": null},
+    {"id": "ethereum", "usd": null, "change_24h": null},
+    {"id": "solana", "usd": null, "change_24h": null}
   ],
-  "narrative": "Network egress remains blocked for the third consecutive run: api.coingecko.com, app.zyte.com, storage.scrapinghub.com, and api.resend.com all return 403 from the environment proxy, so live prices, scraped news, and email delivery are all unavailable. No price movement or headline data can be reported until the network allowlist is updated to permit outbound traffic to these hosts.",
+  "narrative": "Bitcoin is logging its longest-ever ETF outflow streak — 9 days, $2.8 billion pulled (CoinDesk) — while equities reach records, signaling a crypto-equity decoupling rather than broad risk-off. U.S. policy is the dominant theme: the CFTC approved its first regulated crypto-perp provider, Paxos won SEC clearance to settle stocks on blockchain, and JPMorgan's Dimon escalated his fight against stablecoin yield provisions in the Clarity Act. A TrapDoor malware campaign is actively targeting Solana, Sui, and Aptos developer tooling as OpenZeppelin's founder warns AI is now \"superhuman\" at hacking smart contracts.",
   "worth_watching": [
-    "Update the network egress policy to whitelist api.coingecko.com (prices), app.zyte.com and storage.scrapinghub.com (news spider), and api.resend.com (email delivery)",
-    "Confirm the Scrapy Cloud coindesk_com spider is still scheduling and completing jobs so data is ready once egress is unblocked",
-    "Consider a fallback price source (e.g. a public API reachable from the current policy) to maintain continuity during proxy restrictions"
+    "Hyperliquid (HYPE): ICE CEO called it bigger than NASDAQ, Grayscale flagged it as a potential \"financial services juggernaut,\" and it was the only major name to rally last week while BTC and ETH drifted lower",
+    "XRP: ETF inflows of $35M last week while BTC/ETH ETFs shed ~$2B combined; new XRPL AMM amendment would close a major DeFi liquidity gap",
+    "Prediction markets (Polymarket/Kalshi): active CFTC and state-level legal battles, plus the first insider-trading arrest tied to a prediction market (Google engineer on Polymarket)"
+  ],
+  "news": [
+    {
+      "source": "coindesk.com",
+      "headlines": [
+        "The Clarity Act won’t lead to adoption without crypto tax reform",
+        "A bipartisan bridge to the future: Why the Senate must finish the job on digital Assets",
+        "Disciplined AI agents are the disruptor needed to break the exchange churn model",
+        "What American crypto asset perpetuals mean for the future of crypto",
+        "Bitcoin (BTC) underperforms risk assets as record 9th day of ETF outflows signal waning demand: Crypto Daily",
+        "ICE CEO calls Hyperliquid bigger than NASDAQ, says he’s met its founders",
+        "Paxos wins SEC approval to clear U.S. stocks on blockchain",
+        "CoinDesk 20 performance update: Bittensor (TAO) drops 4%, leading index lower"
+      ]
+    }
   ]
 }
