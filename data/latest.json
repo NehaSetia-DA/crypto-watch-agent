@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01T04:36:09.973445Z",
+  "generated_at": "2026-06-01T04:43:22.589841Z",
   "movement": [
     {
       "id": "bitcoin",
@@ -17,10 +17,10 @@
       "change_24h": null
     }
   ],
-  "narrative": "Price data is unavailable today: CoinGecko returned HTTP 403, indicating the cloud execution environment blocks outbound connections to api.coingecko.com. News is also absent \u2014 no finished coindesk_com jobs exist in Scrapy Cloud project 864818. No price or headline signals can be reported.",
+  "narrative": "Price data is unavailable: CoinGecko is returning HTTP 403 from this execution environment, blocking live price feeds for Bitcoin, Ethereum, and Solana. News is also absent \u2014 no finished coindesk_com jobs exist in Scrapy Cloud project 864818, so no headline signals can be reported. Both feeds need attention before useful monitoring can resume.",
   "worth_watching": [
-    "Restore egress to api.coingecko.com to re-enable live price feeds",
-    "Verify coindesk_com spider (project 864818) is scheduled and producing finished jobs on Scrapy Cloud",
-    "Check Bitcoin, Ethereum, and Solana for price moves during this data-gap window"
+    "Restore egress to api.coingecko.com or configure a CoinGecko API key for authenticated access",
+    "Verify coindesk_com spider (project 864818) is scheduled and producing finished jobs in Scrapy Cloud",
+    "Check BTC, ETH, SOL manually for any significant moves during this data-gap window"
   ]
 }
