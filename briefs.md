@@ -13,14 +13,14 @@ No investment advice — this surfaces what's happening, you read it.
 
 ## 2026-06-01
 
-**Movement** — prices unavailable (CoinGecko API blocked by network proxy); bitcoin → N/A, ethereum → N/A, solana → N/A
+**Movement** — bitcoin ↘ -1.22%, ethereum ↘ -1.91%, solana ↘ -1.58%
 
-Bitcoin is logging its longest-ever ETF outflow streak — 9 days, $2.8 billion pulled (CoinDesk) — while equities reach records, signaling a crypto-equity decoupling rather than broad risk-off. U.S. policy is the dominant theme: the CFTC approved its first regulated crypto-perp provider, Paxos won SEC clearance to settle stocks on blockchain, and JPMorgan's Dimon escalated his fight against stablecoin yield provisions in the Clarity Act. A TrapDoor malware campaign is actively targeting Solana, Sui, and Aptos developer tooling as OpenZeppelin's founder warns AI is now "superhuman" at hacking smart contracts.
+All three watchlist coins fell 1–2% as crypto continued decoupling from equities — S&P futures near records while BTC/ETH ETFs extended their outflow streak to 9 days and $2.8 billion (CoinDesk). The CFTC granted its first regulated crypto-perp approval and Paxos won SEC clearance for blockchain stock settlement, even as JPMorgan's Dimon escalated opposition to stablecoin yield provisions in the Clarity Act. A TrapDoor malware campaign actively targeted Solana, Sui, and Aptos developer tooling, and the U.S. seized $1 billion in Iranian crypto under "Operation Economic Fury."
 
 **Worth watching**
-- Hyperliquid (HYPE): ICE CEO called it bigger than NASDAQ, Grayscale flagged it as a potential "financial services juggernaut," and it was the only major name to rally last week while BTC and ETH drifted lower
-- XRP: ETF inflows of $35M last week while BTC/ETH ETFs shed ~$2B combined; new XRPL AMM amendment would close a major DeFi liquidity gap
-- Prediction markets (Polymarket/Kalshi): active CFTC and state-level legal battles, plus the first insider-trading arrest tied to a prediction market (Google engineer on Polymarket)
+- Hyperliquid (HYPE) — ICE CEO called it bigger than NASDAQ and Grayscale labeled it a potential "financial services juggernaut"; only major name to rally last week
+- XRP — ETF inflows of $35M last week while BTC/ETH ETFs shed ~$2B combined; XRPL AMM amendment could close a major DeFi liquidity gap
+- Prediction markets (Kalshi/Polymarket) — Kalshi and CFTC both suing Minnesota over its prediction-market ban; first insider-trading arrest tied to a prediction platform
 
 <details><summary>8 headlines</summary>
 
