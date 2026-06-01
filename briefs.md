@@ -13,7 +13,7 @@ No investment advice — this surfaces what's happening, you read it.
 
 ## 2026-06-01
 
-**Movement** — bitcoin ↘ -1.22%, ethereum ↘ -1.91%, solana ↘ -1.58%
+**Movement** — bitcoin $72,899 ↘ -1.22%, ethereum $1,984 ↘ -1.91%, solana $81 ↘ -1.58%
 
 All three watchlist coins fell 1–2% as crypto continued decoupling from equities — S&P futures near records while BTC/ETH ETFs extended their outflow streak to 9 days and $2.8 billion (CoinDesk). The CFTC granted its first regulated crypto-perp approval and Paxos won SEC clearance for blockchain stock settlement, even as JPMorgan's Dimon escalated opposition to stablecoin yield provisions in the Clarity Act. A TrapDoor malware campaign actively targeted Solana, Sui, and Aptos developer tooling, and the U.S. seized $1 billion in Iranian crypto under "Operation Economic Fury."
 

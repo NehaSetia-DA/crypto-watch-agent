@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01T07:35:00.000000Z",
+  "generated_at": "2026-06-01T08:00:00.000000Z",
   "prices": [
     {"id": "bitcoin", "usd": 72899, "change_24h": -1.2230677408920887},
     {"id": "ethereum", "usd": 1984.02, "change_24h": -1.9058736292758938},
@@ -15,12 +15,12 @@
     {
       "source": "coindesk.com",
       "headlines": [
-        "The Clarity Act won't lead to adoption without crypto tax reform",
+        "The Clarity Act won’t lead to adoption without crypto tax reform",
         "A bipartisan bridge to the future: Why the Senate must finish the job on digital Assets",
         "Disciplined AI agents are the disruptor needed to break the exchange churn model",
         "What American crypto asset perpetuals mean for the future of crypto",
         "Bitcoin (BTC) underperforms risk assets as record 9th day of ETF outflows signal waning demand: Crypto Daily",
-        "ICE CEO calls Hyperliquid bigger than NASDAQ, says he's met its founders",
+        "ICE CEO calls Hyperliquid bigger than NASDAQ, says he’s met its founders",
         "Paxos wins SEC approval to clear U.S. stocks on blockchain",
         "CoinDesk 20 performance update: Bittensor (TAO) drops 4%, leading index lower"
       ]
