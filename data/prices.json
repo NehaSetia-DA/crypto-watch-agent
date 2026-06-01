@@ -1,21 +1,20 @@
 {
-  "fetched_at": "2026-06-01T05:00:37.476060Z",
+  "fetched_at": "2026-06-01T07:30:01.976548Z",
   "prices": [
     {
       "id": "bitcoin",
-      "usd": null,
-      "change_24h": null
+      "usd": 72899,
+      "change_24h": -1.2230677408920887
     },
     {
       "id": "ethereum",
-      "usd": null,
-      "change_24h": null
+      "usd": 1984.02,
+      "change_24h": -1.9058736292758938
     },
     {
       "id": "solana",
-      "usd": null,
-      "change_24h": null
+      "usd": 81.26,
+      "change_24h": -1.5805237224768558
     }
-  ],
-  "error": "api.coingecko.com blocked by network proxy (Host not in allowlist)"
+  ]
 }
