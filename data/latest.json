@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01T05:00:45.981259Z",
+  "generated_at": "2026-06-01T05:35:00.799517Z",
   "movement": [
     {
       "id": "bitcoin",
@@ -17,10 +17,10 @@
       "change_24h": null
     }
   ],
-  "narrative": "Network egress is blocked in this execution environment: both api.coingecko.com and app.zyte.com return \"Host not in allowlist\" from the proxy, so live price and news feeds cannot be reached. This is the second consecutive run with the same block \u2014 the underlying network policy needs to be updated to allow egress to these hosts before monitoring can resume.",
+  "narrative": "Network egress remains blocked for the third consecutive run: api.coingecko.com, app.zyte.com, storage.scrapinghub.com, and api.resend.com all return 403 from the environment proxy, so live prices, scraped news, and email delivery are all unavailable. No price movement or headline data can be reported until the network allowlist is updated to permit outbound traffic to these hosts.",
   "worth_watching": [
-    "Whitelist api.coingecko.com in the network policy to restore BTC/ETH/SOL prices",
-    "Whitelist app.zyte.com and storage.scrapinghub.com to resume news collection from coindesk_com spider",
-    "Whitelist api.resend.com to re-enable email delivery of the daily brief"
+    "Update the network egress policy to whitelist api.coingecko.com (prices), app.zyte.com and storage.scrapinghub.com (news spider), and api.resend.com (email delivery)",
+    "Confirm the Scrapy Cloud coindesk_com spider is still scheduling and completing jobs so data is ready once egress is unblocked",
+    "Consider a fallback price source (e.g. a public API reachable from the current policy) to maintain continuity during proxy restrictions"
   ]
 }

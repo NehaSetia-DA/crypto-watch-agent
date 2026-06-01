@@ -1,6 +1,1 @@
-{
-  "items": [],
-  "error": "app.zyte.com blocked by network proxy (Host not in allowlist)",
-  "fetched_at": "2026-06-01T05:00:37.476060Z",
-  "count": 0
-}
+{"items": [], "error": "no finished coindesk_com jobs found or API unreachable", "fetched_at": "2026-06-01T05:34:42.495280Z", "count": 0}
