@@ -44,6 +44,9 @@ project.egg-info/
 *.swp
 *.swo
 
+# --- Claude Code session state ---
+.claude/
+
 # --- Secrets ---
 .env
 .env.*
