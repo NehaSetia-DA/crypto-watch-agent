@@ -1,1 +1,4 @@
-{"items": [], "error": "no finished coindesk_com jobs found"}
+{
+  "items": [],
+  "error": "host not in allowlist \u2014 app.zyte.com blocked by cloud environment network policy"
+}

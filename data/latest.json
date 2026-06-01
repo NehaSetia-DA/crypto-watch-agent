@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31T04:07:24.021450Z",
+  "generated_at": "2026-06-01T04:05:55.092634Z",
   "movement": [
     {
       "id": "bitcoin",
@@ -17,10 +17,10 @@
       "change_24h": null
     }
   ],
-  "narrative": "No live data available: outbound HTTP remains blocked by the cloud environment network policy, preventing CoinGecko price pulls (403 Forbidden) and Scrapy Cloud news fetches (host not in allowlist). This is the second consecutive session with no data; the brief is written from stubs only. No price movement or news narrative can be reported until egress is enabled.",
+  "narrative": "Live data remains unavailable: outbound HTTP is blocked by the cloud environment's network allowlist, preventing CoinGecko price pulls and Scrapy Cloud news fetches for the third consecutive session. No price movement or headlines can be reported until coingecko.com, app.zyte.com, and storage.scrapinghub.com are added to the egress allowlist in the cloud environment settings.",
   "worth_watching": [
-    "Network egress is still blocked \u2014 add coingecko.com, storage.scrapinghub.com, app.zyte.com, and api.resend.com to the allowlist in the cloud environment settings to restore full pipeline function",
-    "coindesk_com spider (project 864818) shows no finished jobs; once egress is unblocked, verify the spider is scheduled and running",
-    "Resend email delivery cannot be confirmed until api.resend.com is reachable \u2014 check cloud environment network policy"
+    "Add coingecko.com, app.zyte.com, storage.scrapinghub.com, and api.resend.com to the egress allowlist \u2014 all four are blocked",
+    "Verify the coindesk_com spider (project 864818) is scheduled and running once egress is restored",
+    "Once unblocked, watch Bitcoin, Ethereum, and Solana for any macro-driven moves that accumulated during the outage window"
   ]
 }
