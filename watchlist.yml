@@ -6,6 +6,9 @@
 #
 # sources: news sites the scraper reads each day. This is the part
 #          that actually gets scraped, and where Zyte does the work.
+#          Each source needs its own spider — generate one by running
+#          `/scrape <url> news articles: headline, author, published date, body, url`
+#          in Claude Code, then deploy to Scrapy Cloud.
 
 coins:
   - bitcoin
@@ -13,6 +16,8 @@ coins:
   - solana
 
 sources:
-  - https://www.coindesk.com/
-  - https://www.theblock.co/
-  - https://decrypt.co/
+  # PoC was demoed end-to-end with CoinDesk only. The other two are listed as
+  # examples of how this file scales — uncomment and run /scrape to add them.
+  - https://www.coindesk.com/    # ✓ spider deployed (Scrapy Cloud project 864818, spider `coindesk_com`)
+  # - https://www.theblock.co/   # no spider yet — run `/scrape https://www.theblock.co/ news articles: headline, author, published date, body, url`
+  # - https://decrypt.co/        # no spider yet — run `/scrape https://decrypt.co/ news articles: headline, author, published date, body, url`
