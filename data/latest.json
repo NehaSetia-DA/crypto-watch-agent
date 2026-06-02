@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-06-01T08:00:00.000000Z",
+  "generated_at": "2026-06-02T07:35:00.000000Z",
   "prices": [
     {"id": "bitcoin", "usd": 72899, "change_24h": -1.2230677408920887},
     {"id": "ethereum", "usd": 1984.02, "change_24h": -1.9058736292758938},
     {"id": "solana", "usd": 81.26, "change_24h": -1.5805237224768558}
   ],
-  "narrative": "All three watchlist coins fell 1–2% as crypto continued decoupling from equities — S&P futures near records while BTC/ETH ETFs extended their outflow streak to 9 days and $2.8 billion (CoinDesk). The CFTC granted its first regulated crypto-perp approval and Paxos won SEC clearance for blockchain stock settlement, even as JPMorgan's Dimon escalated opposition to stablecoin yield provisions in the Clarity Act. A TrapDoor malware campaign actively targeted Solana, Sui, and Aptos developer tooling, and the U.S. seized $1 billion in Iranian crypto under \"Operation Economic Fury.\"",
+  "narrative": "Price data reflects a 2026-06-01 fetch; values are unchanged from the prior brief, suggesting flat action or a missed refresh. Crypto continued lagging equities — the S&P posted its ninth consecutive weekly gain while BTC, ETH, and SOL drifted, weighed by a record $2.8B Bitcoin ETF outflow streak (CoinDesk). Regulation moved fast: the Clarity Act's stablecoin yield provisions drew a hard public warning from JPMorgan's Dimon even as the CFTC approved crypto perps and Paxos won SEC clearance for blockchain stock clearing.",
   "worth_watching": [
-    "Hyperliquid (HYPE) — ICE CEO called it bigger than NASDAQ and Grayscale labeled it a potential \"financial services juggernaut\"; only major name to rally last week",
-    "XRP — ETF inflows of $35M last week while BTC/ETH ETFs shed ~$2B combined; XRPL AMM amendment could close a major DeFi liquidity gap",
-    "Prediction markets (Kalshi/Polymarket) — Kalshi and CFTC both suing Minnesota over its prediction-market ban; first insider-trading arrest tied to a prediction platform"
+    "Hyperliquid (HYPE) — Grayscale published a report calling it a potential 'financial services juggernaut' and ICE CEO called it bigger than NASDAQ; the only major name to rally last week",
+    "BNB — VanEck launched the first U.S. spot BNB ETF on Nasdaq this week, adding a third alt-coin to the U.S. ETF shelf alongside BTC and ETH",
+    "Bitcoin quantum risk — a 2026-05-30 CoinDesk investigation suggests the biggest quantum threat may not be wallet keys but something deeper; Google's security team moved in the same direction in March"
   ],
   "news": [
     {
       "source": "coindesk.com",
       "headlines": [
-        "The Clarity Act won’t lead to adoption without crypto tax reform",
+        "The Clarity Act won't lead to adoption without crypto tax reform",
         "A bipartisan bridge to the future: Why the Senate must finish the job on digital Assets",
         "Disciplined AI agents are the disruptor needed to break the exchange churn model",
         "What American crypto asset perpetuals mean for the future of crypto",
         "Bitcoin (BTC) underperforms risk assets as record 9th day of ETF outflows signal waning demand: Crypto Daily",
-        "ICE CEO calls Hyperliquid bigger than NASDAQ, says he’s met its founders",
+        "ICE CEO calls Hyperliquid bigger than NASDAQ, says he's met its founders",
         "Paxos wins SEC approval to clear U.S. stocks on blockchain",
         "CoinDesk 20 performance update: Bittensor (TAO) drops 4%, leading index lower"
       ]
