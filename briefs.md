@@ -13,25 +13,25 @@ No investment advice — this surfaces what's happening, you read it.
 
 ## 2026-06-02
 
-**Movement** — bitcoin $72,899 ↘ -1.22%, ethereum $1,984 ↘ -1.91%, solana $81 ↘ -1.58%
+**Movement** — bitcoin $69,915 ↘ -3.88%, ethereum $1,977 → +0.06%, solana $80 ↘ -1.48%
 
-Price data reflects a 2026-06-01 fetch; values are unchanged from the prior brief, suggesting flat action or a missed refresh. Crypto continued lagging equities — the S&P posted its ninth consecutive weekly gain while BTC, ETH, and SOL drifted, weighed by a record $2.8B Bitcoin ETF outflow streak (CoinDesk). Regulation moved fast: the Clarity Act's stablecoin yield provisions drew a hard public warning from JPMorgan's Dimon even as the CFTC approved crypto perps and Paxos won SEC clearance for blockchain stock clearing.
+Strategy's first bitcoin sale in four years — 32 BTC disclosed in a Monday 8-K — pulled BTC below $70,000 for the first time in weeks, as CoinDesk reports ETF redemptions extended to 11 straight sessions and $3.4 billion, the longest streak since the funds launched in 2024. Mt. Gox separately moved 10,422 BTC ($739M) to a new wallet as its repayment deadline nears, adding further overhead. Ethereum held nearly flat against the BTC selldown while Vitalik Buterin published a research proposal to replace DeFi's debt-based index structures with options contracts.
 
 **Worth watching**
-- Hyperliquid (HYPE) — Grayscale published a report calling it a potential "financial services juggernaut" and ICE CEO called it bigger than NASDAQ; the only major name to rally last week
-- BNB — VanEck launched the first U.S. spot BNB ETF on Nasdaq this week, adding a third alt-coin to the U.S. ETF shelf alongside BTC and ETH
-- Bitcoin quantum risk — a 2026-05-30 CoinDesk investigation suggests the biggest quantum threat may not be wallet keys but something deeper; Google's security team moved in the same direction in March
+- Mt. Gox repayment pressure — 10,422 BTC ($739M) moved to a new wallet today with the creditor deadline approaching; any distribution to creditors could create sustained selling
+- Sui network reliability — three mainnet halts in 48 hours traced to a v1.72 upgrade bug; protocols building on Sui face elevated risk until patched
+- Japan's crypto ETF framework — the ruling LDP submitted a proposal to legalize crypto ETF trading and yen-based stablecoins, which could set a regional precedent
 
 <details><summary>8 headlines</summary>
 
+- [U.S. regulator says 24/7 trading is great for crypto, may not be fit for other sectors](https://www.coindesk.com/policy/2026/05/29/u-s-regulator-says-24-7-trading-is-great-for-crypto-may-not-be-fit-for-other-sectors)
+- ['The banks will not accept it': JP Morgan's Dimon escalates battle over stablecoin rewards in CLARITY Act debate](https://www.coindesk.com/policy/2026/05/29/the-banks-will-not-accept-it-dimon-escalates-battle-over-stablecoin-rewards-in-clarity-act-debate)
+- [How the House Financial Services Committee is taking on tokenization: State of Crypto](https://www.coindesk.com/policy/2026/05/31/how-the-house-financial-services-committee-is-taking-on-tokenization-state-of-crypto)
 - [The Clarity Act won't lead to adoption without crypto tax reform](https://www.coindesk.com/opinion/2026/05/26/the-clarity-act-won-t-lead-to-adoption-without-crypto-tax-reform)
 - [A bipartisan bridge to the future: Why the Senate must finish the job on digital Assets](https://www.coindesk.com/opinion/2026/05/27/a-bipartisan-bridge-to-the-future-why-the-senate-must-finish-the-job-on-digital-assets)
 - [Disciplined AI agents are the disruptor needed to break the exchange churn model](https://www.coindesk.com/opinion/2026/05/28/disciplined-ai-agents-are-the-disruptor-needed-to-break-the-exchange-churn-model)
 - [What American crypto asset perpetuals mean for the future of crypto](https://www.coindesk.com/opinion/2026/05/29/what-american-crypto-asset-perpetuals-mean-for-the-future-of-crypto)
-- [Bitcoin (BTC) underperforms risk assets as record 9th day of ETF outflows signal waning demand: Crypto Daily](https://www.coindesk.com/daybook-us/2026/05/29/bitcoin-underperforms-risk-assets-as-record-9th-day-of-etf-outflows-signal-waning-demand)
-- [ICE CEO calls Hyperliquid bigger than NASDAQ, says he's met its founders](https://www.coindesk.com/markets/2026/05/29/ice-ceo-calls-hyperliquid-bigger-than-nasdaq-says-he-s-met-its-founders)
-- [Paxos wins SEC approval to clear U.S. stocks on blockchain](https://www.coindesk.com/policy/2026/05/29/paxos-is-first-blockchain-firm-to-provide-settlement-and-clearing-services-following-sec-approval)
-- [CoinDesk 20 performance update: Bittensor (TAO) drops 4%, leading index lower](https://www.coindesk.com/coindesk-indices/2026/05/29/coindesk-20-performance-update-bittensor-tao-drops-4-leading-index-lower)
+- [Strategy keeps STRC payout unchanged amid push to maintain $100 share price](https://www.coindesk.com/markets/2026/06/01/strategy-holds-strc-dividend-at-11-5-for-fourth-straight-month)
 
 </details>
 

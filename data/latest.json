@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-06-02T07:35:00.000000Z",
+  "generated_at": "2026-06-02T08:11:42.128432Z",
   "prices": [
-    {"id": "bitcoin", "usd": 72899, "change_24h": -1.2230677408920887},
-    {"id": "ethereum", "usd": 1984.02, "change_24h": -1.9058736292758938},
-    {"id": "solana", "usd": 81.26, "change_24h": -1.5805237224768558}
+    {"id": "bitcoin", "usd": 69915, "change_24h": -3.882743997196729},
+    {"id": "ethereum", "usd": 1977.48, "change_24h": 0.06344662539057766},
+    {"id": "solana", "usd": 79.52, "change_24h": -1.4848177208168787}
   ],
-  "narrative": "Price data reflects a 2026-06-01 fetch; values are unchanged from the prior brief, suggesting flat action or a missed refresh. Crypto continued lagging equities — the S&P posted its ninth consecutive weekly gain while BTC, ETH, and SOL drifted, weighed by a record $2.8B Bitcoin ETF outflow streak (CoinDesk). Regulation moved fast: the Clarity Act's stablecoin yield provisions drew a hard public warning from JPMorgan's Dimon even as the CFTC approved crypto perps and Paxos won SEC clearance for blockchain stock clearing.",
+  "narrative": "Strategy's first bitcoin sale in four years — 32 BTC disclosed in a Monday 8-K — pulled BTC below $70,000 for the first time in weeks, as CoinDesk reports ETF redemptions extended to 11 straight sessions and $3.4 billion, the longest streak since the funds launched in 2024. Mt. Gox separately moved 10,422 BTC ($739M) to a new wallet as its repayment deadline nears, adding further overhead. Ethereum held nearly flat against the BTC selldown while Vitalik Buterin published a research proposal to replace DeFi's debt-based index structures with options contracts.",
   "worth_watching": [
-    "Hyperliquid (HYPE) — Grayscale published a report calling it a potential 'financial services juggernaut' and ICE CEO called it bigger than NASDAQ; the only major name to rally last week",
-    "BNB — VanEck launched the first U.S. spot BNB ETF on Nasdaq this week, adding a third alt-coin to the U.S. ETF shelf alongside BTC and ETH",
-    "Bitcoin quantum risk — a 2026-05-30 CoinDesk investigation suggests the biggest quantum threat may not be wallet keys but something deeper; Google's security team moved in the same direction in March"
+    "Mt. Gox repayment pressure — 10,422 BTC ($739M) moved to a new wallet today with the creditor deadline approaching; any distribution to creditors could create sustained selling",
+    "Sui network reliability — three mainnet halts in 48 hours traced to a v1.72 upgrade bug; protocols building on Sui face elevated risk until patched",
+    "Japan's crypto ETF framework — the ruling LDP submitted a proposal to legalize crypto ETF trading and yen-based stablecoins, which could set a regional precedent"
   ],
   "news": [
     {
       "source": "coindesk.com",
       "headlines": [
-        "The Clarity Act won't lead to adoption without crypto tax reform",
+        "U.S. regulator says 24/7 trading is great for crypto, may not be fit for other sectors",
+        "‘The banks will not accept it’: JP Morgan's Dimon escalates battle over stablecoin rewards in CLARITY Act debate",
+        "How the House Financial Services Committee is taking on tokenization: State of Crypto",
+        "The Clarity Act won’t lead to adoption without crypto tax reform",
         "A bipartisan bridge to the future: Why the Senate must finish the job on digital Assets",
         "Disciplined AI agents are the disruptor needed to break the exchange churn model",
         "What American crypto asset perpetuals mean for the future of crypto",
-        "Bitcoin (BTC) underperforms risk assets as record 9th day of ETF outflows signal waning demand: Crypto Daily",
-        "ICE CEO calls Hyperliquid bigger than NASDAQ, says he's met its founders",
-        "Paxos wins SEC approval to clear U.S. stocks on blockchain",
-        "CoinDesk 20 performance update: Bittensor (TAO) drops 4%, leading index lower"
+        "Strategy keeps STRC payout unchanged amid push to maintain $100 share price"
       ]
     }
   ]
