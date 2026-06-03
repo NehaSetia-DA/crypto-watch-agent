@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-06-02T08:11:42.128432Z",
+  "generated_at": "2026-06-03T08:35:00.000000Z",
   "prices": [
-    {"id": "bitcoin", "usd": 69915, "change_24h": -3.882743997196729},
-    {"id": "ethereum", "usd": 1977.48, "change_24h": 0.06344662539057766},
-    {"id": "solana", "usd": 79.52, "change_24h": -1.4848177208168787}
+    {"id": "bitcoin", "usd": 66968, "change_24h": -4.272072952612567},
+    {"id": "ethereum", "usd": 1873.55, "change_24h": -5.591012418154772},
+    {"id": "solana", "usd": 74.91, "change_24h": -5.912002679461175}
   ],
-  "narrative": "Strategy's first bitcoin sale in four years — 32 BTC disclosed in a Monday 8-K — pulled BTC below $70,000 for the first time in weeks, as CoinDesk reports ETF redemptions extended to 11 straight sessions and $3.4 billion, the longest streak since the funds launched in 2024. Mt. Gox separately moved 10,422 BTC ($739M) to a new wallet as its repayment deadline nears, adding further overhead. Ethereum held nearly flat against the BTC selldown while Vitalik Buterin published a research proposal to replace DeFi's debt-based index structures with options contracts.",
+  "narrative": "Today's selloff is sharp and broad: bitcoin plunged below $66,000 in Asian trading, its fear gauge jumped nearly 20% — the biggest spike since the February 5 crash — as $1.6 billion in bullish leveraged bets were liquidated, per CoinDesk. Capital is rotating from crypto into AI stocks and dollar-linked stablecoins, with K33 Research warning of a \"choppy summer\" as opportunity costs of holding BTC rise. Countercurrent to the price action, stablecoin infrastructure is accelerating: Mastercard is expanding onchain settlement and MoneyGram launched a Stellar-based stablecoin today.",
   "worth_watching": [
-    "Mt. Gox repayment pressure — 10,422 BTC ($739M) moved to a new wallet today with the creditor deadline approaching; any distribution to creditors could create sustained selling",
-    "Sui network reliability — three mainnet halts in 48 hours traced to a v1.72 upgrade bug; protocols building on Sui face elevated risk until patched",
-    "Japan's crypto ETF framework — the ruling LDP submitted a proposal to legalize crypto ETF trading and yen-based stablecoins, which could set a regional precedent"
+    "Hyperliquid (HYPE) — not on the watchlist but beating Ethereum in trading volume on some days per FalconX, and TD Securities reports it predicted 80% of an oil market move before traditional exchanges opened; institutional interest is rising fast",
+    "XRP — dropped 5% to a 15-week low today despite accumulating bullish signals; losing major support levels worth monitoring for watchlist consideration",
+    "Stablecoin infrastructure layer — Mastercard, MoneyGram, and Franklin Templeton all expanded onchain settlement this week even as spot prices fell; divergence between infrastructure buildout and price action is widening"
   ],
   "news": [
     {
       "source": "coindesk.com",
       "headlines": [
-        "U.S. regulator says 24/7 trading is great for crypto, may not be fit for other sectors",
-        "‘The banks will not accept it’: JP Morgan's Dimon escalates battle over stablecoin rewards in CLARITY Act debate",
         "How the House Financial Services Committee is taking on tokenization: State of Crypto",
-        "The Clarity Act won’t lead to adoption without crypto tax reform",
+        "Japan's ruling party supports crypto ETF trading, yen-based stablecoins",
         "A bipartisan bridge to the future: Why the Senate must finish the job on digital Assets",
         "Disciplined AI agents are the disruptor needed to break the exchange churn model",
         "What American crypto asset perpetuals mean for the future of crypto",
-        "Strategy keeps STRC payout unchanged amid push to maintain $100 share price"
+        "How to better understand bitcoin's perpetual identity crisis",
+        "Gary Vaynerchuk says AI is creating the biggest opportunity ever for entrepreneurs",
+        "Titan Network hits 4 million devices on its crowdsourced AI-compute network"
       ]
     }
   ]

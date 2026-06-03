@@ -11,6 +11,32 @@ No investment advice — this surfaces what's happening, you read it.
 
 <!-- new briefs go here, between this marker and the previous entry -->
 
+## 2026-06-03
+
+**Movement** — bitcoin $66,968 ↘ -4.27%, ethereum $1,874 ↘ -5.59%, solana $75 ↘ -5.91%
+
+Today's selloff is sharp and broad: bitcoin plunged below $66,000 in Asian trading, its fear gauge jumped nearly 20% — the biggest spike since the February 5 crash — as $1.6 billion in bullish leveraged bets were liquidated, per CoinDesk. Capital is rotating from crypto into AI stocks and dollar-linked stablecoins, with K33 Research warning of a "choppy summer" as opportunity costs of holding BTC rise. Countercurrent to the price action, stablecoin infrastructure is accelerating: Mastercard is expanding onchain settlement and MoneyGram launched a Stellar-based stablecoin today.
+
+**Worth watching**
+- Hyperliquid (HYPE) — not on the watchlist but beating Ethereum in trading volume on some days per FalconX, and TD Securities reports it predicted 80% of an oil market move before traditional exchanges opened; institutional interest is rising fast
+- XRP — dropped 5% to a 15-week low today despite accumulating bullish signals; losing major support levels worth monitoring for watchlist consideration
+- Stablecoin infrastructure layer — Mastercard, MoneyGram, and Franklin Templeton all expanded onchain settlement this week even as spot prices fell; divergence between infrastructure buildout and price action is widening
+
+<details><summary>8 headlines</summary>
+
+- [How the House Financial Services Committee is taking on tokenization: State of Crypto](https://www.coindesk.com/policy/2026/05/31/how-the-house-financial-services-committee-is-taking-on-tokenization-state-of-crypto)
+- [Japan's ruling party supports crypto ETF trading, yen-based stablecoins](https://www.coindesk.com/policy/2026/06/01/japan-s-ruling-party-supports-crypto-etf-trading-yen-based-stablecoins)
+- [A bipartisan bridge to the future: Why the Senate must finish the job on digital Assets](https://www.coindesk.com/opinion/2026/05/27/a-bipartisan-bridge-to-the-future-why-the-senate-must-finish-the-job-on-digital-assets)
+- [Disciplined AI agents are the disruptor needed to break the exchange churn model](https://www.coindesk.com/opinion/2026/05/28/disciplined-ai-agents-are-the-disruptor-needed-to-break-the-exchange-churn-model)
+- [What American crypto asset perpetuals mean for the future of crypto](https://www.coindesk.com/opinion/2026/05/29/what-american-crypto-asset-perpetuals-mean-for-the-future-of-crypto)
+- [How to better understand bitcoin's perpetual identity crisis](https://www.coindesk.com/opinion/2026/06/02/how-to-better-understand-bitcoin-s-perpetual-identity-crisis)
+- [Gary Vaynerchuk says AI is creating the biggest opportunity ever for entrepreneurs](https://www.coindesk.com/coindesk-news/2026/06/02/gary-vaynerchuk-says-ai-is-creating-the-biggest-opportunity-ever-for-entrepreneurs)
+- [Titan Network hits 4 million devices on its crowdsourced AI-compute network](https://www.coindesk.com/tech/2026/06/02/here-s-how-one-decentralized-cloud-provider-says-private-citizens-can-make-money-from-ai)
+
+</details>
+
+---
+
 ## 2026-06-02
 
 **Movement** — bitcoin $69,915 ↘ -3.88%, ethereum $1,977 → +0.06%, solana $80 ↘ -1.48%
