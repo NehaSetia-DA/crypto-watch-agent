@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-06-03T08:35:00.000000Z",
+  "generated_at": "2026-06-04T08:03:45.865499Z",
   "prices": [
-    {"id": "bitcoin", "usd": 66968, "change_24h": -4.272072952612567},
-    {"id": "ethereum", "usd": 1873.55, "change_24h": -5.591012418154772},
-    {"id": "solana", "usd": 74.91, "change_24h": -5.912002679461175}
+    {"id": "bitcoin", "usd": 63498, "change_24h": -5.415614131028528},
+    {"id": "ethereum", "usd": 1774.43, "change_24h": -5.411925869559482},
+    {"id": "solana", "usd": 69.09, "change_24h": -8.10289085515319}
   ],
-  "narrative": "Today's selloff is sharp and broad: bitcoin plunged below $66,000 in Asian trading, its fear gauge jumped nearly 20% — the biggest spike since the February 5 crash — as $1.6 billion in bullish leveraged bets were liquidated, per CoinDesk. Capital is rotating from crypto into AI stocks and dollar-linked stablecoins, with K33 Research warning of a \"choppy summer\" as opportunity costs of holding BTC rise. Countercurrent to the price action, stablecoin infrastructure is accelerating: Mastercard is expanding onchain settlement and MoneyGram launched a Stellar-based stablecoin today.",
+  "narrative": "The selloff that began Tuesday accelerated overnight: bitcoin briefly fell below $62,000 — its lowest since February — as $1.5 billion in long positions were liquidated, per CoinDesk. Charles Schwab's Ferraioli attributes the weakness not to Saylor selling but to momentum rotation into AI stocks and blockbuster IPOs, while BTC/ETH/SOL/XRP ETFs bled $4.4 billion across 13 straight sessions. Against the price drop, stablecoin infrastructure kept building: Stripe, Visa, and Mastercard are said to be backing a new stablecoin platform (per CoinDesk), and Franklin Templeton launched 24/7 institutional yield swaps via MoonPay.",
   "worth_watching": [
-    "Hyperliquid (HYPE) — not on the watchlist but beating Ethereum in trading volume on some days per FalconX, and TD Securities reports it predicted 80% of an oil market move before traditional exchanges opened; institutional interest is rising fast",
-    "XRP — dropped 5% to a 15-week low today despite accumulating bullish signals; losing major support levels worth monitoring for watchlist consideration",
-    "Stablecoin infrastructure layer — Mastercard, MoneyGram, and Franklin Templeton all expanded onchain settlement this week even as spot prices fell; divergence between infrastructure buildout and price action is widening"
+    "SpaceX IPO (targeting $75B) — the momentum rotation narrative points here; a blockbuster debut could sustain crypto outflows as capital chases the new trade",
+    "Hyperliquid (HYPE) — the only major crypto ETF category still attracting net new money as BTC/ETH/SOL/XRP funds bleed; institutional attention growing",
+    "Bitmine (BMNR) — Tom Lee's Ethereum treasury firm nearing $9B paper loss as ETH stays below $1,800; watch for forced selling or restructuring risk"
   ],
   "news": [
     {
       "source": "coindesk.com",
       "headlines": [
-        "How the House Financial Services Committee is taking on tokenization: State of Crypto",
-        "Japan's ruling party supports crypto ETF trading, yen-based stablecoins",
+        "Banks' survey says people don't want to rock the boat if stablecoin yield risks lending",
+        "Premier League soccer clubs warned about unauthorized crypto firms' sponsorship",
+        "Crypto PACs go undefeated in June primaries as Fairshake scores bipartisan winning streak",
         "A bipartisan bridge to the future: Why the Senate must finish the job on digital Assets",
         "Disciplined AI agents are the disruptor needed to break the exchange churn model",
         "What American crypto asset perpetuals mean for the future of crypto",
         "How to better understand bitcoin's perpetual identity crisis",
-        "Gary Vaynerchuk says AI is creating the biggest opportunity ever for entrepreneurs",
-        "Titan Network hits 4 million devices on its crowdsourced AI-compute network"
+        "Clarity Act survival depends on the U.S. Senate getting a lot of non-crypto work done"
       ]
     }
   ]
