@@ -11,6 +11,32 @@ No investment advice — this surfaces what's happening, you read it.
 
 <!-- new briefs go here, between this marker and the previous entry -->
 
+## 2026-06-05
+
+**Movement** — bitcoin $62,803 ↘ -1.52%, ethereum $1,674 ↘ -5.95%, solana $66 ↘ -5.29%
+
+Ethereum (-5.95%) led the watchlist lower for a second consecutive day, with Tom Lee's Bitmine nearing a $9 billion paper loss as ETH slides below $1,700; bitcoin fell more gently (-1.52%) after Wednesday's $1.5 billion long liquidations cleared. Citi and Charles Schwab's Ferraioli both attribute the weakness to momentum rotation into AI stocks and blockbuster IPOs rather than fundamental selling. Countertrend: Fairshake PACs went 11-for-11 in Tuesday primaries per CoinDesk, and a Stripe/Visa/Mastercard-backed stablecoin platform is nearing launch even as the Clarity Act faces a tightening Senate calendar.
+
+**Worth watching**
+- Stripe/Visa/Mastercard stablecoin platform — a new entrant backed by three payment giants is said to be near launch (CoinDesk); could shift stablecoin settlement away from crypto-native venues
+- Clarity Act Senate calendar — per CoinDesk, the bill faces competition for floor time; a summer recess miss could push market-structure rules to 2027
+- Hardware wallet security — Ledger researchers found a chip flaw in Trezor (minimal risk per vendor) amid the TrapDoor supply-chain attack on Solana/Aptos dev tooling; multi-vector security pressure building
+
+<details><summary>8 headlines</summary>
+
+- [Banks' survey says people don't want to rock the boat if stablecoin yield risks lending](https://www.coindesk.com/policy/2026/06/02/banks-survey-says-people-don-t-want-to-rock-the-boat-if-stablecoins-would-risk-lending)
+- [Premier League soccer clubs warned about unauthorized crypto firms' sponsorship](https://www.coindesk.com/policy/2026/06/03/uk-s-financial-watchdog-cracks-down-on-premier-league-crypto-partnerships)
+- [Crypto PACs go undefeated in June primaries as Fairshake scores bipartisan winning streak](https://www.coindesk.com/policy/2026/06/03/fairshake-goes-11-for-11-in-june-primaries-as-crypto-broadens-bipartisan-coalition)
+- [A bipartisan bridge to the future: Why the Senate must finish the job on digital Assets](https://www.coindesk.com/opinion/2026/05/27/a-bipartisan-bridge-to-the-future-why-the-senate-must-finish-the-job-on-digital-assets)
+- [Disciplined AI agents are the disruptor needed to break the exchange churn model](https://www.coindesk.com/opinion/2026/05/28/disciplined-ai-agents-are-the-disruptor-needed-to-break-the-exchange-churn-model)
+- [What American crypto asset perpetuals mean for the future of crypto](https://www.coindesk.com/opinion/2026/05/29/what-american-crypto-asset-perpetuals-mean-for-the-future-of-crypto)
+- [How to better understand bitcoin's perpetual identity crisis](https://www.coindesk.com/opinion/2026/06/02/how-to-better-understand-bitcoin-s-perpetual-identity-crisis)
+- [Clarity Act survival depends on the U.S. Senate getting a lot of non-crypto work done](https://www.coindesk.com/news-analysis/2026/06/02/clarity-act-survival-depends-on-the-u-s-senate-getting-a-lot-of-non-crypto-work-done)
+
+</details>
+
+---
+
 ## 2026-06-04
 
 **Movement** — bitcoin $63,498 ↘ -5.42%, ethereum $1,774 ↘ -5.41%, solana $69 ↘ -8.10%

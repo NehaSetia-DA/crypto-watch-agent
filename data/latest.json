@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-06-04T08:03:45.865499Z",
+  "generated_at": "2026-06-05T08:00:00Z",
   "prices": [
-    {"id": "bitcoin", "usd": 63498, "change_24h": -5.415614131028528},
-    {"id": "ethereum", "usd": 1774.43, "change_24h": -5.411925869559482},
-    {"id": "solana", "usd": 69.09, "change_24h": -8.10289085515319}
+    {"id": "bitcoin", "usd": 62803, "change_24h": -1.5217875338986009},
+    {"id": "ethereum", "usd": 1673.73, "change_24h": -5.952195564806764},
+    {"id": "solana", "usd": 66.07, "change_24h": -5.294121311657783}
   ],
-  "narrative": "The selloff that began Tuesday accelerated overnight: bitcoin briefly fell below $62,000 — its lowest since February — as $1.5 billion in long positions were liquidated, per CoinDesk. Charles Schwab's Ferraioli attributes the weakness not to Saylor selling but to momentum rotation into AI stocks and blockbuster IPOs, while BTC/ETH/SOL/XRP ETFs bled $4.4 billion across 13 straight sessions. Against the price drop, stablecoin infrastructure kept building: Stripe, Visa, and Mastercard are said to be backing a new stablecoin platform (per CoinDesk), and Franklin Templeton launched 24/7 institutional yield swaps via MoonPay.",
+  "narrative": "Ethereum (-5.95%) led the watchlist lower for a second consecutive day, with Tom Lee's Bitmine nearing a $9 billion paper loss as ETH slides below $1,700; bitcoin fell more gently (-1.52%) after Wednesday's $1.5 billion long liquidations cleared. Citi and Charles Schwab's Ferraioli both attribute the weakness to momentum rotation into AI stocks and blockbuster IPOs rather than fundamental selling. Countertrend: Fairshake PACs went 11-for-11 in Tuesday primaries per CoinDesk, and a Stripe/Visa/Mastercard-backed stablecoin platform is nearing launch even as the Clarity Act faces a tightening Senate calendar.",
   "worth_watching": [
-    "SpaceX IPO (targeting $75B) — the momentum rotation narrative points here; a blockbuster debut could sustain crypto outflows as capital chases the new trade",
-    "Hyperliquid (HYPE) — the only major crypto ETF category still attracting net new money as BTC/ETH/SOL/XRP funds bleed; institutional attention growing",
-    "Bitmine (BMNR) — Tom Lee's Ethereum treasury firm nearing $9B paper loss as ETH stays below $1,800; watch for forced selling or restructuring risk"
+    "Stripe/Visa/Mastercard stablecoin platform — a new entrant backed by three payment giants is said to be near launch (CoinDesk); could shift stablecoin settlement away from crypto-native venues",
+    "Clarity Act Senate calendar — per CoinDesk, the bill faces competition for floor time; a summer recess miss could push market-structure rules to 2027",
+    "Hardware wallet security — Ledger researchers found a chip flaw in Trezor (minimal risk per vendor) amid the TrapDoor supply-chain attack on Solana/Aptos dev tooling; multi-vector security pressure building"
   ],
   "news": [
     {
