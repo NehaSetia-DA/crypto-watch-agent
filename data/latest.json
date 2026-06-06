@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-06-05T08:00:00Z",
+  "generated_at": "2026-06-06T06:41:06Z",
   "prices": [
-    {"id": "bitcoin", "usd": 62803, "change_24h": -1.5217875338986009},
-    {"id": "ethereum", "usd": 1673.73, "change_24h": -5.952195564806764},
-    {"id": "solana", "usd": 66.07, "change_24h": -5.294121311657783}
+    {"id": "bitcoin", "usd": 60992, "change_24h": -1.4302645964656646},
+    {"id": "ethereum", "usd": 1571.89, "change_24h": -5.073347926286777},
+    {"id": "solana", "usd": 63.04, "change_24h": -3.012454070664582}
   ],
-  "narrative": "Ethereum (-5.95%) led the watchlist lower for a second consecutive day, with Tom Lee's Bitmine nearing a $9 billion paper loss as ETH slides below $1,700; bitcoin fell more gently (-1.52%) after Wednesday's $1.5 billion long liquidations cleared. Citi and Charles Schwab's Ferraioli both attribute the weakness to momentum rotation into AI stocks and blockbuster IPOs rather than fundamental selling. Countertrend: Fairshake PACs went 11-for-11 in Tuesday primaries per CoinDesk, and a Stripe/Visa/Mastercard-backed stablecoin platform is nearing launch even as the Clarity Act faces a tightening Senate calendar.",
+  "narrative": "The multi-day selloff deepened Saturday: bitcoin broke below $61,000 and ethereum fell toward $1,572, with $3 billion in crypto liquidations over two days as Broadcom's AI chip outlook disappointed and capital rotated into AI equities (CoinDesk). Standard Chartered outlined three conditions needed for a market bottom while traders loaded up on $60,000 put options, signaling continued downside expectations. Against the price pressure, Goldman Sachs announced a tokenized real-estate fund with Apex and Archax, and the Senate Clarity Act continued advancing despite a tightening legislative calendar (CoinDesk).",
   "worth_watching": [
-    "Stripe/Visa/Mastercard stablecoin platform — a new entrant backed by three payment giants is said to be near launch (CoinDesk); could shift stablecoin settlement away from crypto-native venues",
-    "Clarity Act Senate calendar — per CoinDesk, the bill faces competition for floor time; a summer recess miss could push market-structure rules to 2027",
-    "Hardware wallet security — Ledger researchers found a chip flaw in Trezor (minimal risk per vendor) amid the TrapDoor supply-chain attack on Solana/Aptos dev tooling; multi-vector security pressure building"
+    "Zcash (ZEC) — plunged 30-37% after Shielded Labs revealed a 4-year undetected bug that could mint counterfeit tokens; raises questions about privacy-coin security audit practices",
+    "XRP — fell another 7% to four-month lows despite growing institutional demand; losing key technical support worth watching for further breakdown",
+    "Cardano (ADA) — dropped below $0.20 as Hoskinson takes a break after warning of ecosystem failures including conference cancellation; leadership uncertainty is a new risk factor"
   ],
   "news": [
     {
       "source": "coindesk.com",
       "headlines": [
-        "Banks' survey says people don't want to rock the boat if stablecoin yield risks lending",
-        "Premier League soccer clubs warned about unauthorized crypto firms' sponsorship",
-        "Crypto PACs go undefeated in June primaries as Fairshake scores bipartisan winning streak",
-        "A bipartisan bridge to the future: Why the Senate must finish the job on digital Assets",
         "Disciplined AI agents are the disruptor needed to break the exchange churn model",
         "What American crypto asset perpetuals mean for the future of crypto",
         "How to better understand bitcoin's perpetual identity crisis",
-        "Clarity Act survival depends on the U.S. Senate getting a lot of non-crypto work done"
+        "Why tokenization is an ETF-style market structure revolution",
+        "Crypto's worst two-day liquidation in months deepens as investors chase the AI trade elsewhere",
+        "JPMorgan sees shrinking window for U.S. crypto market structure overhaul",
+        "Standard Chartered's three 'Ifs' that stand between bitcoin and a market low: Crypto Daily",
+        "Russia sanctions British teenager for alleging A7A5 use in funding Ukraine war"
       ]
     }
   ]

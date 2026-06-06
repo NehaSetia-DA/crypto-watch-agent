@@ -11,6 +11,32 @@ No investment advice — this surfaces what's happening, you read it.
 
 <!-- new briefs go here, between this marker and the previous entry -->
 
+## 2026-06-06
+
+**Movement** — bitcoin $60,992 ↘ -1.43%, ethereum $1,572 ↘ -5.07%, solana $63 ↘ -3.01%
+
+The multi-day selloff deepened Saturday: bitcoin broke below $61,000 and ethereum fell toward $1,572, with $3 billion in crypto liquidations over two days as Broadcom's AI chip outlook disappointed and capital rotated into AI equities (CoinDesk). Standard Chartered outlined three conditions needed for a market bottom while traders loaded up on $60,000 put options, signaling continued downside expectations. Against the price pressure, Goldman Sachs announced a tokenized real-estate fund with Apex and Archax, and the Senate Clarity Act continued advancing despite a tightening legislative calendar (CoinDesk).
+
+**Worth watching**
+- Zcash (ZEC) — plunged 30-37% after Shielded Labs revealed a 4-year undetected bug that could mint counterfeit tokens; raises questions about privacy-coin security audit practices
+- XRP — fell another 7% to four-month lows despite growing institutional demand; losing key technical support worth watching for further breakdown
+- Cardano (ADA) — dropped below $0.20 as Hoskinson takes a break after warning of ecosystem failures including conference cancellation; leadership uncertainty is a new risk factor
+
+<details><summary>8 headlines</summary>
+
+- [Disciplined AI agents are the disruptor needed to break the exchange churn model](https://www.coindesk.com/opinion/2026/05/28/disciplined-ai-agents-are-the-disruptor-needed-to-break-the-exchange-churn-model)
+- [What American crypto asset perpetuals mean for the future of crypto](https://www.coindesk.com/opinion/2026/05/29/what-american-crypto-asset-perpetuals-mean-for-the-future-of-crypto)
+- [How to better understand bitcoin's perpetual identity crisis](https://www.coindesk.com/opinion/2026/06/02/how-to-better-understand-bitcoin-s-perpetual-identity-crisis)
+- [Why tokenization is an ETF-style market structure revolution](https://www.coindesk.com/opinion/2026/06/04/why-tokenization-is-an-etf-style-market-structure-revolution)
+- [Crypto's worst two-day liquidation in months deepens as investors chase the AI trade elsewhere](https://www.coindesk.com/markets/2026/06/04/bitcoin-steadies-above-usd60-000-while-derivatives-send-an-unambiguous-warning)
+- [JPMorgan sees shrinking window for U.S. crypto market structure overhaul](https://www.coindesk.com/policy/2026/06/04/jpmorgan-warns-time-is-running-short-for-crypto-market-structure-bill)
+- [Standard Chartered's three 'Ifs' that stand between bitcoin and a market low: Crypto Daily](https://www.coindesk.com/daybook-us/2026/06/04/standard-chartered-s-three-ifs-that-stand-between-bitcoin-and-a-market-low)
+- [Russia sanctions British teenager for alleging A7A5 use in funding Ukraine war](https://www.coindesk.com/policy/2026/06/04/russia-sanctions-british-teenager-for-alleging-a7a5-use-in-funding-ukraine-war)
+
+</details>
+
+---
+
 ## 2026-06-05
 
 **Movement** — bitcoin $62,803 ↘ -1.52%, ethereum $1,674 ↘ -5.95%, solana $66 ↘ -5.29%
