@@ -1,55 +1,8 @@
 {
-  "job": "864818/1/8",
-  "fetched_at": "2026-06-05T07:49:39.085658Z",
-  "count": 67,
+  "job": "864818/1/9",
+  "fetched_at": "2026-06-06T06:41:09.816704Z",
+  "count": 66,
   "items": [
-    {
-      "headline": "Banks' survey says people don't want to rock the boat if stablecoin yield risks lending",
-      "subheadline": "The American Bankers Association, which lobbies against the crypto sector over the Clarity Act's stablecoin section, unveiled its new polling.",
-      "section": "Policy",
-      "url": "https://www.coindesk.com/policy/2026/06/02/banks-survey-says-people-don-t-want-to-rock-the-boat-if-stablecoins-would-risk-lending",
-      "date_published": "2026-06-03T09:00:00.000Z",
-      "author": "Jesse Hamilton",
-      "tags": [
-        "banks",
-        "Regulation"
-      ]
-    },
-    {
-      "headline": "Premier League soccer clubs warned about unauthorized crypto firms' sponsorship ",
-      "subheadline": "The FCA said unauthorized firms could be breaching rules on financial promotions through high-profile sponsorships deals.",
-      "section": "Policy",
-      "url": "https://www.coindesk.com/policy/2026/06/03/uk-s-financial-watchdog-cracks-down-on-premier-league-crypto-partnerships",
-      "date_published": "2026-06-03T10:19:12.096Z",
-      "author": "Jamie Crawley",
-      "tags": [
-        "UK",
-        "Regulation"
-      ]
-    },
-    {
-      "headline": "Crypto PACs go undefeated in June primaries as Fairshake scores bipartisan winning streak",
-      "subheadline": "Winners included Democrats Zoe Lofgren, Ted Lieu, Dave Min and Rob Menendez, as well as Republican Sen. Mike Rounds, with Democrats accounting for 10 of the 11 victories.",
-      "section": "Policy",
-      "url": "https://www.coindesk.com/policy/2026/06/03/fairshake-goes-11-for-11-in-june-primaries-as-crypto-broadens-bipartisan-coalition",
-      "date_published": "2026-06-03T11:46:59.655Z",
-      "author": "Sam Reynolds",
-      "tags": [
-        "PACs"
-      ]
-    },
-    {
-      "headline": "A bipartisan bridge to the future: Why the Senate must finish the job on digital Assets",
-      "subheadline": "The Clarity Act\u2019s recent markup proved that the momentum for regulation is there. It is imperative that Congress move the bill forward to establish rules this generation needs and a framework the next will inherit, urges Kim.",
-      "section": "Opinion",
-      "url": "https://www.coindesk.com/opinion/2026/05/27/a-bipartisan-bridge-to-the-future-why-the-senate-must-finish-the-job-on-digital-assets",
-      "date_published": "2026-05-27T14:18:59.840Z",
-      "author": "Ji Hun Kim",
-      "tags": [
-        "Regulation",
-        "Clarity Act"
-      ]
-    },
     {
       "headline": "Disciplined AI agents are the disruptor needed to break the exchange churn model",
       "subheadline": "Programmable incentives that allow independent trading agents to earn only when portfolios rise will create a fairer market for retail customers, explains Naja.",
@@ -84,6 +37,17 @@
       ]
     },
     {
+      "headline": "Why tokenization is an ETF-style market structure revolution",
+      "subheadline": "The current tokenization dialogue and pattern resemble ETFs\u2019 early days, which ultimately transformed into a $10+ trillion market, Lie argues. ",
+      "section": "Opinion",
+      "url": "https://www.coindesk.com/opinion/2026/06/04/why-tokenization-is-an-etf-style-market-structure-revolution",
+      "date_published": "2026-06-04T14:44:07.546Z",
+      "author": "Michael Lie",
+      "tags": [
+        "Tokenization"
+      ]
+    },
+    {
       "headline": null,
       "subheadline": null,
       "section": "Press release",
@@ -111,90 +75,106 @@
       "tags": []
     },
     {
-      "headline": "Clarity Act survival depends on the U.S. Senate getting a lot of non-crypto work done",
-      "subheadline": "The dwindling congressional calendar may spur a legislative competition for the crypto market structure bill to win Senate floor time against other priorities. ",
-      "section": "News Analysis",
-      "url": "https://www.coindesk.com/news-analysis/2026/06/02/clarity-act-survival-depends-on-the-u-s-senate-getting-a-lot-of-non-crypto-work-done",
-      "date_published": "2026-06-03T13:00:00.000Z",
-      "author": "Jesse Hamilton",
-      "tags": [
-        "Regulation",
-        "Clarity Act"
-      ]
-    },
-    {
-      "headline": "IREN stock news: shares gain on new AI data center",
-      "subheadline": "The AI infrastructure firm secured a grid connection for a planned South Australian campus, with energization targeted for 2028.",
+      "headline": "Crypto's worst two-day liquidation in months deepens as investors chase the AI trade elsewhere",
+      "subheadline": "BTC price crashed to $61,300 before recovering to $62,500 as $3 billion in liquidations hit over two days and traders loaded up on $60,000 puts anticipating further losses.",
       "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/06/03/iren-adds-4-premarket-as-company-unveils-800mw-australian-ai-data-center-campus",
-      "date_published": "2026-06-03T13:01:01.576Z",
-      "author": "James Van Straten",
-      "tags": []
-    },
-    {
-      "headline": "Trezor says users' crypto is safe after Ledger researchers uncover chip flaw",
-      "subheadline": "The flaw affects only one of the wallet's multiple security layers and would require physical access, specialized equipment and advanced expertise to exploit.",
-      "section": "Tech",
-      "url": "https://www.coindesk.com/tech/2026/06/02/dnp-trezor-says-users-crypto-is-safe-after-ledger-researchers-uncover-chip-flaw",
-      "date_published": "2026-06-03T10:04:32.002Z",
-      "author": "Margaux Nijkerk",
+      "url": "https://www.coindesk.com/markets/2026/06/04/bitcoin-steadies-above-usd60-000-while-derivatives-send-an-unambiguous-warning",
+      "date_published": "2026-06-04T11:02:18.572Z",
+      "author": "Oliver Knight",
       "tags": [
-        "Ledger"
+        "Crypto Markets Today"
       ]
     },
     {
-      "headline": "The legal risks and practical considerations of digital asset blacklisting",
-      "subheadline": "When digital assets are frozen, holders can suddenly be deprived of access to their legitimate assets or income. Here\u2019s what to know to keep your digital holdings safe. ",
-      "section": "Opinion",
-      "url": "https://www.coindesk.com/opinion/2026/05/06/the-legal-risks-and-practical-considerations-of-digital-asset-blacklisting",
-      "date_published": "2026-05-06T15:30:00.000Z",
-      "author": "Galen Kast",
-      "tags": []
-    },
-    {
-      "headline": "Solana, Sui and Aptos wallet data targeted in TrapDoor package attack",
-      "subheadline": "The campaign targets crypto, DeFi, AI and security developers with fake tooling packages to steal wallets, SSH keys, GitHub tokens, cloud credentials and browser data.",
-      "section": "Tech",
-      "url": "https://www.coindesk.com/tech/2026/05/29/solana-sui-and-aptos-wallet-data-targeted-in-trapdoor-package-attack",
-      "date_published": "2026-05-29T08:19:42.717Z",
-      "author": "Shaurya Malwa",
+      "headline": "JPMorgan sees shrinking window for U.S. crypto market structure overhaul",
+      "subheadline": "The Clarity Act still faces several legislative hurdles, and disputes over stablecoin yield have emerged as a key sticking point, the bank said.",
+      "section": "Policy",
+      "url": "https://www.coindesk.com/policy/2026/06/04/jpmorgan-warns-time-is-running-short-for-crypto-market-structure-bill",
+      "date_published": "2026-06-04T11:10:16.379Z",
+      "author": "Will Canny",
       "tags": [
-        "Hack"
+        "Clarity Act",
+        "Market Structure Legislation",
+        "JPMorgan"
       ]
     },
     {
-      "headline": "Mass deployment of AI agents is a disaster waiting to happen, says CertiK CEO",
-      "subheadline": "Ronghui Gu shares tips on how to isolate AI agents while testing them so they do not have access to critical personal information or digital assets.",
-      "section": "Tech",
-      "url": "https://www.coindesk.com/tech/2026/05/29/mass-deployment-of-ai-agents-is-a-disaster-waiting-to-happen-says-certik-ceo",
-      "date_published": "2026-05-29T15:31:07.085Z",
-      "author": "Olivier Acuna",
+      "headline": "Standard Chartered's three 'Ifs' that stand between bitcoin and a market low: Crypto Daily",
+      "subheadline": "Your day-ahead look for June 4, 2026",
+      "section": "Crypto Daybook Americas",
+      "url": "https://www.coindesk.com/daybook-us/2026/06/04/standard-chartered-s-three-ifs-that-stand-between-bitcoin-and-a-market-low",
+      "date_published": "2026-06-04T11:23:10.723Z",
+      "author": "Omkar Godbole",
       "tags": [
-        "Artificial Intelligence"
+        "Crypto Daybook Americas"
       ]
     },
     {
-      "headline": "MoneyGram launches stablecoin on Stellar (XLM), joining rush toward digital dollar payments",
-      "subheadline": "MGUSD, issued by Stripe's Bridge, will power services across MoneyGram's global network as stablecoins gain traction in cross-border payments.",
-      "section": "Finance",
-      "url": "https://www.coindesk.com/business/2026/06/02/moneygram-launches-stablecoin-on-stellar-joining-rush-toward-digital-dollar-payments",
-      "date_published": "2026-06-02T09:00:00.000Z",
-      "author": "Krisztian Sandor",
+      "headline": "Russia sanctions British teenager for alleging A7A5 use in funding Ukraine war",
+      "subheadline": "The A7A5 stablecoin was designed to bypass sanctions imposed on Russia following its invasion of Ukraine in 2022.",
+      "section": "Policy",
+      "url": "https://www.coindesk.com/policy/2026/06/04/russia-sanctions-british-teenager-for-alleging-a7a5-use-in-funding-ukraine-war",
+      "date_published": "2026-06-04T11:51:53.917Z",
+      "author": "Jamie Crawley",
       "tags": [
         "Stablecoins"
       ]
     },
     {
-      "headline": "RWA news: Symbiotic aims to make tokenized assets easier to cash out with Liquid Lane",
-      "subheadline": "Liquid Lane aims to solve a key bottleneck that is holding back growth of tokenized funds and credit: long redemption times, Symbiotic cofounder Misha Putiatin said.",
+      "headline": "Moomoo adds Kalshi prediction markets, giving users access to event contracts",
+      "subheadline": "Retail trading platform moomoo has partnered with Kalshi to offer CFTC-regulated event contracts tied to economic data, elections and major sporting events directly within its app.",
       "section": "Finance",
-      "url": "https://www.coindesk.com/business/2026/06/02/symbiotic-aims-to-make-tokenized-assets-easier-to-cash-out-with-new-liquidity-network",
-      "date_published": "2026-06-02T12:00:00.000Z",
-      "author": "Krisztian Sandor",
+      "url": "https://www.coindesk.com/business/2026/06/04/moomoo-expands-into-prediction-markets-through-kalshi-partnership",
+      "date_published": "2026-06-04T12:00:00.000Z",
+      "author": "Will Canny",
       "tags": [
-        "Tokenization",
-        "DeFi",
-        "Exclusive"
+        "Moomoo",
+        "Kalshi",
+        "Exclusive",
+        "Prediction Markets"
+      ]
+    },
+    {
+      "headline": "How the House Financial Services Committee is taking on tokenization: State of Crypto ",
+      "subheadline": "Rep. French Hill, head of the House Financial Services Committee, weighed in on outstanding policy issues in an interview with CoinDesk last month.",
+      "section": "Policy",
+      "url": "https://www.coindesk.com/policy/2026/05/31/how-the-house-financial-services-committee-is-taking-on-tokenization-state-of-crypto",
+      "date_published": "2026-05-31T18:30:00.000Z",
+      "author": "Nikhilesh De",
+      "tags": [
+        "Newsletters",
+        "State of Crypto"
+      ]
+    },
+    {
+      "headline": " The time is now: the Senate must act on crypto market structure legislation",
+      "subheadline": "The United States needs to finally establish the clear framework that the market needs.",
+      "section": "Opinion",
+      "url": "https://www.coindesk.com/opinion/2026/05/06/the-time-is-now-the-senate-must-act-on-crypto-market-structure-legislation",
+      "date_published": "2026-05-06T17:25:31.188Z",
+      "author": "Summer Mersinger",
+      "tags": [
+        "Market Structure Legislation"
+      ]
+    },
+    {
+      "headline": "Bitcoin\u2019s biggest quantum risk may not be wallet keys. An early investor fears something bigger",
+      "subheadline": "Andrew Gault, the venture capitalist who funded the quantum hardware labs now threatening bitcoin, says the industry is looking in the wrong place. Google's own security team moved in the same direction in March.",
+      "section": "Tech",
+      "url": "https://www.coindesk.com/tech/2026/05/30/bitcoin-s-biggest-quantum-risk-may-not-be-wallet-keys-an-early-investor-fears-something-bigger",
+      "date_published": "2026-05-30T05:27:39.025Z",
+      "author": "Shaurya Malwa",
+      "tags": []
+    },
+    {
+      "headline": "Polymarket says No for May, Yes for June after Strategy's recent bitcoin sale",
+      "subheadline": "UMA voters ruled that Strategy's June 1 disclosure counted for the June contract, even though the company said it sold bitcoin during the final week of May.",
+      "section": "Markets",
+      "url": "https://www.coindesk.com/markets/2026/06/04/polymarket-says-no-for-may-yes-for-june-after-strategy-s-recent-bitcoin-sale",
+      "date_published": "2026-06-04T07:50:11.242Z",
+      "author": "Sam Reynolds",
+      "tags": [
+        "Polymarket"
       ]
     },
     {
@@ -284,13 +264,72 @@
       ]
     },
     {
-      "headline": "Bitcoin\u2019s biggest quantum risk may not be wallet keys. An early investor fears something bigger",
-      "subheadline": "Andrew Gault, the venture capitalist who funded the quantum hardware labs now threatening bitcoin, says the industry is looking in the wrong place. Google's own security team moved in the same direction in March.",
-      "section": "Tech",
-      "url": "https://www.coindesk.com/tech/2026/05/30/bitcoin-s-biggest-quantum-risk-may-not-be-wallet-keys-an-early-investor-fears-something-bigger",
-      "date_published": "2026-05-30T05:27:39.025Z",
-      "author": "Shaurya Malwa",
-      "tags": []
+      "headline": "Kraken parent plans to offer tokenized IPO access as investors await SpaceX, Anthropic debut",
+      "subheadline": "Payward aims to give retail investors access to IPO shares at the offering price through tokenized equities.",
+      "section": "Finance",
+      "url": "https://www.coindesk.com/business/2026/06/03/kraken-parent-payward-plans-to-offer-tokenized-ipo-access-as-investors-await-blockbuster-debuts",
+      "date_published": "2026-06-03T13:02:26.846Z",
+      "author": "Krisztian Sandor",
+      "tags": [
+        "Tokenization",
+        "Kraken"
+      ]
+    },
+    {
+      "headline": "Every single bank will soon need to hold digital assets, says Zodia Custody CEO Julian Sawyer",
+      "subheadline": "Sawyer confirmed that Standard Chartered\u2019s full acquisition of the firm is on track to target a signing at the end of June and complete by the end of August.",
+      "section": "Finance",
+      "url": "https://www.coindesk.com/business/2026/06/03/standard-chartered-buyout-of-zodia-custody-is-great-news-for-crypto-tech-adoption-ceo-says",
+      "date_published": "2026-06-03T15:08:41.131Z",
+      "author": "Olivier Acuna",
+      "tags": [
+        "Custody"
+      ]
+    },
+    {
+      "headline": "Tom Lee's Bitmine (BMNR) to offer preferred stock with 9.5% dividend, following Strategy's playbook",
+      "subheadline": "The largest Ethereum treasury firm is taking a page from Michael Saylor's Strategy to issue preferred shares to tap new sources of funding.",
+      "section": "Finance",
+      "url": "https://www.coindesk.com/business/2026/06/03/tom-lee-s-bitmine-to-offer-preferred-stock-with-9-5-dividend-seeking-to-raise-usd300-million",
+      "date_published": "2026-06-03T22:18:53.813Z",
+      "author": "Krisztian Sandor",
+      "tags": [
+        "Ethereum News"
+      ]
+    },
+    {
+      "headline": "Goldman Sachs teams with Apex, Archax for tokenized real estate fund",
+      "subheadline": "The fund combines blockchain native issuance with established fund structures.",
+      "section": "Finance",
+      "url": "https://www.coindesk.com/business/2026/06/04/goldman-sachs-teams-with-apex-archax-for-tokenized-real-estate-fund",
+      "date_published": "2026-06-04T07:57:47.277Z",
+      "author": "Ian Allison",
+      "tags": [
+        "Real World Assets",
+        "Tokenization"
+      ]
+    },
+    {
+      "headline": "ADA under 20 cents as Hoskinson says he is 'taking a break' after warning of ecosystem failures",
+      "subheadline": "Hoskinson's remarks followed a string of setbacks for the ecosystem, including the cancellation of Cardano's flagship conference and the shutdown of a prominent analytics platform.",
+      "section": "Markets",
+      "url": "https://www.coindesk.com/markets/2026/06/04/cardano-slumps-under-20-cents-as-hoskinson-steps-away-after-warning-of-ecosystem-failures",
+      "date_published": "2026-06-04T07:59:58.334Z",
+      "author": "Sam Reynolds",
+      "tags": [
+        "Cardano"
+      ]
+    },
+    {
+      "headline": "Bitcoin supply in loss overtakes profit, a hallmark of bear-market bottoms",
+      "subheadline": "More than half of the bitcoin in circulation is sitting on unrealized losses as the BTC price tests historically significant bear-market support levels.",
+      "section": "Markets",
+      "url": "https://www.coindesk.com/markets/2026/06/04/this-bitcoin-metric-has-marked-every-bear-market-bottom-and-it-s-just-flashed-again",
+      "date_published": "2026-06-04T10:20:29.809Z",
+      "author": "James Van Straten",
+      "tags": [
+        "Bitcoin News"
+      ]
     },
     {
       "headline": "XRP Ledger's design blocks the flash loan attacks costing DeFi hundreds of millions",
@@ -366,14 +405,25 @@
       ]
     },
     {
-      "headline": " The time is now: the Senate must act on crypto market structure legislation",
-      "subheadline": "The United States needs to finally establish the clear framework that the market needs.",
-      "section": "Opinion",
-      "url": "https://www.coindesk.com/opinion/2026/05/06/the-time-is-now-the-senate-must-act-on-crypto-market-structure-legislation",
-      "date_published": "2026-05-06T17:25:31.188Z",
-      "author": "Summer Mersinger",
+      "headline": "Trezor says users' crypto is safe after Ledger researchers uncover chip flaw",
+      "subheadline": "The flaw affects only one of the wallet's multiple security layers and would require physical access, specialized equipment and advanced expertise to exploit.",
+      "section": "Tech",
+      "url": "https://www.coindesk.com/tech/2026/06/02/dnp-trezor-says-users-crypto-is-safe-after-ledger-researchers-uncover-chip-flaw",
+      "date_published": "2026-06-03T10:04:32.002Z",
+      "author": "Margaux Nijkerk",
       "tags": [
-        "Market Structure Legislation"
+        "Ledger"
+      ]
+    },
+    {
+      "headline": "Apparent Zcash outage was a block explorer problem, infrastructure provider says",
+      "subheadline": "One expert said the issue was mainly with block explorers tracking the onchain activity.",
+      "section": "Tech",
+      "url": "https://www.coindesk.com/tech/2026/06/03/privacy-focused-zcash-blockchain-has-not-produced-a-block-for-four-hours",
+      "date_published": "2026-06-03T10:22:36.041Z",
+      "author": "Omkar Godbole",
+      "tags": [
+        "Privacy"
       ]
     },
     {
@@ -444,75 +494,15 @@
       ]
     },
     {
-      "headline": "Apparent Zcash outage was a block explorer problem, infrastructure provider says",
-      "subheadline": "One expert said the issue was mainly with block explorers tracking the onchain activity.",
-      "section": "Tech",
-      "url": "https://www.coindesk.com/tech/2026/06/03/privacy-focused-zcash-blockchain-has-not-produced-a-block-for-four-hours",
-      "date_published": "2026-06-03T10:22:36.041Z",
-      "author": "Omkar Godbole",
+      "headline": "A bipartisan bridge to the future: Why the Senate must finish the job on digital Assets",
+      "subheadline": "The Clarity Act\u2019s recent markup proved that the momentum for regulation is there. It is imperative that Congress move the bill forward to establish rules this generation needs and a framework the next will inherit, urges Kim.",
+      "section": "Opinion",
+      "url": "https://www.coindesk.com/opinion/2026/05/27/a-bipartisan-bridge-to-the-future-why-the-senate-must-finish-the-job-on-digital-assets",
+      "date_published": "2026-05-27T14:18:59.840Z",
+      "author": "Ji Hun Kim",
       "tags": [
-        "Privacy"
-      ]
-    },
-    {
-      "headline": "U.S. CFTC opens crypto 'perp' door with first approval at regulated firm",
-      "subheadline": "The Commodity Futures Trading Commission has now established a stance on how regulated U.S. firms can engage in crypto perpetual futures contracts.",
-      "section": "Policy",
-      "url": "https://www.coindesk.com/policy/2026/05/28/u-s-cftc-opens-crypto-perp-door-with-approval-of-first-regulated-firm",
-      "date_published": "2026-05-29T14:00:00.000Z",
-      "author": "Jesse Hamilton",
-      "tags": [
-        "Bitcoin News",
         "Regulation",
-        "Exclusive"
-      ]
-    },
-    {
-      "headline": "Clarity Act Risks Regulation Without Oversight, Brookings Fellow Says",
-      "subheadline": "As Congress weighs crypto legislation, Aaron Klein says the CFTC needs more resources, independence and coordination to oversee digital markets.",
-      "section": "Policy",
-      "url": "https://www.coindesk.com/policy/2026/05/29/clarity-act-risks-regulation-without-oversight-brookings-fellow-says",
-      "date_published": "2026-05-29T15:14:55.205Z",
-      "author": "AI Boost",
-      "tags": [
-        "Media Network Interview",
-        "Clarity Act",
-        "CFTC",
-        "Regulation"
-      ]
-    },
-    {
-      "headline": "U.S. regulator says 24/7 trading is great for crypto, may not be fit for other sectors",
-      "subheadline": "As the CFTC issued landmark approvals for crypto perpetual futures contracts, it explained in a related advisory that round-the-clock activity isn't right for all.",
-      "section": "Policy",
-      "url": "https://www.coindesk.com/policy/2026/05/29/u-s-regulator-says-24-7-trading-is-great-for-crypto-may-not-be-fit-for-other-sectors",
-      "date_published": "2026-05-29T16:29:42.319Z",
-      "author": "Jesse Hamilton",
-      "tags": [
-        "Regulation"
-      ]
-    },
-    {
-      "headline": "\u2018The banks will not accept it\u2019: JP Morgan's Dimon escalates battle over stablecoin rewards in CLARITY Act debate",
-      "subheadline": "JPMorgan CEO Jamie Dimon criticized Coinbase CEO Brian Armstrong and warned the current CLARITY Act framework could ultimately fail, as banks and crypto firms clash over whether stablecoin issuers should be allowed to offer yield-bearing rewards that resemble bank deposits.",
-      "section": "Policy",
-      "url": "https://www.coindesk.com/policy/2026/05/29/the-banks-will-not-accept-it-dimon-escalates-battle-over-stablecoin-rewards-in-clarity-act-debate",
-      "date_published": "2026-05-29T20:03:52.027Z",
-      "author": "Helene Braun",
-      "tags": [
-        "Coinbase"
-      ]
-    },
-    {
-      "headline": "How the House Financial Services Committee is taking on tokenization: State of Crypto ",
-      "subheadline": "Rep. French Hill, head of the House Financial Services Committee, weighed in on outstanding policy issues in an interview with CoinDesk last month.",
-      "section": "Policy",
-      "url": "https://www.coindesk.com/policy/2026/05/31/how-the-house-financial-services-committee-is-taking-on-tokenization-state-of-crypto",
-      "date_published": "2026-05-31T18:30:00.000Z",
-      "author": "Nikhilesh De",
-      "tags": [
-        "Newsletters",
-        "State of Crypto"
+        "Clarity Act"
       ]
     },
     {
@@ -544,91 +534,37 @@
       "url": "https://www.coindesk.com/policy/2026/06/02/uk-house-of-lords-committee-calls-on-bank-of-england-to-reconsider-proposed-stablecoin-restrictions",
       "date_published": "2026-06-02T23:01:00.000Z",
       "author": "Jamie Crawley",
-      "tags": []
-    },
-    {
-      "headline": "Kraken parent plans to offer tokenized IPO access as investors await SpaceX, Anthropic debut",
-      "subheadline": "Payward aims to give retail investors access to IPO shares at the offering price through tokenized equities.",
-      "section": "Finance",
-      "url": "https://www.coindesk.com/business/2026/06/03/kraken-parent-payward-plans-to-offer-tokenized-ipo-access-as-investors-await-blockbuster-debuts",
-      "date_published": "2026-06-03T13:02:26.846Z",
-      "author": "Krisztian Sandor",
-      "tags": []
-    },
-    {
-      "headline": "CoinDesk 20 performance update: Bitcoin Cash (BCH) falls 10.7%, leading index lower ",
-      "subheadline": "Binance Coin (BNB), down 3.4% from Tuesday, was also an underperformer.",
-      "section": "CoinDesk Indices",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/06/03/coindesk-20-performance-update-bitcoin-cash-bch-falls-10-7-leading-index-lower",
-      "date_published": "2026-06-03T13:08:59.366Z",
-      "author": "CoinDesk Indices",
-      "tags": []
-    },
-    {
-      "headline": "BTC price prediction: This model puts bitcoin's fair value at $224,000 ",
-      "subheadline": "The figure is from a theoretical model proposed by Greg Foss in 2021 that treats bitcoin as a credit default swap on G20 sovereign bonds.",
-      "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/06/03/bitwise-model-puts-bitcoin-fair-value-at-usd224-000-as-sovereign-default-hedge",
-      "date_published": "2026-06-03T13:26:02.358Z",
-      "author": "Shaurya Malwa",
-      "tags": []
-    },
-    {
-      "headline": "ETF flows, not Strategy's sale, remain key bitcoin driver: Citi",
-      "subheadline": "Strategy's bitcoin sale may have rattled markets, but the bigger issue is missing demand from new buyers, Citi said.",
-      "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/06/03/bitcoin-s-lack-of-fresh-investors-matters-more-than-strategy-s-sale-citi-says",
-      "date_published": "2026-06-03T13:29:45.268Z",
-      "author": "Will Canny",
-      "tags": []
-    },
-    {
-      "headline": "Rare physical bitcoin worth $1.78 million gets cashed in after 12 years",
-      "subheadline": "The S1-COIN-25 physical bitcoin, part of Mike Caldwell's 2011-2013 mint, had its tamper-evident hologram peeled and the 25 BTC swept on-chain on Wednesday. ",
-      "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/06/03/rare-physical-bitcoin-worth-usd1-78-million-gets-cashed-in-after-12-years",
-      "date_published": "2026-06-03T14:32:32.002Z",
-      "author": "Shaurya Malwa",
       "tags": [
-        "Bitcoin News"
+        "UK",
+        "Stablecoins"
       ]
     },
     {
-      "headline": "Every single bank will soon need to hold digital assets, says Zodia CEO Julian Sawyer",
-      "subheadline": "Sawyer confirmed that Standard Chartered\u2019s full acquisition of the firm is on track to target a signing at the end of June and complete by the end of August.",
-      "section": "Finance",
-      "url": "https://www.coindesk.com/business/2026/06/03/standard-chartered-buyout-of-zodia-custody-is-great-news-for-crypto-tech-adoption-ceo-says",
-      "date_published": "2026-06-03T15:08:41.131Z",
-      "author": "Olivier Acuna",
+      "headline": "Banks' survey says people don't want to rock the boat if stablecoin yield risks lending",
+      "subheadline": "The American Bankers Association, which lobbies against the crypto sector over the Clarity Act's stablecoin section, unveiled its new polling.",
+      "section": "Policy",
+      "url": "https://www.coindesk.com/policy/2026/06/02/banks-survey-says-people-don-t-want-to-rock-the-boat-if-stablecoins-would-risk-lending",
+      "date_published": "2026-06-03T09:00:00.000Z",
+      "author": "Jesse Hamilton",
       "tags": []
     },
     {
-      "headline": "What about the American consumer?",
-      "subheadline": "In this week's Crypto Long & Short, Alex Tapscott on the stalling of the CLARITY Act and how it's impacting the average American consumer. Then, Aisha Hunt writes that crypto will grow by upgrading Wall Street\u2019s trusted products rather than replacing them.",
-      "section": "CoinDesk Indices",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/06/03/crypto-long-and-short-what-about-the-american-consumer",
-      "date_published": "2026-06-03T16:13:51.674Z",
-      "author": "Alex Tapscott",
-      "tags": [
-        "Institutional Investors",
-        "Institutional Adoption",
-        "ETFs",
-        "CoinDesk Indices",
-        "CoinDesk 20",
-        "Newsletters"
-      ]
+      "headline": "Premier League soccer clubs warned about unauthorized crypto firms' sponsorship ",
+      "subheadline": "The FCA said unauthorized firms could be breaching rules on financial promotions through high-profile sponsorships deals.",
+      "section": "Policy",
+      "url": "https://www.coindesk.com/policy/2026/06/03/uk-s-financial-watchdog-cracks-down-on-premier-league-crypto-partnerships",
+      "date_published": "2026-06-03T10:19:12.096Z",
+      "author": "Jamie Crawley",
+      "tags": []
     },
     {
-      "headline": "Bitcoin isn't crashing because of Saylor, it's losing the momentum trade",
-      "subheadline": "Bitcoin's recent weakness reflects a broader rotation into AI, IPOs and other momentum trades rather than concerns about Michael Saylor's bitcoin sales, according to Charles Schwab's Jim Ferraioli.",
-      "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/06/03/bitcoin-isn-t-crashing-because-of-saylor-it-s-losing-the-momentum-trade",
-      "date_published": "2026-06-03T18:48:22.305Z",
-      "author": "Helene Braun",
-      "tags": [
-        "Bitcoin News",
-        "MicroStrategy"
-      ]
+      "headline": "Crypto PACs go undefeated in June primaries as Fairshake scores bipartisan winning streak",
+      "subheadline": "Winners included Democrats Zoe Lofgren, Ted Lieu, Dave Min and Rob Menendez, as well as Republican Sen. Mike Rounds, with Democrats accounting for 10 of the 11 victories.",
+      "section": "Policy",
+      "url": "https://www.coindesk.com/policy/2026/06/03/fairshake-goes-11-for-11-in-june-primaries-as-crypto-broadens-bipartisan-coalition",
+      "date_published": "2026-06-03T11:46:59.655Z",
+      "author": "Sam Reynolds",
+      "tags": []
     },
     {
       "headline": "New DeFi entrant widens field of crypto political campaign funds as elections loom ",
@@ -637,98 +573,147 @@
       "url": "https://www.coindesk.com/policy/2026/06/03/new-defi-entrant-widens-field-of-crypto-political-campaign-funds-as-elections-loom",
       "date_published": "2026-06-03T18:50:05.131Z",
       "author": "Jesse Hamilton",
-      "tags": [
-        "DeFi",
-        "Regulation",
-        "Election 2026"
-      ]
+      "tags": []
     },
     {
-      "headline": "Ethereum news: ETH falling below $1,800 leaves Tom Lee's Bitmine (BMNR) with $8.9 billion paper loss ",
-      "subheadline": "Shares of Tom Lee's Ethereum treasury firm hit their lowest level since the company's crypto pivot as ETH revisits the February lows.",
+      "headline": "Live updates: Bitcoin bounces, HYPE falls, NEAR gets demolished as crypto deals with a wipe out",
+      "subheadline": null,
       "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/06/03/bitmine-s-ethereum-bet-nears-usd9-billion-loss-as-ether-falls-below-usd1-800",
-      "date_published": "2026-06-03T20:33:51.565Z",
-      "author": "Krisztian Sandor",
-      "tags": [
-        "Ethereum News"
-      ]
+      "url": "https://www.coindesk.com/markets/2026/06/04/live-markets-saylor-speaks-as-bitcoin-plunges-to-usd62-000",
+      "date_published": "2026-06-04T12:14:21.324Z",
+      "author": "Stephen Alpher",
+      "tags": []
     },
     {
-      "headline": "Tom Lee's Bitmine (BMNR) to offer preferred stock with 9.5% dividend, following Strategy's playbook",
-      "subheadline": "The largest Ethereum treasury firm is taking a page from Michael Saylor's Strategy to issue preferred shares to tap new sources of funding.",
-      "section": "Finance",
-      "url": "https://www.coindesk.com/business/2026/06/03/tom-lee-s-bitmine-to-offer-preferred-stock-with-9-5-dividend-seeking-to-raise-usd300-million",
-      "date_published": "2026-06-03T22:18:53.813Z",
-      "author": "Krisztian Sandor",
-      "tags": [
-        "Ethereum News"
-      ]
-    },
-    {
-      "headline": "SpaceX targets record $75 billion IPO as bitcoin treasury and liquidity risks draw focus",
-      "subheadline": "SpaceX targets IPO price of $135/share, and aims to sell 555,555,555 to raise $75 billion.",
+      "headline": "Bitcoin (BTC) isn't broken, says Strategy's (MSTR) Saylor",
+      "subheadline": "Bitcoin's drop reflects capital rotation into artificial intelligence, Saylor argues.",
       "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/06/03/spacex-targets-record-usd75-billion-ipo-as-bitcoin-treasury-and-liquidity-risks-draw-focus",
-      "date_published": "2026-06-03T22:31:12.556Z",
-      "author": "Helene Braun",
-      "tags": [
-        "SpaceX",
-        "Elon Musk"
-      ]
-    },
-    {
-      "headline": "Bitcoin selloff continues as prices slide below $63,000 for the first time since February",
-      "subheadline": "The selloff has triggered demand for protective options plays, pushing the fear gauge higher.",
-      "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/06/04/bitcoin-selloff-continues-as-prices-slide-below-usd63-000-for-the-first-time-since-february",
-      "date_published": "2026-06-04T01:30:53.519Z",
+      "url": "https://www.coindesk.com/markets/2026/06/04/strategy-s-saylor-s-explanation-for-bitcoin-s-slide-isn-t-what-bears-think",
+      "date_published": "2026-06-04T12:26:44.285Z",
       "author": "Omkar Godbole",
-      "tags": []
+      "tags": [
+        "Bitcoin News"
+      ]
     },
     {
-      "headline": "Live Markets: Bitcoin bounces to $64,000 in classic oversold rebound",
-      "subheadline": "Analysts and market observers are saying bitcoin's crash is happening due to traders chasing momentum and rotating out of crypto and into high-flying IPOs and AI stocks. ",
-      "section": "Markets",
-      "url": "https://www.coindesk.com/tech/2026/06/03/live-markets-bitcoin-crashes-to-usd62-000-as-billions-of-longs-get-liquidated",
-      "date_published": "2026-06-04T02:11:08.172Z",
-      "author": "Omkar Godbole",
-      "tags": []
+      "headline": "CoinDesk 20 performance update: Bitcoin Cash (BCH), up 1.5%, is only gainer ",
+      "subheadline": "NEAR Protocol (NEAR) declined 15.2% and Internet Computer (ICP) dropped 13.1%, leading the index lower.",
+      "section": "CoinDesk Indices",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/06/04/coindesk-20-performance-update-bitcoin-cash-bch-up-1-5-is-only-gainer",
+      "date_published": "2026-06-04T13:10:38.974Z",
+      "author": "CoinDesk Indices",
+      "tags": [
+        "CoinDesk Indices",
+        "CoinDesk 20",
+        "charts",
+        "Prices"
+      ]
     },
     {
-      "headline": "Bitcoin briefly drops below $62,000 as $1.5 billion in crypto longs get wiped out",
-      "subheadline": "Presto Research says bitcoin's drawdowns this year have coincided with rallies in AI stocks and gold as markets scale back expectations for Fed rate cuts.",
+      "headline": "XRP price news: What next for Ripple-linked token as it sinks to four-month lows",
+      "subheadline": "XRP fell another 7% after losing key support levels, with traders weighing growing institutional demand against one of the token's weakest technical setups in months.",
       "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/06/04/bitcoin-drops-below-usd62-000-as-usd1-5-billion-in-crypto-longs-get-wiped-out",
-      "date_published": "2026-06-04T02:13:28.464Z",
-      "author": "Sam Reynolds",
-      "tags": []
-    },
-    {
-      "headline": "BTC, ETH, SOL and XRP ETFs bleed $4.4 billion over 13 sessions, only HYPE in green",
-      "subheadline": "BlackRock's IBIT shed another $342 million on Wednesday as ether, solana and XRP funds joined the redemption wave, leaving Hyperliquid's HYPE products as the only major crypto ETF category still pulling in net new money.",
-      "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/06/04/btc-eth-sol-and-xrp-etfs-bleed-usd4-4-billion-over-13-sessions-only-hype-in-green",
-      "date_published": "2026-06-04T05:59:08.667Z",
+      "url": "https://www.coindesk.com/markets/2026/06/04/ripple-linked-xrp-sinks-7-to-four-month-lows",
+      "date_published": "2026-06-04T13:18:32.424Z",
       "author": "Shaurya Malwa",
       "tags": []
     },
     {
-      "headline": "Apyx's stablecoin suffers a brief depeg. Protocol says its a feature, not bug",
-      "subheadline": "Apyx\u2019s apxUSD stablecoin briefly slipped to 93 cents Wednesday.",
+      "headline": "Tom Lee's $250,000 ether (ETH) target would imply $2 million per bitcoin (BTC)",
+      "subheadline": "Bitmine's chairman told a Paris conference ether would 50x from here on AI and corporate validators. Here's how supply schedule, the ETH-to-bitcoin ratio history and the actual breakdown of staked ether look at those levels.",
       "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/06/04/apyx-s-stablecoin-suffers-a-brief-depeg-protocol-says-its-a-feature-not-bug",
-      "date_published": "2026-06-04T06:35:17.938Z",
-      "author": "Omkar Godbole",
+      "url": "https://www.coindesk.com/markets/2026/06/04/tom-lee-s-usd250-000-ether-target-runs-into-a-usd30-trillion-problem",
+      "date_published": "2026-06-04T13:30:02.041Z",
+      "author": "Shaurya Malwa",
       "tags": []
     },
     {
-      "headline": "Polymarket says No for May, Yes for June after Strategy's recent bitcoin sale",
-      "subheadline": "UMA voters ruled that Strategy's June 1 disclosure counted for the June contract, even though the company said it sold bitcoin during the final week of May.",
+      "headline": "Ethereum (ETH) news: Not all layer 2s are dying, but many no longer have a reason to exist",
+      "subheadline": "In this week's edition of The Protocol Newsletter, we're looking at the state of the Ethereum layer-2 ecosystem. ",
+      "section": "Tech",
+      "url": "https://www.coindesk.com/tech/2026/06/04/not-all-ethereum-layer-2s-are-dying-but-many-general-purpose-chains-no-longer-have-a-reason-to-exist",
+      "date_published": "2026-06-04T13:52:21.382Z",
+      "author": "Margaux Nijkerk",
+      "tags": []
+    },
+    {
+      "headline": "Crypto due diligence has changed: three questions advisors should revisit ",
+      "subheadline": "As stablecoins, shifting regulation and AI-enabled infrastructure mature, advisors should revisit three questions their crypto due diligence may no longer fully cover.",
+      "section": "CoinDesk Indices",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/06/03/crypto-for-advisors-the-crypto-due-diligence-questions-you-forgot-to-ask",
+      "date_published": "2026-06-04T15:00:00.000Z",
+      "author": "Beth Haddock",
+      "tags": []
+    },
+    {
+      "headline": "Hyperliquid's HYPE drops 10% as Arthur Hayes exits position despite $150 price target",
+      "subheadline": "The crypto veteran blamed macro risks and AI mania for taking profits, drawing backlash from traders for selling well below his recent bullish forecasts.",
       "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/06/04/polymarket-says-no-for-may-yes-for-june-after-strategy-s-recent-bitcoin-sale",
-      "date_published": "2026-06-04T07:50:11.242Z",
-      "author": "Sam Reynolds",
+      "url": "https://www.coindesk.com/markets/2026/06/04/hyperliquid-pulls-back-from-record-highs-as-arthur-hayes-exits-position-shy-of-usd150-price-target",
+      "date_published": "2026-06-04T15:52:19.666Z",
+      "author": "Krisztian Sandor",
+      "tags": []
+    },
+    {
+      "headline": "Nouriel Roubini's business partner sees bitcoin crashing 70% before rallying to $500,000",
+      "subheadline": "Backed by economist Nouriel Roubini, a long-time anti-bitcoin advocate, and known as 'Dr. Doom,' the Atlas CEO, Reza Bundy, shot a short-term warning for bitcoin but stayed bullish in the long-term.",
+      "section": "Markets",
+      "url": "https://www.coindesk.com/markets/2026/06/04/dr-doom-backed-atlas-capital-ceo-says-bitcoin-could-crash-70-before-reaching-usd500-000",
+      "date_published": "2026-06-04T18:15:52.678Z",
+      "author": "Olivier Acuna",
+      "tags": []
+    },
+    {
+      "headline": "OCC chief says Democrats applying sole political pressure in World Liberty charter choice",
+      "subheadline": "The regulator rejected claims he's doing President Trump's bidding during a congressional hearing that also addressed the GENIUS Act stablecoin push.",
+      "section": "Policy",
+      "url": "https://www.coindesk.com/policy/2026/06/04/occ-chief-says-democrats-applying-sole-political-pressure-in-world-liberty-charter-choice",
+      "date_published": "2026-06-04T18:19:13.215Z",
+      "author": "Jesse Hamilton",
+      "tags": [
+        "Regulation",
+        "Donald Trump"
+      ]
+    },
+    {
+      "headline": "Crypto Clarity Act in spotlight for bad-actor provisions as Senate process grinds forward",
+      "subheadline": "The industry has been trying to make a case this week the Clarity Act provides law enforcement strong tools to combat illicit finance involving cryptocurrency.",
+      "section": "Policy",
+      "url": "https://www.coindesk.com/policy/2026/06/04/crypto-clarity-act-in-spotlight-for-bad-actor-provisions-as-senate-process-grinds-forward",
+      "date_published": "2026-06-04T19:41:14.998Z",
+      "author": "Jesse Hamilton",
+      "tags": [
+        "Clarity Act",
+        "Regulation"
+      ]
+    },
+    {
+      "headline": "Zcash plummets 30% as Shielded Labs reveals a major bug that went undetected for four years",
+      "subheadline": "Shielded Labs revealed that the bug could have helped an attacker print unlimited counterfeit tokens. That could have damaged trust in the token's supply and its value. ",
+      "section": "Markets",
+      "url": "https://www.coindesk.com/markets/2026/06/05/zcash-plummets-30-as-developer-reveals-a-major-bug-that-went-undetected-for-four-years",
+      "date_published": "2026-06-05T05:43:07.713Z",
+      "author": "Omkar Godbole",
+      "tags": [
+        "Privacy"
+      ]
+    },
+    {
+      "headline": "Bitcoin plunges to near $62,000 as the AI trade unwinds, HYPE falls 14%",
+      "subheadline": "Broadcom's disappointing AI chip outlook pulled the Nasdaq lower for a third session, dragged Asian equities down with it, and took crypto along for the ride.",
+      "section": "Markets",
+      "url": "https://www.coindesk.com/markets/2026/06/05/bitcoin-plunges-to-near-usd62-000-as-the-ai-trade-unwinds-hype-falls-14",
+      "date_published": "2026-06-05T06:08:32.803Z",
+      "author": "Shaurya Malwa",
+      "tags": []
+    },
+    {
+      "headline": "BTC price updates: Bitcoin could fall to $60,000, Zcash plunges 37%",
+      "subheadline": "AI bets are recording rapid profit-taking as Broadcom as outlook for AI-chip sales fell short of high expectations, driving down crypto markets.",
+      "section": "Tech",
+      "url": "https://www.coindesk.com/tech/2026/06/05/bitcoin-in-danger-of-dropping-to-usd60-000-with-zcash-bulls-turning-their-backs-on-zec",
+      "date_published": "2026-06-05T06:18:59.779Z",
+      "author": "Shaurya Malwa",
       "tags": []
     }
   ]
