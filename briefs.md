@@ -11,6 +11,32 @@ No investment advice — this surfaces what's happening, you read it.
 
 <!-- new briefs go here, between this marker and the previous entry -->
 
+## 2026-06-07
+
+**Movement** — bitcoin $62,107 ↗ +1.78%, ethereum $1,611 ↗ +2.38%, solana $65 ↗ +3.72%
+
+All three watchlist coins bounced Sunday: bitcoin reclaimed $62,000 after dipping to $59,227 on Friday — its lowest since October 2024 — as spot BTC and ETH ETFs ended their record outflow streaks of 13 and 17 consecutive sessions respectively with small net inflows per CoinDesk. The macro pressure from Friday's blowout jobs report eased over the weekend while institutional infrastructure buildout continued: JPMorgan, Bank of America, and Citi announced a shared tokenized settlement network, and Securitize cleared SEC approval to list on the NYSE. Bitcoin maximalists including Saylor, Greenspan, and Lopp attributed the selloff to AI capital rotation rather than fundamentals per CoinDesk, lending some support to today's recovery.
+
+**Worth watching**
+- Zcash (ZEC) — crashed 37-40% after an AI model uncovered a 4-year Orchard Pool bug enabling potential counterfeit token minting; Arthur Hayes dumped holdings and researchers warn similar flaws may hide across other privacy chains
+- JPMorgan/BofA/Citi tokenized network — America's three largest banks announced a shared blockchain settlement platform launching next year as a defensive move against stablecoin deposit erosion; could reshape institutional settlement infrastructure
+- House crypto tax reform — House Ways and Means circulated 7 draft bills including small-transaction relief, mining, and staking rules ahead of a hearing next week; could materially reduce retail friction if passed
+
+<details><summary>8 headlines</summary>
+
+- [Russia sanctions British teenager for alleging A7A5 use in funding Ukraine war](https://www.coindesk.com/policy/2026/06/04/russia-sanctions-british-teenager-for-alleging-a7a5-use-in-funding-ukraine-war)
+- [OCC chief says Democrats applying sole political pressure in World Liberty charter choice](https://www.coindesk.com/policy/2026/06/04/occ-chief-says-democrats-applying-sole-political-pressure-in-world-liberty-charter-choice)
+- [Crypto Clarity Act in spotlight for bad-actor provisions as Senate process grinds forward](https://www.coindesk.com/policy/2026/06/04/crypto-clarity-act-in-spotlight-for-bad-actor-provisions-as-senate-process-grinds-forward)
+- [Disciplined AI agents are the disruptor needed to break the exchange churn model](https://www.coindesk.com/opinion/2026/05/28/disciplined-ai-agents-are-the-disruptor-needed-to-break-the-exchange-churn-model)
+- [What American crypto asset perpetuals mean for the future of crypto](https://www.coindesk.com/opinion/2026/05/29/what-american-crypto-asset-perpetuals-mean-for-the-future-of-crypto)
+- [How to better understand bitcoin's perpetual identity crisis](https://www.coindesk.com/opinion/2026/06/02/how-to-better-understand-bitcoin-s-perpetual-identity-crisis)
+- [Why tokenization is an ETF-style market structure revolution](https://www.coindesk.com/opinion/2026/06/04/why-tokenization-is-an-etf-style-market-structure-revolution)
+- [Here's what could happen if bitcoin breaks below $60,000](https://www.coindesk.com/markets/2026/06/05/here-s-what-could-happen-if-bitcoin-breaks-below-usd60-000)
+
+</details>
+
+---
+
 ## 2026-06-06
 
 **Movement** — bitcoin $60,992 ↘ -1.43%, ethereum $1,572 ↘ -5.07%, solana $63 ↘ -3.01%

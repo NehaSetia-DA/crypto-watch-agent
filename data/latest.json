@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-06-06T06:41:06Z",
+  "generated_at": "2026-06-07T07:15:37.791372Z",
   "prices": [
-    {"id": "bitcoin", "usd": 60992, "change_24h": -1.4302645964656646},
-    {"id": "ethereum", "usd": 1571.89, "change_24h": -5.073347926286777},
-    {"id": "solana", "usd": 63.04, "change_24h": -3.012454070664582}
+    {"id": "bitcoin", "usd": 62107, "change_24h": 1.7759471353511773},
+    {"id": "ethereum", "usd": 1610.73, "change_24h": 2.3760580398090774},
+    {"id": "solana", "usd": 64.84, "change_24h": 3.7173741058798364}
   ],
-  "narrative": "The multi-day selloff deepened Saturday: bitcoin broke below $61,000 and ethereum fell toward $1,572, with $3 billion in crypto liquidations over two days as Broadcom's AI chip outlook disappointed and capital rotated into AI equities (CoinDesk). Standard Chartered outlined three conditions needed for a market bottom while traders loaded up on $60,000 put options, signaling continued downside expectations. Against the price pressure, Goldman Sachs announced a tokenized real-estate fund with Apex and Archax, and the Senate Clarity Act continued advancing despite a tightening legislative calendar (CoinDesk).",
+  "narrative": "All three watchlist coins bounced Sunday: bitcoin reclaimed $62,000 after dipping to $59,227 on Friday — its lowest since October 2024 — as spot BTC and ETH ETFs ended their record outflow streaks of 13 and 17 consecutive sessions respectively with small net inflows per CoinDesk. The macro pressure from Friday's blowout jobs report eased over the weekend while institutional infrastructure buildout continued: JPMorgan, Bank of America, and Citi announced a shared tokenized settlement network, and Securitize cleared SEC approval to list on the NYSE. Bitcoin maximalists including Saylor, Greenspan, and Lopp attributed the selloff to AI capital rotation rather than fundamentals per CoinDesk, lending some support to today's recovery.",
   "worth_watching": [
-    "Zcash (ZEC) — plunged 30-37% after Shielded Labs revealed a 4-year undetected bug that could mint counterfeit tokens; raises questions about privacy-coin security audit practices",
-    "XRP — fell another 7% to four-month lows despite growing institutional demand; losing key technical support worth watching for further breakdown",
-    "Cardano (ADA) — dropped below $0.20 as Hoskinson takes a break after warning of ecosystem failures including conference cancellation; leadership uncertainty is a new risk factor"
+    "Zcash (ZEC) — crashed 37-40% after an AI model uncovered a 4-year Orchard Pool bug enabling potential counterfeit token minting; Arthur Hayes dumped holdings and researchers warn similar flaws may hide across other privacy chains",
+    "JPMorgan/BofA/Citi tokenized network — America's three largest banks announced a shared blockchain settlement platform launching next year as a defensive move against stablecoin deposit erosion; could reshape institutional settlement infrastructure",
+    "House crypto tax reform — House Ways and Means circulated 7 draft bills including small-transaction relief, mining, and staking rules ahead of a hearing next week; could materially reduce retail friction if passed"
   ],
   "news": [
     {
       "source": "coindesk.com",
       "headlines": [
+        "Russia sanctions British teenager for alleging A7A5 use in funding Ukraine war",
+        "OCC chief says Democrats applying sole political pressure in World Liberty charter choice",
+        "Crypto Clarity Act in spotlight for bad-actor provisions as Senate process grinds forward",
         "Disciplined AI agents are the disruptor needed to break the exchange churn model",
         "What American crypto asset perpetuals mean for the future of crypto",
         "How to better understand bitcoin's perpetual identity crisis",
         "Why tokenization is an ETF-style market structure revolution",
-        "Crypto's worst two-day liquidation in months deepens as investors chase the AI trade elsewhere",
-        "JPMorgan sees shrinking window for U.S. crypto market structure overhaul",
-        "Standard Chartered's three 'Ifs' that stand between bitcoin and a market low: Crypto Daily",
-        "Russia sanctions British teenager for alleging A7A5 use in funding Ukraine war"
+        "Here's what could happen if bitcoin breaks below $60,000"
       ]
     }
   ]
