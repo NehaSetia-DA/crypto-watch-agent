@@ -11,6 +11,32 @@ No investment advice — this surfaces what's happening, you read it.
 
 <!-- new briefs go here, between this marker and the previous entry -->
 
+## 2026-06-08
+
+**Movement** — bitcoin $62,977 ↗ +0.88%, ethereum $1,663 ↗ +3.00%, solana $66 ↗ +1.58%
+
+All three watchlist coins extended last week's recovery: bitcoin settled at $62,977 (+0.88%), ethereum outpaced it at +3.00%, and solana added 1.58%, even as Iran-Israel exchange of strikes briefly pulled BTC back from intraday highs of $63,700 per CoinDesk. The rebound faces diverging institutional signals — NYDIG's Greg Cipolaro cited overlapping headwinds (AI rotation, tech IPOs, quantum fears, Strategy sale anxiety) with no single root cause, while ETF outflows at the $60,000 level stand in sharp contrast to February's institutional dip-buying per CoinDesk. On the structural side, Goldman Sachs launched a tokenized real estate fund with Apex and Archax, Securitize cleared NYSE listing approval, and Abra's CEO declared tokenized yield products the next major crypto driver.
+
+**Worth watching**
+- Strategy (MSTR) — Michael Saylor hinted at "adding more dots" on his BTC purchase chart as scrutiny grows; a fresh buy at these levels would be a major sentiment signal per CoinDesk
+- Meta USDC creator payments — Meta paying creators in stablecoin validates mainstream disbursement use, but the fiat off-ramp gap remains unresolved per CoinDesk; could pressure payment rails to catch up
+- Monero (XMR) — after AI uncovered Zcash's 4-year Orchard bug, researcher Taylor Hornby added Monero to his audit queue; privacy coin security risk is actively broadening per CoinDesk
+
+<details><summary>8 headlines</summary>
+
+- [OCC chief says Democrats applying sole political pressure in World Liberty charter choice](https://www.coindesk.com/policy/2026/06/04/occ-chief-says-democrats-applying-sole-political-pressure-in-world-liberty-charter-choice)
+- [Crypto Clarity Act in spotlight for bad-actor provisions as Senate process grinds forward](https://www.coindesk.com/policy/2026/06/04/crypto-clarity-act-in-spotlight-for-bad-actor-provisions-as-senate-process-grinds-forward)
+- [U.S. House tax committee weighs crypto bills, including relief for small transactions](https://www.coindesk.com/policy/2026/06/05/u-s-house-tax-committee-weighs-crypto-bills-including-relief-for-small-transactions)
+- [What American crypto asset perpetuals mean for the future of crypto](https://www.coindesk.com/opinion/2026/05/29/what-american-crypto-asset-perpetuals-mean-for-the-future-of-crypto)
+- [How to better understand bitcoin's perpetual identity crisis](https://www.coindesk.com/opinion/2026/06/02/how-to-better-understand-bitcoin-s-perpetual-identity-crisis)
+- [Why tokenization is an ETF-style market structure revolution](https://www.coindesk.com/opinion/2026/06/04/why-tokenization-is-an-etf-style-market-structure-revolution)
+- [Meta is paying creators in Stablecoins. Spending them is someone else's problem](https://www.coindesk.com/opinion/2026/06/06/meta-is-paying-creators-in-stablecoins-spending-them-is-someone-else-s-problem)
+- [WLD plunges 20% as Hayes dumps token a day after saying he would keep holding it](https://www.coindesk.com/markets/2026/06/06/wld-plunges-20-as-hayes-dumps-token-a-day-after-saying-he-would-keep-holding-it)
+
+</details>
+
+---
+
 ## 2026-06-07
 
 **Movement** — bitcoin $62,107 ↗ +1.78%, ethereum $1,611 ↗ +2.38%, solana $65 ↗ +3.72%

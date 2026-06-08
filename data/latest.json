@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-06-07T07:15:37.791372Z",
+  "generated_at": "2026-06-08T08:30:00Z",
   "prices": [
-    {"id": "bitcoin", "usd": 62107, "change_24h": 1.7759471353511773},
-    {"id": "ethereum", "usd": 1610.73, "change_24h": 2.3760580398090774},
-    {"id": "solana", "usd": 64.84, "change_24h": 3.7173741058798364}
+    {"id": "bitcoin", "usd": 62977, "change_24h": 0.8750877578902158},
+    {"id": "ethereum", "usd": 1663.12, "change_24h": 2.998252902401301},
+    {"id": "solana", "usd": 65.66, "change_24h": 1.5767220466795093}
   ],
-  "narrative": "All three watchlist coins bounced Sunday: bitcoin reclaimed $62,000 after dipping to $59,227 on Friday — its lowest since October 2024 — as spot BTC and ETH ETFs ended their record outflow streaks of 13 and 17 consecutive sessions respectively with small net inflows per CoinDesk. The macro pressure from Friday's blowout jobs report eased over the weekend while institutional infrastructure buildout continued: JPMorgan, Bank of America, and Citi announced a shared tokenized settlement network, and Securitize cleared SEC approval to list on the NYSE. Bitcoin maximalists including Saylor, Greenspan, and Lopp attributed the selloff to AI capital rotation rather than fundamentals per CoinDesk, lending some support to today's recovery.",
+  "narrative": "All three watchlist coins extended last week's recovery: bitcoin settled at $62,977 (+0.88%), ethereum outpaced it at +3.00%, and solana added 1.58%, even as Iran-Israel exchange of strikes briefly pulled BTC back from intraday highs of $63,700 per CoinDesk. The rebound faces diverging institutional signals — NYDIG's Greg Cipolaro cited overlapping headwinds (AI rotation, tech IPOs, quantum fears, Strategy sale anxiety) with no single root cause, while ETF outflows at the $60,000 level stand in sharp contrast to February's institutional dip-buying per CoinDesk. On the structural side, Goldman Sachs launched a tokenized real estate fund with Apex and Archax, Securitize cleared NYSE listing approval, and Abra's CEO declared tokenized yield products the next major crypto driver.",
   "worth_watching": [
-    "Zcash (ZEC) — crashed 37-40% after an AI model uncovered a 4-year Orchard Pool bug enabling potential counterfeit token minting; Arthur Hayes dumped holdings and researchers warn similar flaws may hide across other privacy chains",
-    "JPMorgan/BofA/Citi tokenized network — America's three largest banks announced a shared blockchain settlement platform launching next year as a defensive move against stablecoin deposit erosion; could reshape institutional settlement infrastructure",
-    "House crypto tax reform — House Ways and Means circulated 7 draft bills including small-transaction relief, mining, and staking rules ahead of a hearing next week; could materially reduce retail friction if passed"
+    "Strategy (MSTR) — Michael Saylor hinted at 'adding more dots' on his BTC purchase chart as scrutiny grows; a fresh buy at these levels would be a major sentiment signal per CoinDesk",
+    "Meta USDC creator payments — Meta paying creators in stablecoin validates mainstream disbursement use, but the fiat off-ramp gap remains unresolved per CoinDesk; could pressure payment rails to catch up",
+    "Monero (XMR) — after AI uncovered Zcash's 4-year Orchard bug, researcher Taylor Hornby added Monero to his audit queue; privacy coin security risk is actively broadening per CoinDesk"
   ],
   "news": [
     {
       "source": "coindesk.com",
       "headlines": [
-        "Russia sanctions British teenager for alleging A7A5 use in funding Ukraine war",
         "OCC chief says Democrats applying sole political pressure in World Liberty charter choice",
         "Crypto Clarity Act in spotlight for bad-actor provisions as Senate process grinds forward",
-        "Disciplined AI agents are the disruptor needed to break the exchange churn model",
+        "U.S. House tax committee weighs crypto bills, including relief for small transactions",
         "What American crypto asset perpetuals mean for the future of crypto",
         "How to better understand bitcoin's perpetual identity crisis",
         "Why tokenization is an ETF-style market structure revolution",
-        "Here's what could happen if bitcoin breaks below $60,000"
+        "Meta is paying creators in Stablecoins. Spending them is someone else's problem",
+        "WLD plunges 20% as Hayes dumps token a day after saying he would keep holding it"
       ]
     }
   ]
