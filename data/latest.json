@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-06-09T07:10:00Z",
+  "generated_at": "2026-06-10T07:55:00Z",
   "prices": [
-    {"id": "bitcoin", "usd": 63266, "change_24h": 0.5935434121716592},
-    {"id": "ethereum", "usd": 1685.44, "change_24h": 1.2768034383844968},
-    {"id": "solana", "usd": 67.02, "change_24h": 2.39942541996499}
+    {"id": "bitcoin", "usd": 61663, "change_24h": -2.3658094961578695},
+    {"id": "ethereum", "usd": 1638.28, "change_24h": -2.412493116616382},
+    {"id": "solana", "usd": 64.54, "change_24h": -3.4729492007265423}
   ],
-  "narrative": "All three watchlist coins continued their post-crash recovery Monday, with bitcoin at $63,266 (+0.59%), ethereum +1.28%, and solana leading at +2.40%, building on Sunday's short-squeeze that erased $504 million in bearish bets per CoinDesk. Iran-Israel escalation briefly capped intraday gains at $63,700, but the dominant structural story remains tokenization: Goldman Sachs launched a tokenized real-estate fund with Apex and Archax, Securitize cleared SEC approval for a NYSE listing, and major U.S. banks are building tokenized deposit networks to compete with stablecoins per CoinDesk. On policy, the Clarity Act advances in the Senate while the House Ways and Means Committee circulated seven crypto tax bills including small-transaction relief.",
+  "narrative": "Yesterday's three-day recovery snapped as all watchlist coins resumed their decline Tuesday — bitcoin slid to $61,663 (-2.37%), ethereum to $1,638 (-2.41%), and solana dropped hardest at -3.47% — even as Strategy added 1,550 BTC and Bitmine bought 126,971 ETH on the dip per CoinDesk. Analysts at 10xResearch attribute the weakness to ETF selling driven by rising inflation expectations, with Wednesday's CPI data flagged as the next pivot; Iran-Israel tensions and SpaceX's IPO continue to compete for risk capital per CoinDesk. Tokenization kept attracting institutional moves despite the price slide: Bybit launched tokenized SpaceX IPO shares for retail, and America's largest banks advanced a shared tokenized deposit network to counter stablecoin growth per CoinDesk.",
   "worth_watching": [
-    "XRP — steadied above $1.10 from four-month lows on elevated volume with ETF inflows building; not on watchlist but repeatedly prominent in market coverage per CoinDesk",
-    "Cardano (ADA) — fell to four-year price lows below $0.20 while social activity hit a 2026 peak, with Hoskinson warning of a 'wave of failures' in the ecosystem per CoinDesk",
-    "SpaceX IPO (June 12) — Arthur Hayes cited a falling SpaceX chart when dumping WLD; the June 12 debut could trigger fresh crypto-to-IPO capital rotation per CoinDesk"
+    "Hyperliquid (HYPE) — Citrini Research, which triggered the recent AI stock meltdown, named Hyperliquid a 'compelling' idea citing real cash flow and a token buyback mechanism; gaining serious institutional attention per CoinDesk",
+    "Ethereum L2 consolidation — CoinDesk's Protocol Newsletter concluded many general-purpose L2s 'no longer have a reason to exist' as ETH slides; worth tracking which chains survive",
+    "SBF pardon petition — Sam Bankman-Fried formally petitioned Trump for clemency despite Trump telling him not to count on one per CoinDesk; outcome could reshape the crypto regulatory narrative"
   ],
   "news": [
     {
       "source": "coindesk.com",
       "headlines": [
-        "OCC chief says Democrats applying sole political pressure in World Liberty charter choice",
         "Crypto Clarity Act in spotlight for bad-actor provisions as Senate process grinds forward",
         "U.S. House tax committee weighs crypto bills, including relief for small transactions",
+        "A quick review of the Ways and Means tax bills: State of Crypto",
         "What American crypto asset perpetuals mean for the future of crypto",
-        "How to better understand bitcoin's perpetual identity crisis",
+        "How to better understand bitcoin’s perpetual identity crisis",
         "Why tokenization is an ETF-style market structure revolution",
         "Meta is paying creators in Stablecoins. Spending them is someone else's problem",
-        "WLD plunges 20% as Hayes dumps token a day after saying he would keep holding it"
+        "Gold slips below 200-day moving average offering glimmer of hope for bitcoin bulls"
       ]
     }
   ]

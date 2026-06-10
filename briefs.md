@@ -11,6 +11,32 @@ No investment advice — this surfaces what's happening, you read it.
 
 <!-- new briefs go here, between this marker and the previous entry -->
 
+## 2026-06-10
+
+**Movement** — bitcoin $61,663 ↘ -2.37%, ethereum $1,638 ↘ -2.41%, solana $65 ↘ -3.47%
+
+Yesterday's three-day recovery snapped as all watchlist coins resumed their decline Tuesday — bitcoin slid to $61,663 (-2.37%), ethereum to $1,638 (-2.41%), and solana dropped hardest at -3.47% — even as Strategy added 1,550 BTC and Bitmine bought 126,971 ETH on the dip per CoinDesk. Analysts at 10xResearch attribute the weakness to ETF selling driven by rising inflation expectations, with Wednesday's CPI data flagged as the next pivot; Iran-Israel tensions and SpaceX's IPO continue to compete for risk capital per CoinDesk. Tokenization kept attracting institutional moves despite the price slide: Bybit launched tokenized SpaceX IPO shares for retail, and America's largest banks advanced a shared tokenized deposit network to counter stablecoin growth per CoinDesk.
+
+**Worth watching**
+- Hyperliquid (HYPE) — Citrini Research, which triggered the recent AI stock meltdown, named Hyperliquid a "compelling" idea citing real cash flow and a token buyback mechanism; gaining serious institutional attention per CoinDesk
+- Ethereum L2 consolidation — CoinDesk's Protocol Newsletter concluded many general-purpose L2s "no longer have a reason to exist" as ETH slides; worth tracking which chains survive
+- SBF pardon petition — Sam Bankman-Fried formally petitioned Trump for clemency despite Trump telling him not to count on one per CoinDesk; outcome could reshape the crypto regulatory narrative
+
+<details><summary>8 headlines</summary>
+
+- [Crypto Clarity Act in spotlight for bad-actor provisions as Senate process grinds forward](https://www.coindesk.com/policy/2026/06/04/crypto-clarity-act-in-spotlight-for-bad-actor-provisions-as-senate-process-grinds-forward)
+- [U.S. House tax committee weighs crypto bills, including relief for small transactions](https://www.coindesk.com/policy/2026/06/05/u-s-house-tax-committee-weighs-crypto-bills-including-relief-for-small-transactions)
+- [A quick review of the Ways and Means tax bills: State of Crypto](https://www.coindesk.com/policy/2026/06/07/a-quick-review-of-the-ways-and-means-tax-bills-state-of-crypto)
+- [What American crypto asset perpetuals mean for the future of crypto](https://www.coindesk.com/opinion/2026/05/29/what-american-crypto-asset-perpetuals-mean-for-the-future-of-crypto)
+- [How to better understand bitcoin's perpetual identity crisis](https://www.coindesk.com/opinion/2026/06/02/how-to-better-understand-bitcoin-s-perpetual-identity-crisis)
+- [Why tokenization is an ETF-style market structure revolution](https://www.coindesk.com/opinion/2026/06/04/why-tokenization-is-an-etf-style-market-structure-revolution)
+- [Meta is paying creators in Stablecoins. Spending them is someone else's problem](https://www.coindesk.com/opinion/2026/06/06/meta-is-paying-creators-in-stablecoins-spending-them-is-someone-else-s-problem)
+- [Gold slips below 200-day moving average offering glimmer of hope for bitcoin bulls](https://www.coindesk.com/markets/2026/06/08/gold-slips-below-200-day-moving-average-offering-glimmer-of-hope-for-bitcoin-bulls)
+
+</details>
+
+---
+
 ## 2026-06-09
 
 **Movement** — bitcoin $63,266 ↗ +0.59%, ethereum $1,685 ↗ +1.28%, solana $67 ↗ +2.40%
