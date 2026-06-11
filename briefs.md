@@ -11,6 +11,32 @@ No investment advice — this surfaces what's happening, you read it.
 
 <!-- new briefs go here, between this marker and the previous entry -->
 
+## 2026-06-11
+
+**Movement** — bitcoin $62,737 ↗ +1.86%, ethereum $1,655 ↗ +1.17%, solana $65 ↗ +1.52%
+
+All three watchlist coins bounced 1–2% Thursday after soft core CPI data gave markets a brief lift per CoinDesk, but analysts warn bitcoin has entered a "deep bear-market valuation zone" as institutional buying — both ETF inflows and corporate treasury purchases — has collapsed from $500M/day to nearly zero per CoinDesk. On the policy front, U.S. House lawmakers raised concerns over seven crypto tax bills and critics flagged corruption gaps in the Clarity Act, while Japan's three largest banks announced plans for a joint stablecoin by March 2027 per CoinDesk. Prices and the structural demand picture diverge: the macro relief is real but institutional appetite remains thin.
+
+**Worth watching**
+- XRP — bounced above $1.10 with rising ETF inflows per CoinDesk; repeatedly prominent in market coverage but absent from the watchlist
+- Prediction markets (Kalshi/CFTC) — the CFTC just published the first proposed U.S. rule framework for prediction markets per CoinDesk; Kalshi is simultaneously requiring employer disclosure to fight insider trading
+- Onchain credit / tokenized RWA — Morpho raised $175M from a16z and Paradigm and Trad.Fi is targeting $650M in AI-evaluated private credit per CoinDesk; institutional capital flowing into DeFi credit infrastructure is accelerating
+
+<details><summary>8 headlines</summary>
+
+- [Sam Bankman-Fried officially asks Donald Trump for a presidential pardon](https://www.coindesk.com/policy/2026/06/08/sam-bankman-fried-officially-asks-donald-trump-for-a-presidential-pardon)
+- [U.K.'s FCA moves to allow mutual funds 10% exposure to crypto ETNs](https://www.coindesk.com/policy/2026/06/09/uk-financial-regulator-moves-to-allow-mutual-funds-10-exposure-to-crypto-etns)
+- [Crypto tax bills a work-in-progress as U.S. House lawmakers pose concerns](https://www.coindesk.com/policy/2026/06/09/crypto-tax-bills-a-work-in-progress-as-u-s-house-lawmakers-pose-concerns)
+- [Why tokenization is an ETF-style market structure revolution](https://www.coindesk.com/opinion/2026/06/04/why-tokenization-is-an-etf-style-market-structure-revolution)
+- [Meta is paying creators in Stablecoins. Spending them is someone else's problem](https://www.coindesk.com/opinion/2026/06/06/meta-is-paying-creators-in-stablecoins-spending-them-is-someone-else-s-problem)
+- [5 corruption gaps Congress must close in the Clarity Act](https://www.coindesk.com/opinion/2026/06/09/5-corruption-gaps-congress-must-close-in-the-clarity-act)
+- [The quantum clock is ticking: it's Bitcoin's problem, not Ethereum's](https://www.coindesk.com/opinion/2026/06/10/the-quantum-clock-is-ticking-it-s-bitcoin-s-problem-not-ethereum-s)
+- [Japan's three largest banks eye joint stablecoin issue by March 2027](https://www.coindesk.com/business/2026/06/10/japan-s-three-largest-banks-aim-for-joint-stablecoin-issue-by-march)
+
+</details>
+
+---
+
 ## 2026-06-10
 
 **Movement** — bitcoin $61,663 ↘ -2.37%, ethereum $1,638 ↘ -2.41%, solana $65 ↘ -3.47%

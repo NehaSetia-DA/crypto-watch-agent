@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-06-10T07:55:00Z",
+  "generated_at": "2026-06-11T08:30:00Z",
   "prices": [
-    {"id": "bitcoin", "usd": 61663, "change_24h": -2.3658094961578695},
-    {"id": "ethereum", "usd": 1638.28, "change_24h": -2.412493116616382},
-    {"id": "solana", "usd": 64.54, "change_24h": -3.4729492007265423}
+    {"id": "bitcoin", "usd": 62737, "change_24h": 1.8593147999901558},
+    {"id": "ethereum", "usd": 1655.49, "change_24h": 1.1709933558404297},
+    {"id": "solana", "usd": 65.1, "change_24h": 1.5163318361403324}
   ],
-  "narrative": "Yesterday's three-day recovery snapped as all watchlist coins resumed their decline Tuesday — bitcoin slid to $61,663 (-2.37%), ethereum to $1,638 (-2.41%), and solana dropped hardest at -3.47% — even as Strategy added 1,550 BTC and Bitmine bought 126,971 ETH on the dip per CoinDesk. Analysts at 10xResearch attribute the weakness to ETF selling driven by rising inflation expectations, with Wednesday's CPI data flagged as the next pivot; Iran-Israel tensions and SpaceX's IPO continue to compete for risk capital per CoinDesk. Tokenization kept attracting institutional moves despite the price slide: Bybit launched tokenized SpaceX IPO shares for retail, and America's largest banks advanced a shared tokenized deposit network to counter stablecoin growth per CoinDesk.",
+  "narrative": "All three watchlist coins bounced 1–2% Thursday after soft core CPI data gave markets a brief lift per CoinDesk, but analysts warn bitcoin has entered a \"deep bear-market valuation zone\" as institutional buying — both ETF inflows and corporate treasury purchases — has collapsed from $500M/day to nearly zero per CoinDesk. On the policy front, U.S. House lawmakers raised concerns over seven crypto tax bills and critics flagged corruption gaps in the Clarity Act, while Japan's three largest banks announced plans for a joint stablecoin by March 2027 per CoinDesk. Prices and the structural demand picture diverge: the macro relief is real but institutional appetite remains thin.",
   "worth_watching": [
-    "Hyperliquid (HYPE) — Citrini Research, which triggered the recent AI stock meltdown, named Hyperliquid a 'compelling' idea citing real cash flow and a token buyback mechanism; gaining serious institutional attention per CoinDesk",
-    "Ethereum L2 consolidation — CoinDesk's Protocol Newsletter concluded many general-purpose L2s 'no longer have a reason to exist' as ETH slides; worth tracking which chains survive",
-    "SBF pardon petition — Sam Bankman-Fried formally petitioned Trump for clemency despite Trump telling him not to count on one per CoinDesk; outcome could reshape the crypto regulatory narrative"
+    "XRP — bounced above $1.10 with rising ETF inflows per CoinDesk; repeatedly prominent in market coverage but absent from the watchlist",
+    "Prediction markets (Kalshi/CFTC) — the CFTC just published the first proposed U.S. rule framework for prediction markets per CoinDesk; Kalshi is simultaneously requiring employer disclosure to fight insider trading",
+    "Onchain credit / tokenized RWA — Morpho raised $175M from a16z and Paradigm and Trad.Fi is targeting $650M in AI-evaluated private credit per CoinDesk; institutional capital flowing into DeFi credit infrastructure is accelerating"
   ],
   "news": [
     {
       "source": "coindesk.com",
       "headlines": [
-        "Crypto Clarity Act in spotlight for bad-actor provisions as Senate process grinds forward",
-        "U.S. House tax committee weighs crypto bills, including relief for small transactions",
-        "A quick review of the Ways and Means tax bills: State of Crypto",
-        "What American crypto asset perpetuals mean for the future of crypto",
-        "How to better understand bitcoin’s perpetual identity crisis",
+        "Sam Bankman-Fried officially asks Donald Trump for a presidential pardon",
+        "U.K.'s FCA moves to allow mutual funds 10% exposure to crypto ETNs",
+        "Crypto tax bills a work-in-progress as U.S. House lawmakers pose concerns",
         "Why tokenization is an ETF-style market structure revolution",
         "Meta is paying creators in Stablecoins. Spending them is someone else's problem",
-        "Gold slips below 200-day moving average offering glimmer of hope for bitcoin bulls"
+        "5 corruption gaps Congress must close in the Clarity Act",
+        "The quantum clock is ticking: it's Bitcoin's problem, not Ethereum's",
+        "Japan's three largest banks eye joint stablecoin issue by March 2027"
       ]
     }
   ]
