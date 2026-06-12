@@ -11,6 +11,32 @@ No investment advice — this surfaces what's happening, you read it.
 
 <!-- new briefs go here, between this marker and the previous entry -->
 
+## 2026-06-12
+
+**Movement** — bitcoin $63,065 ↗ +0.56%, ethereum $1,661 ↗ +0.37%, solana $66 ↗ +2.11%
+
+Crypto firmed across the board Friday as Trump signaled an end to the Iran conflict, pulling oil lower and lifting global risk assets — bitcoin traders now eye $75,000 while Japan is set to hike rates to a 31-year high per CoinDesk. SpaceX priced its $75 billion IPO overnight — the largest in history — and its stock also listed simultaneously on Solana, with the crypto-traded perpetual surging toward a $2.4 trillion implied valuation per CoinDesk. The relief rally masks thin fundamentals: Sygnum's CIO says ETF outflows stem from arbitrage unwinds rather than IPO rotation, and institutional BTC buying has collapsed from $500M/day to near-zero per CoinDesk.
+
+**Worth watching**
+- SpaceX stock on Solana (SPCX) — SpaceX equity now tokenized and trading on Solana simultaneously with its Nasdaq debut, creating a live test of bridged tokenized equity for retail per CoinDesk; absent from watchlist but central to today's market narrative
+- AI agent accounts — Coinbase launched accounts letting AI agents like ChatGPT and Claude trade and spend autonomously, joined by MetaMask's AI agent wallet and Mastercard's agentic commerce platform per CoinDesk; the agentic crypto stack is rapidly taking shape
+- Japan crypto legislation — parliament poised to pass a sweeping bill regulating crypto like stocks (effective 2027) as its three largest banks plan a joint stablecoin by March 2027 per CoinDesk; Japan rate hike to 31-year high adds macro weight
+
+<details><summary>8 headlines</summary>
+
+- [Philippines' central bank complicates Binance's return to the country](https://www.coindesk.com/policy/2026/06/11/philippines-central-bank-says-binance-and-its-local-partner-lack-licenses-to-operate)
+- [Japan's parliament poised to pass sweeping bill to regulate crypto like stocks](https://www.coindesk.com/policy/2026/06/11/japan-passes-sweeping-bill-regulating-crypto-like-stocks-with-lower-taxes-to-drive-growth)
+- [Why tokenization is an ETF-style market structure revolution](https://www.coindesk.com/opinion/2026/06/04/why-tokenization-is-an-etf-style-market-structure-revolution)
+- [Meta is paying creators in Stablecoins. Spending them is someone else's problem](https://www.coindesk.com/opinion/2026/06/06/meta-is-paying-creators-in-stablecoins-spending-them-is-someone-else-s-problem)
+- [5 corruption gaps Congress must close in the Clarity Act](https://www.coindesk.com/opinion/2026/06/09/5-corruption-gaps-congress-must-close-in-the-clarity-act)
+- [The quantum clock is ticking: it's Bitcoin's problem, not Ethereum's](https://www.coindesk.com/opinion/2026/06/10/the-quantum-clock-is-ticking-it-s-bitcoin-s-problem-not-ethereum-s)
+- [As SpaceX IPO approaches, Polymarket, Ventuals assign $2 trillion valuation: Crypto Daily](https://www.coindesk.com/daybook-us/2026/06/11/as-spacex-ipo-approaches-polymarket-ventuals-assign-usd2-trillion-valuation-onchain)
+- [Michael Saylor says Mnav is just one metric as Strategy dilution debate continues](https://www.coindesk.com/markets/2026/06/11/michael-saylor-and-jack-mallers-go-toe-to-toe-over-strategy-s-bitcoin-reporting-metrics)
+
+</details>
+
+---
+
 ## 2026-06-11
 
 **Movement** — bitcoin $62,737 ↗ +1.86%, ethereum $1,655 ↗ +1.17%, solana $65 ↗ +1.52%

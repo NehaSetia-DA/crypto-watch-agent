@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-06-11T08:30:00Z",
+  "generated_at": "2026-06-12T08:30:00Z",
   "prices": [
-    {"id": "bitcoin", "usd": 62737, "change_24h": 1.8593147999901558},
-    {"id": "ethereum", "usd": 1655.49, "change_24h": 1.1709933558404297},
-    {"id": "solana", "usd": 65.1, "change_24h": 1.5163318361403324}
+    {"id": "bitcoin", "usd": 63065, "change_24h": 0.5639981421062248},
+    {"id": "ethereum", "usd": 1660.63, "change_24h": 0.37090407468734327},
+    {"id": "solana", "usd": 66.31, "change_24h": 2.110115598381581}
   ],
-  "narrative": "All three watchlist coins bounced 1–2% Thursday after soft core CPI data gave markets a brief lift per CoinDesk, but analysts warn bitcoin has entered a \"deep bear-market valuation zone\" as institutional buying — both ETF inflows and corporate treasury purchases — has collapsed from $500M/day to nearly zero per CoinDesk. On the policy front, U.S. House lawmakers raised concerns over seven crypto tax bills and critics flagged corruption gaps in the Clarity Act, while Japan's three largest banks announced plans for a joint stablecoin by March 2027 per CoinDesk. Prices and the structural demand picture diverge: the macro relief is real but institutional appetite remains thin.",
+  "narrative": "Crypto firmed across the board Friday as Trump signaled an end to the Iran conflict, pulling oil lower and lifting global risk assets — bitcoin traders now eye $75,000 while Japan is set to hike rates to a 31-year high per CoinDesk. SpaceX priced its $75 billion IPO overnight — the largest in history — and its stock also listed simultaneously on Solana, with the crypto-traded perpetual surging toward a $2.4 trillion implied valuation per CoinDesk. The relief rally masks thin fundamentals: Sygnum's CIO says ETF outflows stem from arbitrage unwinds rather than IPO rotation, and institutional BTC buying has collapsed from $500M/day to near-zero per CoinDesk.",
   "worth_watching": [
-    "XRP — bounced above $1.10 with rising ETF inflows per CoinDesk; repeatedly prominent in market coverage but absent from the watchlist",
-    "Prediction markets (Kalshi/CFTC) — the CFTC just published the first proposed U.S. rule framework for prediction markets per CoinDesk; Kalshi is simultaneously requiring employer disclosure to fight insider trading",
-    "Onchain credit / tokenized RWA — Morpho raised $175M from a16z and Paradigm and Trad.Fi is targeting $650M in AI-evaluated private credit per CoinDesk; institutional capital flowing into DeFi credit infrastructure is accelerating"
+    "SpaceX stock on Solana (SPCX) — SpaceX equity now tokenized and trading on Solana simultaneously with its Nasdaq debut, creating a live test of bridged tokenized equity for retail per CoinDesk; absent from watchlist but central to today's market narrative",
+    "AI agent accounts — Coinbase launched accounts letting AI agents like ChatGPT and Claude trade and spend autonomously, joined by MetaMask's AI agent wallet and Mastercard's agentic commerce platform per CoinDesk; the agentic crypto stack is rapidly taking shape",
+    "Japan crypto legislation — parliament poised to pass a sweeping bill regulating crypto like stocks (effective 2027) as its three largest banks plan a joint stablecoin by March 2027 per CoinDesk; Japan rate hike to 31-year high adds macro weight"
   ],
   "news": [
     {
       "source": "coindesk.com",
       "headlines": [
-        "Sam Bankman-Fried officially asks Donald Trump for a presidential pardon",
-        "U.K.'s FCA moves to allow mutual funds 10% exposure to crypto ETNs",
-        "Crypto tax bills a work-in-progress as U.S. House lawmakers pose concerns",
+        "Philippines' central bank complicates Binance's return to the country",
+        "Japan’s parliament poised to pass sweeping bill to regulate crypto like stocks",
         "Why tokenization is an ETF-style market structure revolution",
         "Meta is paying creators in Stablecoins. Spending them is someone else's problem",
         "5 corruption gaps Congress must close in the Clarity Act",
-        "The quantum clock is ticking: it's Bitcoin's problem, not Ethereum's",
-        "Japan's three largest banks eye joint stablecoin issue by March 2027"
+        "The quantum clock is ticking: it’s Bitcoin’s problem, not Ethereum’s",
+        "As SpaceX IPO approaches, Polymarket, Ventuals assign $2 trillion valuation: Crypto Daily",
+        "Michael Saylor says Mnav is just one metric as Strategy dilution debate continues"
       ]
     }
   ]
