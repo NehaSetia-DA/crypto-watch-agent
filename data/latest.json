@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-06-12T08:30:00Z",
+  "generated_at": "2026-06-13T07:15:00Z",
   "prices": [
-    {"id": "bitcoin", "usd": 63065, "change_24h": 0.5639981421062248},
-    {"id": "ethereum", "usd": 1660.63, "change_24h": 0.37090407468734327},
-    {"id": "solana", "usd": 66.31, "change_24h": 2.110115598381581}
+    {"id": "bitcoin", "usd": 63665, "change_24h": 1.037573812289503},
+    {"id": "ethereum", "usd": 1667.85, "change_24h": 0.5492649501096167},
+    {"id": "solana", "usd": 67.0, "change_24h": 1.1803480424298183}
   ],
-  "narrative": "Crypto firmed across the board Friday as Trump signaled an end to the Iran conflict, pulling oil lower and lifting global risk assets — bitcoin traders now eye $75,000 while Japan is set to hike rates to a 31-year high per CoinDesk. SpaceX priced its $75 billion IPO overnight — the largest in history — and its stock also listed simultaneously on Solana, with the crypto-traded perpetual surging toward a $2.4 trillion implied valuation per CoinDesk. The relief rally masks thin fundamentals: Sygnum's CIO says ETF outflows stem from arbitrage unwinds rather than IPO rotation, and institutional BTC buying has collapsed from $500M/day to near-zero per CoinDesk.",
+  "narrative": "All three watchlist coins extended their Iran de-escalation recovery Saturday — bitcoin climbed to $63,665 and traders eye $75,000 as Trump ceasefire signals and SpaceX's record-breaking $75 billion IPO lifted global risk assets per CoinDesk. The post-IPO story has a crypto dimension: SpaceX stock launched simultaneously on Solana alongside its Nasdaq debut, while Citi opened tokenized private-market access and Canton Network raised $355 million to bring capital markets onchain per CoinDesk. The uptick masks thin institutional demand — Sygnum's CIO attributes recent bitcoin ETF outflows to arbitrage unwinds rather than IPO rotation, and analysts warn bitcoin has entered a \"deep bear-market valuation zone\" per CoinDesk.",
   "worth_watching": [
-    "SpaceX stock on Solana (SPCX) — SpaceX equity now tokenized and trading on Solana simultaneously with its Nasdaq debut, creating a live test of bridged tokenized equity for retail per CoinDesk; absent from watchlist but central to today's market narrative",
-    "AI agent accounts — Coinbase launched accounts letting AI agents like ChatGPT and Claude trade and spend autonomously, joined by MetaMask's AI agent wallet and Mastercard's agentic commerce platform per CoinDesk; the agentic crypto stack is rapidly taking shape",
-    "Japan crypto legislation — parliament poised to pass a sweeping bill regulating crypto like stocks (effective 2027) as its three largest banks plan a joint stablecoin by March 2027 per CoinDesk; Japan rate hike to 31-year high adds macro weight"
+    "BlackRock income-paying bitcoin ETF — iShares Bitcoin Premium Income ETF nears launch, generating yield by selling call options on IBIT at a fee that undercuts rivals per CoinDesk; a new income structure on spot bitcoin not yet in watchlist metrics",
+    "LG Electronics onchain (Arbitrum) — LG built a blockchain-based advertising platform with Arbitrum per CoinDesk; a major consumer brand integrating blockchain for real commercial infrastructure",
+    "Prediction markets regulation — Former SEC/CFTC chair Gensler argued prediction markets can't preempt state laws while the CFTC issued its first proposed rule for such contracts per CoinDesk; outcome shapes whether these platforms can scale in the U.S."
   ],
   "news": [
     {
