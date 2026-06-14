@@ -11,6 +11,32 @@ No investment advice — this surfaces what's happening, you read it.
 
 <!-- new briefs go here, between this marker and the previous entry -->
 
+## 2026-06-14
+
+**Movement** — bitcoin $64,404 ↗ +0.98%, ethereum $1,675 → -0.01%, solana $68 ↗ +1.23%
+
+Bitcoin climbed to $64,404 on its strongest ETF inflows since May 14 per CoinDesk, with Standard Chartered calling $59,000 the cycle bottom and Saylor noting 25% of his newly coined "Mag8" tech giants now hold BTC on the balance sheet. Institutional infrastructure kept expanding: Citi opened tokenized private-market equity access, DBS launched tokenized gold for retail, and Canton Network raised $355 million to bring capital markets onchain per CoinDesk. SBF's criminal conviction appeal was unanimously rejected by the appeals court, and the quantum computing risk debate is sharpening — two CoinDesk pieces this week argue Bitcoin has more to lose than Ethereum from the post-quantum upgrade challenge.
+
+**Worth watching**
+- Monero (XMR) — spiked 33% to $438 amid a $120M onchain laundering case traced by ZachXBT, then Tether froze $72M per CoinDesk; a privacy coin not on the watchlist now attracting law-enforcement and market attention
+- Quantum computing / Bitcoin vulnerability — Citi analysts and a Coinbase-convened panel debated Bitcoin's quantum exposure vs. Ethereum's this week; the panel can't agree on whether Satoshi's coins should eventually be frozen per CoinDesk
+- U.S. crypto-theft task force — bipartisan House bill would create a multi-agency group under the AG to lead on crypto theft and hack cases per CoinDesk; would materially reshape how exchange hacks and laundering are prosecuted
+
+<details><summary>8 headlines</summary>
+
+- [U.S. House bill would erect crypto-theft task force across law enforcement agencies](https://www.coindesk.com/policy/2026/06/10/u-s-house-bill-would-erect-crypto-theft-task-force-across-law-enforcement-agencies)
+- [Former SEC, CFTC Chair Gary Gensler argues that prediction markets don't overrule state regulations](https://www.coindesk.com/policy/2026/06/12/former-sec-cftc-chair-gary-gensler-argues-that-prediction-markets-don-t-overrule-state-regulations)
+- [FTX's Sam Bankman-Fried loses appeal of criminal conviction on fraud, conspiracy charges](https://www.coindesk.com/policy/2026/06/12/ftx-s-sam-bankman-fried-loses-appeal-of-criminal-conviction-on-fraud-conspiracy-charges)
+- [5 corruption gaps Congress must close in the Clarity Act](https://www.coindesk.com/opinion/2026/06/09/5-corruption-gaps-congress-must-close-in-the-clarity-act)
+- [The quantum clock is ticking: it's Bitcoin's problem, not Ethereum's](https://www.coindesk.com/opinion/2026/06/10/the-quantum-clock-is-ticking-it-s-bitcoin-s-problem-not-ethereum-s)
+- [The U.S. government is betting $2 Billion on quantum computing, and the defense side can't keep up](https://www.coindesk.com/opinion/2026/06/12/the-u-s-government-is-betting-usd2-billion-on-quantum-computing-and-the-defense-side-can-t-keep-up)
+- [Stablecoins Were Meant to Disrupt Finance. Instead, They Became Idle Cash.](https://www.coindesk.com/opinion/2026/06/13/stablecoins-were-meant-to-disrupt-finance-instead-they-became-idle-cash)
+- [Kalshi's crypto perpetuals spark debate over whether they're futures or swaps](https://www.coindesk.com/policy/2026/06/12/kalshi-s-crypto-perpetuals-spark-debate-over-whether-they-re-futures-or-swaps)
+
+</details>
+
+---
+
 ## 2026-06-13
 
 **Movement** — bitcoin $63,665 ↗ +1.04%, ethereum $1,668 ↗ +0.55%, solana $67 ↗ +1.18%

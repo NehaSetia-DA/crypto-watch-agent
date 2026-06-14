@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-06-13T07:15:00Z",
+  "generated_at": "2026-06-14T08:00:00Z",
   "prices": [
-    {"id": "bitcoin", "usd": 63665, "change_24h": 1.037573812289503},
-    {"id": "ethereum", "usd": 1667.85, "change_24h": 0.5492649501096167},
-    {"id": "solana", "usd": 67.0, "change_24h": 1.1803480424298183}
+    {"id": "bitcoin", "usd": 64404, "change_24h": 0.9763255979194443},
+    {"id": "ethereum", "usd": 1675.41, "change_24h": -0.014052688888090858},
+    {"id": "solana", "usd": 68.18, "change_24h": 1.225217186696795}
   ],
-  "narrative": "All three watchlist coins extended their Iran de-escalation recovery Saturday — bitcoin climbed to $63,665 and traders eye $75,000 as Trump ceasefire signals and SpaceX's record-breaking $75 billion IPO lifted global risk assets per CoinDesk. The post-IPO story has a crypto dimension: SpaceX stock launched simultaneously on Solana alongside its Nasdaq debut, while Citi opened tokenized private-market access and Canton Network raised $355 million to bring capital markets onchain per CoinDesk. The uptick masks thin institutional demand — Sygnum's CIO attributes recent bitcoin ETF outflows to arbitrage unwinds rather than IPO rotation, and analysts warn bitcoin has entered a \"deep bear-market valuation zone\" per CoinDesk.",
+  "narrative": "Bitcoin climbed to $64,404 on its strongest ETF inflows since May 14 per CoinDesk, with Standard Chartered calling $59,000 the cycle bottom and Saylor noting 25% of his newly coined 'Mag8' tech giants now hold BTC on the balance sheet. Institutional infrastructure kept expanding: Citi opened tokenized private-market equity access, DBS launched tokenized gold for retail, and Canton Network raised $355 million to bring capital markets onchain per CoinDesk. SBF's criminal conviction appeal was unanimously rejected by the appeals court, and the quantum computing risk debate is sharpening — two CoinDesk pieces this week argue Bitcoin has more to lose than Ethereum from the post-quantum upgrade challenge.",
   "worth_watching": [
-    "BlackRock income-paying bitcoin ETF — iShares Bitcoin Premium Income ETF nears launch, generating yield by selling call options on IBIT at a fee that undercuts rivals per CoinDesk; a new income structure on spot bitcoin not yet in watchlist metrics",
-    "LG Electronics onchain (Arbitrum) — LG built a blockchain-based advertising platform with Arbitrum per CoinDesk; a major consumer brand integrating blockchain for real commercial infrastructure",
-    "Prediction markets regulation — Former SEC/CFTC chair Gensler argued prediction markets can't preempt state laws while the CFTC issued its first proposed rule for such contracts per CoinDesk; outcome shapes whether these platforms can scale in the U.S."
+    "Monero (XMR) — spiked 33% to $438 amid a $120M onchain laundering case traced by ZachXBT, then Tether froze $72M per CoinDesk; a privacy coin not on the watchlist now attracting law-enforcement and market attention",
+    "Quantum computing / Bitcoin vulnerability — Citi analysts and a Coinbase-convened panel debated Bitcoin's quantum exposure vs. Ethereum's this week; the panel can't agree on whether Satoshi's coins should eventually be frozen per CoinDesk",
+    "U.S. crypto-theft task force — bipartisan House bill would create a multi-agency group under the AG to lead on crypto theft and hack cases per CoinDesk; would materially reshape how exchange hacks and laundering are prosecuted"
   ],
   "news": [
     {
       "source": "coindesk.com",
       "headlines": [
-        "Philippines' central bank complicates Binance's return to the country",
-        "Japan’s parliament poised to pass sweeping bill to regulate crypto like stocks",
-        "Why tokenization is an ETF-style market structure revolution",
-        "Meta is paying creators in Stablecoins. Spending them is someone else's problem",
+        "U.S. House bill would erect crypto-theft task force across law enforcement agencies",
+        "Former SEC, CFTC Chair Gary Gensler argues that prediction markets don't overrule state regulations",
+        "FTX's Sam Bankman-Fried loses appeal of criminal conviction on fraud, conspiracy charges",
         "5 corruption gaps Congress must close in the Clarity Act",
-        "The quantum clock is ticking: it’s Bitcoin’s problem, not Ethereum’s",
-        "As SpaceX IPO approaches, Polymarket, Ventuals assign $2 trillion valuation: Crypto Daily",
-        "Michael Saylor says Mnav is just one metric as Strategy dilution debate continues"
+        "The quantum clock is ticking: it's Bitcoin's problem, not Ethereum's",
+        "The U.S. government is betting $2 Billion on quantum computing, and the defense side can't keep up",
+        "Stablecoins Were Meant to Disrupt Finance. Instead, They Became Idle Cash.",
+        "Kalshi's crypto perpetuals spark debate over whether they're futures or swaps"
       ]
     }
   ]
