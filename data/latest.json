@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-06-15T09:41:00.000000Z",
+  "generated_at": "2026-06-16T09:41:00.000000Z",
   "prices": [
-    {"id": "bitcoin", "usd": 65492, "change_24h": 1.522339236075626},
-    {"id": "ethereum", "usd": 1713.11, "change_24h": 2.2203450249568593},
-    {"id": "solana", "usd": 70.83, "change_24h": 3.6708520487089933}
+    {"id": "bitcoin", "usd": 66790, "change_24h": 1.7403718544874733},
+    {"id": "ethereum", "usd": 1800.68, "change_24h": 4.716217961576428},
+    {"id": "solana", "usd": 75.34, "change_24h": 5.66918704467245}
   ],
-  "narrative": "All three coins rallied Monday as the US-Iran peace deal sent oil prices tumbling and redirected geopolitical risk premium into risk assets per CoinDesk — bitcoin popped above $65,500 intraday with solana leading the watchlist at +3.67%. The same macro shift introduces a near-term risk: Tuesday's BOJ rate decision arrives with yen shorts at a nine-year high, and a hawkish surprise could unwind yen carry trades that support risk assets per CoinDesk. Structural pressure continues underneath: centralized exchange volumes fell 11% to $4.61 trillion per CoinDesk, pushing exchanges to add stock-brokerage features to stem capital flight to traditional finance.",
+  "narrative": "Ethereum and solana outpaced bitcoin by a wide margin today — ETH up 4.72% and SOL up 5.67% vs BTC's 1.74% — as the Bank of Japan's 25bp rate hike to a 31-year high triggered a risk-on reaction rather than the carry-trade unwind traders had feared per CoinDesk. Sentiment turned visibly bullish: Standard Chartered's Geoffrey Kendrick declared \"crypto spring is here\" and Coinbase CEO Brian Armstrong said bitcoin likely bottomed near $60,000, while Strategy added 1,587 BTC and Bitmine added 76,881 ETH in the same session per CoinDesk. An ETF divergence emerged: bitcoin funds bled cash (driven by Grayscale's GBTC) while ether, XRP, solana, and Hyperliquid ETFs all attracted inflows per CoinDesk.",
   "worth_watching": [
-    "XRP — climbed 4% to $1.18 on the strongest buying activity in weeks per CoinDesk, testing the $1.20 resistance zone; not on the watchlist but supported by institutional flows and rising ETF demand",
-    "BOJ rate decision (Tuesday) — yen shorts at a nine-year high set up a potential short squeeze; a hawkish signal from the BOJ could unwind carry trades and pressure all risk assets per CoinDesk",
-    "U.S. perpetual futures — Kraken's derivatives head expects perps to become 'crypto's next ETF moment' per CoinDesk; the CFTC approval is now live and institutional adoption is beginning"
+    "XRP — rallied 10% to $1.25 before giving back gains on profit-taking; not on watchlist but ETF inflows and Asian demand are supporting each recovery attempt per CoinDesk",
+    "Kraken US perpetual futures — launched today after CFTC approval, moving the 'crypto's next ETF moment' from prediction to live product; institutional adoption timeline has started",
+    "Bitcoin/altcoin ETF divergence — GBTC drove BTC ETF outflows while ETH, SOL, XRP, and Hyperliquid ETFs all gained per CoinDesk; a rotation story worth tracking to see if it's structural or one-day"
   ],
   "news": [
     {
@@ -18,11 +18,11 @@
         "Former SEC, CFTC Chair Gary Gensler argues that prediction markets don't overrule state regulations",
         "FTX's Sam Bankman-Fried loses appeal of criminal conviction on fraud, conspiracy charges",
         "Kalshi's crypto perpetuals spark debate over whether they're futures or swaps",
-        "5 corruption gaps Congress must close in the Clarity Act",
         "The quantum clock is ticking: it's Bitcoin's problem, not Ethereum's",
         "The U.S. government is betting $2 Billion on quantum computing, and the defense side can't keep up",
         "Stablecoins Were Meant to Disrupt Finance. Instead, They Became Idle Cash.",
-        "Ripple wants AI agents to pay in XRP and RLUSD. The market is still mostly USDC"
+        "If America wants to lead in crypto, it must protect the people who build it",
+        "Bitcoin traders have a reason to watch Tuesday's BOJ rate decision. Yen shorts are at a nine-year high"
       ]
     }
   ]

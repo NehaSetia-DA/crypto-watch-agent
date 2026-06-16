@@ -11,6 +11,32 @@ No investment advice — this surfaces what's happening, you read it.
 
 <!-- new briefs go here, between this marker and the previous entry -->
 
+## 2026-06-16
+
+**Movement** — bitcoin $66,790 ↗ +1.74%, ethereum $1,801 ↗ +4.72%, solana $75 ↗ +5.67%
+
+Ethereum and solana outpaced bitcoin by a wide margin today — ETH up 4.72% and SOL up 5.67% vs BTC's 1.74% — as the Bank of Japan's 25bp rate hike to a 31-year high triggered a risk-on reaction rather than the carry-trade unwind traders had feared per CoinDesk. Sentiment turned visibly bullish: Standard Chartered's Geoffrey Kendrick declared "crypto spring is here" and Coinbase CEO Brian Armstrong said bitcoin likely bottomed near $60,000, while Strategy added 1,587 BTC and Bitmine added 76,881 ETH in the same session per CoinDesk. An ETF divergence emerged: bitcoin funds bled cash (driven by Grayscale's GBTC) while ether, XRP, solana, and Hyperliquid ETFs all attracted inflows per CoinDesk.
+
+**Worth watching**
+- XRP — rallied 10% to $1.25 before giving back gains on profit-taking; not on watchlist but ETF inflows and Asian demand are supporting each recovery attempt per CoinDesk
+- Kraken US perpetual futures — launched today after CFTC approval, moving the "crypto's next ETF moment" from prediction to live product; institutional adoption timeline has started
+- Bitcoin/altcoin ETF divergence — GBTC drove BTC ETF outflows while ETH, SOL, XRP, and Hyperliquid ETFs all gained per CoinDesk; a rotation story worth tracking to see if it's structural or one-day
+
+<details><summary>8 headlines</summary>
+
+- [Former SEC, CFTC Chair Gary Gensler argues that prediction markets don't overrule state regulations](https://www.coindesk.com/policy/2026/06/12/former-sec-cftc-chair-gary-gensler-argues-that-prediction-markets-don-t-overrule-state-regulations)
+- [FTX's Sam Bankman-Fried loses appeal of criminal conviction on fraud, conspiracy charges](https://www.coindesk.com/policy/2026/06/12/ftx-s-sam-bankman-fried-loses-appeal-of-criminal-conviction-on-fraud-conspiracy-charges)
+- [Kalshi's crypto perpetuals spark debate over whether they're futures or swaps](https://www.coindesk.com/policy/2026/06/12/kalshi-s-crypto-perpetuals-spark-debate-over-whether-they-re-futures-or-swaps)
+- [The quantum clock is ticking: it's Bitcoin's problem, not Ethereum's](https://www.coindesk.com/opinion/2026/06/10/the-quantum-clock-is-ticking-it-s-bitcoin-s-problem-not-ethereum-s)
+- [The U.S. government is betting $2 Billion on quantum computing, and the defense side can't keep up](https://www.coindesk.com/opinion/2026/06/12/the-u-s-government-is-betting-usd2-billion-on-quantum-computing-and-the-defense-side-can-t-keep-up)
+- [Stablecoins Were Meant to Disrupt Finance. Instead, They Became Idle Cash.](https://www.coindesk.com/opinion/2026/06/13/stablecoins-were-meant-to-disrupt-finance-instead-they-became-idle-cash)
+- [If America wants to lead in crypto, it must protect the people who build it](https://www.coindesk.com/opinion/2026/06/15/if-america-wants-to-lead-in-crypto-it-must-protect-the-people-who-build-it)
+- [Bitcoin traders have a reason to watch Tuesday's BOJ rate decision. Yen shorts are at a nine-year high](https://www.coindesk.com/markets/2026/06/15/bitcoin-traders-have-a-reason-to-watch-tuesday-s-boj-rate-decision-yen-shorts-are-at-a-nine-year-high)
+
+</details>
+
+---
+
 ## 2026-06-15
 
 **Movement** — bitcoin $65,492 ↗ +1.52%, ethereum $1,713 ↗ +2.22%, solana $71 ↗ +3.67%
