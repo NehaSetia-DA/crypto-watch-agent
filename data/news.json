@@ -1,43 +1,18 @@
 {
-  "job": "864818/1/20",
-  "fetched_at": "2026-06-16T09:06:59.247534Z",
-  "count": 69,
+  "job": "864818/1/21",
+  "fetched_at": "2026-06-17T08:39:13.668200Z",
+  "count": 65,
   "items": [
     {
-      "headline": "Former SEC, CFTC Chair Gary Gensler argues that prediction markets don't overrule state regulations",
-      "subheadline": "The former regulator joined a number of interest groups in arguing that prediction markets are overstepping their bounds by offering sports-related contracts.",
+      "headline": "Summer of crypto (regs): State of Crypto ",
+      "subheadline": "Lawmakers are debating taxes, the CFTC put out a prediction market proposal and court cases are heating up.",
       "section": "Policy",
-      "url": "https://www.coindesk.com/policy/2026/06/12/former-sec-cftc-chair-gary-gensler-argues-that-prediction-markets-don-t-overrule-state-regulations",
-      "date_published": "2026-06-12T06:27:20.306Z",
+      "url": "https://www.coindesk.com/policy/2026/06/14/summer-of-crypto-regs-state-of-crypto",
+      "date_published": "2026-06-14T18:30:00.000Z",
       "author": "Nikhilesh De",
       "tags": [
-        "Prediction Markets",
-        "Kalshi"
-      ]
-    },
-    {
-      "headline": "FTX's Sam Bankman-Fried loses appeal of criminal conviction on fraud, conspiracy charges",
-      "subheadline": "The onetime FTX CEO did not persuade a panel of judges that his trial was unfair, the appeals court panel ruled Friday.",
-      "section": "Policy",
-      "url": "https://www.coindesk.com/policy/2026/06/12/ftx-s-sam-bankman-fried-loses-appeal-of-criminal-conviction-on-fraud-conspiracy-charges",
-      "date_published": "2026-06-12T14:13:40.827Z",
-      "author": "Nikhilesh De",
-      "tags": [
-        "Sam Bankman-Fried",
-        "Breaking News"
-      ]
-    },
-    {
-      "headline": "Kalshi\u2019s crypto perpetuals spark debate over whether they\u2019re futures or swaps",
-      "subheadline": "A clash between derivatives veterans is exposing a deeper fight over how U.S. regulators should classify crypto perpetual contracts.",
-      "section": "Policy",
-      "url": "https://www.coindesk.com/policy/2026/06/12/kalshi-s-crypto-perpetuals-spark-debate-over-whether-they-re-futures-or-swaps",
-      "date_published": "2026-06-12T15:37:08.085Z",
-      "author": "AI Boost",
-      "tags": [
-        "Media Network Interview",
-        "Kalshi",
-        "Prediction Markets"
+        "Newsletters",
+        "State of Crypto"
       ]
     },
     {
@@ -88,15 +63,6 @@
       "headline": null,
       "subheadline": null,
       "section": "Press release",
-      "url": "https://www.coindesk.com/press-release/2026/05/15/hpx-launches-sealer2100-the-world-s-first-iris-recognition-hardware-wallet-and-stakes-10-btc-on-its-security",
-      "date_published": null,
-      "author": null,
-      "tags": []
-    },
-    {
-      "headline": null,
-      "subheadline": null,
-      "section": "Press release",
       "url": "https://www.coindesk.com/press-release/2026/06/11/io-net-to-burn-up-to-12m-tokens-as-network-closes-usd8m-deal-and-hits-4-billion-daily-ai-tokens",
       "date_published": null,
       "author": null,
@@ -112,34 +78,73 @@
       "tags": []
     },
     {
-      "headline": "Bitcoin traders have a reason to watch Tuesday's BOJ rate decision. Yen shorts are at a nine-year high",
-      "subheadline": "A large build-up of speculative short positions in the yen raises the risk of a sharp short squeeze if the BOJ signals more aggressive tightening, potentially unwinding yen-funded carry trades that support risk assets.",
+      "headline": null,
+      "subheadline": null,
+      "section": "Press release",
+      "url": "https://www.coindesk.com/press-release/2026/06/16/bitso-brings-together-global-leaders-in-digital-money-for-the-second-edition-of-stablecoin-conference",
+      "date_published": null,
+      "author": null,
+      "tags": []
+    },
+    {
+      "headline": "Mystery Polymarket trader turned $4 million into $9 million after Spain's shocking World Cup draw",
+      "subheadline": "A days-old account turned about $4 million into a $9 million profit betting against Spain, an anomaly trade that onchain sleuths are asking whether it was luck or inside information.",
       "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/06/15/bitcoin-traders-have-a-reason-to-watch-tuesday-s-boj-rate-decision-yen-shorts-are-at-a-nine-year-high",
-      "date_published": "2026-06-15T06:41:36.567Z",
+      "url": "https://www.coindesk.com/markets/2026/06/16/days-old-polymarket-account-scores-usd9-million-win-against-world-cup-favorite-spain",
+      "date_published": "2026-06-16T11:45:37.184Z",
+      "author": "Shaurya Malwa",
+      "tags": [
+        "Polymarket"
+      ]
+    },
+    {
+      "headline": "BlackRock launches bitcoin income fund as investors seek cash flow from crypto",
+      "subheadline": "After IBIT's $49 billion success, BlackRock says clients are increasingly seeking ways to earn income from long-term bitcoin holdings.",
+      "section": "Markets",
+      "url": "https://www.coindesk.com/markets/2026/06/16/blackrock-s-new-bitcoin-income-fund-offers-cash-flow-alongside-btc-exposure",
+      "date_published": "2026-06-16T12:00:00.000Z",
+      "author": "Helene Braun",
+      "tags": [
+        "ETFs",
+        "Bitcoin News",
+        "BlackRock"
+      ]
+    },
+    {
+      "headline": "This AI builds a business, runs it and settles payments in USDC",
+      "subheadline": "Text an idea. Get a business. That describes Y Combinator's latest AI.",
+      "section": "Tech",
+      "url": "https://www.coindesk.com/tech/2026/06/16/this-ai-builds-you-a-business-runs-it-and-settles-payments-in-usdc",
+      "date_published": "2026-06-16T12:55:23.308Z",
       "author": "Omkar Godbole",
       "tags": []
     },
     {
-      "headline": "Cathie Wood's Ark Invest bought 3.3 million SpaceX shares on its IPO day",
-      "subheadline": "The purchases were likely funded by selling other positions, data shows. ARK is also one of the loudest bitcoin bulls, with a million-dollar target for 2030.",
-      "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/06/15/ark-invest-bought-more-than-usd500-million-worth-of-spacex-shares-on-ipo-day",
-      "date_published": "2026-06-15T07:52:41.114Z",
-      "author": "Shaurya Malwa",
+      "headline": "CoinDesk 20 performance update: Uniswap (UNI) gains 12.9% while index trades lower",
+      "subheadline": "Stellar (XLM), up 2.7% from Monday, joined Uniswap (UNI) as a top performer.",
+      "section": "CoinDesk Indices",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/06/16/coindesk-20-performance-update-uniswap-uni-gains-12-9-while-index-trades-lower",
+      "date_published": "2026-06-16T13:15:01.751Z",
+      "author": "CoinDesk Indices",
       "tags": [
-        "Institutional Investors",
-        "SpaceX"
+        "CoinDesk Indices",
+        "CoinDesk 20",
+        "charts",
+        "Prices"
       ]
     },
     {
-      "headline": "Live updates: Bitcoin traders don't expect BTC to cross $75,000 as U.S.-Iran threats remain",
-      "subheadline": "Monetary policy may be back in focus, with Kevin Warsh's first policy meeting as Fed chairman coming this week.",
-      "section": "Tech",
-      "url": "https://www.coindesk.com/tech/2026/06/15/live-markets-bitcoin-not-fully-out-of-danger-as-trump-warns-of-further-iran-strikes",
-      "date_published": "2026-06-15T05:19:14.165Z",
-      "author": "Shaurya Malwa",
-      "tags": []
+      "headline": "Crypto tax bills a work-in-progress as U.S. House lawmakers pose concerns",
+      "subheadline": "The effort to push several tax bills is meant to be bipartisan, but the parties may not be comfortable with all details of the seven bills weighed by the panel.",
+      "section": "Policy",
+      "url": "https://www.coindesk.com/policy/2026/06/09/crypto-tax-bills-a-work-in-progress-as-u-s-house-lawmakers-pose-concerns",
+      "date_published": "2026-06-09T21:06:01.299Z",
+      "author": "Jesse Hamilton",
+      "tags": [
+        "Tax",
+        "Mining",
+        "Regulation"
+      ]
     },
     {
       "headline": "The Clarity Act won\u2019t lead to adoption without crypto tax reform",
@@ -154,73 +159,24 @@
       ]
     },
     {
-      "headline": "Ethereum (ETH) news: developers are exploring new token standards as privacy returns to focus",
-      "subheadline": "In this week's edition of The Protocol Newsletter, we're looking at where privacy is headed in the Ethereum ecosystem",
+      "headline": "LG Electronics is taking advertisements onchain. Arbitrum helped",
+      "subheadline": "LG Electronics has built a blockchain-based advertising platform with the help of Arbitrum. ",
       "section": "Tech",
-      "url": "https://www.coindesk.com/tech/2026/06/10/privacy-returns-to-focus-as-ethereum-developers-explore-new-token-standards",
-      "date_published": "2026-06-10T18:14:58.785Z",
-      "author": "Margaux Nijkerk",
+      "url": "https://www.coindesk.com/markets/2026/06/12/the-company-that-makes-your-tv-is-taking-ads-onchain-arbitrum-helped",
+      "date_published": "2026-06-12T05:35:25.233Z",
+      "author": "Omkar Godbole",
       "tags": [
-        "Ethereum News",
-        "Newsletters"
+        "Ethereum News"
       ]
     },
     {
-      "headline": "BTC price news: Bitcoin pops above $65,500 as the US-Iran deal sends oil sliding",
-      "subheadline": "A peace agreement that reopens the Strait of Hormuz pulled the geopolitical premium out of oil and put back into risk assets.",
+      "headline": "XRP gives back gains after 10% rally as traders take profit near $1.25",
+      "subheadline": "Asian demand and ETF inflows helped push XRP through $1.20, but the token struggled to hold its highs after running into fresh selling near a key resistance zone.",
       "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/06/15/bitcoin-hits-a-two-week-high-above-usd65-500-as-the-us-iran-deal-sends-oil-sliding",
-      "date_published": "2026-06-15T03:56:27.688Z",
+      "url": "https://www.coindesk.com/markets/2026/06/16/xrp-gives-back-gains-after-10-rally-as-traders-take-profit-near-usd1-25",
+      "date_published": "2026-06-16T05:16:07.138Z",
       "author": "Shaurya Malwa",
       "tags": []
-    },
-    {
-      "headline": "Ondo Finance pushes into tokenized investment products, hires former Invesco ETF chief",
-      "subheadline": "John Hoffman will spearhead Ondo's expansion from tokenizing individual assets to full investment portfolios and strategies.",
-      "section": "Finance",
-      "url": "https://www.coindesk.com/business/2026/06/10/ondo-finance-hires-former-invesco-etf-chief-to-build-onchain-investment-products",
-      "date_published": "2026-06-11T12:57:56.411Z",
-      "author": "Krisztian Sandor",
-      "tags": [
-        "Tokenization",
-        "Exclusive"
-      ]
-    },
-    {
-      "headline": "Citi opens new route into private markets with tokenized share offering",
-      "subheadline": "The bank said it is using blockchain technology to connect investors with private company equity through digital depositary receipts.",
-      "section": "Finance",
-      "url": "https://www.coindesk.com/business/2026/06/11/citi-opens-new-route-into-private-markets-with-tokenized-share-offering",
-      "date_published": "2026-06-11T13:27:12.714Z",
-      "author": "Helene Braun",
-      "tags": [
-        "Tokenization"
-      ]
-    },
-    {
-      "headline": "Tether leads $1.4 billion funding round in German robotics company Neura",
-      "subheadline": "The investment is part of the stablecoin giant\u2019s expansion into industries outside of crypto.",
-      "section": "Finance",
-      "url": "https://www.coindesk.com/business/2026/06/11/tether-leads-usd1-4-billion-funding-round-in-german-robotics-company-neura",
-      "date_published": "2026-06-11T13:49:27.725Z",
-      "author": "Olivier Acuna",
-      "tags": [
-        "Tether",
-        "Artificial Intelligence",
-        "Stablecoins"
-      ]
-    },
-    {
-      "headline": "Canton Network developer Digital Asset raises $355 million to bring capital markets onchain",
-      "subheadline": "The investment comes as blockchains designed for big banks and institutions are having a moment, with Stripe's Tempo and Circle's Arc raising hundreds of millions of dollars. ",
-      "section": "Finance",
-      "url": "https://www.coindesk.com/business/2026/06/11/canton-network-developer-raises-usd355-million-to-bring-wall-street-onchain",
-      "date_published": "2026-06-11T13:50:13.994Z",
-      "author": "Krisztian Sandor",
-      "tags": [
-        "Fundraising",
-        "Canton"
-      ]
     },
     {
       "headline": "Big banks are ditching private blockchains to build tokenized cash networks on public infrastructure",
@@ -294,46 +250,61 @@
       ]
     },
     {
-      "headline": "XRP price: Ripple-linked token climbs 4% to $1.18 as traders test next resistance zone",
-      "subheadline": "XRP extended its rebound from recent lows on the strongest buying activity in weeks, with institutional flows and ETF demand supporting a push toward the $1.20 level.",
+      "headline": "Ethereum news: Tom Lee's Bitmine (BMNR) buys 76,881 ETH as preferred equity sale fuels expansion",
+      "subheadline": "Tom Lee's Ethereum treasury firm, through the preferred stock sale, is using a financing tool pioneered by Michael Saylor's bitcoin treasury firm Strategy.",
+      "section": "Finance",
+      "url": "https://www.coindesk.com/business/2026/06/15/bitmine-adds-another-usd136-million-of-ether-after-raising-usd274-million-in-preferred-stock-sale",
+      "date_published": "2026-06-15T13:04:51.758Z",
+      "author": "Krisztian Sandor",
+      "tags": [
+        "Ethereum News",
+        "Digital Asset Treasury"
+      ]
+    },
+    {
+      "headline": "Hyperliquid loses Anthropic, OpenAI markets as creator shuts down project",
+      "subheadline": "Ventuals, one of the teams behind real-world asset perpetuals on Hyperliquid, said it is closing its markets and joining another project in the ecosystem.",
+      "section": "Finance",
+      "url": "https://www.coindesk.com/business/2026/06/15/hyperliquid-loses-anthropic-openai-markets-as-creator-shuts-down-project",
+      "date_published": "2026-06-15T18:14:07.455Z",
+      "author": "Krisztian Sandor",
+      "tags": [
+        "Hyperliquid"
+      ]
+    },
+    {
+      "headline": "Tether Gold now has a dedicated options market on Bybit",
+      "subheadline": "These options, settled in USDT, let traders hedge risk, speculate on gold prices. ",
       "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/06/15/xrp-climbs-4-above-usd1-18-as-traders-test-next-resistance-zone",
-      "date_published": "2026-06-15T04:25:42.515Z",
-      "author": "Shaurya Malwa",
-      "tags": []
-    },
-    {
-      "headline": "SpaceX stock is coming to Solana the same day it lists on Nasdaq",
-      "subheadline": "The firms making that possible say eligible shares can also be converted back into tokens, creating a bridge between traditional brokerage accounts and blockchain-based markets.",
-      "section": "Tech",
-      "url": "https://www.coindesk.com/tech/2026/06/10/spacex-stock-is-coming-to-solana-on-the-same-day-it-lists-on-nasdaq",
-      "date_published": "2026-06-11T14:00:00.000Z",
-      "author": "Margaux Nijkerk",
-      "tags": [
-        "Solana News"
-      ]
-    },
-    {
-      "headline": "Coinbase (COIN) news: new AI agent accounts that can trade and spend on your behalf",
-      "subheadline": "\"Coinbase for Agents\" is a new platform that lets AI assistants like ChatGPT and Claude connect to users\u2019 Coinbase accounts to trade crypto, access data and eventually make payments and purchases autonomously.",
-      "section": "Tech",
-      "url": "https://www.coindesk.com/tech/2026/06/11/coinbase-launches-ai-agent-accounts-that-can-trade-and-spend-on-your-behalf",
-      "date_published": "2026-06-11T17:00:00.000Z",
-      "author": "Margaux Nijkerk",
-      "tags": [
-        "Coinbase",
-        "Artificial Intelligence"
-      ]
-    },
-    {
-      "headline": "LG Electronics is taking advertisements onchain. Arbitrum helped",
-      "subheadline": "LG Electronics has built a blockchain-based advertising platform with the help of Arbitrum. ",
-      "section": "Tech",
-      "url": "https://www.coindesk.com/markets/2026/06/12/the-company-that-makes-your-tv-is-taking-ads-onchain-arbitrum-helped",
-      "date_published": "2026-06-12T05:35:25.233Z",
+      "url": "https://www.coindesk.com/markets/2026/06/16/tether-gold-now-has-a-dedicated-options-market-on-bybit",
+      "date_published": "2026-06-16T05:52:44.326Z",
       "author": "Omkar Godbole",
       "tags": [
-        "Ethereum News"
+        "Tether"
+      ]
+    },
+    {
+      "headline": "BTC price rises after Japan interest-rate increase with XLM, INJ, UNI advancing",
+      "subheadline": "Stellar\u2019s XLM, Injective\u2019s INJ and Uniswap\u2019s UNI ranked among the best performers in the 100 biggest cryptocurrencies by market capitalization.",
+      "section": "Markets",
+      "url": "https://www.coindesk.com/markets/2026/06/16/bitcoin-rallies-after-japan-rate-increase-with-xlm-inj-uni-advancing",
+      "date_published": "2026-06-16T10:29:34.955Z",
+      "author": "Omkar Godbole",
+      "tags": [
+        "Crypto Markets Today"
+      ]
+    },
+    {
+      "headline": "Glassnode data shows aggressive bitcoin buying between $59,000 and $67,000",
+      "subheadline": "Glassnode data shows broad-based buying across retail and whale cohorts, with the Accumulation Trend Score reaching its strongest level of the current drawdown.",
+      "section": "Markets",
+      "url": "https://www.coindesk.com/markets/2026/06/16/bitcoin-buyers-add-over-250-000-btc-between-usd59-000-and-usd67-000-as-accumulation-returns",
+      "date_published": "2026-06-16T10:41:41.784Z",
+      "author": "James Van Straten",
+      "tags": [
+        "Bitcoin News",
+        "Glassnode",
+        "Markets"
       ]
     },
     {
@@ -400,6 +371,24 @@
         "DEX",
         "Prediction Markets"
       ]
+    },
+    {
+      "headline": "Live updates: Bitcoin traders don't expect BTC to cross $75,000 as U.S.-Iran threats remain",
+      "subheadline": "Monetary policy may be back in focus, with Kevin Warsh's first policy meeting as Fed chairman coming this week.",
+      "section": "Tech",
+      "url": "https://www.coindesk.com/tech/2026/06/15/live-markets-bitcoin-not-fully-out-of-danger-as-trump-warns-of-further-iran-strikes",
+      "date_published": "2026-06-15T05:19:14.165Z",
+      "author": "Shaurya Malwa",
+      "tags": []
+    },
+    {
+      "headline": "Live updates: Bitcoin ETFs bled cash Monday while every other crypto ETF gained",
+      "subheadline": "Ether, XRP, Solana and Hyperliquid funds all took in money, but bitcoin's outflow was really just Grayscale's GBTC.",
+      "section": "Tech",
+      "url": "https://www.coindesk.com/tech/2026/06/16/live-markets-bitcoin-etfs-bled-cash-monday-while-every-other-crypto-etf-gained",
+      "date_published": "2026-06-16T05:41:40.827Z",
+      "author": "Shaurya Malwa",
+      "tags": []
     },
     {
       "headline": "A bipartisan bridge to the future: Why the Senate must finish the job on digital Assets",
@@ -481,53 +470,6 @@
       ]
     },
     {
-      "headline": "A quick review of the Ways and Means tax bills: State of Crypto ",
-      "subheadline": "The House Ways and Means Committee is gearing up for its big tax push. ",
-      "section": "Policy",
-      "url": "https://www.coindesk.com/policy/2026/06/07/a-quick-review-of-the-ways-and-means-tax-bills-state-of-crypto",
-      "date_published": "2026-06-07T20:27:12.683Z",
-      "author": "Nikhilesh De",
-      "tags": [
-        "Newsletters",
-        "State of Crypto"
-      ]
-    },
-    {
-      "headline": "Sam Bankman-Fried officially asks Donald Trump for a presidential pardon",
-      "subheadline": "The fallen crypto mogul serving a 25-year sentence filed a clemency petition, betting on Donald Trump's history of crypto pardons even though the president had told him not to count on one.",
-      "section": "Policy",
-      "url": "https://www.coindesk.com/policy/2026/06/08/sam-bankman-fried-officially-asks-donald-trump-for-a-presidential-pardon",
-      "date_published": "2026-06-08T15:41:10.280Z",
-      "author": "Helene Braun",
-      "tags": [
-        "Sam Bankman-Fried"
-      ]
-    },
-    {
-      "headline": "U.K.'s FCA moves to allow mutual funds 10% exposure to crypto ETNs",
-      "subheadline": "The FCA suggested allowing UK UCITS schemes and some NURS to invest in crypto ETNs in its latest quarterly consultation paper.",
-      "section": "Policy",
-      "url": "https://www.coindesk.com/policy/2026/06/09/uk-financial-regulator-moves-to-allow-mutual-funds-10-exposure-to-crypto-etns",
-      "date_published": "2026-06-09T15:39:13Z",
-      "author": "Jamie Crawley",
-      "tags": [
-        "UK"
-      ]
-    },
-    {
-      "headline": "Crypto tax bills a work-in-progress as U.S. House lawmakers pose concerns",
-      "subheadline": "The effort to push several tax bills is meant to be bipartisan, but the parties may not be comfortable with all details of the seven bills weighed by the panel.",
-      "section": "Policy",
-      "url": "https://www.coindesk.com/policy/2026/06/09/crypto-tax-bills-a-work-in-progress-as-u-s-house-lawmakers-pose-concerns",
-      "date_published": "2026-06-09T21:06:01.299Z",
-      "author": "Jesse Hamilton",
-      "tags": [
-        "Tax",
-        "Mining",
-        "Regulation"
-      ]
-    },
-    {
       "headline": "Prediction markets get first U.S. rule proposal as CFTC pursues contract reviews",
       "subheadline": "The Commodity Futures Trading Commission opened a proposed rule for public comment that sets an approach to determine contracts in the \"public interest.\"",
       "section": "Policy",
@@ -578,185 +520,201 @@
       ]
     },
     {
-      "headline": "Summer of crypto (regs): State of Crypto ",
-      "subheadline": "Lawmakers are debating taxes, the CFTC put out a prediction market proposal and court cases are heating up.",
+      "headline": "Former SEC, CFTC Chair Gary Gensler argues that prediction markets don't overrule state regulations",
+      "subheadline": "The former regulator joined a number of interest groups in arguing that prediction markets are overstepping their bounds by offering sports-related contracts.",
       "section": "Policy",
-      "url": "https://www.coindesk.com/policy/2026/06/14/summer-of-crypto-regs-state-of-crypto",
-      "date_published": "2026-06-14T18:30:00.000Z",
+      "url": "https://www.coindesk.com/policy/2026/06/12/former-sec-cftc-chair-gary-gensler-argues-that-prediction-markets-don-t-overrule-state-regulations",
+      "date_published": "2026-06-12T06:27:20.306Z",
       "author": "Nikhilesh De",
+      "tags": [
+        "Prediction Markets",
+        "Kalshi"
+      ]
+    },
+    {
+      "headline": "FTX's Sam Bankman-Fried loses appeal of criminal conviction on fraud, conspiracy charges",
+      "subheadline": "The onetime FTX CEO did not persuade a panel of judges that his trial was unfair, the appeals court panel ruled Friday.",
+      "section": "Policy",
+      "url": "https://www.coindesk.com/policy/2026/06/12/ftx-s-sam-bankman-fried-loses-appeal-of-criminal-conviction-on-fraud-conspiracy-charges",
+      "date_published": "2026-06-12T14:13:40.827Z",
+      "author": "Nikhilesh De",
+      "tags": [
+        "Sam Bankman-Fried",
+        "Breaking News"
+      ]
+    },
+    {
+      "headline": "Kalshi\u2019s crypto perpetuals spark debate over whether they\u2019re futures or swaps",
+      "subheadline": "A clash between derivatives veterans is exposing a deeper fight over how U.S. regulators should classify crypto perpetual contracts.",
+      "section": "Policy",
+      "url": "https://www.coindesk.com/policy/2026/06/12/kalshi-s-crypto-perpetuals-spark-debate-over-whether-they-re-futures-or-swaps",
+      "date_published": "2026-06-12T15:37:08.085Z",
+      "author": "AI Boost",
       "tags": []
     },
     {
-      "headline": "Trump stablecoin USD1 goes from $75 million DeFi drama to the White House lawn",
-      "subheadline": "UFC Freedom 250 paid fighter bonuses in USD1, the stablecoin issued by the Trump-linked crypto venture World Liberty Financial, at a contest held at the White House. ",
+      "headline": "State Street targets stablecoin reserve boom with new money market fund",
+      "subheadline": "The asset manager joins BlackRock, Franklin Templeton and others competing to manage reserves backing the growing stablecoin market.",
+      "section": "Finance",
+      "url": "https://www.coindesk.com/business/2026/06/16/state-street-targets-stablecoin-reserve-boom-with-new-money-market-fund",
+      "date_published": "2026-06-16T14:27:26.762Z",
+      "author": "Helene Braun",
+      "tags": [
+        "Tokenization"
+      ]
+    },
+    {
+      "headline": "Ethereum (ETH) news: Glamsterdam upgrade moves into its final development stage",
+      "subheadline": "Developers are entering the final stretch of work on Glamsterdam, the network's next major upgrade, as teams begin testing a version of the fork in a closed environment.",
+      "section": "Tech",
+      "url": "https://www.coindesk.com/tech/2026/06/16/ethereum-s-biggest-protocol-overhaul-in-years-moves-into-its-final-development-stage",
+      "date_published": "2026-06-16T14:48:18Z",
+      "author": "Margaux Nijkerk",
+      "tags": [
+        "Ethereum News"
+      ]
+    },
+    {
+      "headline": "Binance says its European regulatory application is compliant despite report of Greek rejection",
+      "subheadline": "An EU crypto license application by the world\u2019s largest crypto exchange is set to be rejected by the Greek regulator HCMC, according to a report from Reuters.",
+      "section": "Policy",
+      "url": "https://www.coindesk.com/policy/2026/06/16/binance-says-its-european-regulatory-application-is-fully-compliant-despite-report-of-greek-rejection",
+      "date_published": "2026-06-16T14:55:35.278Z",
+      "author": "Ian Allison",
+      "tags": []
+    },
+    {
+      "headline": "Coinbase joins tokenized stock race with onchain shares and dividend payments",
+      "subheadline": "The crypto exchange said investors will own the shares and receive dividends, underscoring growing momentum behind tokenized securities.",
+      "section": "Finance",
+      "url": "https://www.coindesk.com/business/2026/06/16/coinbase-to-join-tokenized-stock-race-with-onchain-shares-dividend-payments",
+      "date_published": "2026-06-16T15:03:21.672Z",
+      "author": "Helene Braun",
+      "tags": []
+    },
+    {
+      "headline": "XRP News: Ripple invests in Flutterwave, bringing RLUSD and XRP Ledger to payments in Africa",
+      "subheadline": "The deal values Flutterwave at $3.2 billion, and will integrate Ripple's RLUSD and the XRP Ledger network to speed cross-border payments across Africa.",
+      "section": "Finance",
+      "url": "https://www.coindesk.com/business/2026/06/16/ripple-invests-in-flutterwave-pushing-its-stablecoin-and-xrp-ledger-into-payments-across-africa",
+      "date_published": "2026-06-16T15:35:40.700Z",
+      "author": "Krisztian Sandor",
+      "tags": [
+        "Ripple",
+        "Stablecoins"
+      ]
+    },
+    {
+      "headline": "Coinbase introduces AI adviser, stock options and pre-IPO markets in finance push",
+      "subheadline": "The crypto exchange is expanding into investing, derivatives and banking services as it pursues an all-in-one financial platform.",
+      "section": "Finance",
+      "url": "https://www.coindesk.com/business/2026/06/16/coinbase-intoduces-ai-advisor-stock-options-and-pre-ipo-markets-in-finance-push",
+      "date_published": "2026-06-16T19:00:00.000Z",
+      "author": "Helene Braun",
+      "tags": [
+        "Coinbase"
+      ]
+    },
+    {
+      "headline": "HYPE, UNI and WLD outperform on Tuesday",
+      "subheadline": "A handful of tokens continued their run while bitcoin and the rest of the crypto market stalled after the early week bounce.",
       "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/06/15/trump-linked-stablecoin-used-for-bonus-payouts-at-white-house-ufc-contest",
-      "date_published": "2026-06-15T08:09:53.497Z",
-      "author": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/markets/2026/06/16/hyperliquid-uniswap-and-worldcoin-buck-crypto-slump-as-traders-chase-ai-defi-trends",
+      "date_published": "2026-06-16T20:20:35.456Z",
+      "author": "Krisztian Sandor",
+      "tags": [
+        "Markets",
+        "DeFi",
+        "Hyperliquid"
+      ]
+    },
+    {
+      "headline": "U.S. senators urge Treasury not to leave states out of GENIUS Act stablecoin process",
+      "subheadline": "Senators led by Republican Cynthia Lummis are insisting the Treasury Department ensure states get a process to prove their ability to supervise stablecoins.",
+      "section": "Policy",
+      "url": "https://www.coindesk.com/policy/2026/06/16/u-s-senators-urge-treasury-not-to-leave-states-out-of-genius-act-stablecoin-process",
+      "date_published": "2026-06-16T20:36:09.068Z",
+      "author": "Jesse Hamilton",
       "tags": [
         "Stablecoins",
-        "Trump"
+        "Regulation"
       ]
     },
     {
-      "headline": "Middle East ceasefire, Fed interest-rate decision: Crypto Week Ahead",
-      "subheadline": "Your look at what's coming in the week starting June 15.",
+      "headline": "Bitcoin miners' AI pivot faces $50 billion reality check, says VanEck",
+      "subheadline": "VanEck says investors are shifting focus from contract announcements to execution risk as miners chase AI revenue.",
       "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/06/15/middle-east-ceasfire-fed-interest-rate-decision-crypto-week-ahead",
-      "date_published": "2026-06-15T10:14:49.961Z",
-      "author": "Jamie Crawley",
+      "url": "https://www.coindesk.com/markets/2026/06/16/bitcoin-miners-ai-pivot-faces-usd50-billion-reality-check-says-vaneck",
+      "date_published": "2026-06-16T20:58:18.922Z",
+      "author": "Helene Braun",
       "tags": []
     },
     {
-      "headline": "U.S.-Iran deal lifts stocks, weighs on oil. Crypto stays wary: Crypto Markets Today",
-      "subheadline": "The peace deal reached over the weekend provided the stimulus many markets had been waiting for. Crypto traders, however, have learned to distrust this particular headline",
+      "headline": "Strategy's investors are may be rotating out of its preferred stock for another crypto rival",
+      "subheadline": "Strategy's bitcoin-backed preferred stock remains well below par value as concerns over dividend coverage and stronger competition from Strive's SATA.",
       "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/06/15/u-s-iran-deal-lifts-equities-sends-oil-lower-while-crypto-stays-wary",
-      "date_published": "2026-06-15T11:19:01.259Z",
+      "url": "https://www.coindesk.com/markets/2026/06/16/here-is-why-strategy-s-dividend-paying-crypto-stock-is-crashing-to-near-historic-lows",
+      "date_published": "2026-06-16T21:54:49.487Z",
+      "author": "James Van Straten",
+      "tags": []
+    },
+    {
+      "headline": "BTC, ETH, SOL, ADA price: Bitcoin flat near $66,000 as Uniswap jumps 22%",
+      "subheadline": "UNI surged after Standard Chartered set a $100 long-term target, and HYPE and solana led a broad altcoin bid. Bitcoin held near $66,000 as oil fell to a three-month low and the Fed met for the first time under Kevin Warsh.",
+      "section": "Markets",
+      "url": "https://www.coindesk.com/markets/2026/06/17/uniswap-jumps-22-and-altcoins-rip-while-bitcoin-stalls-before-the-fed",
+      "date_published": "2026-06-17T04:35:44.818Z",
       "author": "Shaurya Malwa",
       "tags": []
     },
     {
-      "headline": "U.S.-Iran peace deal sparks global risk-on rally as oil falls: Crypto Daily",
-      "subheadline": "Your day-ahead look for June 15, 2026",
-      "section": "Crypto Daybook Americas",
-      "url": "https://www.coindesk.com/daybook-us/2026/06/15/markets-cheer-u-s-iran-breakthrough-though-middle-east-risks-fed-remain-in-focus",
-      "date_published": "2026-06-15T11:58:56.186Z",
-      "author": "James Van Straten",
+      "headline": "XRP price: Ripple-linked token gives back breakout gains, slipping below $1.23",
+      "subheadline": "XRP briefly traded above key resistance before sellers stepped in, with rising volume suggesting traders used the rally to cut positions rather than add risk.",
+      "section": "Markets",
+      "url": "https://www.coindesk.com/markets/2026/06/17/xrp-gives-back-breakout-gains-slipping-below-usd1-23-on-heavy-selling",
+      "date_published": "2026-06-17T04:39:46.897Z",
+      "author": "Shaurya Malwa",
+      "tags": []
+    },
+    {
+      "headline": "Live updates: Bitcoin bottom signal flashes as holders absorbed 125,000 BTC in June",
+      "subheadline": "Bitcoin's Sharpe ratio hit a level that has marked every cycle low since 2015, but in each case it preceded months of basing rather than an immediate rebound.",
+      "section": "Tech",
+      "url": "https://www.coindesk.com/tech/2026/06/17/live-markets-a-bitcoin-bottom-signal-flashed-as-holders-absorbed-125-000-btc-in-june",
+      "date_published": "2026-06-17T05:01:03.079Z",
+      "author": "Shaurya Malwa",
+      "tags": []
+    },
+    {
+      "headline": "Crypto PAC's $12 million Senate candidate, Barry Moore, wins Alabama GOP primary ",
+      "subheadline": "Crypto PAC poured $12 million into Barry Moore\u2019s Alabama Senate bid, and it worked: the Trump loyalist crushed former Navy SEAL Jared Hudson in the GOP primary runoff, setting him up as the likely nominee in November.",
+      "section": "Policy",
+      "url": "https://www.coindesk.com/policy/2026/06/17/crypto-pac-s-usd12-million-senate-candidate-barry-moore-wins-alabama-gop-primary",
+      "date_published": "2026-06-17T05:38:27.404Z",
+      "author": "Jesse Hamilton",
       "tags": [
-        "Crypto Daybook Americas"
+        "Election 2026",
+        "Regulation"
       ]
     },
     {
-      "headline": "Strategy (MSTR) expands bitcoin treasury With 1,587 BTC purchase",
-      "subheadline": "The latest purchase was made at an average price of $63,024 per bitcoin.",
+      "headline": "Here's how bitcoin and S&P 500 look like when adjusted for the money printer",
+      "subheadline": "Valuations shaped by M2 money supply growth paint reveal concerning trends for risk assets.",
       "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/06/15/strategy-deploys-usd100-million-from-usd-reserves-to-acquire-1-587-btc",
-      "date_published": "2026-06-15T12:06:39.263Z",
-      "author": "James Van Straten",
+      "url": "https://www.coindesk.com/markets/2026/06/17/forget-the-price-charts-here-s-how-bitcoin-and-s-and-p-500-look-like-when-adjusted-for-the-money-printer",
+      "date_published": "2026-06-17T06:30:14Z",
+      "author": "Omkar Godbole",
       "tags": [
         "Bitcoin News"
       ]
     },
     {
-      "headline": "Ethereum news: Tom Lee's Bitmine (BMNR) buys 76,881 ETH as preferred equity sale fuels expansion",
-      "subheadline": "Tom Lee's Ethereum treasury firm, through the preferred stock sale, is using a financing tool pioneered by Michael Saylor's bitcoin treasury firm Strategy.",
+      "headline": "BitGo offers MiCA compliance lifeline to EU crypto firms as license deadline looms",
+      "subheadline": "BaFin-regulated BitGo says its Crypto-as-a-Service platform can help eligible crypto players across Europe an alternative way to navigate MiCA. ",
       "section": "Finance",
-      "url": "https://www.coindesk.com/business/2026/06/15/bitmine-adds-another-usd136-million-of-ether-after-raising-usd274-million-in-preferred-stock-sale",
-      "date_published": "2026-06-15T13:04:51.758Z",
-      "author": "Krisztian Sandor",
-      "tags": [
-        "Ethereum News",
-        "Digital Asset Treasury"
-      ]
-    },
-    {
-      "headline": "CoinDesk 20 performance update: Bittensor (TAO) surges 31.9%, leading index higher ",
-      "subheadline": "Near Protocol (NEAR), up 22.2% from Friday, was also a top performer. ",
-      "section": "CoinDesk Indices",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/06/15/coindesk-20-performance-update-bittensor-tao-surges-31-9-leading-index-higher",
-      "date_published": "2026-06-15T13:19:28.710Z",
-      "author": "CoinDesk Indices",
-      "tags": [
-        "CoinDesk Indices",
-        "CoinDesk 20",
-        "charts",
-        "Prices"
-      ]
-    },
-    {
-      "headline": "XRP price: Ripple-linked token up 8% in first major breakout since June selloff",
-      "subheadline": "Heavy volume pushed XRP through multiple resistance levels, with traders now focused on whether the rally can extend toward $1.30 after weeks of defensive positioning.",
-      "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/06/15/xrp-rockets-8-above-usd1-20-in-first-major-breakout-since-june-selloff",
-      "date_published": "2026-06-15T13:26:20.832Z",
-      "author": "Shaurya Malwa",
-      "tags": []
-    },
-    {
-      "headline": "BTC price prediction: Bitcoin may have bottomed at $60,000, says Coinbase (COIN) CEO",
-      "subheadline": "Brian Armstrong said his instinct is that bitcoin has probably found its floor, pointing to the four-year cycle that has historically marked lows.",
-      "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/06/15/coinbase-s-brian-armstrong-says-bitcoin-may-have-bottomed-at-usd60-000",
-      "date_published": "2026-06-15T13:30:05.743Z",
-      "author": "Shaurya Malwa",
-      "tags": [
-        "Bitcoin News",
-        "Coinbase"
-      ]
-    },
-    {
-      "headline": "Kraken launches U.S. perpetual futures as crypto derivatives move onshore",
-      "subheadline": "Perpetual futures generated more than $60 trillion in volume last year, according to the crypto exchange, largely outside the U.S.",
-      "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/06/15/kraken-debuts-u-s-perpetual-futures-as-crypto-derivatives-move-onshore",
-      "date_published": "2026-06-15T14:07:22.441Z",
-      "author": "Helene Braun",
-      "tags": []
-    },
-    {
-      "headline": "\u2018Crypto spring\u2019 is here, says one analyst after bitcoin's key signals turn bullish",
-      "subheadline": "Standard Chartered analyst Geoffrey Kendrick's bullish call comes as spot bitcoin exchange-traded fund inflows return, oil prices fall and Coinbase's CEO says bitcoin likely bottomed near $60,000.",
-      "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/06/15/crypto-spring-is-here-says-one-analyst-after-bitcoin-s-key-signals-turn-bullish",
-      "date_published": "2026-06-15T14:16:45.010Z",
-      "author": "Helene Braun",
-      "tags": []
-    },
-    {
-      "headline": "Hyperliquid loses Anthropic, OpenAI markets as creator shuts down project",
-      "subheadline": "Ventuals, one of the teams behind real-world asset perpetuals on Hyperliquid, said it is closing its markets and joining another project in the ecosystem.",
-      "section": "Finance",
-      "url": "https://www.coindesk.com/business/2026/06/15/hyperliquid-loses-anthropic-openai-markets-as-creator-shuts-down-project",
-      "date_published": "2026-06-15T18:14:07.455Z",
-      "author": "Krisztian Sandor",
-      "tags": [
-        "Hyperliquid"
-      ]
-    },
-    {
-      "headline": "Bitcoin rises after Bank of Japan hikes interest rates to a 31-year high",
-      "subheadline": "The Bank of Japan raised its key interest rate by 25 basis points to 1%, the highest level since 1995.",
-      "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/06/16/bitcoin-rises-after-bank-of-japan-hikes-interest-rates-to-a-31-year-high",
-      "date_published": "2026-06-16T04:30:41.696Z",
-      "author": "Omkar Godbole",
-      "tags": []
-    },
-    {
-      "headline": "BTC, ETH, SOL price news: Bitcoin back under $67,000 as traders warn of Trump reversal",
-      "subheadline": "A US-Iran deal pulled oil lower and lifted stocks, but bitcoin's bounce is hesitant. ETF outflows just paused after a record run, and analysts say the market wants the deal signed before pricing it in.",
-      "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/06/16/profit-taking-across-bitcoin-ether-solana-as-traders-wait-on-the-iran-signing",
-      "date_published": "2026-06-16T04:48:31.453Z",
-      "author": "Shaurya Malwa",
-      "tags": []
-    },
-    {
-      "headline": "XRP gives back gains after 10% rally as traders take profit near $1.25",
-      "subheadline": "Asian demand and ETF inflows helped push XRP through $1.20, but the token struggled to hold its highs after running into fresh selling near a key resistance zone.",
-      "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/06/16/xrp-gives-back-gains-after-10-rally-as-traders-take-profit-near-usd1-25",
-      "date_published": "2026-06-16T05:16:07.138Z",
-      "author": "Shaurya Malwa",
-      "tags": []
-    },
-    {
-      "headline": "Live updates: Bitcoin ETFs bled cash Monday while every other crypto ETF gained",
-      "subheadline": "Ether, XRP, Solana and Hyperliquid funds all took in money, but bitcoin's outflow was really just Grayscale's GBTC.",
-      "section": "Tech",
-      "url": "https://www.coindesk.com/tech/2026/06/16/live-markets-bitcoin-etfs-bled-cash-monday-while-every-other-crypto-etf-gained",
-      "date_published": "2026-06-16T05:41:40.827Z",
-      "author": "Shaurya Malwa",
-      "tags": []
-    },
-    {
-      "headline": "Tether Gold now has a dedicated options market on Bybit",
-      "subheadline": "These options, settled in USDT, let traders hedge risk, speculate on gold prices. ",
-      "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/06/16/tether-gold-now-has-a-dedicated-options-market-on-bybit",
-      "date_published": "2026-06-16T05:52:44.326Z",
-      "author": "Omkar Godbole",
+      "url": "https://www.coindesk.com/business/2026/06/17/bitgo-offers-europe-s-crypto-firms-a-mica-compliance-lifeline-as-license-deadline-looms",
+      "date_published": "2026-06-17T06:34:55.884Z",
+      "author": "Ian Allison",
       "tags": []
     }
   ]
