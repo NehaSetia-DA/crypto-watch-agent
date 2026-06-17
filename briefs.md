@@ -11,6 +11,32 @@ No investment advice — this surfaces what's happening, you read it.
 
 <!-- new briefs go here, between this marker and the previous entry -->
 
+## 2026-06-17
+
+**Movement** — bitcoin $65,077 ↘ -2.14%, ethereum $1,766 ↘ -0.94%, solana $72 ↘ -3.07%
+
+All three watchlist coins retreated Tuesday, reversing Monday's BOJ-driven bounce — solana led declines at -3.07% while BTC ETFs continued bleeding cash (GBTC-driven) even as ether, XRP, and Hyperliquid ETFs attracted inflows per CoinDesk. Macro focus shifts to the first Fed meeting under chair Kevin Warsh, with traders skeptical bitcoin will cross $75,000 while U.S.-Iran tensions persist per CoinDesk. Structural signals cut against the selloff: Glassnode data shows over 250,000 BTC accumulated in the $59,000–$67,000 band at the strongest accumulation score of the current drawdown, while BlackRock launched a bitcoin income fund and Coinbase unveiled tokenized stocks, an AI adviser, and pre-IPO markets on the same day per CoinDesk.
+
+**Worth watching**
+- Ethereum Glamsterdam upgrade — entered its final development stage with closed-environment testing beginning per CoinDesk; the biggest Ethereum protocol overhaul in years but absent from watchlist metrics
+- Coinbase financial platform expansion — tokenized stocks (with dividends), AI adviser, stock options, and pre-IPO markets all launched in a single day per CoinDesk; scope rivals traditional brokerages and could reshape crypto's competitive dynamics
+- UNI / DeFi altcoin rotation — Uniswap +12.9% and Hyperliquid (HYPE) outperforming while BTC/ETH/SOL all declined per CoinDesk; an AI+DeFi selective bid bypassing the watchlist coins
+
+<details><summary>8 headlines</summary>
+
+- [Summer of crypto (regs): State of Crypto](https://www.coindesk.com/policy/2026/06/14/summer-of-crypto-regs-state-of-crypto)
+- [The quantum clock is ticking: it's Bitcoin's problem, not Ethereum's](https://www.coindesk.com/opinion/2026/06/10/the-quantum-clock-is-ticking-it-s-bitcoin-s-problem-not-ethereum-s)
+- [The U.S. government is betting $2 Billion on quantum computing, and the defense side can't keep up](https://www.coindesk.com/opinion/2026/06/12/the-u-s-government-is-betting-usd2-billion-on-quantum-computing-and-the-defense-side-can-t-keep-up)
+- [Stablecoins Were Meant to Disrupt Finance. Instead, They Became Idle Cash.](https://www.coindesk.com/opinion/2026/06/13/stablecoins-were-meant-to-disrupt-finance-instead-they-became-idle-cash)
+- [If America wants to lead in crypto, it must protect the people who build it](https://www.coindesk.com/opinion/2026/06/15/if-america-wants-to-lead-in-crypto-it-must-protect-the-people-who-build-it)
+- [Mystery Polymarket trader turned $4 million into $9 million after Spain's shocking World Cup draw](https://www.coindesk.com/markets/2026/06/16/days-old-polymarket-account-scores-usd9-million-win-against-world-cup-favorite-spain)
+- [BlackRock launches bitcoin income fund as investors seek cash flow from crypto](https://www.coindesk.com/markets/2026/06/16/blackrock-s-new-bitcoin-income-fund-offers-cash-flow-alongside-btc-exposure)
+- [This AI builds a business, runs it and settles payments in USDC](https://www.coindesk.com/tech/2026/06/16/this-ai-builds-you-a-business-runs-it-and-settles-payments-in-usdc)
+
+</details>
+
+---
+
 ## 2026-06-16
 
 **Movement** — bitcoin $66,790 ↗ +1.74%, ethereum $1,801 ↗ +4.72%, solana $75 ↗ +5.67%
