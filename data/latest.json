@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-06-17T08:45:00.000000Z",
+  "generated_at": "2026-06-18T08:30:00.000000Z",
   "prices": [
-    {"id": "bitcoin", "usd": 65077.0, "change_24h": -2.1383003139313663},
-    {"id": "ethereum", "usd": 1766.1, "change_24h": -0.9368413630325445},
-    {"id": "solana", "usd": 72.49, "change_24h": -3.074667851038787}
+    {"id": "bitcoin", "usd": 64503, "change_24h": -1.212945617059893},
+    {"id": "ethereum", "usd": 1747.73, "change_24h": -1.6267154830243187},
+    {"id": "solana", "usd": 71.8, "change_24h": -1.3797602410166903}
   ],
-  "narrative": "All three watchlist coins retreated Tuesday, reversing Monday's BOJ-driven bounce — solana led declines at -3.07% while BTC ETFs continued bleeding cash (GBTC-driven) even as ether, XRP, and Hyperliquid ETFs attracted inflows per CoinDesk. Macro focus shifts to the first Fed meeting under chair Kevin Warsh, with traders skeptical bitcoin will cross $75,000 while U.S.-Iran tensions persist per CoinDesk. Structural signals cut against the selloff: Glassnode data shows over 250,000 BTC accumulated in the $59,000–$67,000 band at the strongest accumulation score of the current drawdown, while BlackRock launched a bitcoin income fund and Coinbase unveiled tokenized stocks, an AI adviser, and pre-IPO markets on the same day per CoinDesk.",
+  "narrative": "The hawkish Fed—holding rates but signaling inflation concern under new Chair Kevin Warsh—drove bitcoin and ether ETFs to shed $111 million combined per CoinDesk, dragging all three watchlist coins lower for a second straight day. Prices and structural flows point in different directions: Fidelity and State Street are both racing to manage stablecoin reserves, Moody's launched credit ratings on Solana, and Coinbase tokenized stocks went live, all while BTC trades below its 200-week moving average—a level Kraken says has historically delivered 100%+ median returns per CoinDesk. Illinois's surprise 0.2% tax on digital assets and CME's planned CFTC lawsuit over Kalshi perpetuals add new regulatory friction on two fronts per CoinDesk.",
   "worth_watching": [
-    "Ethereum Glamsterdam upgrade — entered its final development stage with closed-environment testing beginning per CoinDesk; the biggest Ethereum protocol overhaul in years but absent from watchlist metrics",
-    "Coinbase financial platform expansion — tokenized stocks (with dividends), AI adviser, stock options, and pre-IPO markets all launched in a single day per CoinDesk; scope rivals traditional brokerages and could reshape crypto's competitive dynamics",
-    "UNI / DeFi altcoin rotation — Uniswap +12.9% and Hyperliquid (HYPE) outperforming while BTC/ETH/SOL all declined per CoinDesk; an AI+DeFi selective bid bypassing the watchlist coins"
+    "Illinois 0.2% digital asset tax — added last-minute to the state budget affecting any business holding or transferring digital assets in the state; a novel state-level tax vector the industry hadn't faced before per CoinDesk",
+    "Strategy STRC preferred stock at record low $89 — now below par, pausing the above-par share sales used to fund bitcoin purchases; the same preferred forced Strategy's first BTC sale this month per CoinDesk",
+    "Bittensor (TAO) — Root Reborn proposal would turn validators into fund-manager-style subnet allocators per CoinDesk; TAO sits at the AI+crypto intersection but is absent from the watchlist"
   ],
   "news": [
     {
       "source": "coindesk.com",
       "headlines": [
-        "Summer of crypto (regs): State of Crypto",
-        "The quantum clock is ticking: it's Bitcoin's problem, not Ethereum's",
+        "Crypto PAC's $12 million Senate candidate, Barry Moore, wins Alabama GOP primary",
         "The U.S. government is betting $2 Billion on quantum computing, and the defense side can't keep up",
         "Stablecoins Were Meant to Disrupt Finance. Instead, They Became Idle Cash.",
         "If America wants to lead in crypto, it must protect the people who build it",
-        "Mystery Polymarket trader turned $4 million into $9 million after Spain's shocking World Cup draw",
-        "BlackRock launches bitcoin income fund as investors seek cash flow from crypto",
-        "This AI builds a business, runs it and settles payments in USDC"
+        "Crypto's security nightmare won't be solved by ordinary audits",
+        "Mexican billionaire with 70% of his investment portfolio in bitcoin says it's better than real estate",
+        "BitGo's $50 million buyback sparks rally after shares lost 65% since IPO",
+        "Solana news: Moody's rolls out credit ratings onchain in tokenized asset push"
       ]
     }
   ]

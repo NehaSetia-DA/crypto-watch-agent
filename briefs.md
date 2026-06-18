@@ -11,6 +11,32 @@ No investment advice — this surfaces what's happening, you read it.
 
 <!-- new briefs go here, between this marker and the previous entry -->
 
+## 2026-06-18
+
+**Movement** — bitcoin $64,503 ↘ -1.21%, ethereum $1,748 ↘ -1.63%, solana $72 ↘ -1.38%
+
+The hawkish Fed—holding rates but signaling inflation concern under new Chair Kevin Warsh—drove bitcoin and ether ETFs to shed $111 million combined per CoinDesk, dragging all three watchlist coins lower for a second straight day. Prices and structural flows point in different directions: Fidelity and State Street are both racing to manage stablecoin reserves, Moody's launched credit ratings on Solana, and Coinbase tokenized stocks went live, all while BTC trades below its 200-week moving average—a level Kraken says has historically delivered 100%+ median returns per CoinDesk. Illinois's surprise 0.2% tax on digital assets and CME's planned CFTC lawsuit over Kalshi perpetuals add new regulatory friction on two fronts per CoinDesk.
+
+**Worth watching**
+- Illinois 0.2% digital asset tax — added last-minute to the state budget affecting any business holding or transferring digital assets in the state; a novel state-level tax vector the industry hadn't faced before per CoinDesk
+- Strategy STRC preferred stock at record low $89 — now below par, pausing the above-par share sales used to fund bitcoin purchases; the same preferred forced Strategy's first BTC sale this month per CoinDesk
+- Bittensor (TAO) — Root Reborn proposal would turn validators into fund-manager-style subnet allocators per CoinDesk; TAO sits at the AI+crypto intersection but is absent from the watchlist
+
+<details><summary>8 headlines</summary>
+
+- [Crypto PAC's $12 million Senate candidate, Barry Moore, wins Alabama GOP primary](https://www.coindesk.com/policy/2026/06/17/crypto-pac-s-usd12-million-senate-candidate-barry-moore-wins-alabama-gop-primary)
+- [The U.S. government is betting $2 Billion on quantum computing, and the defense side can't keep up](https://www.coindesk.com/opinion/2026/06/12/the-u-s-government-is-betting-usd2-billion-on-quantum-computing-and-the-defense-side-can-t-keep-up)
+- [Stablecoins Were Meant to Disrupt Finance. Instead, They Became Idle Cash.](https://www.coindesk.com/opinion/2026/06/13/stablecoins-were-meant-to-disrupt-finance-instead-they-became-idle-cash)
+- [If America wants to lead in crypto, it must protect the people who build it](https://www.coindesk.com/opinion/2026/06/15/if-america-wants-to-lead-in-crypto-it-must-protect-the-people-who-build-it)
+- [Crypto's security nightmare won't be solved by ordinary audits](https://www.coindesk.com/opinion/2026/06/17/crypto-s-security-nightmare-won-t-be-solved-by-ordinary-audits)
+- [Mexican billionaire with 70% of his investment portfolio in bitcoin says it's better than real estate](https://www.coindesk.com/business/2026/06/17/mexican-billionaire-with-70-of-his-investment-portfolio-in-bitcoin-says-it-s-better-than-real-estate)
+- [BitGo's $50 million buyback sparks rally after shares lost 65% since IPO](https://www.coindesk.com/markets/2026/06/17/bitgo-stock-surges-on-usd50-million-share-buyback-as-value-languishes-65-below-ipo-price)
+- [Solana news: Moody's rolls out credit ratings onchain in tokenized asset push](https://www.coindesk.com/business/2026/06/17/moody-s-rolls-out-credit-ratings-on-solana-in-tokenized-asset-push)
+
+</details>
+
+---
+
 ## 2026-06-17
 
 **Movement** — bitcoin $65,077 ↘ -2.14%, ethereum $1,766 ↘ -0.94%, solana $72 ↘ -3.07%
