@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-06-18T08:30:00.000000Z",
+  "generated_at": "2026-06-19T08:43:07.442405Z",
   "prices": [
-    {"id": "bitcoin", "usd": 64503, "change_24h": -1.212945617059893},
-    {"id": "ethereum", "usd": 1747.73, "change_24h": -1.6267154830243187},
-    {"id": "solana", "usd": 71.8, "change_24h": -1.3797602410166903}
+    {"id": "bitcoin", "usd": 62617, "change_24h": -2.8762378331833003},
+    {"id": "ethereum", "usd": 1695.15, "change_24h": -3.099033940742239},
+    {"id": "solana", "usd": 68.58, "change_24h": -4.5879639621308765}
   ],
-  "narrative": "The hawkish Fed—holding rates but signaling inflation concern under new Chair Kevin Warsh—drove bitcoin and ether ETFs to shed $111 million combined per CoinDesk, dragging all three watchlist coins lower for a second straight day. Prices and structural flows point in different directions: Fidelity and State Street are both racing to manage stablecoin reserves, Moody's launched credit ratings on Solana, and Coinbase tokenized stocks went live, all while BTC trades below its 200-week moving average—a level Kraken says has historically delivered 100%+ median returns per CoinDesk. Illinois's surprise 0.2% tax on digital assets and CME's planned CFTC lawsuit over Kalshi perpetuals add new regulatory friction on two fronts per CoinDesk.",
+  "narrative": "All three watchlist coins extended their decline Friday as risk assets sold off broadly in holiday-thinned trading, giving back the week's bounce per CoinDesk; with BTC now below its mining cost for five months and ~20% of miners unprofitable, publicly traded miners sold more BTC in Q1 alone than in all of 2025 per CoinDesk. The hawkish Fed under Chair Warsh has left crypto positioning \"defensive and thin\" per Marex analysts via CoinDesk, while the bond market is flashing a bearish signal for BTC bulls and traders are loading bearish options all the way to $52,000 per CoinDesk. Against the price pressure, stablecoin regulation advanced — U.S. agencies proposed bank-style customer-ID rules under the GENIUS Act per CoinDesk — and AI-infrastructure rotation is pulling capital away from both crypto and large-cap tech per CoinDesk.",
   "worth_watching": [
-    "Illinois 0.2% digital asset tax — added last-minute to the state budget affecting any business holding or transferring digital assets in the state; a novel state-level tax vector the industry hadn't faced before per CoinDesk",
-    "Strategy STRC preferred stock at record low $89 — now below par, pausing the above-par share sales used to fund bitcoin purchases; the same preferred forced Strategy's first BTC sale this month per CoinDesk",
-    "Bittensor (TAO) — Root Reborn proposal would turn validators into fund-manager-style subnet allocators per CoinDesk; TAO sits at the AI+crypto intersection but is absent from the watchlist"
+    "Bitcoin miner distress — BTC has traded below mining cost for five months with ~20% of miners unprofitable; publicly traded miners sold over 32,000 BTC in Q1 alone (more than all of 2025) per CoinDesk, a sustained overhead sell pressure not captured in watchlist metrics",
+    "Ethereum Foundation leadership exits — second co-executive director Hsiao-Wei Wang resigned per CoinDesk, following Tomasz Stańczak; repeated high-profile exits raise governance questions ahead of the Glamsterdam upgrade",
+    "DXY breakout threat — the Dollar Index is on the verge of a major breakout per CoinDesk; a strengthening dollar is historically bitcoin's primary macro headwind and could extend the current drawdown"
   ],
   "news": [
     {
       "source": "coindesk.com",
       "headlines": [
-        "Crypto PAC's $12 million Senate candidate, Barry Moore, wins Alabama GOP primary",
+        "CME chief executive says company plans to sue CFTC after perpetual futures approval",
         "The U.S. government is betting $2 Billion on quantum computing, and the defense side can't keep up",
         "Stablecoins Were Meant to Disrupt Finance. Instead, They Became Idle Cash.",
         "If America wants to lead in crypto, it must protect the people who build it",
         "Crypto's security nightmare won't be solved by ordinary audits",
-        "Mexican billionaire with 70% of his investment portfolio in bitcoin says it's better than real estate",
-        "BitGo's $50 million buyback sparks rally after shares lost 65% since IPO",
-        "Solana news: Moody's rolls out credit ratings onchain in tokenized asset push"
+        "MTSR news: Strategy's STRC preferred stock drops to a record low $89",
+        "Live: Bitcoin and ether ETFs lost $111 million combined as rate-cut hopes died",
+        "The bond market is flashing a clear signal on interest rates. Bitcoin bulls should take note"
       ]
     }
   ]

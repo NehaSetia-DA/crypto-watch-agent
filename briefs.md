@@ -11,6 +11,32 @@ No investment advice — this surfaces what's happening, you read it.
 
 <!-- new briefs go here, between this marker and the previous entry -->
 
+## 2026-06-19
+
+**Movement** — bitcoin $62,617 ↘ -2.88%, ethereum $1,695 ↘ -3.10%, solana $69 ↘ -4.59%
+
+All three watchlist coins extended their decline Friday as risk assets sold off broadly in holiday-thinned trading, giving back the week's bounce per CoinDesk; with BTC now below its mining cost for five months and ~20% of miners unprofitable, publicly traded miners sold more BTC in Q1 alone than in all of 2025 per CoinDesk. The hawkish Fed under Chair Warsh has left crypto positioning "defensive and thin" per Marex analysts via CoinDesk, while the bond market is flashing a bearish signal for BTC bulls and traders are loading bearish options all the way to $52,000 per CoinDesk. Against the price pressure, stablecoin regulation advanced — U.S. agencies proposed bank-style customer-ID rules under the GENIUS Act per CoinDesk — and AI-infrastructure rotation is pulling capital away from both crypto and large-cap tech per CoinDesk.
+
+**Worth watching**
+- Bitcoin miner distress — BTC has traded below mining cost for five months with ~20% of miners unprofitable; publicly traded miners sold over 32,000 BTC in Q1 alone (more than all of 2025) per CoinDesk, a sustained overhead sell pressure not captured in watchlist metrics
+- Ethereum Foundation leadership exits — second co-executive director Hsiao-Wei Wang resigned per CoinDesk, following Tomasz Stańczak; repeated high-profile exits raise governance questions ahead of the Glamsterdam upgrade
+- DXY breakout threat — the Dollar Index is on the verge of a major breakout per CoinDesk; a strengthening dollar is historically bitcoin's primary macro headwind and could extend the current drawdown
+
+<details><summary>8 headlines</summary>
+
+- [CME chief executive says company plans to sue CFTC after perpetual futures approval](https://www.coindesk.com/policy/2026/06/17/cme-chief-executive-says-company-plans-to-sue-cftc-after-perpetual-futures-approval)
+- [The U.S. government is betting $2 Billion on quantum computing, and the defense side can't keep up](https://www.coindesk.com/opinion/2026/06/12/the-u-s-government-is-betting-usd2-billion-on-quantum-computing-and-the-defense-side-can-t-keep-up)
+- [Stablecoins Were Meant to Disrupt Finance. Instead, They Became Idle Cash.](https://www.coindesk.com/opinion/2026/06/13/stablecoins-were-meant-to-disrupt-finance-instead-they-became-idle-cash)
+- [If America wants to lead in crypto, it must protect the people who build it](https://www.coindesk.com/opinion/2026/06/15/if-america-wants-to-lead-in-crypto-it-must-protect-the-people-who-build-it)
+- [Crypto's security nightmare won't be solved by ordinary audits](https://www.coindesk.com/opinion/2026/06/17/crypto-s-security-nightmare-won-t-be-solved-by-ordinary-audits)
+- [MTSR news: Strategy's STRC preferred stock drops to a record low $89](https://www.coindesk.com/markets/2026/06/18/strategy-s-strc-preferred-stock-hits-a-record-low-below-par)
+- [Live: Bitcoin and ether ETFs lost $111 million combined as rate-cut hopes died](https://www.coindesk.com/tech/2026/06/18/live-markets-bitcoin-and-ether-etfs-lost-usd111-million-combined-as-rate-cut-hopes-died)
+- [The bond market is flashing a clear signal on interest rates. Bitcoin bulls should take note](https://www.coindesk.com/markets/2026/06/18/the-bond-market-is-flashing-a-clear-signal-on-interest-rates-bitcoin-bulls-should-take-note)
+
+</details>
+
+---
+
 ## 2026-06-18
 
 **Movement** — bitcoin $64,503 ↘ -1.21%, ethereum $1,748 ↘ -1.63%, solana $72 ↘ -1.38%
