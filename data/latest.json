@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-06-19T08:43:07.442405Z",
+  "generated_at": "2026-06-20T07:15:00.000000Z",
   "prices": [
-    {"id": "bitcoin", "usd": 62617, "change_24h": -2.8762378331833003},
-    {"id": "ethereum", "usd": 1695.15, "change_24h": -3.099033940742239},
-    {"id": "solana", "usd": 68.58, "change_24h": -4.5879639621308765}
+    {"id": "bitcoin", "usd": 63561, "change_24h": 1.2372613193460433},
+    {"id": "ethereum", "usd": 1722.29, "change_24h": 1.503047183516519},
+    {"id": "solana", "usd": 71.64, "change_24h": 4.5553312774264185}
   ],
-  "narrative": "All three watchlist coins extended their decline Friday as risk assets sold off broadly in holiday-thinned trading, giving back the week's bounce per CoinDesk; with BTC now below its mining cost for five months and ~20% of miners unprofitable, publicly traded miners sold more BTC in Q1 alone than in all of 2025 per CoinDesk. The hawkish Fed under Chair Warsh has left crypto positioning \"defensive and thin\" per Marex analysts via CoinDesk, while the bond market is flashing a bearish signal for BTC bulls and traders are loading bearish options all the way to $52,000 per CoinDesk. Against the price pressure, stablecoin regulation advanced — U.S. agencies proposed bank-style customer-ID rules under the GENIUS Act per CoinDesk — and AI-infrastructure rotation is pulling capital away from both crypto and large-cap tech per CoinDesk.",
+  "narrative": "All three watchlist coins bounced Saturday, reversing Friday's selloff — solana led at +4.56% while bitcoin and ethereum gained more modestly, even as macro headwinds persist: bitcoin has traded below mining cost for five months with ~20% of miners unprofitable and traders loading bearish options to $52,000 per CoinDesk. Regulatory complexity deepened: CME filed suit plans against the CFTC over Kalshi's perpetual futures approval per CoinDesk, U.S. agencies proposed bank-style KYC rules for stablecoins under the GENIUS Act per CoinDesk, and Illinois added a surprise 0.2% digital asset tax to its state budget per CoinDesk. AI-crypto convergence kept accelerating — Alchemy's AgentCard gained Visa network access, Moody's embedded credit ratings onto Solana, and a Y Combinator startup auto-settles businesses in USDC per CoinDesk.",
   "worth_watching": [
-    "Bitcoin miner distress — BTC has traded below mining cost for five months with ~20% of miners unprofitable; publicly traded miners sold over 32,000 BTC in Q1 alone (more than all of 2025) per CoinDesk, a sustained overhead sell pressure not captured in watchlist metrics",
-    "Ethereum Foundation leadership exits — second co-executive director Hsiao-Wei Wang resigned per CoinDesk, following Tomasz Stańczak; repeated high-profile exits raise governance questions ahead of the Glamsterdam upgrade",
-    "DXY breakout threat — the Dollar Index is on the verge of a major breakout per CoinDesk; a strengthening dollar is historically bitcoin's primary macro headwind and could extend the current drawdown"
+    "AI agent payment rails — Alchemy's AgentCard gained Visa network access per CoinDesk, and Y Combinator unveiled an AI that builds, runs, and settles businesses in USDC; the AI-agent-as-payment-entity model is scaling fast and not captured in watchlist coins",
+    "Bitcoin L2 shakeout — Botanix shut down per CoinDesk, raising whether the market wants programmable BTC or just yield/lending products; other Bitcoin L2s face the same bear-market viability test",
+    "Prediction market turf war — CME plans to sue the CFTC over Kalshi's perpetual futures approval per CoinDesk while Kentucky moved to regulate prediction markets; the outcome shapes whether U.S. prediction market infrastructure fragments or scales"
   ],
   "news": [
     {
