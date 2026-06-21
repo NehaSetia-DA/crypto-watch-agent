@@ -1,6 +1,6 @@
 {
-  "job": "864818/1/23",
-  "fetched_at": "2026-06-20T07:10:46.523419Z",
+  "job": "864818/1/25",
+  "fetched_at": "2026-06-21T08:13:26.597051Z",
   "count": 66,
   "items": [
     {
@@ -13,6 +13,18 @@
       "tags": [
         "CFTC",
         "Kalshi"
+      ]
+    },
+    {
+      "headline": "Malta's financial regulator explores bringing parts of DeFi under MiCA's orbit",
+      "subheadline": "The MFSA is seeking feedback on whether decentralization should be assessed as a spectrum rather than a binary concept.",
+      "section": "Policy",
+      "url": "https://www.coindesk.com/policy/2026/06/18/malta-s-financial-regulator-explores-bringing-parts-of-defi-under-mica-s-orbit",
+      "date_published": "2026-06-18T10:43:21.458Z",
+      "author": "Jamie Crawley",
+      "tags": [
+        "DeFi",
+        "MiCA"
       ]
     },
     {
@@ -87,46 +99,44 @@
       "tags": []
     },
     {
-      "headline": "MTSR news: Strategy's STRC preferred stock drops to a record low $89",
-      "subheadline": "The slide has paused the above-par share sales Strategy uses to fund bitcoin purchases, and it is the same stock whose dividends forced the company's first BTC sale this month.",
-      "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/06/18/strategy-s-strc-preferred-stock-hits-a-record-low-below-par",
-      "date_published": "2026-06-18T05:49:21.237Z",
-      "author": "Shaurya Malwa",
+      "headline": "CoinDesk 20 performance update: Stellar (XLM) jumps 10% while index declines",
+      "subheadline": "Internet Computer (ICP) fell 4.1% and Sui (SUI) dropped 4%, leading the index lower from Wednesday. ",
+      "section": "CoinDesk Indices",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/06/18/coindesk-20-performance-update-stellar-xlm-jumps-10-while-index-declines",
+      "date_published": "2026-06-18T13:13:44.193Z",
+      "author": "CoinDesk Indices",
       "tags": [
-        "MicroStrategy"
+        "CoinDesk Indices",
+        "CoinDesk 20",
+        "charts",
+        "Prices"
       ]
     },
     {
-      "headline": "Live: Bitcoin and ether ETFs lost $111 million combined as rate-cut hopes died",
-      "subheadline": "Total crypto market value has held steady near $2.26 trillion since Tuesday, with the recovery losing momentum after the Fed killed rate-cut hopes and spot ETFs swung back to outflows.",
+      "headline": "Algorand unveils roadmap for post-quantum security by end-2027",
+      "subheadline": "The announcement reflects a growing recognition across the crypto industry that transitioning to quantum-resistant cryptography could take years, requiring changes not only to user wallets but also to core protocol infrastructure.",
       "section": "Tech",
-      "url": "https://www.coindesk.com/tech/2026/06/18/live-markets-bitcoin-and-ether-etfs-lost-usd111-million-combined-as-rate-cut-hopes-died",
-      "date_published": "2026-06-18T06:02:19.169Z",
-      "author": "Shaurya Malwa",
-      "tags": []
-    },
-    {
-      "headline": "The bond market is flashing a clear signal on interest rates. Bitcoin bulls should take note",
-      "subheadline": "The bond market is sending a signal that complicates prospects of a near-term bitcoin bull run.",
-      "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/06/18/the-bond-market-is-flashing-a-clear-signal-on-interest-rates-bitcoin-bulls-should-take-note",
-      "date_published": "2026-06-18T07:08:27.592Z",
-      "author": "Omkar Godbole",
+      "url": "https://www.coindesk.com/tech/2026/06/18/algorand-unveils-post-quantum-roadmap-to-secure-blockchain-by-2027",
+      "date_published": "2026-06-18T14:00:00.000Z",
+      "author": "Margaux Nijkerk",
       "tags": [
-        "Bitcoin News"
+        "quantum computing",
+        "Ethereum News",
+        "Solana News"
       ]
     },
     {
-      "headline": "Malta's financial regulator explores bringing parts of DeFi under MiCA's orbit",
-      "subheadline": "The MFSA is seeking feedback on whether decentralization should be assessed as a spectrum rather than a binary concept.",
-      "section": "Policy",
-      "url": "https://www.coindesk.com/policy/2026/06/18/malta-s-financial-regulator-explores-bringing-parts-of-defi-under-mica-s-orbit",
-      "date_published": "2026-06-18T10:43:21.458Z",
-      "author": "Jamie Crawley",
+      "headline": "Crypto ETFs: Why bitcoin investors should trade the cycle, not dollar-cost average ",
+      "subheadline": "Bitcoin\u2019s 4-year cycle makes DCA costly. Learn why a cycle-smart strategy is essential for advisors to better manage volatility and maximize client returns.",
+      "section": "CoinDesk Indices",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/06/17/crypto-for-advisors-trading-the-bitcoin-cycle",
+      "date_published": "2026-06-18T15:00:00.000Z",
+      "author": "Markus Thielen",
       "tags": [
-        "DeFi",
-        "MiCA"
+        "Financial Advisors",
+        "CoinDesk Indices",
+        "Crypto for Advisors",
+        "Newsletters"
       ]
     },
     {
@@ -154,38 +164,23 @@
       ]
     },
     {
-      "headline": "Ethereum (ETH) news: Aerodrome is turning liquidity into a prediction market with its biggest upgrade yet",
-      "subheadline": "The concept, called Predictive Allocation, will encourage participants to anticipate where liquidity will be needed next, instead of rewarding them for directing incentives toward pools that have already generated fees.",
+      "headline": "This AI builds a business, runs it and settles payments in USDC",
+      "subheadline": "Text an idea. Get a business. That describes Y Combinator's latest AI.",
       "section": "Tech",
-      "url": "https://www.coindesk.com/tech/2026/06/12/aerodrome-is-turning-liquidity-into-a-prediction-market-with-its-biggest-upgrade-yet",
-      "date_published": "2026-06-14T15:00:00.000Z",
-      "author": "Margaux Nijkerk",
-      "tags": [
-        "Ethereum News",
-        "DEX",
-        "Prediction Markets"
-      ]
+      "url": "https://www.coindesk.com/tech/2026/06/16/this-ai-builds-you-a-business-runs-it-and-settles-payments-in-usdc",
+      "date_published": "2026-06-16T12:55:23.308Z",
+      "author": "Omkar Godbole",
+      "tags": []
     },
     {
-      "headline": "This bitcoin level has historically meant over 100% median returns, Kraken says",
-      "subheadline": "Bitcoin's recent dips below its 200-week moving average have historically produced median returns over 100% within a year, with minimal drawdown pain for buyers, according to Kraken.",
+      "headline": "Aster (ASTER) popped over 10% on radical 'buyback and burn' upgrade. But gains were short-lived",
+      "subheadline": "ASTER sees two-way volatility as bullish protocol-specific news meets hawkish Fed. ",
       "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/06/18/buying-bitcoin-below-its-200-week-average-has-historically-delivered-over-100-in-median-returns-kraken-says",
-      "date_published": "2026-06-18T05:08:05.737Z",
+      "url": "https://www.coindesk.com/markets/2026/06/18/aster-popped-over-10-on-radical-buyback-and-burn-upgrade-but-gains-were-short-lived",
+      "date_published": "2026-06-18T11:02:57.208Z",
       "author": "Omkar Godbole",
       "tags": [
         "Bitcoin News"
-      ]
-    },
-    {
-      "headline": "Hyperliquid loses Anthropic, OpenAI markets as creator shuts down project",
-      "subheadline": "Ventuals, one of the teams behind real-world asset perpetuals on Hyperliquid, said it is closing its markets and joining another project in the ecosystem.",
-      "section": "Finance",
-      "url": "https://www.coindesk.com/business/2026/06/15/hyperliquid-loses-anthropic-openai-markets-as-creator-shuts-down-project",
-      "date_published": "2026-06-15T18:14:07.455Z",
-      "author": "Krisztian Sandor",
-      "tags": [
-        "Hyperliquid"
       ]
     },
     {
@@ -305,40 +300,39 @@
       ]
     },
     {
-      "headline": "XRP slips 4% below $1.20 after breakout rally stalls near key resistance",
-      "subheadline": "Heavy selling pushed XRP back through a closely watched support level, though buyers stepped in above $1.17 to prevent a deeper pullback.",
+      "headline": "Alchemy's AI-driven AgentCard gains access to Visa payments network",
+      "subheadline": "The AgentCard integration with Visa Intelligent Commerce allows AI agents built on models from any provider, including OpenAI or Anthropic, to effect commercial transactions.",
+      "section": "Finance",
+      "url": "https://www.coindesk.com/business/2026/06/18/alchemy-s-ai-driven-identity-and-payment-service-gains-access-to-visa-network",
+      "date_published": "2026-06-18T13:00:00.000Z",
+      "author": "Ian Allison",
+      "tags": [
+        "Artificial Intelligence"
+      ]
+    },
+    {
+      "headline": "Mounting AI costs and weaker performance are driving investors toward AI infrastructure",
+      "subheadline": "Capital is flowing out of the largest tech companies and bitcoin as investors pile into semiconductors, memory stocks and space-related opportunities.",
       "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/06/18/xrp-slips-4-below-usd1-20-after-breakout-rally-stalls-near-key-resistance",
-      "date_published": "2026-06-18T05:08:12.878Z",
-      "author": "Shaurya Malwa",
-      "tags": []
+      "url": "https://www.coindesk.com/markets/2026/06/18/the-great-rotation-investors-desert-the-magnificent-7-crypto-for-ai-bottlenecks",
+      "date_published": "2026-06-18T11:37:32.638Z",
+      "author": "James Van Straten",
+      "tags": [
+        "Bitcoin News",
+        "Artificial Intelligence"
+      ]
     },
     {
-      "headline": "Live updates: Bitcoin traders don't expect BTC to cross $75,000 as U.S.-Iran threats remain",
-      "subheadline": "Monetary policy may be back in focus, with Kevin Warsh's first policy meeting as Fed chairman coming this week.",
-      "section": "Tech",
-      "url": "https://www.coindesk.com/tech/2026/06/15/live-markets-bitcoin-not-fully-out-of-danger-as-trump-warns-of-further-iran-strikes",
-      "date_published": "2026-06-15T05:19:14.165Z",
-      "author": "Shaurya Malwa",
-      "tags": []
-    },
-    {
-      "headline": "Live updates: Bitcoin ETFs bled cash Monday while every other crypto ETF gained",
-      "subheadline": "Ether, XRP, Solana and Hyperliquid funds all took in money, but bitcoin's outflow was really just Grayscale's GBTC.",
-      "section": "Tech",
-      "url": "https://www.coindesk.com/tech/2026/06/16/live-markets-bitcoin-etfs-bled-cash-monday-while-every-other-crypto-etf-gained",
-      "date_published": "2026-06-16T05:41:40.827Z",
-      "author": "Shaurya Malwa",
-      "tags": []
-    },
-    {
-      "headline": "This AI builds a business, runs it and settles payments in USDC",
-      "subheadline": "Text an idea. Get a business. That describes Y Combinator's latest AI.",
-      "section": "Tech",
-      "url": "https://www.coindesk.com/tech/2026/06/16/this-ai-builds-you-a-business-runs-it-and-settles-payments-in-usdc",
-      "date_published": "2026-06-16T12:55:23.308Z",
-      "author": "Omkar Godbole",
-      "tags": []
+      "headline": "Hive gains 10% after securing Canada sovereign AI contract with Bell Canada",
+      "subheadline": "GPU cloud contract with Bell and Cohere strengthens HIVE's shift from bitcoin mining to high performance AI computing.",
+      "section": "Markets",
+      "url": "https://www.coindesk.com/markets/2026/06/18/hive-shares-jumps-10-on-usd220m-canada-sovereign-ai-infrastructure-deal",
+      "date_published": "2026-06-18T11:49:41.553Z",
+      "author": "James Van Straten",
+      "tags": [
+        "Bitcoin News",
+        "Artificial Intelligence"
+      ]
     },
     {
       "headline": "Ethereum (ETH) news: Glamsterdam upgrade moves into its final development stage",
@@ -391,6 +385,15 @@
         "Bitcoin News",
         "DeFi"
       ]
+    },
+    {
+      "headline": "Live: Bitcoin and ether ETFs lost $111 million combined as rate-cut hopes died",
+      "subheadline": "Total crypto market value has held steady near $2.26 trillion since Tuesday, with the recovery losing momentum after the Fed killed rate-cut hopes and spot ETFs swung back to outflows.",
+      "section": "Tech",
+      "url": "https://www.coindesk.com/tech/2026/06/18/live-markets-bitcoin-and-ether-etfs-lost-usd111-million-combined-as-rate-cut-hopes-died",
+      "date_published": "2026-06-18T06:02:19.169Z",
+      "author": "Shaurya Malwa",
+      "tags": []
     },
     {
       "headline": "Disciplined AI agents are the disruptor needed to break the exchange churn model",
@@ -537,7 +540,9 @@
       "url": "https://www.coindesk.com/policy/2026/06/17/crypto-industry-aghast-at-illinois-new-tax-on-holding-or-transferring-digital-assets-in-state-budget",
       "date_published": "2026-06-17T16:50:33.272Z",
       "author": "Nikhilesh De",
-      "tags": []
+      "tags": [
+        "Tax"
+      ]
     },
     {
       "headline": "Kentucky targets prediction markets, puts Trump-aligned state in potential clash with president's team",
@@ -546,108 +551,6 @@
       "url": "https://www.coindesk.com/policy/2026/06/17/kentucky-targets-prediction-markets-puts-red-state-in-potential-clash-with-trump-team",
       "date_published": "2026-06-17T21:20:05.426Z",
       "author": "Jesse Hamilton",
-      "tags": [
-        "Prediction Markets",
-        "Kalshi",
-        "Polymarket"
-      ]
-    },
-    {
-      "headline": "Crypto market positioning is 'defensive and thin' after Fed rate meeting, Marex\u00a0 analysts say",
-      "subheadline": "While the Federal Reserve held interest rates, Chair Kevin Warsh made it clear the U.S. central bank is more worried about inflation than growth.",
-      "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/06/18/crypto-market-positioning-is-defensive-and-thin-after-fed-marex-analysts-say",
-      "date_published": "2026-06-18T10:56:50.489Z",
-      "author": "Omkar Godbole",
-      "tags": []
-    },
-    {
-      "headline": "Aster (ASTER) popped over 10% on radical 'buyback and burn' upgrade. But gains were short-lived",
-      "subheadline": "ASTER sees two-way volatility as bullish protocol-specific news meets hawkish Fed. ",
-      "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/06/18/aster-popped-over-10-on-radical-buyback-and-burn-upgrade-but-gains-were-short-lived",
-      "date_published": "2026-06-18T11:02:57.208Z",
-      "author": "Omkar Godbole",
-      "tags": []
-    },
-    {
-      "headline": "Bitcoin's (BTC) nemesis, the Dollar Index (DXY), is on the verge of a major breakout: Daybook: Crypto Daily",
-      "subheadline": "Your day-ahead look for June 18, 2026",
-      "section": "Crypto Daybook Americas",
-      "url": "https://www.coindesk.com/daybook-us/2026/06/18/bitcoin-s-nemesis-the-dollar-index-is-on-the-verge-of-a-major-breakout",
-      "date_published": "2026-06-18T11:10:40.566Z",
-      "author": "Omkar Godbole",
-      "tags": []
-    },
-    {
-      "headline": "Mounting AI costs and weaker performance are driving investors toward AI infrastructure",
-      "subheadline": "Capital is flowing out of the largest tech companies and bitcoin as investors pile into semiconductors, memory stocks and space-related opportunities.",
-      "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/06/18/the-great-rotation-investors-desert-the-magnificent-7-crypto-for-ai-bottlenecks",
-      "date_published": "2026-06-18T11:37:32.638Z",
-      "author": "James Van Straten",
-      "tags": [
-        "Bitcoin News",
-        "Artificial Intelligence"
-      ]
-    },
-    {
-      "headline": "Hive gains 10% after securing Canada sovereign AI contract with Bell Canada",
-      "subheadline": "GPU cloud contract with Bell and Cohere strengthens HIVE's shift from bitcoin mining to high performance AI computing.",
-      "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/06/18/hive-shares-jumps-10-on-usd220m-canada-sovereign-ai-infrastructure-deal",
-      "date_published": "2026-06-18T11:49:41.553Z",
-      "author": "James Van Straten",
-      "tags": [
-        "Bitcoin News",
-        "Artificial Intelligence"
-      ]
-    },
-    {
-      "headline": "Alchemy's AI-driven AgentCard gains access to Visa payments network",
-      "subheadline": "The AgentCard integration with Visa Intelligent Commerce allows AI agents built on models from any provider, including OpenAI or Anthropic, to effect commercial transactions.",
-      "section": "Finance",
-      "url": "https://www.coindesk.com/business/2026/06/18/alchemy-s-ai-driven-identity-and-payment-service-gains-access-to-visa-network",
-      "date_published": "2026-06-18T13:00:00.000Z",
-      "author": "Ian Allison",
-      "tags": [
-        "Artificial Intelligence"
-      ]
-    },
-    {
-      "headline": "CoinDesk 20 performance update: Stellar (XLM) jumps 10% while index declines",
-      "subheadline": "Internet Computer (ICP) fell 4.1% and Sui (SUI) dropped 4%, leading the index lower from Wednesday. ",
-      "section": "CoinDesk Indices",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/06/18/coindesk-20-performance-update-stellar-xlm-jumps-10-while-index-declines",
-      "date_published": "2026-06-18T13:13:44.193Z",
-      "author": "CoinDesk Indices",
-      "tags": [
-        "CoinDesk Indices",
-        "CoinDesk 20",
-        "charts",
-        "Prices"
-      ]
-    },
-    {
-      "headline": "Algorand unveils roadmap for post-quantum security by end-2027",
-      "subheadline": "The announcement reflects a growing recognition across the crypto industry that transitioning to quantum-resistant cryptography could take years, requiring changes not only to user wallets but also to core protocol infrastructure.",
-      "section": "Tech",
-      "url": "https://www.coindesk.com/tech/2026/06/18/algorand-unveils-post-quantum-roadmap-to-secure-blockchain-by-2027",
-      "date_published": "2026-06-18T14:00:00.000Z",
-      "author": "Margaux Nijkerk",
-      "tags": [
-        "quantum computing",
-        "Ethereum News",
-        "Solana News"
-      ]
-    },
-    {
-      "headline": "Crypto ETFs: Why bitcoin investors should trade the cycle, not dollar-cost average ",
-      "subheadline": "Bitcoin\u2019s 4-year cycle makes DCA costly. Learn why a cycle-smart strategy is essential for advisors to better manage volatility and maximize client returns.",
-      "section": "CoinDesk Indices",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/06/17/crypto-for-advisors-trading-the-bitcoin-cycle",
-      "date_published": "2026-06-18T15:00:00.000Z",
-      "author": "Markus Thielen",
       "tags": []
     },
     {
@@ -657,9 +560,7 @@
       "url": "https://www.coindesk.com/tech/2026/06/18/ethereum-foundation-loses-another-key-leader-as-co-executive-director-hsiao-wei-wang-resigns",
       "date_published": "2026-06-18T15:41:17.605Z",
       "author": "Margaux Nijkerk",
-      "tags": [
-        "Ethereum News"
-      ]
+      "tags": []
     },
     {
       "headline": "U.S. agencies seek stablecoin customer-ID rules akin to banks in new GENIUS Act rule",
@@ -681,9 +582,7 @@
       "url": "https://www.coindesk.com/policy/2026/06/18/ex-celsius-ceo-mashinsky-gets-u-s-cftc-ban-in-final-resolution-with-regulator",
       "date_published": "2026-06-18T19:26:55.477Z",
       "author": "Jesse Hamilton",
-      "tags": [
-        "Fraud"
-      ]
+      "tags": []
     },
     {
       "headline": "BTC, ETH, SOL price news: Bitcoin falls below $63,000 as risk assets sell off",
@@ -718,6 +617,103 @@
       "section": "Markets",
       "url": "https://www.coindesk.com/markets/2026/06/19/xrp-falls-3-after-losing-usd1-15-support-as-breakout-attempt-fades",
       "date_published": "2026-06-19T05:14:20.084Z",
+      "author": "Shaurya Malwa",
+      "tags": []
+    },
+    {
+      "headline": "Microsoft identifies malware 'worm' that hijacks crypto wallets, spreads through USB drives",
+      "subheadline": "The software intercepts shortcut files and directs them to install a worm that harvests private keys from the Windows clipboard and inserts its own destination wallet addresses when it detects a transfer.",
+      "section": "Tech",
+      "url": "https://www.coindesk.com/tech/2026/06/19/microsoft-found-malware-that-hijacks-crypto-wallets-and-spreads-through-usb-sticks",
+      "date_published": "2026-06-19T08:48:14.173Z",
+      "author": "Omkar Godbole",
+      "tags": [
+        "Hack",
+        "Crime"
+      ]
+    },
+    {
+      "headline": "Digital credit market hit by record selloff as Strive CEO blames leverage liquidations",
+      "subheadline": "Matt Cole says forced selling from leveraged investors pushed STRC and SATA sharply lower before both rebounded.",
+      "section": "Markets",
+      "url": "https://www.coindesk.com/markets/2026/06/19/digital-credit-market-hit-by-record-selloff-as-strive-ceo-blames-leverage-liquidations",
+      "date_published": "2026-06-19T09:19:28.195Z",
+      "author": "James Van Straten",
+      "tags": []
+    },
+    {
+      "headline": "Smart-contract and DeFi coins lead losses as BTC price wilts for 4th straight day",
+      "subheadline": "Concerns about STRC, the dividend-paying preferred stock from Strategy continue to dominate market sentiment.",
+      "section": "Markets",
+      "url": "https://www.coindesk.com/markets/2026/06/19/smart-contract-and-defi-coins-lead-losses-as-bitcoin-wilts-for-4th-straight-day",
+      "date_published": "2026-06-19T10:47:03.183Z",
+      "author": "Omkar Godbole",
+      "tags": []
+    },
+    {
+      "headline": "Franklin Templeton proposes new funds that turn dividends into BTC: Crypto Daily",
+      "subheadline": "Your day-ahead look for June 19, 2026",
+      "section": "Crypto Daybook Americas",
+      "url": "https://www.coindesk.com/daybook-us/2026/06/19/franklin-templeton-proposes-new-funds-that-turn-corporate-dividends-into-bitcoin",
+      "date_published": "2026-06-19T11:27:59.226Z",
+      "author": "Omkar Godbole",
+      "tags": []
+    },
+    {
+      "headline": "GoMining challenges Jack Dorsey's Square with a pure BTC payment rail",
+      "subheadline": "GoMining unveiled a SDK and API for its BTC payment protocol GoBTC Pay, allowing merchants to accept bitcoin for everyday purchases.",
+      "section": "Finance",
+      "url": "https://www.coindesk.com/business/2026/06/19/gomining-challenges-jack-dorsey-s-square-with-payments-system-designed-around-bitcoin",
+      "date_published": "2026-06-19T12:30:00.000Z",
+      "author": "Jamie Crawley",
+      "tags": []
+    },
+    {
+      "headline": "Schwab to join prediction markets race with S&P 500 event-based options: WSJ",
+      "subheadline": "The planned offering would let customers bet on index moves as Coinbase and Robinhood expand in the sector.",
+      "section": "Markets",
+      "url": "https://www.coindesk.com/markets/2026/06/19/schwab-to-join-prediction-markets-race-with-s-and-p-500-event-based-options-wsj",
+      "date_published": "2026-06-19T17:51:12.543Z",
+      "author": "Helene Braun",
+      "tags": []
+    },
+    {
+      "headline": "A look at how falling Bitcoin prices, capital structure changes pushed STRC below $83 in just five weeks.",
+      "subheadline": "From a bond buyback and dwindling cash reserves to a bitcoin bear market, the sequence of events that turned STRC's par-value challenge into a marketwide debate.",
+      "section": "Markets",
+      "url": "https://www.coindesk.com/markets/2026/06/20/how-strc-lost-its-par-the-timeline-behind-strategy-s-preferred-stock-meltdown",
+      "date_published": "2026-06-20T13:00:00.000Z",
+      "author": "James Van Straten",
+      "tags": []
+    },
+    {
+      "headline": "AI is making crypto security cheaper, faster and harder to ignore",
+      "subheadline": "As AI-powered security tools become cheaper, faster and more widely available, researchers said they could reshape what the crypto industry considers reasonable due diligence before deploying code, potentially altering expectations for developers and institutions. ",
+      "section": "Tech",
+      "url": "https://www.coindesk.com/tech/2026/06/20/ai-is-making-crypto-security-cheaper-faster-and-harder-to-ignore",
+      "date_published": "2026-06-20T15:00:00.000Z",
+      "author": "Margaux Nijkerk",
+      "tags": [
+        "Ethereum News",
+        "Artificial Intelligence",
+        "Hack"
+      ]
+    },
+    {
+      "headline": "BTC, ETH, SOL price news: Bitcoin holds near $64,000 amid US-Iran ceasefire talks",
+      "subheadline": "Crypto firmed over the weekend after Friday's sell-off, with bitcoin recovering toward $64,000. Permanent ceasefire talks open in Switzerland, but Iran's order to close the Strait of Hormuz again revives the risk the deal was meant to settle.",
+      "section": "Markets",
+      "url": "https://www.coindesk.com/markets/2026/06/21/bitcoin-holds-near-usd64-000-as-a-renewed-hormuz-threat-clouds-us-iran-ceasefire-talks",
+      "date_published": "2026-06-21T06:46:28.711Z",
+      "author": "Shaurya Malwa",
+      "tags": []
+    },
+    {
+      "headline": "Ethereum's biggest 'sandwich' bot drained of $7.5 million in ironic exploit",
+      "subheadline": "Blockaid said an attacker tricked Jaredfromsubway.eth into approving fake trading routes, then used those approvals to drain WETH, USDC and USDT.",
+      "section": "Tech",
+      "url": "https://www.coindesk.com/tech/2026/06/21/ethereum-s-biggest-sandwich-bot-drained-of-usd7-5-million-in-ironic-exploit",
+      "date_published": "2026-06-21T07:12:35.711Z",
       "author": "Shaurya Malwa",
       "tags": []
     }
