@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-06-20T07:15:00.000000Z",
+  "generated_at": "2026-06-22T09:25:40.753097Z",
   "prices": [
-    {"id": "bitcoin", "usd": 63561, "change_24h": 1.2372613193460433},
-    {"id": "ethereum", "usd": 1722.29, "change_24h": 1.503047183516519},
-    {"id": "solana", "usd": 71.64, "change_24h": 4.5553312774264185}
+    {"id": "bitcoin", "usd": 64083, "change_24h": 0.22895955222719686},
+    {"id": "ethereum", "usd": 1745.74, "change_24h": 1.1634611315626568},
+    {"id": "solana", "usd": 73.74, "change_24h": 0.7123939194493657}
   ],
-  "narrative": "All three watchlist coins bounced Saturday, reversing Friday's selloff — solana led at +4.56% while bitcoin and ethereum gained more modestly, even as macro headwinds persist: bitcoin has traded below mining cost for five months with ~20% of miners unprofitable and traders loading bearish options to $52,000 per CoinDesk. Regulatory complexity deepened: CME filed suit plans against the CFTC over Kalshi's perpetual futures approval per CoinDesk, U.S. agencies proposed bank-style KYC rules for stablecoins under the GENIUS Act per CoinDesk, and Illinois added a surprise 0.2% digital asset tax to its state budget per CoinDesk. AI-crypto convergence kept accelerating — Alchemy's AgentCard gained Visa network access, Moody's embedded credit ratings onto Solana, and a Y Combinator startup auto-settles businesses in USDC per CoinDesk.",
+  "narrative": "Prices are modestly green — all three watchlist coins up under 2% — but the bid is unconvincing: bitcoin is stuck near $64,000 through a sixth consecutive week of ETF outflows and down 2% on the week, sitting out a broader risk-asset rally tied to US-Iran ceasefire progress per CoinDesk. Two Ethereum-specific stories emerged over the weekend — Jaredfromsubway.eth, the chain's biggest MEV sandwich bot, lost $7.5 million in an ironic exploit per CoinDesk, and a new governance proposal would redirect up to 10% of staking rewards toward ecosystem funding. On regulation, CME filed its CFTC suit over Kalshi's perpetual futures approval per CoinDesk while U.S. agencies proposed bank-style KYC for stablecoin issuers under the GENIUS Act.",
   "worth_watching": [
-    "AI agent payment rails — Alchemy's AgentCard gained Visa network access per CoinDesk, and Y Combinator unveiled an AI that builds, runs, and settles businesses in USDC; the AI-agent-as-payment-entity model is scaling fast and not captured in watchlist coins",
-    "Bitcoin L2 shakeout — Botanix shut down per CoinDesk, raising whether the market wants programmable BTC or just yield/lending products; other Bitcoin L2s face the same bear-market viability test",
-    "Prediction market turf war — CME plans to sue the CFTC over Kalshi's perpetual futures approval per CoinDesk while Kentucky moved to regulate prediction markets; the outcome shapes whether U.S. prediction market infrastructure fragments or scales"
+    "Strategy STRC meltdown — STRC preferred stock now well below its $100 par value after five weeks of selling, with forced BTC liquidation risk if it can't recover; CoinDesk traced the full timeline of how bond buybacks and bear-market prices triggered the breakdown",
+    "Ethereum governance overhaul — a proposal to redirect up to 10% of staking rewards toward ecosystem funding (June 22) follows two co-executive director resignations at the Foundation; structural governance uncertainty not captured in ETH's price",
+    "Quantum computing timeline — Algorand set a post-quantum roadmap for end-2027 per CoinDesk, joining a wave of protocol-level responses; the US government is betting $2B on quantum while the crypto industry's defense preparations remain fragmented"
   ],
   "news": [
     {
       "source": "coindesk.com",
       "headlines": [
-        "CME chief executive says company plans to sue CFTC after perpetual futures approval",
+        "Malta's financial regulator explores bringing parts of DeFi under MiCA's orbit",
+        "U.S. agencies seek stablecoin customer-ID rules akin to banks in new GENIUS Act rule",
+        "Ex-Celsius CEO Mashinsky gets U.S. CFTC ban in final resolution with regulator",
         "The U.S. government is betting $2 Billion on quantum computing, and the defense side can't keep up",
         "Stablecoins Were Meant to Disrupt Finance. Instead, They Became Idle Cash.",
         "If America wants to lead in crypto, it must protect the people who build it",
         "Crypto's security nightmare won't be solved by ordinary audits",
-        "MTSR news: Strategy's STRC preferred stock drops to a record low $89",
-        "Live: Bitcoin and ether ETFs lost $111 million combined as rate-cut hopes died",
-        "The bond market is flashing a clear signal on interest rates. Bitcoin bulls should take note"
+        "BTC, ETH, SOL price news: Bitcoin falls below $63,000 as risk assets sell off"
       ]
     }
   ]

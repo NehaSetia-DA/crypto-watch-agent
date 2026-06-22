@@ -11,6 +11,32 @@ No investment advice — this surfaces what's happening, you read it.
 
 <!-- new briefs go here, between this marker and the previous entry -->
 
+## 2026-06-22
+
+**Movement** — bitcoin $64,083 ↗ +0.23%, ethereum $1,746 ↗ +1.16%, solana $74 ↗ +0.71%
+
+Prices are modestly green — all three watchlist coins up under 2% — but the bid is unconvincing: bitcoin is stuck near $64,000 through a sixth consecutive week of ETF outflows and down 2% on the week, sitting out a broader risk-asset rally tied to US-Iran ceasefire progress per CoinDesk. Two Ethereum-specific stories emerged over the weekend — Jaredfromsubway.eth, the chain's biggest MEV sandwich bot, lost $7.5 million in an ironic exploit per CoinDesk, and a new governance proposal would redirect up to 10% of staking rewards toward ecosystem funding. On regulation, CME filed its CFTC suit over Kalshi's perpetual futures approval per CoinDesk while U.S. agencies proposed bank-style KYC for stablecoin issuers under the GENIUS Act.
+
+**Worth watching**
+- Strategy STRC meltdown — STRC preferred stock now well below its $100 par value after five weeks of selling, with forced BTC liquidation risk if it can't recover; CoinDesk traced the full timeline of how bond buybacks and bear-market prices triggered the breakdown
+- Ethereum governance overhaul — a proposal to redirect up to 10% of staking rewards toward ecosystem funding (June 22) follows two co-executive director resignations at the Foundation; structural governance uncertainty not captured in ETH's price
+- Quantum computing timeline — Algorand set a post-quantum roadmap for end-2027 per CoinDesk, joining a wave of protocol-level responses; the US government is betting $2B on quantum while the crypto industry's defense preparations remain fragmented
+
+<details><summary>8 headlines</summary>
+
+- [Malta's financial regulator explores bringing parts of DeFi under MiCA's orbit](https://www.coindesk.com/policy/2026/06/18/malta-s-financial-regulator-explores-bringing-parts-of-defi-under-mica-s-orbit)
+- [U.S. agencies seek stablecoin customer-ID rules akin to banks in new GENIUS Act rule](https://www.coindesk.com/policy/2026/06/18/u-s-agencies-seek-stablecoin-customer-id-rules-akin-to-banks-in-new-genius-act-rule)
+- [Ex-Celsius CEO Mashinsky gets U.S. CFTC ban in final resolution with regulator](https://www.coindesk.com/policy/2026/06/18/ex-celsius-ceo-mashinsky-gets-u-s-cftc-ban-in-final-resolution-with-regulator)
+- [The U.S. government is betting $2 Billion on quantum computing, and the defense side can't keep up](https://www.coindesk.com/opinion/2026/06/12/the-u-s-government-is-betting-usd2-billion-on-quantum-computing-and-the-defense-side-can-t-keep-up)
+- [Stablecoins Were Meant to Disrupt Finance. Instead, They Became Idle Cash.](https://www.coindesk.com/opinion/2026/06/13/stablecoins-were-meant-to-disrupt-finance-instead-they-became-idle-cash)
+- [If America wants to lead in crypto, it must protect the people who build it](https://www.coindesk.com/opinion/2026/06/15/if-america-wants-to-lead-in-crypto-it-must-protect-the-people-who-build-it)
+- [Crypto's security nightmare won't be solved by ordinary audits](https://www.coindesk.com/opinion/2026/06/17/crypto-s-security-nightmare-won-t-be-solved-by-ordinary-audits)
+- [BTC, ETH, SOL price news: Bitcoin falls below $63,000 as risk assets sell off](https://www.coindesk.com/markets/2026/06/19/bitcoin-falls-below-usd63-000-as-risk-assets-sell-off-and-the-week-s-bounce-fades)
+
+</details>
+
+---
+
 ## 2026-06-20
 
 **Movement** — bitcoin $63,561 ↗ +1.24%, ethereum $1,722 ↗ +1.50%, solana $72 ↗ +4.56%
