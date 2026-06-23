@@ -11,6 +11,32 @@ No investment advice — this surfaces what's happening, you read it.
 
 <!-- new briefs go here, between this marker and the previous entry -->
 
+## 2026-06-23
+
+**Movement** — bitcoin $62,854 ↘ -1.74%, ethereum $1,690 ↘ -2.61%, solana $70 ↘ -4.77%
+
+All three watchlist coins reversed yesterday's green, with solana leading losses at nearly -5% as the week's risk-off tone deepened — bitcoin has now traded below its mining cost for five months, with ~20% of miners unprofitable and publicly traded miners selling more BTC in Q1 alone than in all of 2025 per CoinDesk. Against the price slide, regulatory infrastructure kept building: U.S. agencies proposed bank-style customer-ID rules for stablecoin issuers under the GENIUS Act, Malta's MFSA opened a DeFi-under-MiCA consultation, and Mashinsky received a permanent CFTC ban per CoinDesk. A Microsoft-identified USB-spread malware that hijacks wallet clipboard addresses and the $7.5M drain of Ethereum's biggest MEV sandwich bot (Jaredfromsubway.eth) add fresh security pressure on top of six straight weeks of crypto ETF outflows.
+
+**Worth watching**
+- USB clipboard-hijacking malware — Microsoft identified a worm spreading via USB drives that intercepts wallet addresses to redirect transactions per CoinDesk; a low-tech, high-impact attack vector targeting retail users not tracked in watchlist metrics
+- Franklin Templeton dividend-to-BTC conversion funds — proposed new funds that auto-convert corporate dividends into bitcoin per CoinDesk; a structural inflow mechanism distinct from ETF channels and not yet in watchlist coverage
+- Altseason viability — with the Iran deal signed and oil off 9%, CoinDesk asks whether this cycle gets an altseason at all; solana's -4.77% leading losses today (vs bitcoin's -1.74%) is the opposite pattern of altseason leadership
+
+<details><summary>8 headlines</summary>
+
+- [Malta's financial regulator explores bringing parts of DeFi under MiCA's orbit](https://www.coindesk.com/policy/2026/06/18/malta-s-financial-regulator-explores-bringing-parts-of-defi-under-mica-s-orbit)
+- [U.S. agencies seek stablecoin customer-ID rules akin to banks in new GENIUS Act rule](https://www.coindesk.com/policy/2026/06/18/u-s-agencies-seek-stablecoin-customer-id-rules-akin-to-banks-in-new-genius-act-rule)
+- [Ex-Celsius CEO Mashinsky gets U.S. CFTC ban in final resolution with regulator](https://www.coindesk.com/policy/2026/06/18/ex-celsius-ceo-mashinsky-gets-u-s-cftc-ban-in-final-resolution-with-regulator)
+- [The U.S. government is betting $2 Billion on quantum computing, and the defense side can't keep up](https://www.coindesk.com/opinion/2026/06/12/the-u-s-government-is-betting-usd2-billion-on-quantum-computing-and-the-defense-side-can-t-keep-up)
+- [Stablecoins Were Meant to Disrupt Finance. Instead, They Became Idle Cash.](https://www.coindesk.com/opinion/2026/06/13/stablecoins-were-meant-to-disrupt-finance-instead-they-became-idle-cash)
+- [If America wants to lead in crypto, it must protect the people who build it](https://www.coindesk.com/opinion/2026/06/15/if-america-wants-to-lead-in-crypto-it-must-protect-the-people-who-build-it)
+- [Crypto's security nightmare won't be solved by ordinary audits](https://www.coindesk.com/opinion/2026/06/17/crypto-s-security-nightmare-won-t-be-solved-by-ordinary-audits)
+- [BTC, ETH, SOL price news: Bitcoin falls below $63,000 as risk assets sell off](https://www.coindesk.com/markets/2026/06/19/bitcoin-falls-below-usd63-000-as-risk-assets-sell-off-and-the-week-s-bounce-fades)
+
+</details>
+
+---
+
 ## 2026-06-22
 
 **Movement** — bitcoin $64,083 ↗ +0.23%, ethereum $1,746 ↗ +1.16%, solana $74 ↗ +0.71%
