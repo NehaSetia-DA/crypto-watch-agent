@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-06-23T07:01:41.354657Z",
+  "generated_at": "2026-06-24T07:05:00.000000Z",
   "prices": [
-    {"id": "bitcoin", "usd": 62854, "change_24h": -1.735022246106394},
-    {"id": "ethereum", "usd": 1690.04, "change_24h": -2.608756775300215},
-    {"id": "solana", "usd": 70.24, "change_24h": -4.768813251162274}
+    {"id": "bitcoin", "usd": 62697, "change_24h": -0.2697523405134817},
+    {"id": "ethereum", "usd": 1672.77, "change_24h": -1.0438679247500793},
+    {"id": "solana", "usd": 69.69, "change_24h": -0.7825482586564517}
   ],
-  "narrative": "All three watchlist coins reversed yesterday's green, with solana leading losses at nearly -5% as the week's risk-off tone deepened — bitcoin has now traded below its mining cost for five months, with ~20% of miners unprofitable and publicly traded miners selling more BTC in Q1 alone than in all of 2025 per CoinDesk. Against the price slide, regulatory infrastructure kept building: U.S. agencies proposed bank-style customer-ID rules for stablecoin issuers under the GENIUS Act, Malta's MFSA opened a DeFi-under-MiCA consultation, and Mashinsky received a permanent CFTC ban per CoinDesk. A Microsoft-identified USB-spread malware that hijacks wallet clipboard addresses and the $7.5M drain of Ethereum's biggest MEV sandwich bot (Jaredfromsubway.eth) add fresh security pressure on top of six straight weeks of crypto ETF outflows.",
+  "narrative": "Prices drift marginally lower — BTC near flat, ETH and SOL each off roughly 1% — as derivatives analysts peg bitcoin to a $60,000–$68,000 range with a bearish chart pattern suggesting possible downside to $54,000 per CoinDesk. Tokenization supply continues accelerating despite the price drag: Baillie Gifford launched a tokenized bond fund on Ethereum and Solana with BNY, OKX and NYSE unveiled a joint venture to bridge their platforms, and Bitmine added $92 million in ETH per CoinDesk. Stablecoin regulation moved in multiple jurisdictions — the Bank of England set a £40B aggregate issuance cap ahead of a 2027 launch and the U.S. Senate passed a housing bill with a four-year CBDC ban — while Ethereum's Foundation leadership exodus prompted Joe Lubin and corporate holders to back a new Ethlabs research hub per CoinDesk.",
   "worth_watching": [
-    "USB clipboard-hijacking malware — Microsoft identified a worm spreading via USB drives that intercepts wallet addresses to redirect transactions per CoinDesk; a low-tech, high-impact attack vector targeting retail users not tracked in watchlist metrics",
-    "Franklin Templeton dividend-to-BTC conversion funds — proposed new funds that auto-convert corporate dividends into bitcoin per CoinDesk; a structural inflow mechanism distinct from ETF channels and not yet in watchlist coverage",
-    "Altseason viability — with the Iran deal signed and oil off 9%, CoinDesk asks whether this cycle gets an altseason at all; solana's -4.77% leading losses today (vs bitcoin's -1.74%) is the opposite pattern of altseason leadership"
+    "OKX-NYSE joint venture — OKX's 120M users getting access to ICE futures and NYSE tokenized equities via a new venture led by Andrew Cuomo per CoinDesk; a formal tradfi-crypto bridge at exchange scale not tracked by watchlist coins",
+    "Ethereum Foundation → Ethlabs pivot — after two co-executive director resignations, Joe Lubin, Sharplink, and Bitmine backed a new Ethereum research hub per CoinDesk; the shift of development governance away from the Foundation is structural and not captured in ETH's price",
+    "Trump quantum computing executive orders — twin orders to accelerate large-scale quantum computers while hardening defenses per CoinDesk; accelerates timeline pressure on blockchain cryptographic infrastructure already prompting responses from Algorand and others"
   ],
   "news": [
     {
       "source": "coindesk.com",
       "headlines": [
-        "Malta's financial regulator explores bringing parts of DeFi under MiCA's orbit",
-        "U.S. agencies seek stablecoin customer-ID rules akin to banks in new GENIUS Act rule",
-        "Ex-Celsius CEO Mashinsky gets U.S. CFTC ban in final resolution with regulator",
+        "Are perps swaps? A quick look at that CME suit: State of Crypto",
+        "Bank of England backs down on strict stablecoin holding limits, sets $50 billion issuance cap",
         "The U.S. government is betting $2 Billion on quantum computing, and the defense side can't keep up",
         "Stablecoins Were Meant to Disrupt Finance. Instead, They Became Idle Cash.",
         "If America wants to lead in crypto, it must protect the people who build it",
         "Crypto's security nightmare won't be solved by ordinary audits",
-        "BTC, ETH, SOL price news: Bitcoin falls below $63,000 as risk assets sell off"
+        "TradFi fund manager Baillie Gifford introduces Solana, Ethereum tokenized fund with BNY",
+        "Michael Saylor's MSTR boosted BTC and cash holdings"
       ]
     }
   ]

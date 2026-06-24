@@ -11,6 +11,32 @@ No investment advice — this surfaces what's happening, you read it.
 
 <!-- new briefs go here, between this marker and the previous entry -->
 
+## 2026-06-24
+
+**Movement** — bitcoin $62,697 ↘ -0.27%, ethereum $1,673 ↘ -1.04%, solana $70 ↘ -0.78%
+
+Prices drift marginally lower — BTC near flat, ETH and SOL each off roughly 1% — as derivatives analysts peg bitcoin to a $60,000–$68,000 range with a bearish chart pattern suggesting possible downside to $54,000 per CoinDesk. Tokenization supply continues accelerating despite the price drag: Baillie Gifford launched a tokenized bond fund on Ethereum and Solana with BNY, OKX and NYSE unveiled a joint venture to bridge their platforms, and Bitmine added $92 million in ETH per CoinDesk. Stablecoin regulation moved in multiple jurisdictions — the Bank of England set a £40B aggregate issuance cap ahead of a 2027 launch and the U.S. Senate passed a housing bill with a four-year CBDC ban — while Ethereum's Foundation leadership exodus prompted Joe Lubin and corporate holders to back a new Ethlabs research hub per CoinDesk.
+
+**Worth watching**
+- OKX-NYSE joint venture — OKX's 120M users getting access to ICE futures and NYSE tokenized equities via a new venture led by Andrew Cuomo per CoinDesk; a formal tradfi-crypto bridge at exchange scale not tracked by watchlist coins
+- Ethereum Foundation → Ethlabs pivot — after two co-executive director resignations, Joe Lubin, Sharplink, and Bitmine backed a new Ethereum research hub per CoinDesk; the shift of development governance away from the Foundation is structural and not captured in ETH's price
+- Trump quantum computing executive orders — twin orders to accelerate large-scale quantum computers while hardening defenses per CoinDesk; accelerates timeline pressure on blockchain cryptographic infrastructure already prompting responses from Algorand and others
+
+<details><summary>8 headlines</summary>
+
+- [Are perps swaps? A quick look at that CME suit: State of Crypto](https://www.coindesk.com/policy/2026/06/21/are-perps-swaps-a-quick-look-at-that-cme-suit-state-of-crypto)
+- [Bank of England backs down on strict stablecoin holding limits, sets $50 billion issuance cap](https://www.coindesk.com/policy/2026/06/22/bank-of-england-backs-down-on-strict-stablecoin-holding-limits-sets-usd50-billion-issuance-cap)
+- [The U.S. government is betting $2 Billion on quantum computing, and the defense side can't keep up](https://www.coindesk.com/opinion/2026/06/12/the-u-s-government-is-betting-usd2-billion-on-quantum-computing-and-the-defense-side-can-t-keep-up)
+- [Stablecoins Were Meant to Disrupt Finance. Instead, They Became Idle Cash.](https://www.coindesk.com/opinion/2026/06/13/stablecoins-were-meant-to-disrupt-finance-instead-they-became-idle-cash)
+- [If America wants to lead in crypto, it must protect the people who build it](https://www.coindesk.com/opinion/2026/06/15/if-america-wants-to-lead-in-crypto-it-must-protect-the-people-who-build-it)
+- [Crypto's security nightmare won't be solved by ordinary audits](https://www.coindesk.com/opinion/2026/06/17/crypto-s-security-nightmare-won-t-be-solved-by-ordinary-audits)
+- [TradFi fund manager Baillie Gifford introduces Solana, Ethereum tokenized fund with BNY](https://www.coindesk.com/business/2026/06/22/tradfi-fund-manager-baillie-gifford-introduces-solana-ethereum-tokenized-fund-with-bny)
+- [Michael Saylor's MSTR boosted BTC and cash holdings](https://www.coindesk.com/markets/2026/06/22/strategy-added-usd35-million-in-bitcoin-usd300-million-in-cash-reserves-last-week)
+
+</details>
+
+---
+
 ## 2026-06-23
 
 **Movement** — bitcoin $62,854 ↘ -1.74%, ethereum $1,690 ↘ -2.61%, solana $70 ↘ -4.77%
