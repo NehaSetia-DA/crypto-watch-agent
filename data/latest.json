@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-06-24T07:05:00.000000Z",
+  "generated_at": "2026-06-25T07:00:00.000000Z",
   "prices": [
-    {"id": "bitcoin", "usd": 62697, "change_24h": -0.2697523405134817},
-    {"id": "ethereum", "usd": 1672.77, "change_24h": -1.0438679247500793},
-    {"id": "solana", "usd": 69.69, "change_24h": -0.7825482586564517}
+    {"id": "bitcoin", "usd": 61708, "change_24h": -1.5801271225217992},
+    {"id": "ethereum", "usd": 1653.82, "change_24h": -1.1260795598232576},
+    {"id": "solana", "usd": 69.38, "change_24h": -0.42314849654912823}
   ],
-  "narrative": "Prices drift marginally lower — BTC near flat, ETH and SOL each off roughly 1% — as derivatives analysts peg bitcoin to a $60,000–$68,000 range with a bearish chart pattern suggesting possible downside to $54,000 per CoinDesk. Tokenization supply continues accelerating despite the price drag: Baillie Gifford launched a tokenized bond fund on Ethereum and Solana with BNY, OKX and NYSE unveiled a joint venture to bridge their platforms, and Bitmine added $92 million in ETH per CoinDesk. Stablecoin regulation moved in multiple jurisdictions — the Bank of England set a £40B aggregate issuance cap ahead of a 2027 launch and the U.S. Senate passed a housing bill with a four-year CBDC ban — while Ethereum's Foundation leadership exodus prompted Joe Lubin and corporate holders to back a new Ethlabs research hub per CoinDesk.",
+  "narrative": "All three coins extended their slide — BTC now below $62,000 for a second consecutive session as a semiconductor stock selloff dragged risk assets lower, with Deutsche Bank attributing the weakness to a hawkish Fed, ETF outflows, and capital rotating to AI per CoinDesk. Against the price pressure, the Ethereum Foundation announced a simultaneous 20% staff cut and 40% budget reduction as Vitalik Buterin reset the organization following nine senior departures since January per CoinDesk. Institutional infrastructure kept building in the other direction: the EU Parliament approved a digital euro framework, Ripple won preliminary EU MiCA approval, Franklin Templeton stood up a new Franklin Crypto division after closing the 250 Digital acquisition, and Chainlink partnered with 47 banks for stablecoin-settled cross-border transfers per CoinDesk.",
   "worth_watching": [
-    "OKX-NYSE joint venture — OKX's 120M users getting access to ICE futures and NYSE tokenized equities via a new venture led by Andrew Cuomo per CoinDesk; a formal tradfi-crypto bridge at exchange scale not tracked by watchlist coins",
-    "Ethereum Foundation → Ethlabs pivot — after two co-executive director resignations, Joe Lubin, Sharplink, and Bitmine backed a new Ethereum research hub per CoinDesk; the shift of development governance away from the Foundation is structural and not captured in ETH's price",
-    "Trump quantum computing executive orders — twin orders to accelerate large-scale quantum computers while hardening defenses per CoinDesk; accelerates timeline pressure on blockchain cryptographic infrastructure already prompting responses from Algorand and others"
+    "Trump/UAE crypto deal ($500M) — Senate Democrats called for sworn testimony on conflicts of interest over Trump's $500M UAE investment in his crypto venture per CoinDesk; political risk around executive-branch crypto entanglement not captured in watchlist coins",
+    "Bitcoin bottom signals diverging — OG investors at 2-year selling lows (bullish per CoinDesk) vs. Deutsche Bank and on-chain analysts pointing to $53,500–$59,000 range as the next support; unusually wide gap between bullish contrarian and bearish structural signals",
+    "Crypto PAC political momentum — Fairshake PAC's $5.5M candidate won Maryland's primary per CoinDesk, with additional wins in NY and UT; the mid-2026 election cycle is reshaping which congresspeople can be counted on for Clarity Act votes"
   ],
   "news": [
     {
       "source": "coindesk.com",
       "headlines": [
-        "Are perps swaps? A quick look at that CME suit: State of Crypto",
-        "Bank of England backs down on strict stablecoin holding limits, sets $50 billion issuance cap",
-        "The U.S. government is betting $2 Billion on quantum computing, and the defense side can't keep up",
+        "Ripple secures preliminary approval in EU through Luxembourg MiCA license",
         "Stablecoins Were Meant to Disrupt Finance. Instead, They Became Idle Cash.",
         "If America wants to lead in crypto, it must protect the people who build it",
         "Crypto's security nightmare won't be solved by ordinary audits",
-        "TradFi fund manager Baillie Gifford introduces Solana, Ethereum tokenized fund with BNY",
-        "Michael Saylor's MSTR boosted BTC and cash holdings"
+        "The SEC delayed tokenizing stocks, and here's why that's a relief",
+        "Strategy's STRC slump is not a Terra repeat, Benchmark says",
+        "Franklin Templeton closes 250 Digital acquisition deal and sets up new Franklin Crypto division",
+        "The EU Parliament approves digital euro framework to counter U.S.'s payment monopoly"
       ]
     }
   ]

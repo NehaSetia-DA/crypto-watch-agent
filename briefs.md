@@ -11,6 +11,32 @@ No investment advice — this surfaces what's happening, you read it.
 
 <!-- new briefs go here, between this marker and the previous entry -->
 
+## 2026-06-25
+
+**Movement** — bitcoin $61,708 ↘ -1.58%, ethereum $1,654 ↘ -1.13%, solana $69 ↘ -0.42%
+
+All three coins extended their slide — BTC now below $62,000 for a second consecutive session as a semiconductor stock selloff dragged risk assets lower, with Deutsche Bank attributing the weakness to a hawkish Fed, ETF outflows, and capital rotating to AI per CoinDesk. Against the price pressure, the Ethereum Foundation announced a simultaneous 20% staff cut and 40% budget reduction as Vitalik Buterin reset the organization following nine senior departures since January per CoinDesk. Institutional infrastructure kept building in the other direction: the EU Parliament approved a digital euro framework, Ripple won preliminary EU MiCA approval, Franklin Templeton stood up a new Franklin Crypto division after closing the 250 Digital acquisition, and Chainlink partnered with 47 banks for stablecoin-settled cross-border transfers per CoinDesk.
+
+**Worth watching**
+- Trump/UAE crypto deal ($500M) — Senate Democrats called for sworn testimony on conflicts of interest over Trump's $500M UAE investment in his crypto venture per CoinDesk; political risk around executive-branch crypto entanglement not captured in watchlist coins
+- Bitcoin bottom signals diverging — OG investors at 2-year selling lows (bullish per CoinDesk) vs. Deutsche Bank and on-chain analysts pointing to $53,500–$59,000 range as the next support; unusually wide gap between bullish contrarian and bearish structural signals
+- Crypto PAC political momentum — Fairshake PAC's $5.5M candidate won Maryland's primary per CoinDesk, with additional wins in NY and UT; the mid-2026 election cycle is reshaping which congresspeople can be counted on for Clarity Act votes
+
+<details><summary>8 headlines</summary>
+
+- [Ripple secures preliminary approval in EU through Luxembourg MiCA license](https://www.coindesk.com/policy/2026/06/23/ripple-targets-eu-wins-preliminary-mica-approval-from-luxembourg-financial-regulator)
+- [Stablecoins Were Meant to Disrupt Finance. Instead, They Became Idle Cash.](https://www.coindesk.com/opinion/2026/06/13/stablecoins-were-meant-to-disrupt-finance-instead-they-became-idle-cash)
+- [If America wants to lead in crypto, it must protect the people who build it](https://www.coindesk.com/opinion/2026/06/15/if-america-wants-to-lead-in-crypto-it-must-protect-the-people-who-build-it)
+- [Crypto's security nightmare won't be solved by ordinary audits](https://www.coindesk.com/opinion/2026/06/17/crypto-s-security-nightmare-won-t-be-solved-by-ordinary-audits)
+- [The SEC delayed tokenizing stocks, and here's why that's a relief](https://www.coindesk.com/opinion/2026/06/23/the-sec-delayed-tokenizing-stocks-and-here-s-why-that-s-a-relief)
+- [Strategy's STRC slump is not a Terra repeat, Benchmark says](https://www.coindesk.com/markets/2026/06/23/strategy-s-strc-slid-below-par-reviving-terra-comparisons-that-don-t-hold-up)
+- [Franklin Templeton closes 250 Digital acquisition deal and sets up new Franklin Crypto division](https://www.coindesk.com/business/2026/06/23/franklin-templeton-closes-250-digital-acquisition-deal-and-sets-up-new-franklin-crypto-division)
+- [The EU Parliament approves digital euro framework to counter U.S.'s payment monopoly](https://www.coindesk.com/policy/2026/06/23/european-parliament-clears-last-step-for-a-digital-euro-to-break-u-s-payment-grip)
+
+</details>
+
+---
+
 ## 2026-06-24
 
 **Movement** — bitcoin $62,697 ↘ -0.27%, ethereum $1,673 ↘ -1.04%, solana $70 ↘ -0.78%
