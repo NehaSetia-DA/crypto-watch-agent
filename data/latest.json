@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-06-25T07:00:00.000000Z",
+  "generated_at": "2026-06-26T07:10:00.000000Z",
   "prices": [
-    {"id": "bitcoin", "usd": 61708, "change_24h": -1.5801271225217992},
-    {"id": "ethereum", "usd": 1653.82, "change_24h": -1.1260795598232576},
-    {"id": "solana", "usd": 69.38, "change_24h": -0.42314849654912823}
+    {"id": "bitcoin", "usd": 60231, "change_24h": -2.2219008949178325},
+    {"id": "ethereum", "usd": 1570.58, "change_24h": -4.813069237377069},
+    {"id": "solana", "usd": 69.94, "change_24h": 0.917338200678538}
   ],
-  "narrative": "All three coins extended their slide — BTC now below $62,000 for a second consecutive session as a semiconductor stock selloff dragged risk assets lower, with Deutsche Bank attributing the weakness to a hawkish Fed, ETF outflows, and capital rotating to AI per CoinDesk. Against the price pressure, the Ethereum Foundation announced a simultaneous 20% staff cut and 40% budget reduction as Vitalik Buterin reset the organization following nine senior departures since January per CoinDesk. Institutional infrastructure kept building in the other direction: the EU Parliament approved a digital euro framework, Ripple won preliminary EU MiCA approval, Franklin Templeton stood up a new Franklin Crypto division after closing the 250 Digital acquisition, and Chainlink partnered with 47 banks for stablecoin-settled cross-border transfers per CoinDesk.",
+  "narrative": "Bitcoin slid toward $59,000 before recovering — the debasement trade is unwinding as gold, silver, and BTC tumbled in unison, with 10x Research flagging $55,000 as a potential summer bottom amid a strengthening dollar and hawkish Fed per CoinDesk. Ethereum's steeper -4.81% drop came as the Foundation formalized its reset (20% staff cuts, 40% budget reduction), though corporate holders and Vitalik-aligned figures called the shakeout bullish while Bitmine added $92M in ETH per CoinDesk. Solana bucked the trend (+0.92%) as MoneyGram joined as a validator, while a cluster of exploits — Taiko bridge ($1.7M), Jaredfromsubway.eth ($7.5M), SecondFi ($2.4M) — and Trump's refusal to sign the CBDC ban added security and policy friction per CoinDesk.",
   "worth_watching": [
-    "Trump/UAE crypto deal ($500M) — Senate Democrats called for sworn testimony on conflicts of interest over Trump's $500M UAE investment in his crypto venture per CoinDesk; political risk around executive-branch crypto entanglement not captured in watchlist coins",
-    "Bitcoin bottom signals diverging — OG investors at 2-year selling lows (bullish per CoinDesk) vs. Deutsche Bank and on-chain analysts pointing to $53,500–$59,000 range as the next support; unusually wide gap between bullish contrarian and bearish structural signals",
-    "Crypto PAC political momentum — Fairshake PAC's $5.5M candidate won Maryland's primary per CoinDesk, with additional wins in NY and UT; the mid-2026 election cycle is reshaping which congresspeople can be counted on for Clarity Act votes"
+    "Binance EU MiCA deadline (July 1) — Binance withdrew its Greek MiCA bid and must find an EU home by July 1 or face forced shutdown for millions of European users per CoinDesk; a major market-access event not tracked in watchlist coins",
+    "$10 billion quarterly options expiry — bitcoin trades well below the $72,000 max-pain level ahead of Friday's $10B settlement per CoinDesk; the mismatch raises questions about whether options-market positioning signals remain reliable in this bear leg",
+    "Kalshi at $40 billion valuation — the prediction market operator is eyeing a 2027 IPO and widening its lead over Polymarket per CoinDesk; none of the watchlist coins capture this fast-growing infrastructure segment"
   ],
   "news": [
     {
       "source": "coindesk.com",
       "headlines": [
-        "Ripple secures preliminary approval in EU through Luxembourg MiCA license",
-        "Stablecoins Were Meant to Disrupt Finance. Instead, They Became Idle Cash.",
+        "CZ, Binance founder, wants to clear up 'misunderstandings' about who he is",
         "If America wants to lead in crypto, it must protect the people who build it",
-        "Crypto's security nightmare won't be solved by ordinary audits",
-        "The SEC delayed tokenizing stocks, and here's why that's a relief",
-        "Strategy's STRC slump is not a Terra repeat, Benchmark says",
-        "Franklin Templeton closes 250 Digital acquisition deal and sets up new Franklin Crypto division",
-        "The EU Parliament approves digital euro framework to counter U.S.'s payment monopoly"
+        "Crypto’s security nightmare won’t be solved by ordinary audits",
+        "The SEC delayed tokenizing stocks, and here’s why that’s a relief",
+        "The banking lobby is wrong about stablecoins and community banks",
+        "CoinDesk 20 performance update: Aave (AAVE) gains 5.9% as index moves higher",
+        "Bitcoin (BTC) price could fall to $55,000 to find a bottom in August-October, 10x Research says",
+        "Gold, silver and bitcoin tumble as ‘debasement’ trade unwinds"
       ]
     }
   ]

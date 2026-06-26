@@ -11,6 +11,32 @@ No investment advice — this surfaces what's happening, you read it.
 
 <!-- new briefs go here, between this marker and the previous entry -->
 
+## 2026-06-26
+
+**Movement** — bitcoin $60,231 ↘ -2.22%, ethereum $1,571 ↘ -4.81%, solana $70 ↗ +0.92%
+
+Bitcoin slid toward $59,000 before recovering — the debasement trade is unwinding as gold, silver, and BTC tumbled in unison, with 10x Research flagging $55,000 as a potential summer bottom amid a strengthening dollar and hawkish Fed per CoinDesk. Ethereum's steeper -4.81% drop came as the Foundation formalized its reset (20% staff cuts, 40% budget reduction), though corporate holders and Vitalik-aligned figures called the shakeout bullish while Bitmine added $92M in ETH per CoinDesk. Solana bucked the trend (+0.92%) as MoneyGram joined as a validator, while a cluster of exploits — Taiko bridge ($1.7M), Jaredfromsubway.eth ($7.5M), SecondFi ($2.4M) — and Trump's refusal to sign the CBDC ban added security and policy friction per CoinDesk.
+
+**Worth watching**
+- Binance EU MiCA deadline (July 1) — Binance withdrew its Greek MiCA bid and must find an EU home by July 1 or face forced shutdown for millions of European users per CoinDesk; a major market-access event not tracked in watchlist coins
+- $10 billion quarterly options expiry — bitcoin trades well below the $72,000 max-pain level ahead of Friday's $10B settlement per CoinDesk; the mismatch raises questions about whether options-market positioning signals remain reliable in this bear leg
+- Kalshi at $40 billion valuation — the prediction market operator is eyeing a 2027 IPO and widening its lead over Polymarket per CoinDesk; none of the watchlist coins capture this fast-growing infrastructure segment
+
+<details><summary>8 headlines</summary>
+
+- [CZ, Binance founder, wants to clear up 'misunderstandings' about who he is](https://www.coindesk.com/policy/2026/06/23/cz-binance-founder-wants-to-clear-up-misunderstandings-about-who-he-is)
+- [If America wants to lead in crypto, it must protect the people who build it](https://www.coindesk.com/opinion/2026/06/15/if-america-wants-to-lead-in-crypto-it-must-protect-the-people-who-build-it)
+- [Crypto's security nightmare won't be solved by ordinary audits](https://www.coindesk.com/opinion/2026/06/17/crypto-s-security-nightmare-won-t-be-solved-by-ordinary-audits)
+- [The SEC delayed tokenizing stocks, and here's why that's a relief](https://www.coindesk.com/opinion/2026/06/23/the-sec-delayed-tokenizing-stocks-and-here-s-why-that-s-a-relief)
+- [The banking lobby is wrong about stablecoins and community banks](https://www.coindesk.com/opinion/2026/06/24/the-banking-lobby-is-wrong-about-stablecoins-and-community-banks)
+- [CoinDesk 20 performance update: Aave (AAVE) gains 5.9% as index moves higher](https://www.coindesk.com/coindesk-indices/2026/06/24/coindesk-20-performance-update-aave-aave-gains-5-9-as-index-moves-higher)
+- [Bitcoin (BTC) price could fall to $55,000 to find a bottom in August-October, 10x Research says](https://www.coindesk.com/markets/2026/06/24/bitcoin-could-fall-to-usd55-000-before-finding-a-bottom-10x-research-says)
+- [Gold, silver and bitcoin tumble as 'debasement' trade unwinds](https://www.coindesk.com/markets/2026/06/24/gold-silver-and-bitcoin-tumble-as-debasement-trade-unwinds)
+
+</details>
+
+---
+
 ## 2026-06-25
 
 **Movement** — bitcoin $61,708 ↘ -1.58%, ethereum $1,654 ↘ -1.13%, solana $69 ↘ -0.42%
