@@ -11,6 +11,32 @@ No investment advice — this surfaces what's happening, you read it.
 
 <!-- new briefs go here, between this marker and the previous entry -->
 
+## 2026-06-27
+
+**Movement** — bitcoin $60,211 → -0.06%, ethereum $1,578 ↗ +0.66%, solana $72 ↗ +4.30%
+
+Bitcoin steadied near $60,211 after this week's $1 billion liquidation event — derivatives still signal panic but an overcrowded short-squeeze setup raises snapback risk per CoinDesk; solana led the partial recovery at +4.30%. Ethereum (+0.66%) held gains despite its Foundation announcing 20% staff cuts and a 40% budget reduction, with Vitalik-aligned names calling the shakeout bullish while AAVE surged 10.1% in the CoinDesk 20 per CoinDesk. Institutional infrastructure kept advancing: Kraken entered talks to buy a 15% Aave stake, Invesco filed for a tokenized fund targeting stablecoin reserves, and Circle partnered with Nomura for Japan FX settlement per CoinDesk.
+
+**Worth watching**
+- AAVE / Kraken acquisition talks — Kraken eyeing a 15% stake in Aave at a $385M valuation per CoinDesk, with AAVE up 10.1% on the day; DeFi lending infrastructure is attracting exchange-level strategic capital not tracked in the watchlist
+- Binance MiCA July 1 deadline — now four days away; Binance withdrew its Greek bid and must find an EU base or face forced shutdown for millions of European users per CoinDesk
+- Strategy $13B paper loss scale — a prominent miner calls for BTC to drop another 30% to $44K and STRC correlation with BTC is at an all-time high per CoinDesk; concentrated treasury-company risk could affect broader market if forced selling occurs
+
+<details><summary>8 headlines</summary>
+
+- [Binance withdraws Greek MiCA bid but vows to remain in the EU](https://www.coindesk.com/policy/2026/06/24/binance-withdraws-greek-mica-bid-but-vows-to-remain-in-europe)
+- [CoinEx denies claims it served as $3.84 billion gateway to sanctioned Iranian crypto firms](https://www.coindesk.com/policy/2026/06/25/coinex-denies-claims-it-served-as-usd3-84-billion-gateway-to-sanctioned-iranian-crypto-firms)
+- [If America wants to lead in crypto, it must protect the people who build it](https://www.coindesk.com/opinion/2026/06/15/if-america-wants-to-lead-in-crypto-it-must-protect-the-people-who-build-it)
+- [Crypto's security nightmare won't be solved by ordinary audits](https://www.coindesk.com/opinion/2026/06/17/crypto-s-security-nightmare-won-t-be-solved-by-ordinary-audits)
+- [The SEC delayed tokenizing stocks, and here's why that's a relief](https://www.coindesk.com/opinion/2026/06/23/the-sec-delayed-tokenizing-stocks-and-here-s-why-that-s-a-relief)
+- [The banking lobby is wrong about stablecoins and community banks](https://www.coindesk.com/opinion/2026/06/24/the-banking-lobby-is-wrong-about-stablecoins-and-community-banks)
+- [Bitcoin (BTC) derivatives signal price panic. A weak U.S. inflation reading could trigger snapback: Crypto Daily](https://www.coindesk.com/daybook-us/2026/06/25/bitcoin-derivatives-signal-panic-a-weak-core-pce-reading-could-trigger-snapback)
+- [Circle and Nomura join forces to target a $440 billion daily foreign exchange market in Japan](https://www.coindesk.com/markets/2026/06/25/circle-and-nomura-join-forces-to-target-a-usd750-billion-daily-foreign-exchange-market-in-japan)
+
+</details>
+
+---
+
 ## 2026-06-26
 
 **Movement** — bitcoin $60,231 ↘ -2.22%, ethereum $1,571 ↘ -4.81%, solana $70 ↗ +0.92%

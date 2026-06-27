@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-06-26T07:10:00.000000Z",
+  "generated_at": "2026-06-27T07:00:00.000000Z",
   "prices": [
-    {"id": "bitcoin", "usd": 60231, "change_24h": -2.2219008949178325},
-    {"id": "ethereum", "usd": 1570.58, "change_24h": -4.813069237377069},
-    {"id": "solana", "usd": 69.94, "change_24h": 0.917338200678538}
+    {"id": "bitcoin", "usd": 60211, "change_24h": -0.06190618256614836},
+    {"id": "ethereum", "usd": 1578.07, "change_24h": 0.659850055988464},
+    {"id": "solana", "usd": 71.97, "change_24h": 4.299981666143034}
   ],
-  "narrative": "Bitcoin slid toward $59,000 before recovering — the debasement trade is unwinding as gold, silver, and BTC tumbled in unison, with 10x Research flagging $55,000 as a potential summer bottom amid a strengthening dollar and hawkish Fed per CoinDesk. Ethereum's steeper -4.81% drop came as the Foundation formalized its reset (20% staff cuts, 40% budget reduction), though corporate holders and Vitalik-aligned figures called the shakeout bullish while Bitmine added $92M in ETH per CoinDesk. Solana bucked the trend (+0.92%) as MoneyGram joined as a validator, while a cluster of exploits — Taiko bridge ($1.7M), Jaredfromsubway.eth ($7.5M), SecondFi ($2.4M) — and Trump's refusal to sign the CBDC ban added security and policy friction per CoinDesk.",
+  "narrative": "Bitcoin steadied near $60,211 after this week's $1 billion liquidation event — derivatives still signal panic but an overcrowded short-squeeze setup raises snapback risk per CoinDesk; solana led the partial recovery at +4.30%. Ethereum (+0.66%) held gains despite its Foundation announcing 20% staff cuts and a 40% budget reduction, with Vitalik-aligned names calling the shakeout bullish while AAVE surged 10.1% in the CoinDesk 20 per CoinDesk. Institutional infrastructure kept advancing: Kraken entered talks to buy a 15% Aave stake, Invesco filed for a tokenized fund targeting stablecoin reserves, and Circle partnered with Nomura for Japan FX settlement per CoinDesk.",
   "worth_watching": [
-    "Binance EU MiCA deadline (July 1) — Binance withdrew its Greek MiCA bid and must find an EU home by July 1 or face forced shutdown for millions of European users per CoinDesk; a major market-access event not tracked in watchlist coins",
-    "$10 billion quarterly options expiry — bitcoin trades well below the $72,000 max-pain level ahead of Friday's $10B settlement per CoinDesk; the mismatch raises questions about whether options-market positioning signals remain reliable in this bear leg",
-    "Kalshi at $40 billion valuation — the prediction market operator is eyeing a 2027 IPO and widening its lead over Polymarket per CoinDesk; none of the watchlist coins capture this fast-growing infrastructure segment"
+    "AAVE / Kraken acquisition talks — Kraken eyeing a 15% stake in Aave at a $385M valuation per CoinDesk, with AAVE up 10.1% on the day; DeFi lending infrastructure is attracting exchange-level strategic capital not tracked in the watchlist",
+    "Binance MiCA July 1 deadline — now four days away; Binance withdrew its Greek bid and must find an EU base or face forced shutdown for millions of European users per CoinDesk",
+    "Strategy $13B paper loss scale — a prominent miner calls for BTC to drop another 30% to $44K and STRC correlation with BTC is at an all-time high per CoinDesk; concentrated treasury-company risk could affect broader market if forced selling occurs"
   ],
   "news": [
     {
       "source": "coindesk.com",
       "headlines": [
-        "CZ, Binance founder, wants to clear up 'misunderstandings' about who he is",
+        "Binance withdraws Greek MiCA bid but vows to remain in the EU",
+        "CoinEx denies claims it served as $3.84 billion gateway to sanctioned Iranian crypto firms",
         "If America wants to lead in crypto, it must protect the people who build it",
-        "Crypto’s security nightmare won’t be solved by ordinary audits",
-        "The SEC delayed tokenizing stocks, and here’s why that’s a relief",
+        "Crypto's security nightmare won't be solved by ordinary audits",
+        "The SEC delayed tokenizing stocks, and here's why that's a relief",
         "The banking lobby is wrong about stablecoins and community banks",
-        "CoinDesk 20 performance update: Aave (AAVE) gains 5.9% as index moves higher",
-        "Bitcoin (BTC) price could fall to $55,000 to find a bottom in August-October, 10x Research says",
-        "Gold, silver and bitcoin tumble as ‘debasement’ trade unwinds"
+        "Bitcoin (BTC) derivatives signal price panic. A weak U.S. inflation reading could trigger snapback: Crypto Daily",
+        "Circle and Nomura join forces to target a $440 billion daily foreign exchange market in Japan"
       ]
     }
   ]
