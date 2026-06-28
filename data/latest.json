@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-06-27T07:00:00.000000Z",
+  "generated_at": "2026-06-28T07:30:00.000000Z",
   "prices": [
-    {"id": "bitcoin", "usd": 60211, "change_24h": -0.06190618256614836},
-    {"id": "ethereum", "usd": 1578.07, "change_24h": 0.659850055988464},
-    {"id": "solana", "usd": 71.97, "change_24h": 4.299981666143034}
+    {"id": "bitcoin", "usd": 60040, "change_24h": -0.31119923146117623},
+    {"id": "ethereum", "usd": 1569.86, "change_24h": -0.5773815102075469},
+    {"id": "solana", "usd": 70.61, "change_24h": -1.872560128904226}
   ],
-  "narrative": "Bitcoin steadied near $60,211 after this week's $1 billion liquidation event — derivatives still signal panic but an overcrowded short-squeeze setup raises snapback risk per CoinDesk; solana led the partial recovery at +4.30%. Ethereum (+0.66%) held gains despite its Foundation announcing 20% staff cuts and a 40% budget reduction, with Vitalik-aligned names calling the shakeout bullish while AAVE surged 10.1% in the CoinDesk 20 per CoinDesk. Institutional infrastructure kept advancing: Kraken entered talks to buy a 15% Aave stake, Invesco filed for a tokenized fund targeting stablecoin reserves, and Circle partnered with Nomura for Japan FX settlement per CoinDesk.",
+  "narrative": "All three coins fell Sunday, rounding out a brutal first half — bitcoin touched a 21-month low near $58,000 before recovering to $60K, with CF Benchmarks pegging the $50K–$60K zone as where buyers historically step in per CoinDesk. Ethereum's price weakness tracks structural headwinds: the Foundation confirmed 20% staff cuts and a 40% budget reduction amid nine senior departures since January, with a former EF leader warning of a new funding gap as governance shifts per CoinDesk. Against the slide, institutional infrastructure kept building: Invesco filed for a tokenized fund targeting stablecoin reserves, Securitize raised $400M nearing its NYSE debut, and Strategy added 520 more BTC even carrying a $13B paper loss per CoinDesk.",
   "worth_watching": [
-    "AAVE / Kraken acquisition talks — Kraken eyeing a 15% stake in Aave at a $385M valuation per CoinDesk, with AAVE up 10.1% on the day; DeFi lending infrastructure is attracting exchange-level strategic capital not tracked in the watchlist",
-    "Binance MiCA July 1 deadline — now four days away; Binance withdrew its Greek bid and must find an EU base or face forced shutdown for millions of European users per CoinDesk",
-    "Strategy $13B paper loss scale — a prominent miner calls for BTC to drop another 30% to $44K and STRC correlation with BTC is at an all-time high per CoinDesk; concentrated treasury-company risk could affect broader market if forced selling occurs"
+    "Binance EU exit confirmed — a day after withdrawing its MiCA license application, Binance told EU users it will suspend services entirely; millions of European users must seek alternatives, reshaping regional access not captured in watchlist coins",
+    "Strategy STRC June 30 ex-dividend and rate reset — imminent in two days; the dividend rate reset could affect how markets price STRC and BTC via forced-selling risk per CoinDesk",
+    "Crypto/AI rotation deepening — ETH, XRP, DOGE fell 9% on the week while AI stocks and the equal-weight S&P 500 reached a record per CoinDesk; crypto was absent from the broad H1-close rally"
   ],
   "news": [
     {
       "source": "coindesk.com",
       "headlines": [
-        "Binance withdraws Greek MiCA bid but vows to remain in the EU",
-        "CoinEx denies claims it served as $3.84 billion gateway to sanctioned Iranian crypto firms",
+        "Kraken sues crypto derivatives firm PowerTrade over missing funds",
         "If America wants to lead in crypto, it must protect the people who build it",
         "Crypto's security nightmare won't be solved by ordinary audits",
         "The SEC delayed tokenizing stocks, and here's why that's a relief",
         "The banking lobby is wrong about stablecoins and community banks",
-        "Bitcoin (BTC) derivatives signal price panic. A weak U.S. inflation reading could trigger snapback: Crypto Daily",
-        "Circle and Nomura join forces to target a $440 billion daily foreign exchange market in Japan"
+        "Invesco, $2.5T asset manager, files for tokenized fund targeting stablecoin reserves",
+        "Live markets: Bitcoin falls below $60,000. Kospi, Nikkei sink",
+        "Ether, XRP, DOGE price news: Majors lead a broad crypto selloff as tech stocks tumble"
       ]
     }
   ]

@@ -11,6 +11,32 @@ No investment advice — this surfaces what's happening, you read it.
 
 <!-- new briefs go here, between this marker and the previous entry -->
 
+## 2026-06-28
+
+**Movement** — bitcoin $60,040 ↘ -0.31%, ethereum $1,570 ↘ -0.58%, solana $71 ↘ -1.87%
+
+All three coins fell Sunday, rounding out a brutal first half — bitcoin touched a 21-month low near $58,000 before recovering to $60K, with CF Benchmarks pegging the $50K–$60K zone as where buyers historically step in per CoinDesk. Ethereum's price weakness tracks structural headwinds: the Foundation confirmed 20% staff cuts and a 40% budget reduction amid nine senior departures since January, with a former EF leader warning of a new funding gap as governance shifts per CoinDesk. Against the slide, institutional infrastructure kept building: Invesco filed for a tokenized fund targeting stablecoin reserves, Securitize raised $400M nearing its NYSE debut, and Strategy added 520 more BTC even carrying a $13B paper loss per CoinDesk.
+
+**Worth watching**
+- Binance EU exit confirmed — a day after withdrawing its MiCA license application, Binance told EU users it will suspend services entirely; millions of European users must seek alternatives, reshaping regional access not captured in watchlist coins
+- Strategy STRC June 30 ex-dividend and rate reset — imminent in two days; the dividend rate reset could affect how markets price STRC and BTC via forced-selling risk per CoinDesk
+- Crypto/AI rotation deepening — ETH, XRP, DOGE fell 9% on the week while AI stocks and the equal-weight S&P 500 reached a record per CoinDesk; crypto was absent from the broad H1-close rally
+
+<details><summary>8 headlines</summary>
+
+- [Kraken sues crypto derivatives firm PowerTrade over missing funds](https://www.coindesk.com/policy/2026/06/25/kraken-sues-crypto-derivatives-firm-powertrade-over-misappropriated-funds-claim)
+- [If America wants to lead in crypto, it must protect the people who build it](https://www.coindesk.com/opinion/2026/06/15/if-america-wants-to-lead-in-crypto-it-must-protect-the-people-who-build-it)
+- [Crypto's security nightmare won't be solved by ordinary audits](https://www.coindesk.com/opinion/2026/06/17/crypto-s-security-nightmare-won-t-be-solved-by-ordinary-audits)
+- [The SEC delayed tokenizing stocks, and here's why that's a relief](https://www.coindesk.com/opinion/2026/06/23/the-sec-delayed-tokenizing-stocks-and-here-s-why-that-s-a-relief)
+- [The banking lobby is wrong about stablecoins and community banks](https://www.coindesk.com/opinion/2026/06/24/the-banking-lobby-is-wrong-about-stablecoins-and-community-banks)
+- [Invesco, $2.5T asset manager, files for tokenized fund targeting stablecoin reserves](https://www.coindesk.com/business/2026/06/25/asset-management-giant-invesco-files-for-tokenized-fund-targeting-stablecoin-reserve-market)
+- [Live markets: Bitcoin falls below $60,000. Kospi, Nikkei sink](https://www.coindesk.com/tech/2026/06/26/live-markets-bitcoin-rebounds-to-nearly-usd60-000-kospi-nikkei-sink)
+- [Ether, XRP, DOGE price news: Majors lead a broad crypto selloff as tech stocks tumble](https://www.coindesk.com/markets/2026/06/26/ether-xrp-and-dogecoin-lead-a-broad-crypto-selloff-as-tech-stocks-tumble)
+
+</details>
+
+---
+
 ## 2026-06-27
 
 **Movement** — bitcoin $60,211 → -0.06%, ethereum $1,578 ↗ +0.66%, solana $72 ↗ +4.30%
