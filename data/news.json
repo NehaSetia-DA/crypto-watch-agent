@@ -1,29 +1,18 @@
 {
-  "job": "864818/1/30",
-  "fetched_at": "2026-06-27T06:40:32.008584Z",
-  "count": 67,
+  "job": "864818/1/31",
+  "fetched_at": "2026-06-28T07:12:23.834225Z",
+  "count": 66,
   "items": [
     {
-      "headline": "Binance withdraws Greek MiCA bid but vows to remain in the EU",
-      "subheadline": "The crypto giant must find a home base in the EU by July 1 or regulators will force the company to shut down operations for millions of regional users.",
+      "headline": "Kraken sues crypto derivatives firm PowerTrade over missing funds",
+      "subheadline": "PowerTrade changed Kraken\u2019s positive balance of over $6 milllion to a $2 million deficit via a series of unauthorized \u201ccorrections\u201d related to trades that had expired or settled months earlier, according to a legal filing. ",
       "section": "Policy",
-      "url": "https://www.coindesk.com/policy/2026/06/24/binance-withdraws-greek-mica-bid-but-vows-to-remain-in-europe",
-      "date_published": "2026-06-24T17:18:08.436Z",
-      "author": "Olivier Acuna",
+      "url": "https://www.coindesk.com/policy/2026/06/25/kraken-sues-crypto-derivatives-firm-powertrade-over-misappropriated-funds-claim",
+      "date_published": "2026-06-25T13:53:28.909Z",
+      "author": "Ian Allison",
       "tags": [
-        "MiCA",
-        "Binance"
-      ]
-    },
-    {
-      "headline": "CoinEx denies claims it served as $3.84 billion gateway to sanctioned Iranian crypto firms",
-      "subheadline": "Blockchain analysts TRM Labs says CoinEx facilitated more than $3.8 billion in blockchain-traced flows with sanctioned Iranian crypto entities. CoinEx disputes the findings.",
-      "section": "Policy",
-      "url": "https://www.coindesk.com/policy/2026/06/25/coinex-denies-claims-it-served-as-usd3-84-billion-gateway-to-sanctioned-iranian-crypto-firms",
-      "date_published": "2026-06-25T10:56:58.869Z",
-      "author": "Jamie Crawley",
-      "tags": [
-        "Iran"
+        "Kraken",
+        "Exclusive"
       ]
     },
     {
@@ -98,52 +87,56 @@
       "tags": []
     },
     {
-      "headline": "Bitcoin (BTC) derivatives signal price panic. A weak U.S. inflation reading could trigger snapback: Crypto Daily",
-      "subheadline": "Your day-ahead look for June 25, 2026",
-      "section": "Crypto Daybook Americas",
-      "url": "https://www.coindesk.com/daybook-us/2026/06/25/bitcoin-derivatives-signal-panic-a-weak-core-pce-reading-could-trigger-snapback",
-      "date_published": "2026-06-25T11:31:02.093Z",
+      "headline": "Invesco, $2.5T asset manager, files for tokenized fund targeting stablecoin reserves",
+      "subheadline": "The $2.5 trillion asset manager deepens its blockchain push after taking over Superstate's tokenized money market fund as fund manager earlier this year.",
+      "section": "Finance",
+      "url": "https://www.coindesk.com/business/2026/06/25/asset-management-giant-invesco-files-for-tokenized-fund-targeting-stablecoin-reserve-market",
+      "date_published": "2026-06-25T20:47:24.814Z",
+      "author": "Krisztian Sandor",
+      "tags": [
+        "Stablecoins",
+        "Tokenization"
+      ]
+    },
+    {
+      "headline": "Live markets: Bitcoin falls below $60,000. Kospi, Nikkei sink",
+      "subheadline": "BTC sees a relief bounce as Asian stocks wilt following sharp losses on Wall Street.",
+      "section": "Tech",
+      "url": "https://www.coindesk.com/tech/2026/06/26/live-markets-bitcoin-rebounds-to-nearly-usd60-000-kospi-nikkei-sink",
+      "date_published": "2026-06-26T05:10:37.571Z",
+      "author": "Omkar Godbole",
+      "tags": []
+    },
+    {
+      "headline": "Ether, XRP, DOGE price news: Majors lead a broad crypto selloff as tech stocks tumble",
+      "subheadline": "Bitcoin slipped near $58,000 before recovering, and CF Benchmarks says the $50,000 to $60,000 zone is where buyers have always stepped in.",
+      "section": "Markets",
+      "url": "https://www.coindesk.com/markets/2026/06/26/ether-xrp-and-dogecoin-lead-a-broad-crypto-selloff-as-tech-stocks-tumble",
+      "date_published": "2026-06-26T05:41:51.027Z",
+      "author": "Shaurya Malwa",
+      "tags": []
+    },
+    {
+      "headline": "Strategy\u2019s $13 billion paper loss dwarfs dogecoin, BlackRock's BUIDL and hundreds of other tokens",
+      "subheadline": "Strategy\u2019s paper loss exceeds the market caps of hundreds of tokens, highlighting the extreme concentration of risk in the crypto market right now.",
+      "section": "Markets",
+      "url": "https://www.coindesk.com/markets/2026/06/26/too-big-to-fail-strategy-s-usd13-billion-bitcoin-paper-loss-alone-dwarfs-hundreds-of-prominent-tokens",
+      "date_published": "2026-06-26T06:37:29.444Z",
       "author": "Omkar Godbole",
       "tags": [
-        "Crypto Daybook Americas"
+        "MicroStrategy",
+        "Bitcoin News"
       ]
     },
     {
-      "headline": "Circle and Nomura join forces to target a $440 billion daily foreign exchange market in Japan ",
-      "subheadline": "The stablecoin giant and the Japanese financial corporation plan to deploy cross-border foreign exchange settlements as early as next year.",
-      "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/06/25/circle-and-nomura-join-forces-to-target-a-usd750-billion-daily-foreign-exchange-market-in-japan",
-      "date_published": "2026-06-25T12:29:21.427Z",
-      "author": "Olivier Acuna",
+      "headline": "Coinbase (COIN) news: Base blockchain resumes after two-hour outage disrupted network",
+      "subheadline": "The incident temporarily halted transaction processing on one of Ethereum's largest layer-2 networks.",
+      "section": "Tech",
+      "url": "https://www.coindesk.com/tech/2026/06/25/coinbase-s-base-blockchain-resumes-after-two-hour-outage-disrupted-network",
+      "date_published": "2026-06-25T18:46:08.528Z",
+      "author": "Margaux Nijkerk",
       "tags": [
-        "Japan",
-        "Circle",
-        "Stablecoins"
-      ]
-    },
-    {
-      "headline": "Post-prison CZ says time behind bars didn't hurt the billionaire's business after Binance",
-      "subheadline": "The pardoned ex-CEO called prison a character-building \"plus\" as he's pursued a venture-capital career, despite his majority stake in the world's biggest crypto exchange.",
-      "section": "Policy",
-      "url": "https://www.coindesk.com/policy/2026/06/24/post-prison-cz-says-time-behind-bars-didn-t-hurt-the-billionaire-s-business-after-binance",
-      "date_published": "2026-06-25T13:00:00.000Z",
-      "author": "Jesse Hamilton",
-      "tags": [
-        "CZ",
-        "Changpeng Zhao",
-        "Binance"
-      ]
-    },
-    {
-      "headline": "U.S. Senate passes housing bill that carries four-year ban on a Fed CBDC",
-      "subheadline": "The idea of a U.S. central bank digital currency \u2014 though little more than a research topic at the Federal Reserve \u2014 may be getting formally blocked. ",
-      "section": "Policy",
-      "url": "https://www.coindesk.com/policy/2026/06/22/u-s-senate-passes-housing-bill-that-carries-four-year-ban-on-a-fed-cbdc",
-      "date_published": "2026-06-22T23:01:15.243Z",
-      "author": "Jesse Hamilton",
-      "tags": [
-        "CBDC",
-        "Regulation"
+        "Coinbase"
       ]
     },
     {
@@ -169,59 +162,14 @@
       ]
     },
     {
-      "headline": "Forget max pain. Bitcoin is well below the $72,000 magnet going into $10 billion options expiry",
-      "subheadline": "The popular max pain theory isn\u2019t working out as bitcoin trades far from the $72K level a day ahead of a $10 billion quarterly options settlement. ",
+      "headline": "Bitcoin price analysis: BTC could fall as low as $48,000 in final capitulation",
+      "subheadline": "Hyperion Decimus' Chris Sullivan said four historically reliable indicators have aligned, leaving bitcoin one move away from confirming a major turning point.",
       "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/06/25/forget-max-pain-bitcoin-is-well-below-the-usd72-000-magnet-ahead-of-usd10-billion-options-expiry",
-      "date_published": "2026-06-25T07:24:59.588Z",
-      "author": "Omkar Godbole",
+      "url": "https://www.coindesk.com/markets/2026/06/25/quant-fund-says-bitcoin-is-near-a-major-inflection-point-as-rare-onchain-signals-align",
+      "date_published": "2026-06-25T15:14:01.645Z",
+      "author": "Helene Braun",
       "tags": [
         "Bitcoin News"
-      ]
-    },
-    {
-      "headline": "Tokenization pioneers Securitize and tZERO clash over patents as Wall Street moves onchain",
-      "subheadline": "tZERO and Securitize are squaring off over tokenization patents as the market attracts more of Wall Street's attention.",
-      "section": "Finance",
-      "url": "https://www.coindesk.com/business/2026/06/22/securitize-and-tzero-clash-over-patents-as-race-to-bring-wall-street-onchain-heats-up",
-      "date_published": "2026-06-22T21:08:50.415Z",
-      "author": "Krisztian Sandor",
-      "tags": [
-        "Tokenization"
-      ]
-    },
-    {
-      "headline": "Franklin Templeton closes 250 Digital acquisition deal and sets up new Franklin Crypto division",
-      "subheadline": "The $1.7 trillion asset manager did not disclose the amount paid for the acquisition of 250 Digital but revealed its plans for a new corporate division exclusively for crypto investments.",
-      "section": "Finance",
-      "url": "https://www.coindesk.com/business/2026/06/23/franklin-templeton-closes-250-digital-acquisition-deal-and-sets-up-new-franklin-crypto-division",
-      "date_published": "2026-06-23T12:35:57.177Z",
-      "author": "Olivier Acuna",
-      "tags": [
-        "Institutional Investors"
-      ]
-    },
-    {
-      "headline": "Stablecoin issuer Agora hires former Robinhood Crypto COO Tanya Denisova as head of operations",
-      "subheadline": "The former Robinhood Crypto executive will oversee operations as Agora scales its rapidly growing AUSD stablecoin business.",
-      "section": "Finance",
-      "url": "https://www.coindesk.com/business/2026/06/23/former-robinhood-crypto-coo-tanya-denisova-joins-stablecoin-issuer-agora-as-head-of-operations",
-      "date_published": "2026-06-23T13:00:00.000Z",
-      "author": "Will Canny",
-      "tags": [
-        "Robinhood",
-        "Exclusive"
-      ]
-    },
-    {
-      "headline": "Crypto critic Nouriel Roubini embraces tokenization with ETF-backed 'Technodollar'",
-      "subheadline": "The economist known as \"Dr. Doom\" is supporting a tokenized security backed by a Nasdaq-listed ETF he oversees, designed to protect wealth in global crises.",
-      "section": "Finance",
-      "url": "https://www.coindesk.com/business/2026/06/23/crypto-critic-roubini-joins-tokenization-boom-with-onchain-technodollar",
-      "date_published": "2026-06-23T21:54:10.698Z",
-      "author": "Krisztian Sandor",
-      "tags": [
-        "Tokenization"
       ]
     },
     {
@@ -271,37 +219,74 @@
       ]
     },
     {
-      "headline": "Micron Technology (MU) surged 16% after blowout earnings and strong guidance",
-      "subheadline": "Micron Technology surged after blockbuster earnings and strong guidance, lifting AI memory stocks.",
-      "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/06/25/micron-delivers-blowout-earnings-surges-16-and-deals-crypto-bulls-a-blow",
-      "date_published": "2026-06-25T10:01:54.682Z",
-      "author": "James Van Straten",
+      "headline": "Uniswap and Spark aims to build the FX market for stablecoins as banks, fintechs enter",
+      "subheadline": "The protocols are building shared liquidity and trading infrastructure for a future with hundreds of competing digital currencies on blockchain rails.",
+      "section": "Finance",
+      "url": "https://www.coindesk.com/business/2026/06/25/uniswap-spark-aim-to-build-stablecoin-fx-market-as-banks-fintechs-enter-the-industry",
+      "date_published": "2026-06-25T13:00:00.000Z",
+      "author": "Krisztian Sandor",
       "tags": [
-        "Bitcoin News",
+        "DeFi",
+        "Stablecoins"
+      ]
+    },
+    {
+      "headline": "a16z-backed crypto firm rebrands, shifts focus to solving AI\u2019s global copyright headache",
+      "subheadline": "The startup formerly known as Story Protocol raised $140 million to secure internet rights and is now building an audit layer for data consent, licensing, and provenance for tech firms.",
+      "section": "Finance",
+      "url": "https://www.coindesk.com/business/2026/06/25/a16z-backed-crypto-firm-rebrands-shifts-focus-to-solving-ai-s-global-copyright-headache",
+      "date_published": "2026-06-25T17:06:10.308Z",
+      "author": "Olivier Acuna",
+      "tags": [
         "Artificial Intelligence"
       ]
     },
     {
-      "headline": "Bitcoin supply in loss hits an all-time high as long term holders remain unfazed ",
-      "subheadline": "Almost 11 million bitcoin are now held at a loss, while long-term holders control a record 14.8 million coins.",
+      "headline": "Kraken eyes 15% stake in DeFi lender Aave in deal valuing protocol at $385 million",
+      "subheadline": "The DeFi lender is rebuilding after the fallout from April's KelpDAO exploit sparked a multibillion-dollar exodus of deposits despite Aave itself not being hacked.",
+      "section": "Finance",
+      "url": "https://www.coindesk.com/business/2026/06/25/kraken-in-talks-to-buy-15-stake-in-defi-lender-aave-at-usd385-million-valuation",
+      "date_published": "2026-06-25T17:14:19.749Z",
+      "author": "Will Canny",
+      "tags": [
+        "Kraken",
+        "DeFi",
+        "Exclusive",
+        "Aave",
+        "mergers and acquisitions"
+      ]
+    },
+    {
+      "headline": "Strategy (MSTR) has a 10-month cash runway for dividends, but retail investors are losing faith",
+      "subheadline": "STRC was marketed as a low volatility income product designed to trade near $100, and its sharp decline has undermined investor trust. ",
       "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/06/25/bitcoin-supply-in-loss-reaches-record-high-10-83-million-btc",
-      "date_published": "2026-06-25T10:28:37.681Z",
+      "url": "https://www.coindesk.com/markets/2026/06/25/michael-saylor-s-broken-promises-have-shattered-strategy-investor-trust-says-tw-prime-ceo",
+      "date_published": "2026-06-25T15:45:43.967Z",
       "author": "James Van Straten",
       "tags": [
         "Bitcoin News"
       ]
     },
     {
-      "headline": "Crypto steadies after brutal $1 billion liquidation day: Crypto Markets Today",
-      "subheadline": "A relief rally tied to recovering U.S. equities lifted BTC and ETH off weekly lows, but bearish derivatives positioning and negative CVD suggest the rebound may be fragile.",
+      "headline": "BlackBerry is making a massive comeback. Just not the way you would think",
+      "subheadline": "BlackBerry's stock is surging after the company's massive earnings beat and is pivoting into becoming a critical component of the AI and robotics boom.  ",
       "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/06/25/crypto-relief-rally-fails-to-shake-persistent-bearish-derivatives-signal",
-      "date_published": "2026-06-25T10:53:24.220Z",
-      "author": "Oliver Knight",
+      "url": "https://www.coindesk.com/markets/2026/06/25/blackberry-is-making-a-massive-comeback-as-an-uncrashable-software-layer-for-ai-and-robotics",
+      "date_published": "2026-06-25T16:05:06.265Z",
+      "author": "Aoyon Ashraf",
       "tags": [
-        "Crypto Markets Today"
+        "Artificial Intelligence"
+      ]
+    },
+    {
+      "headline": "STRC\u2019s correlation with BTC hits record high",
+      "subheadline": "The tightening correlation undermines STRC's appeal as a relatively steadier income vehicle.",
+      "section": "Markets",
+      "url": "https://www.coindesk.com/markets/2026/06/25/strategy-s-yield-generating-strc-stock-is-more-correlated-with-btc-than-ever",
+      "date_published": "2026-06-25T17:48:18.863Z",
+      "author": "Omkar Godbole",
+      "tags": [
+        "MicroStrategy"
       ]
     },
     {
@@ -479,31 +464,6 @@
       ]
     },
     {
-      "headline": "Ripple secures preliminary approval in EU through Luxembourg MiCA license",
-      "subheadline": "The license will enable European companies to utilise Ripple's stablecoin payments systems while also allowing it to expand into broader crypto functions.",
-      "section": "Policy",
-      "url": "https://www.coindesk.com/policy/2026/06/23/ripple-targets-eu-wins-preliminary-mica-approval-from-luxembourg-financial-regulator",
-      "date_published": "2026-06-23T10:17:19.061Z",
-      "author": "Jamie Crawley",
-      "tags": [
-        "Ripple",
-        "MiCA",
-        "Regulation"
-      ]
-    },
-    {
-      "headline": "The EU Parliament approves digital euro framework to counter U.S.'s payment monopoly",
-      "subheadline": "The approved framework includes a highly protected offline version that lets users swap funds phone-to-phone while keeping data hidden from central bank surveillance.",
-      "section": "Policy",
-      "url": "https://www.coindesk.com/policy/2026/06/23/european-parliament-clears-last-step-for-a-digital-euro-to-break-u-s-payment-grip",
-      "date_published": "2026-06-23T12:37:20.718Z",
-      "author": "Olivier Acuna",
-      "tags": [
-        "Stablecoins",
-        "ECB"
-      ]
-    },
-    {
       "headline": "Crypto PAC's $5.5 million Congress pick gets Maryland win, more crypto allies advance",
       "subheadline": "The Fairshake super PAC supported Adrian Boafo in Maryland, plus other candidates in Maryland, New York and Utah as each ran its primary elections. ",
       "section": "Policy",
@@ -545,7 +505,10 @@
       "url": "https://www.coindesk.com/policy/2026/06/24/ex-fca-policy-insider-explains-the-great-divide-in-the-uk-s-crypto-ambition",
       "date_published": "2026-06-24T15:23:07.528Z",
       "author": "Olivier Acuna",
-      "tags": []
+      "tags": [
+        "UK",
+        "Regulation"
+      ]
     },
     {
       "headline": "Trump refuses to sign law with U.S. CBDC ban, demands approval of elections bill",
@@ -561,20 +524,128 @@
       ]
     },
     {
-      "headline": "Uniswap and Spark aims to build the FX market for stablecoins as banks, fintechs enter",
-      "subheadline": "The protocols are building shared liquidity and trading infrastructure for a future with hundreds of competing digital currencies on blockchain rails.",
-      "section": "Finance",
-      "url": "https://www.coindesk.com/business/2026/06/25/uniswap-spark-aim-to-build-stablecoin-fx-market-as-banks-fintechs-enter-the-industry",
+      "headline": "Binance withdraws Greek MiCA bid but vows to remain in the EU",
+      "subheadline": "The crypto giant must find a home base in the EU by July 1 or regulators will force the company to shut down operations for millions of regional users.",
+      "section": "Policy",
+      "url": "https://www.coindesk.com/policy/2026/06/24/binance-withdraws-greek-mica-bid-but-vows-to-remain-in-europe",
+      "date_published": "2026-06-24T17:18:08.436Z",
+      "author": "Olivier Acuna",
+      "tags": [
+        "MiCA",
+        "Binance"
+      ]
+    },
+    {
+      "headline": "CoinEx denies claims it served as $3.84 billion gateway to sanctioned Iranian crypto firms",
+      "subheadline": "Blockchain analysts TRM Labs says CoinEx facilitated more than $3.8 billion in blockchain-traced flows with sanctioned Iranian crypto entities. CoinEx disputes the findings.",
+      "section": "Policy",
+      "url": "https://www.coindesk.com/policy/2026/06/25/coinex-denies-claims-it-served-as-usd3-84-billion-gateway-to-sanctioned-iranian-crypto-firms",
+      "date_published": "2026-06-25T10:56:58.869Z",
+      "author": "Jamie Crawley",
+      "tags": [
+        "Iran"
+      ]
+    },
+    {
+      "headline": "Post-prison CZ says time behind bars didn't hurt the billionaire's business after Binance",
+      "subheadline": "The pardoned ex-CEO called prison a character-building \"plus\" as he's pursued a venture-capital career, despite his majority stake in the world's biggest crypto exchange.",
+      "section": "Policy",
+      "url": "https://www.coindesk.com/policy/2026/06/24/post-prison-cz-says-time-behind-bars-didn-t-hurt-the-billionaire-s-business-after-binance",
       "date_published": "2026-06-25T13:00:00.000Z",
-      "author": "Krisztian Sandor",
+      "author": "Jesse Hamilton",
       "tags": []
     },
     {
-      "headline": "CoinDesk 20 performance update: AAVE gains 10.1% as index rises ",
-      "subheadline": "Bitcoin Cash (BCH), up 5.8% from Wednesday, joined Aave (AAVE) as a top performer. ",
+      "headline": "BTC price news: Grant Cardone will keep buying bitcoin using real estate cash flows ",
+      "subheadline": "The real estate investor pitched his model as a treasury company backed by cash-flowing property rather than stock sales, framing the slide in bitcoin as a chance to accumulate.",
+      "section": "Finance",
+      "url": "https://www.coindesk.com/business/2026/06/26/grant-cardone-says-he-will-keep-buying-bitcoin-using-real-estate-cash-flows",
+      "date_published": "2026-06-26T08:25:44.695Z",
+      "author": "Shaurya Malwa",
+      "tags": [
+        "Digital Asset Treasury",
+        "Bitcoin News"
+      ]
+    },
+    {
+      "headline": "Japanese giant SBI Holdings to buy Bitbank for $289 million ",
+      "subheadline": "SBI said the acquisition, which is subject to regulatory approval, is set to close in October.",
+      "section": "Finance",
+      "url": "https://www.coindesk.com/business/2026/06/26/japanese-financial-services-giant-sbi-holdings-to-buy-bitbank-for-usd289-million",
+      "date_published": "2026-06-26T08:31:57.618Z",
+      "author": "Jamie Crawley",
+      "tags": []
+    },
+    {
+      "headline": "Ethereum treasury firm Sharplink takes in ether for the first time in eight months",
+      "subheadline": "Sharplink buys the dip as ETH ETH fell 5% over the last 24 hours dropping below $1,560 in a broad crypto sell-off.",
+      "section": "Markets",
+      "url": "https://www.coindesk.com/markets/2026/06/26/ethereum-treasury-firm-sharplink-takes-in-ether-for-the-first-time-in-eight-months",
+      "date_published": "2026-06-26T09:47:07.420Z",
+      "author": "Shaurya Malwa",
+      "tags": [
+        "Ethereum News"
+      ]
+    },
+    {
+      "headline": "Binance tells EU users it will no longer provide services after failing to secure MiCA license",
+      "subheadline": "A day after withdrawing its MiCA license application in Greece and saying it is \u2018not leaving Europe,\u2019 Binance notified users across the European Union that it will suspend services.",
+      "section": "Policy",
+      "url": "https://www.coindesk.com/policy/2026/06/26/binance-tells-eu-users-it-will-no-longer-provide-services-after-failing-to-secure-mica-license",
+      "date_published": "2026-06-26T10:19:22.877Z",
+      "author": "Olivier Acuna",
+      "tags": [
+        "Binance",
+        "MiCA",
+        "Regulation"
+      ]
+    },
+    {
+      "headline": "Strategy STRC June 30 ex-dividend date and dividend rate reset explained",
+      "subheadline": "Investors are watching the preferred stock's ex-dividend date and monthly dividend rate reset closely. ",
+      "section": "Markets",
+      "url": "https://www.coindesk.com/markets/2026/06/26/all-eyes-on-strategy-s-june-30-ex-dividend-date-and-monthly-strc-dividend-rate-reset",
+      "date_published": "2026-06-26T10:28:24.741Z",
+      "author": "James Van Straten",
+      "tags": [
+        "Bitcoin News"
+      ]
+    },
+    {
+      "headline": "Crypto market clings to support as bitcoin hits 21-month low: Crypto Markets Today",
+      "subheadline": "BTC touched its lowest level since September 2024 before bouncing to $59,770, while ETH slipped further and another $1 billion in futures positions were wiped out.",
+      "section": "Markets",
+      "url": "https://www.coindesk.com/markets/2026/06/26/bitcoin-bounces-from-usd58-000-as-derivatives-signal-more-pain-in-the-pipeline",
+      "date_published": "2026-06-26T11:03:20.742Z",
+      "author": "Oliver Knight",
+      "tags": [
+        "Crypto Markets Today"
+      ]
+    },
+    {
+      "headline": "Bitcoin's first-half solace is it fell less than Strategy (MSTR): Crypto Daily",
+      "subheadline": "Your day-ahead look for June 26, 2026",
+      "section": "Crypto Daybook Americas",
+      "url": "https://www.coindesk.com/daybook-us/2026/06/26/with-crypto-ending-the-first-half-in-the-red-bitcoin-s-solace-is-it-beat-strategy",
+      "date_published": "2026-06-26T11:36:01.012Z",
+      "author": "Omkar Godbole",
+      "tags": []
+    },
+    {
+      "headline": "Surging U.S. IPO market still falls short of bubble territory: Goldman Sachs",
+      "subheadline": "U.S. IPO issuance has rebounded sharply in 2026, but the bank said the current surge lacks the deal volume and speculative excess that defined the dot-com era.",
+      "section": "Finance",
+      "url": "https://www.coindesk.com/business/2026/06/26/wall-street-s-ipo-revival-hasn-t-reached-dot-com-euphoria-levels-goldman-sachs-says",
+      "date_published": "2026-06-26T12:25:36.166Z",
+      "author": "Will Canny",
+      "tags": []
+    },
+    {
+      "headline": "CoinDesk 20 performance update: AAVE jumps 8.9%, leading index higher",
+      "subheadline": "Solana (SOL) gained 4.5%, joining Aave (AAVE) as a top performer. ",
       "section": "CoinDesk Indices",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/06/25/coindesk-20-performance-update-aave-gains-10-1-as-index-rises",
-      "date_published": "2026-06-25T13:15:26.655Z",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/06/26/coindesk-20-performance-update-aave-jumps-8-9-leading-index-higher",
+      "date_published": "2026-06-26T13:22:16.862Z",
       "author": "CoinDesk Indices",
       "tags": [
         "CoinDesk Indices",
@@ -584,168 +655,74 @@
       ]
     },
     {
-      "headline": "Kraken sues crypto derivatives firm PowerTrade over missing funds",
-      "subheadline": "PowerTrade changed Kraken\u2019s positive balance of over $6 milllion to a $2 million deficit via a series of unauthorized \u201ccorrections\u201d related to trades that had expired or settled months earlier, according to a legal filing. ",
+      "headline": "BlackRock-backed Securitize to raise $400 million nearing public debut; CEPT jumps 8%",
+      "subheadline": "The BlackRock-backed tokenization specialist expects to close its SPAC merger next week and start trading on the NYSE, pending shareholder approval.",
+      "section": "Finance",
+      "url": "https://www.coindesk.com/business/2026/06/26/securitize-expects-to-raise-usd400-million-as-tokenization-firm-nears-public-debut",
+      "date_published": "2026-06-26T15:04:44.780Z",
+      "author": "Krisztian Sandor",
+      "tags": [
+        "Tokenization"
+      ]
+    },
+    {
+      "headline": "Virtuals' Jansen Teng says AI agents are evolving into autonomous economic actors",
+      "subheadline": "The next phase of AI agents may be less about chat and more about earning, spending and coordinating.",
+      "section": "CoinDesk News",
+      "url": "https://www.coindesk.com/coindesk-news/2026/06/26/virtuals-jansen-teng-says-ai-agents-are-evolving-into-autonomous-economic-actors",
+      "date_published": "2026-06-26T18:04:22.446Z",
+      "author": "AI Boost",
+      "tags": []
+    },
+    {
+      "headline": "Anti-trafficking group says CLARITY Act's Section 604 could weaken accountability",
+      "subheadline": "An anti-human trafficking advocate said a Clarity Act provision could weaken accountability despite existing criminal laws.",
       "section": "Policy",
-      "url": "https://www.coindesk.com/policy/2026/06/25/kraken-sues-crypto-derivatives-firm-powertrade-over-misappropriated-funds-claim",
-      "date_published": "2026-06-25T13:53:28.909Z",
-      "author": "Ian Allison",
-      "tags": [
-        "Kraken",
-        "Exclusive"
-      ]
+      "url": "https://www.coindesk.com/policy/2026/06/26/anti-trafficking-group-warns-clarity-act-s-section-604-could-weaken-accountability",
+      "date_published": "2026-06-26T18:24:24.412Z",
+      "author": "AI Boost",
+      "tags": []
     },
     {
-      "headline": "Bitcoin price: BTC will fall another 30% to $44,000, prominent miner says",
-      "subheadline": "An early miner says Strategy's stock mNAV has fallen to 0.72, near the level that marked the last cycle's turn, and that bitcoin historically bottoms about six months after that signal.",
+      "headline": "Former Ethereum Foundation leader warns of funding gap as governance shifts",
+      "subheadline": "A former Ethereum Foundation member says the network must quickly build new funding institutions as the Foundation steps back.",
       "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/06/25/bitcoin-can-fall-another-30-to-usd44-000-prominent-btc-miner-says",
-      "date_published": "2026-06-25T14:39:55.506Z",
-      "author": "Shaurya Malwa",
-      "tags": [
-        "Bitcoin News",
-        "Markets",
-        "MicroStrategy"
-      ]
+      "url": "https://www.coindesk.com/markets/2026/06/26/former-ethereum-foundation-leader-warns-of-funding-gap-as-governance-shifts",
+      "date_published": "2026-06-26T18:37:50.060Z",
+      "author": "AI Boost",
+      "tags": []
     },
     {
-      "headline": "Seven tactical questions to ask when planning to pass on your bitcoin",
-      "subheadline": "Your bitcoin isn\u2019t just an asset; it\u2019s a future. Ensure your loved ones can access it with a solid inheritance plan for when you're no longer here.",
-      "section": "CoinDesk Indices",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/06/24/crypto-for-advisors-bitcoin-planning-for-inheritance",
-      "date_published": "2026-06-25T15:00:00.000Z",
-      "author": "Zac Townsend",
-      "tags": [
-        "Financial Advisors",
-        "Crypto for Advisors",
-        "CoinDesk Indices",
-        "Newsletters"
-      ]
+      "headline": "U.S. House Democrat, who may soon run key committee, condemns crypto in 401(k)s",
+      "subheadline": "Maxine Waters, the ranking Democrat on House Financial Services, asked the chief of the Department of Labor to withdraw its proposal on alternative assets.",
+      "section": "Policy",
+      "url": "https://www.coindesk.com/policy/2026/06/26/u-s-house-democrat-who-may-soon-run-key-committee-condemns-crypto-in-401-k-s",
+      "date_published": "2026-06-26T19:38:12.229Z",
+      "author": "Jesse Hamilton",
+      "tags": []
     },
     {
-      "headline": "Bitcoin price news: BTC hits $58,000 but a short-squeeze could set up for bounce",
-      "subheadline": "Derivatives markets signal that betting on further slide in prices is getting overcrowded, setting up for a potential snapback.",
+      "headline": "Aave, Solana lead crypto price gains as bitcoin (BTC) steadies near $60,000",
+      "subheadline": "Tokenized stock trading fueled fresh momentum across the Solana ecosystem, while Aave founder hinted at token buybacks coming under new framework.",
       "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/06/25/bitcoin-plunges-to-new-multi-year-low-of-usd58-000-but-a-short-squeeze-setup-emerges",
-      "date_published": "2026-06-25T15:03:08.488Z",
+      "url": "https://www.coindesk.com/markets/2026/06/26/aave-solana-ecosystem-tokens-lead-crypto-rebound-as-bitcoin-steadies-near-usd60-000",
+      "date_published": "2026-06-26T20:15:03.152Z",
       "author": "Krisztian Sandor",
       "tags": [
         "Markets",
-        "Bitcoin News",
-        "Breaking News"
-      ]
-    },
-    {
-      "headline": "Bitcoin price analysis: BTC could fall as low as $48,000 in final capitulation",
-      "subheadline": "Hyperion Decimus' Chris Sullivan said four historically reliable indicators have aligned, leaving bitcoin one move away from confirming a major turning point.",
-      "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/06/25/quant-fund-says-bitcoin-is-near-a-major-inflection-point-as-rare-onchain-signals-align",
-      "date_published": "2026-06-25T15:14:01.645Z",
-      "author": "Helene Braun",
-      "tags": [
-        "Bitcoin News"
-      ]
-    },
-    {
-      "headline": "Strategy (MSTR) has a 10-month cash runway for dividends, but retail investors are losing faith",
-      "subheadline": "STRC was marketed as a low volatility income product designed to trade near $100, and its sharp decline has undermined investor trust. ",
-      "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/06/25/michael-saylor-s-broken-promises-have-shattered-strategy-investor-trust-says-tw-prime-ceo",
-      "date_published": "2026-06-25T15:45:43.967Z",
-      "author": "James Van Straten",
-      "tags": []
-    },
-    {
-      "headline": "BlackBerry is making a massive comeback. Just not the way you would think",
-      "subheadline": "BlackBerry's stock is surging after the company's massive earnings beat and is pivoting into becoming a critical component of the AI and robotics boom.  ",
-      "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/06/25/blackberry-is-making-a-massive-comeback-as-an-uncrashable-software-layer-for-ai-and-robotics",
-      "date_published": "2026-06-25T16:05:06.265Z",
-      "author": "Aoyon Ashraf",
-      "tags": []
-    },
-    {
-      "headline": "a16z-backed crypto firm rebrands, shifts focus to solving AI\u2019s global copyright headache",
-      "subheadline": "The startup formerly known as Story Protocol raised $140 million to secure internet rights and is now building an audit layer for data consent, licensing, and provenance for tech firms.",
-      "section": "Finance",
-      "url": "https://www.coindesk.com/business/2026/06/25/a16z-backed-crypto-firm-rebrands-shifts-focus-to-solving-ai-s-global-copyright-headache",
-      "date_published": "2026-06-25T17:06:10.308Z",
-      "author": "Olivier Acuna",
-      "tags": [
-        "Artificial Intelligence"
-      ]
-    },
-    {
-      "headline": "Kraken eyes 15% stake in DeFi lender Aave in deal valuing protocol at $385 million",
-      "subheadline": "The DeFi lender is rebuilding after the fallout from April's KelpDAO exploit sparked a multibillion-dollar exodus of deposits despite Aave itself not being hacked.",
-      "section": "Finance",
-      "url": "https://www.coindesk.com/business/2026/06/25/kraken-in-talks-to-buy-15-stake-in-defi-lender-aave-at-usd385-million-valuation",
-      "date_published": "2026-06-25T17:14:19.749Z",
-      "author": "Will Canny",
-      "tags": [
-        "Kraken",
-        "DeFi",
-        "Exclusive",
         "Aave",
-        "mergers and acquisitions"
+        "DeFi",
+        "Solana News"
       ]
     },
     {
-      "headline": "STRC\u2019s correlation with BTC hits record high",
-      "subheadline": "The tightening correlation undermines STRC's appeal as a relatively steadier income vehicle.",
+      "headline": "ETH, XRP, DOGE price news: Majors fall 9% over week as AI stocks lure buyers",
+      "subheadline": "A rotation out of chipmakers lifted much of the stock market, with the equal-weight S&P 500 at a record. Crypto was not part of it. Ether fell 8% on the week and the memecoins dropped harder.",
       "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/06/25/strategy-s-yield-generating-strc-stock-is-more-correlated-with-btc-than-ever",
-      "date_published": "2026-06-25T17:48:18.863Z",
-      "author": "Omkar Godbole",
-      "tags": []
-    },
-    {
-      "headline": "Coinbase (COIN) news: Base blockchain resumes after two-hour outage disrupted network",
-      "subheadline": "The incident temporarily halted transaction processing on one of Ethereum's largest layer-2 networks.",
-      "section": "Tech",
-      "url": "https://www.coindesk.com/tech/2026/06/25/coinbase-s-base-blockchain-resumes-after-two-hour-outage-disrupted-network",
-      "date_published": "2026-06-25T18:46:08.528Z",
-      "author": "Margaux Nijkerk",
-      "tags": []
-    },
-    {
-      "headline": "Invesco, $2.5T asset manager, files for tokenized fund targeting stablecoin reserves",
-      "subheadline": "The $2.5 trillion asset manager deepens its blockchain push after taking over Superstate's tokenized money market fund as fund manager earlier this year.",
-      "section": "Finance",
-      "url": "https://www.coindesk.com/business/2026/06/25/asset-management-giant-invesco-files-for-tokenized-fund-targeting-stablecoin-reserve-market",
-      "date_published": "2026-06-25T20:47:24.814Z",
-      "author": "Krisztian Sandor",
-      "tags": []
-    },
-    {
-      "headline": "Live markets: Bitcoin rebounds to nearly $60,000. Kospi, Nikkei sink",
-      "subheadline": "BTC sees a relief bounce as Asian stocks wilt following sharp losses on Wall Street.",
-      "section": "Tech",
-      "url": "https://www.coindesk.com/tech/2026/06/26/live-markets-bitcoin-rebounds-to-nearly-usd60-000-kospi-nikkei-sink",
-      "date_published": "2026-06-26T05:10:37.571Z",
-      "author": "Omkar Godbole",
-      "tags": []
-    },
-    {
-      "headline": "Ether, XRP, DOGE price news: Majors lead a broad crypto selloff as tech stocks tumble",
-      "subheadline": "Bitcoin slipped near $58,000 before recovering, and CF Benchmarks says the $50,000 to $60,000 zone is where buyers have always stepped in.",
-      "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/06/26/ether-xrp-and-dogecoin-lead-a-broad-crypto-selloff-as-tech-stocks-tumble",
-      "date_published": "2026-06-26T05:41:51.027Z",
+      "url": "https://www.coindesk.com/markets/2026/06/27/dogecoin-and-hyperliquid-s-hype-led-weekly-crypto-losses-as-ai-stocks-lure-buyers",
+      "date_published": "2026-06-27T07:43:58.332Z",
       "author": "Shaurya Malwa",
       "tags": []
-    },
-    {
-      "headline": "Strategy\u2019s $13 billion paper loss dwarfs dogecoin, BlackRock's BUIDL and hundreds of other tokens",
-      "subheadline": "Strategy\u2019s paper loss exceeds the market caps of hundreds of tokens, highlighting the extreme concentration of risk in the crypto market right now.",
-      "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/06/26/too-big-to-fail-strategy-s-usd13-billion-bitcoin-paper-loss-alone-dwarfs-hundreds-of-prominent-tokens",
-      "date_published": "2026-06-26T06:37:29.444Z",
-      "author": "Omkar Godbole",
-      "tags": [
-        "MicroStrategy",
-        "Bitcoin News"
-      ]
     }
   ]
 }
