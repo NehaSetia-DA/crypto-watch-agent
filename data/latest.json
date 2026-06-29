@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-06-28T07:30:00.000000Z",
+  "generated_at": "2026-06-29T08:29:38.528609Z",
   "prices": [
-    {"id": "bitcoin", "usd": 60040, "change_24h": -0.31119923146117623},
-    {"id": "ethereum", "usd": 1569.86, "change_24h": -0.5773815102075469},
-    {"id": "solana", "usd": 70.61, "change_24h": -1.872560128904226}
+    {"id": "bitcoin", "usd": 59752, "change_24h": -0.6434050928766535},
+    {"id": "ethereum", "usd": 1571.43, "change_24h": -0.09069137305056339},
+    {"id": "solana", "usd": 72.54, "change_24h": 1.9834129947026669}
   ],
-  "narrative": "All three coins fell Sunday, rounding out a brutal first half — bitcoin touched a 21-month low near $58,000 before recovering to $60K, with CF Benchmarks pegging the $50K–$60K zone as where buyers historically step in per CoinDesk. Ethereum's price weakness tracks structural headwinds: the Foundation confirmed 20% staff cuts and a 40% budget reduction amid nine senior departures since January, with a former EF leader warning of a new funding gap as governance shifts per CoinDesk. Against the slide, institutional infrastructure kept building: Invesco filed for a tokenized fund targeting stablecoin reserves, Securitize raised $400M nearing its NYSE debut, and Strategy added 520 more BTC even carrying a $13B paper loss per CoinDesk.",
+  "narrative": "Bitcoin fell through $60K for the first time this quarter, on track for a rare back-to-back quarterly loss as spot ETF outflows hit a record $4 billion for June per CoinDesk. Solana (+1.98%) bucked the broader selloff, lifted by tokenized stock momentum and Aave ecosystem activity per CoinDesk; Iran de-escalation lifted equity futures but crypto barely moved, underscoring the persistent AI-rotation headwind. Strategy's mNAV fell below 1 for the first time — the premium that enabled its leveraged BTC accumulation has erased — while Saylor teased more buying and analysts remain split on whether the bottom is in per CoinDesk.",
   "worth_watching": [
-    "Binance EU exit confirmed — a day after withdrawing its MiCA license application, Binance told EU users it will suspend services entirely; millions of European users must seek alternatives, reshaping regional access not captured in watchlist coins",
-    "Strategy STRC June 30 ex-dividend and rate reset — imminent in two days; the dividend rate reset could affect how markets price STRC and BTC via forced-selling risk per CoinDesk",
-    "Crypto/AI rotation deepening — ETH, XRP, DOGE fell 9% on the week while AI stocks and the equal-weight S&P 500 reached a record per CoinDesk; crypto was absent from the broad H1-close rally"
+    "BitMEX leadership purge — CEO, CFO, and head of growth removed simultaneously; not a watchlist coin but signals distress at a major derivatives venue per CoinDesk",
+    "Tether $23B gold tokenization push — expanding bullion-backed loans with Ledn; largest stablecoin issuer pivoting to yield-bearing gold products is a structural shift in stablecoin utility not tracked in watchlist coins per CoinDesk",
+    "Framework's $400M tokenization-for-AI fund — positioning tokenization as the capital layer for AI and robotics rather than crypto-native speculation; a new investor thesis that could redirect institutional flows independently of BTC/ETH/SOL per CoinDesk"
   ],
   "news": [
     {
       "source": "coindesk.com",
       "headlines": [
-        "Kraken sues crypto derivatives firm PowerTrade over missing funds",
-        "If America wants to lead in crypto, it must protect the people who build it",
-        "Crypto's security nightmare won't be solved by ordinary audits",
-        "The SEC delayed tokenizing stocks, and here's why that's a relief",
+        "Anti-trafficking group says CLARITY Act's Section 604 could weaken accountability",
+        "U.S. House Democrat, who may soon run key committee, condemns crypto in 401(k)s",
+        "Crypto’s security nightmare won’t be solved by ordinary audits",
+        "The SEC delayed tokenizing stocks, and here’s why that’s a relief",
         "The banking lobby is wrong about stablecoins and community banks",
-        "Invesco, $2.5T asset manager, files for tokenized fund targeting stablecoin reserves",
-        "Live markets: Bitcoin falls below $60,000. Kospi, Nikkei sink",
-        "Ether, XRP, DOGE price news: Majors lead a broad crypto selloff as tech stocks tumble"
+        "What Robinhood’s recent layoffs say about the current state of crypto investments",
+        "Aave, Solana lead crypto price gains as bitcoin (BTC) steadies near $60,000",
+        "ETH, XRP, DOGE price news: Majors fall 9% over week as AI stocks lure buyers"
       ]
     }
   ]
