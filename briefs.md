@@ -11,6 +11,32 @@ No investment advice — this surfaces what's happening, you read it.
 
 <!-- new briefs go here, between this marker and the previous entry -->
 
+## 2026-06-30
+
+**Movement** — bitcoin $59,513 ↘ -0.70%, ethereum $1,592 ↗ +0.95%, solana $74 ↗ +2.69%
+
+Bitcoin ($59,513) extended its decline into the quarter's final day — spot ETF outflows hit $4B in June, the worst month on record, while Iran de-escalation lifted equity futures but crypto was unmoved per CoinDesk. Ethereum (+0.95%) and solana (+2.69%) broke modestly higher: ETH rose despite the Foundation's continued leadership exodus while SOL rode tokenized-stock momentum, and Kraken's talks to buy a 15% Aave stake at $385M added to the DeFi infrastructure bid per CoinDesk. The AI capital drain deepened: South Korea's $518B chip push and Strategy's mNAV falling below 1 both underscore crypto's continued loss of the institutional capital race per CoinDesk.
+
+**Worth watching**
+- Binance EU user migration — Coinbase and OKX racing to capture Binance's 450M EU users with sign-up bonuses after Binance suspended EU services for failing to secure a MiCA license per CoinDesk; a massive user-base migration not captured in watchlist coins
+- AAVE / Kraken equity stake talks — Kraken in talks for a 15% Aave stake at $385M valuation per CoinDesk; first major exchange-DeFi protocol equity deal with token buybacks teased, absent from watchlist
+- BitMEX leadership purge — CEO, CFO, and head of growth removed simultaneously per CoinDesk; signals distress at a major derivatives venue not tracked in watchlist coins
+
+<details><summary>8 headlines</summary>
+
+- [Anti-trafficking group says CLARITY Act's Section 604 could weaken accountability](https://www.coindesk.com/policy/2026/06/26/anti-trafficking-group-warns-clarity-act-s-section-604-could-weaken-accountability)
+- [U.S. House Democrat, who may soon run key committee, condemns crypto in 401(k)s](https://www.coindesk.com/policy/2026/06/26/u-s-house-democrat-who-may-soon-run-key-committee-condemns-crypto-in-401-k-s)
+- [Crypto's security nightmare won't be solved by ordinary audits](https://www.coindesk.com/opinion/2026/06/17/crypto-s-security-nightmare-won-t-be-solved-by-ordinary-audits)
+- [The SEC delayed tokenizing stocks, and here's why that's a relief](https://www.coindesk.com/opinion/2026/06/23/the-sec-delayed-tokenizing-stocks-and-here-s-why-that-s-a-relief)
+- [The banking lobby is wrong about stablecoins and community banks](https://www.coindesk.com/opinion/2026/06/24/the-banking-lobby-is-wrong-about-stablecoins-and-community-banks)
+- [What Robinhood's recent layoffs say about the current state of crypto investments](https://www.coindesk.com/opinion/2026/06/27/what-robinhood-s-recent-layoffs-say-about-the-current-state-of-crypto-investments)
+- [Aave, Solana lead crypto price gains as bitcoin (BTC) steadies near $60,000](https://www.coindesk.com/markets/2026/06/26/aave-solana-ecosystem-tokens-lead-crypto-rebound-as-bitcoin-steadies-near-usd60-000)
+- [ETH, XRP, DOGE price news: Majors fall 9% over week as AI stocks lure buyers](https://www.coindesk.com/markets/2026/06/27/dogecoin-and-hyperliquid-s-hype-led-weekly-crypto-losses-as-ai-stocks-lure-buyers)
+
+</details>
+
+---
+
 ## 2026-06-29
 
 **Movement** — bitcoin $59,752 ↘ -0.64%, ethereum $1,571 ↘ -0.09%, solana $73 ↗ +1.98%

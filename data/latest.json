@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-06-29T08:29:38.528609Z",
+  "generated_at": "2026-06-30T07:30:00.000000Z",
   "prices": [
-    {"id": "bitcoin", "usd": 59752, "change_24h": -0.6434050928766535},
-    {"id": "ethereum", "usd": 1571.43, "change_24h": -0.09069137305056339},
-    {"id": "solana", "usd": 72.54, "change_24h": 1.9834129947026669}
+    {"id": "bitcoin", "usd": 59513, "change_24h": -0.700598936823256},
+    {"id": "ethereum", "usd": 1592.41, "change_24h": 0.9541731248896514},
+    {"id": "solana", "usd": 74.06, "change_24h": 2.6851184409591}
   ],
-  "narrative": "Bitcoin fell through $60K for the first time this quarter, on track for a rare back-to-back quarterly loss as spot ETF outflows hit a record $4 billion for June per CoinDesk. Solana (+1.98%) bucked the broader selloff, lifted by tokenized stock momentum and Aave ecosystem activity per CoinDesk; Iran de-escalation lifted equity futures but crypto barely moved, underscoring the persistent AI-rotation headwind. Strategy's mNAV fell below 1 for the first time — the premium that enabled its leveraged BTC accumulation has erased — while Saylor teased more buying and analysts remain split on whether the bottom is in per CoinDesk.",
+  "narrative": "Bitcoin ($59,513) extended its decline into the quarter's final day — spot ETF outflows hit $4B in June, the worst month on record, while Iran de-escalation lifted equity futures but crypto was unmoved per CoinDesk. Ethereum (+0.95%) and solana (+2.69%) broke modestly higher: ETH rose despite the Foundation's continued leadership exodus while SOL rode tokenized-stock momentum, and Kraken's talks to buy a 15% Aave stake at $385M added to the DeFi infrastructure bid per CoinDesk. The AI capital drain deepened: South Korea's $518B chip push and Strategy's mNAV falling below 1 both underscore crypto's continued loss of the institutional capital race per CoinDesk.",
   "worth_watching": [
-    "BitMEX leadership purge — CEO, CFO, and head of growth removed simultaneously; not a watchlist coin but signals distress at a major derivatives venue per CoinDesk",
-    "Tether $23B gold tokenization push — expanding bullion-backed loans with Ledn; largest stablecoin issuer pivoting to yield-bearing gold products is a structural shift in stablecoin utility not tracked in watchlist coins per CoinDesk",
-    "Framework's $400M tokenization-for-AI fund — positioning tokenization as the capital layer for AI and robotics rather than crypto-native speculation; a new investor thesis that could redirect institutional flows independently of BTC/ETH/SOL per CoinDesk"
+    "Binance EU user migration — Coinbase and OKX racing to capture Binance's 450M EU users with sign-up bonuses after Binance suspended EU services for failing to secure a MiCA license per CoinDesk; a massive user-base migration not captured in watchlist coins",
+    "AAVE / Kraken equity stake talks — Kraken in talks for a 15% Aave stake at $385M valuation per CoinDesk; first major exchange-DeFi protocol equity deal with token buybacks teased, absent from watchlist",
+    "BitMEX leadership purge — CEO, CFO, and head of growth removed simultaneously per CoinDesk; signals distress at a major derivatives venue not tracked in watchlist coins"
   ],
   "news": [
     {
