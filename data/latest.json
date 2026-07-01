@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-06-30T07:30:00.000000Z",
+  "generated_at": "2026-07-01T07:52:31.821105Z",
   "prices": [
-    {"id": "bitcoin", "usd": 59513, "change_24h": -0.700598936823256},
-    {"id": "ethereum", "usd": 1592.41, "change_24h": 0.9541731248896514},
-    {"id": "solana", "usd": 74.06, "change_24h": 2.6851184409591}
+    {"id": "bitcoin", "usd": 58671, "change_24h": -1.2327926880920972},
+    {"id": "ethereum", "usd": 1576.92, "change_24h": -0.819706793667984},
+    {"id": "solana", "usd": 74.66, "change_24h": 0.9067083914935605}
   ],
-  "narrative": "Bitcoin ($59,513) extended its decline into the quarter's final day — spot ETF outflows hit $4B in June, the worst month on record, while Iran de-escalation lifted equity futures but crypto was unmoved per CoinDesk. Ethereum (+0.95%) and solana (+2.69%) broke modestly higher: ETH rose despite the Foundation's continued leadership exodus while SOL rode tokenized-stock momentum, and Kraken's talks to buy a 15% Aave stake at $385M added to the DeFi infrastructure bid per CoinDesk. The AI capital drain deepened: South Korea's $518B chip push and Strategy's mNAV falling below 1 both underscore crypto's continued loss of the institutional capital race per CoinDesk.",
+  "narrative": "Bitcoin fell to $58,671 as the Japanese yen hit a 40-year low against the dollar, adding macro pressure to a sector already under quarter-end rebalancing per CoinDesk; technical and on-chain analysts warn of potential downside toward $45,000 with bitcoin stuck below key support levels per CoinDesk. MiCA's transition period ends today (July 1) — Binance has already suspended EU services and an estimated 10 million EU crypto users are now searching for new platforms, while startups have been relocating to Dubai ahead of the deadline per CoinDesk. Institutional infrastructure continued building against the price slide: BNY Mellon added USDC custody for Circle and BlackRock deepened its DeFi footprint via an Ethena integration that sent ENA up 8%, while Strategy authorized bitcoin sales under a new capital management framework per CoinDesk.",
   "worth_watching": [
-    "Binance EU user migration — Coinbase and OKX racing to capture Binance's 450M EU users with sign-up bonuses after Binance suspended EU services for failing to secure a MiCA license per CoinDesk; a massive user-base migration not captured in watchlist coins",
-    "AAVE / Kraken equity stake talks — Kraken in talks for a 15% Aave stake at $385M valuation per CoinDesk; first major exchange-DeFi protocol equity deal with token buybacks teased, absent from watchlist",
-    "BitMEX leadership purge — CEO, CFO, and head of growth removed simultaneously per CoinDesk; signals distress at a major derivatives venue not tracked in watchlist coins"
+    "MiCA user migration (live) — 10 million EU crypto users scrambling for new platforms as of today's deadline; which licensed exchanges capture Binance's displaced EU customer base will reshape European market structure, absent from watchlist coins per CoinDesk",
+    "ENA / Ethena — BlackRock's integration with Ethena's yield-bearing token sent ENA up 8% and created a $100M liquidity facility for BlackRock's tokenized money market fund per CoinDesk; a DeFi protocol gaining direct TradFi backing not on the watchlist",
+    "BTC/JPY correlation — bitcoin's 52-week negative correlation with USD/JPY hit 0.90 (highest since 2022) as the yen reached 40-year lows per CoinDesk; the dollar-yen rate is now a primary macro driver for bitcoin, absent from watchlist metrics"
   ],
   "news": [
     {
       "source": "coindesk.com",
       "headlines": [
-        "Anti-trafficking group says CLARITY Act's Section 604 could weaken accountability",
-        "U.S. House Democrat, who may soon run key committee, condemns crypto in 401(k)s",
         "Crypto’s security nightmare won’t be solved by ordinary audits",
         "The SEC delayed tokenizing stocks, and here’s why that’s a relief",
         "The banking lobby is wrong about stablecoins and community banks",
         "What Robinhood’s recent layoffs say about the current state of crypto investments",
-        "Aave, Solana lead crypto price gains as bitcoin (BTC) steadies near $60,000",
-        "ETH, XRP, DOGE price news: Majors fall 9% over week as AI stocks lure buyers"
+        "BlackRock (BLK) crypto push deepens with Ethena integration, sending ENA up 8%",
+        "Ukraine transfers $8.3 million in seized crypto amid potential plans for strategic reserve",
+        "Strategy authorizes bitcoin sales under new monetization framework",
+        "Wall Street’s BNY expands stablecoin ties with Circle, lets institutions mint and hold USDC"
       ]
     }
   ]

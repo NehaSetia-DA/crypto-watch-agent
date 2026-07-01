@@ -11,6 +11,32 @@ No investment advice — this surfaces what's happening, you read it.
 
 <!-- new briefs go here, between this marker and the previous entry -->
 
+## 2026-07-01
+
+**Movement** — bitcoin $58,671 ↘ -1.23%, ethereum $1,577 ↘ -0.82%, solana $75 ↗ +0.91%
+
+Bitcoin fell to $58,671 as the Japanese yen hit a 40-year low against the dollar, adding macro pressure to a sector already under quarter-end rebalancing per CoinDesk; technical and on-chain analysts warn of potential downside toward $45,000 with bitcoin stuck below key support levels per CoinDesk. MiCA's transition period ends today (July 1) — Binance has already suspended EU services and an estimated 10 million EU crypto users are now searching for new platforms, while startups have been relocating to Dubai ahead of the deadline per CoinDesk. Institutional infrastructure continued building against the price slide: BNY Mellon added USDC custody for Circle and BlackRock deepened its DeFi footprint via an Ethena integration that sent ENA up 8%, while Strategy authorized bitcoin sales under a new capital management framework per CoinDesk.
+
+**Worth watching**
+- MiCA user migration (live) — 10 million EU crypto users scrambling for new platforms as of today's deadline; which licensed exchanges capture Binance's displaced EU customer base will reshape European market structure, absent from watchlist coins per CoinDesk
+- ENA / Ethena — BlackRock's integration with Ethena's yield-bearing token sent ENA up 8% and created a $100M liquidity facility for BlackRock's tokenized money market fund per CoinDesk; a DeFi protocol gaining direct TradFi backing not on the watchlist
+- BTC/JPY correlation — bitcoin's 52-week negative correlation with USD/JPY hit 0.90 (highest since 2022) as the yen reached 40-year lows per CoinDesk; the dollar-yen rate is now a primary macro driver for bitcoin, absent from watchlist metrics
+
+<details><summary>8 headlines</summary>
+
+- [Crypto's security nightmare won't be solved by ordinary audits](https://www.coindesk.com/opinion/2026/06/17/crypto-s-security-nightmare-won-t-be-solved-by-ordinary-audits)
+- [The SEC delayed tokenizing stocks, and here's why that's a relief](https://www.coindesk.com/opinion/2026/06/23/the-sec-delayed-tokenizing-stocks-and-here-s-why-that-s-a-relief)
+- [The banking lobby is wrong about stablecoins and community banks](https://www.coindesk.com/opinion/2026/06/24/the-banking-lobby-is-wrong-about-stablecoins-and-community-banks)
+- [What Robinhood's recent layoffs say about the current state of crypto investments](https://www.coindesk.com/opinion/2026/06/27/what-robinhood-s-recent-layoffs-say-about-the-current-state-of-crypto-investments)
+- [BlackRock (BLK) crypto push deepens with Ethena integration, sending ENA up 8%](https://www.coindesk.com/business/2026/06/29/blackrock-pushes-deeper-into-defi-with-ethena-integration-sending-ena-up-8)
+- [Ukraine transfers $8.3 million in seized crypto amid potential plans for strategic reserve](https://www.coindesk.com/business/2026/06/29/ukraine-transfers-usd8-3-million-in-seized-crypto-amid-potential-plans-for-strategic-reserve)
+- [Strategy authorizes bitcoin sales under new monetization framework](https://www.coindesk.com/markets/2026/06/29/strategy-opens-the-door-to-selling-bitcoin-under-new-capital-plan-here-s-what-it-means)
+- [Wall Street's BNY expands stablecoin ties with Circle, lets institutions mint and hold USDC](https://www.coindesk.com/business/2026/06/29/wall-street-s-bny-expands-stablecoin-services-for-institutions-starting-with-circle-s-usdc)
+
+</details>
+
+---
+
 ## 2026-06-30
 
 **Movement** — bitcoin $59,513 ↘ -0.70%, ethereum $1,592 ↗ +0.95%, solana $74 ↗ +2.69%
