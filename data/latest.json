@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-07-01T07:52:31.821105Z",
+  "generated_at": "2026-07-02T07:00:00Z",
   "prices": [
-    {"id": "bitcoin", "usd": 58671, "change_24h": -1.2327926880920972},
-    {"id": "ethereum", "usd": 1576.92, "change_24h": -0.819706793667984},
-    {"id": "solana", "usd": 74.66, "change_24h": 0.9067083914935605}
+    {"id": "bitcoin", "usd": 60224, "change_24h": 2.670769712368774},
+    {"id": "ethereum", "usd": 1616.92, "change_24h": 2.6980609501718},
+    {"id": "solana", "usd": 77.9, "change_24h": 5.214104374888578}
   ],
-  "narrative": "Bitcoin fell to $58,671 as the Japanese yen hit a 40-year low against the dollar, adding macro pressure to a sector already under quarter-end rebalancing per CoinDesk; technical and on-chain analysts warn of potential downside toward $45,000 with bitcoin stuck below key support levels per CoinDesk. MiCA's transition period ends today (July 1) — Binance has already suspended EU services and an estimated 10 million EU crypto users are now searching for new platforms, while startups have been relocating to Dubai ahead of the deadline per CoinDesk. Institutional infrastructure continued building against the price slide: BNY Mellon added USDC custody for Circle and BlackRock deepened its DeFi footprint via an Ethena integration that sent ENA up 8%, while Strategy authorized bitcoin sales under a new capital management framework per CoinDesk.",
+  "narrative": "All three watchlist coins rebounded sharply — solana leading at +5.21% to $78, bitcoin +2.67% to $60,224, ethereum +2.70% to $1,617 — as June's record $4.5 billion ETF outflow appears to be reaching an inflection per CoinDesk. Institutional tokenization kept advancing: New York Life's $807B asset manager made its tokenization debut via a Centrifuge high-yield bond fund, and Nasdaq added its market data to Pyth's blockchain marketplace per CoinDesk. The stablecoin landscape shifted structurally as Stripe, Coinbase, and BlackRock launched rival Open USD to challenge Circle's USDC on reserve income terms — sending Circle stock sliding — while the UK's FCA cut stablecoin capital buffers to 1%, undercutting the EU's stricter MiCA requirements per CoinDesk.",
   "worth_watching": [
-    "MiCA user migration (live) — 10 million EU crypto users scrambling for new platforms as of today's deadline; which licensed exchanges capture Binance's displaced EU customer base will reshape European market structure, absent from watchlist coins per CoinDesk",
-    "ENA / Ethena — BlackRock's integration with Ethena's yield-bearing token sent ENA up 8% and created a $100M liquidity facility for BlackRock's tokenized money market fund per CoinDesk; a DeFi protocol gaining direct TradFi backing not on the watchlist",
-    "BTC/JPY correlation — bitcoin's 52-week negative correlation with USD/JPY hit 0.90 (highest since 2022) as the yen reached 40-year lows per CoinDesk; the dollar-yen rate is now a primary macro driver for bitcoin, absent from watchlist metrics"
+    "Open USD vs Circle (USDC) — Stripe, Coinbase, and BlackRock backed Open USD letting partners keep reserve income and eliminating minting fees, sending Circle stock down sharply; analysts say adoption remains an open question despite big-name backing per CoinDesk",
+    "Clarity Act Senate path — White House met law enforcement groups to resolve illicit-finance objections while JPMorgan called for safeguards and Jefferies warned of major hurdles ahead per CoinDesk; passage would be the first comprehensive U.S. crypto market-structure law",
+    "Taiwan crypto law — sweeping legislation with licensing, reserve mandates, and tough penalties passed parliament per CoinDesk; a major Asia-Pacific jurisdiction formalizing rules as MiCA fully takes effect in Europe, relevant to watchlist coins' global regulatory exposure"
   ],
   "news": [
     {
       "source": "coindesk.com",
       "headlines": [
-        "Crypto’s security nightmare won’t be solved by ordinary audits",
         "The SEC delayed tokenizing stocks, and here’s why that’s a relief",
         "The banking lobby is wrong about stablecoins and community banks",
         "What Robinhood’s recent layoffs say about the current state of crypto investments",
-        "BlackRock (BLK) crypto push deepens with Ethena integration, sending ENA up 8%",
-        "Ukraine transfers $8.3 million in seized crypto amid potential plans for strategic reserve",
-        "Strategy authorizes bitcoin sales under new monetization framework",
-        "Wall Street’s BNY expands stablecoin ties with Circle, lets institutions mint and hold USDC"
+        "Tokenized securities need competition, not gatekeepers",
+        "Institutional demand for BTC is below supply as ETF outflows, new coins flood market: Crypto Daily",
+        "New York Life’s $800B asset manager makes tokenization debut with Centrifuge fund",
+        "Bitcoin price holds near $60,000, but analyst warns break lower could target $40,000",
+        "Nasdaq expands distribution of its market data into blockchain infrastructure"
       ]
     }
   ]

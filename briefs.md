@@ -11,6 +11,32 @@ No investment advice — this surfaces what's happening, you read it.
 
 <!-- new briefs go here, between this marker and the previous entry -->
 
+## 2026-07-02
+
+**Movement** — bitcoin $60,224 ↗ +2.67%, ethereum $1,617 ↗ +2.70%, solana $78 ↗ +5.21%
+
+All three watchlist coins rebounded sharply — solana leading at +5.21% to $78, bitcoin +2.67% to $60,224, ethereum +2.70% to $1,617 — as June's record $4.5 billion ETF outflow appears to be reaching an inflection per CoinDesk. Institutional tokenization kept advancing: New York Life's $807B asset manager made its tokenization debut via a Centrifuge high-yield bond fund, and Nasdaq added its market data to Pyth's blockchain marketplace per CoinDesk. The stablecoin landscape shifted structurally as Stripe, Coinbase, and BlackRock launched rival Open USD to challenge Circle's USDC on reserve income terms — sending Circle stock sliding — while the UK's FCA cut stablecoin capital buffers to 1%, undercutting the EU's stricter MiCA requirements per CoinDesk.
+
+**Worth watching**
+- Open USD vs Circle (USDC) — Stripe, Coinbase, and BlackRock backed Open USD letting partners keep reserve income and eliminating minting fees, sending Circle stock down sharply; analysts say adoption remains an open question despite big-name backing per CoinDesk
+- Clarity Act Senate path — White House met law enforcement groups to resolve illicit-finance objections while JPMorgan called for safeguards and Jefferies warned of major hurdles ahead per CoinDesk; passage would be the first comprehensive U.S. crypto market-structure law
+- Taiwan crypto law — sweeping legislation with licensing, reserve mandates, and tough penalties passed parliament per CoinDesk; a major Asia-Pacific jurisdiction formalizing rules as MiCA fully takes effect in Europe, relevant to watchlist coins' global regulatory exposure
+
+<details><summary>8 headlines</summary>
+
+- [The SEC delayed tokenizing stocks, and here's why that's a relief](https://www.coindesk.com/opinion/2026/06/23/the-sec-delayed-tokenizing-stocks-and-here-s-why-that-s-a-relief)
+- [The banking lobby is wrong about stablecoins and community banks](https://www.coindesk.com/opinion/2026/06/24/the-banking-lobby-is-wrong-about-stablecoins-and-community-banks)
+- [What Robinhood's recent layoffs say about the current state of crypto investments](https://www.coindesk.com/opinion/2026/06/27/what-robinhood-s-recent-layoffs-say-about-the-current-state-of-crypto-investments)
+- [Tokenized securities need competition, not gatekeepers](https://www.coindesk.com/opinion/2026/06/29/tokenized-securities-need-competition-not-gatekeepers)
+- [Institutional demand for BTC is below supply as ETF outflows, new coins flood market: Crypto Daily](https://www.coindesk.com/daybook-us/2026/06/30/bitcoin-usd4-4-billion-supply-overhang-emerges-as-institutional-demand-wilts)
+- [New York Life's $800B asset manager makes tokenization debut with Centrifuge fund](https://www.coindesk.com/business/2026/06/29/new-york-life-makes-tokenization-debut-with-onchain-high-yield-bond-fund-with-centrifuge)
+- [Bitcoin price holds near $60,000, but analyst warns break lower could target $40,000](https://www.coindesk.com/markets/2026/06/30/bitcoin-s-quiet-usd59-000-usd60-000-range-is-starting-to-look-dangerous)
+- [Nasdaq expands distribution of its market data into blockchain infrastructure](https://www.coindesk.com/markets/2026/06/30/nasdaq-expands-distribution-of-its-market-data-into-blockchain-infrastructure)
+
+</details>
+
+---
+
 ## 2026-07-01
 
 **Movement** — bitcoin $58,671 ↘ -1.23%, ethereum $1,577 ↘ -0.82%, solana $75 ↗ +0.91%
