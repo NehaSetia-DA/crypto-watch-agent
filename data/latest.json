@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-07-02T07:00:00Z",
+  "generated_at": "2026-07-03T06:45:06Z",
   "prices": [
-    {"id": "bitcoin", "usd": 60224, "change_24h": 2.670769712368774},
-    {"id": "ethereum", "usd": 1616.92, "change_24h": 2.6980609501718},
-    {"id": "solana", "usd": 77.9, "change_24h": 5.214104374888578}
+    {"id": "bitcoin", "usd": 61571, "change_24h": 1.833222475453157},
+    {"id": "ethereum", "usd": 1712.83, "change_24h": 5.446528024896987},
+    {"id": "solana", "usd": 80.74, "change_24h": 3.327487510580925}
   ],
-  "narrative": "All three watchlist coins rebounded sharply — solana leading at +5.21% to $78, bitcoin +2.67% to $60,224, ethereum +2.70% to $1,617 — as June's record $4.5 billion ETF outflow appears to be reaching an inflection per CoinDesk. Institutional tokenization kept advancing: New York Life's $807B asset manager made its tokenization debut via a Centrifuge high-yield bond fund, and Nasdaq added its market data to Pyth's blockchain marketplace per CoinDesk. The stablecoin landscape shifted structurally as Stripe, Coinbase, and BlackRock launched rival Open USD to challenge Circle's USDC on reserve income terms — sending Circle stock sliding — while the UK's FCA cut stablecoin capital buffers to 1%, undercutting the EU's stricter MiCA requirements per CoinDesk.",
+  "narrative": "All three coins continued their recovery for a second day as bitcoin broke back above $61,000 after Fed Chair Warsh's softer inflation comments, while ETH surged +5.45% as Ethereum Institutional and EthLabs both launched with Standard Chartered and major ecosystem backing per CoinDesk. Bearish signals persist alongside the rally: Bitcoin ETFs had their worst month ever in June (-$4.5B outflows) and Citi cut its 12-month BTC/ETH price targets citing stalled legislation and weak ETF demand, while a DeFi exploit on tokenized Google shares left $403K in bad debt per CoinDesk. MiCA's July 1 deadline is now live with Europe's crypto industry split over winners and losers, and Taiwan passed its own sweeping crypto law with licensing mandates and tough penalties per CoinDesk.",
   "worth_watching": [
-    "Open USD vs Circle (USDC) — Stripe, Coinbase, and BlackRock backed Open USD letting partners keep reserve income and eliminating minting fees, sending Circle stock down sharply; analysts say adoption remains an open question despite big-name backing per CoinDesk",
-    "Clarity Act Senate path — White House met law enforcement groups to resolve illicit-finance objections while JPMorgan called for safeguards and Jefferies warned of major hurdles ahead per CoinDesk; passage would be the first comprehensive U.S. crypto market-structure law",
-    "Taiwan crypto law — sweeping legislation with licensing, reserve mandates, and tough penalties passed parliament per CoinDesk; a major Asia-Pacific jurisdiction formalizing rules as MiCA fully takes effect in Europe, relevant to watchlist coins' global regulatory exposure"
+    "Ethereum institutional buildout — EthLabs and Ethereum Institutional both launched this week backed by Standard Chartered and major ecosystem names; the Ethereum Foundation is ceding non-protocol functions to independent orgs per CoinDesk; a structural shift in ecosystem governance not fully reflected in ETH's price",
+    "Open USD adoption race vs. Circle — Jefferies advised against buying the Circle dip as Stripe/Coinbase/BlackRock's Open USD enters; analysts say building network adoption is harder than assembling big-name partners per CoinDesk; stablecoin market structure is actively reshaping",
+    "Bitcoin long-term holder accumulation — Glassnode reports LTH wallets flipped to net accumulation, Cantor pegs the cycle bottom around October, and Ark Invest bought $75M in crypto shares during June's bloodbath per CoinDesk; a cluster of potential bottom signals not captured in watchlist metrics"
   ],
   "news": [
     {
       "source": "coindesk.com",
       "headlines": [
-        "The SEC delayed tokenizing stocks, and here’s why that’s a relief",
         "The banking lobby is wrong about stablecoins and community banks",
-        "What Robinhood’s recent layoffs say about the current state of crypto investments",
+        "What Robinhood's recent layoffs say about the current state of crypto investments",
         "Tokenized securities need competition, not gatekeepers",
-        "Institutional demand for BTC is below supply as ETF outflows, new coins flood market: Crypto Daily",
-        "New York Life’s $800B asset manager makes tokenization debut with Centrifuge fund",
-        "Bitcoin price holds near $60,000, but analyst warns break lower could target $40,000",
-        "Nasdaq expands distribution of its market data into blockchain infrastructure"
+        "Europe is closing the door on offshore crypto, but it's leaving the riskiest window open",
+        "What's next for Bitcoin and stocks? Analysts see a volatile second half",
+        "Prices of tokenized Google stock inflated 7,700% in rare DeFi lending exploit",
+        "Citi slashes BTC, ETH targets as ETF bid evaporates",
+        "Ethereum (ETH) news: A new nonprofit launches with a focus on Wall Street and institutional adoption"
       ]
     }
   ]

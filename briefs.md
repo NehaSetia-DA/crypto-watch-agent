@@ -11,6 +11,32 @@ No investment advice — this surfaces what's happening, you read it.
 
 <!-- new briefs go here, between this marker and the previous entry -->
 
+## 2026-07-03
+
+**Movement** — bitcoin $61,571 ↗ +1.83%, ethereum $1,713 ↗ +5.45%, solana $81 ↗ +3.33%
+
+All three coins continued their recovery for a second day as bitcoin broke back above $61,000 after Fed Chair Warsh's softer inflation comments, while ETH surged +5.45% as Ethereum Institutional and EthLabs both launched with Standard Chartered and major ecosystem backing per CoinDesk. Bearish signals persist alongside the rally: Bitcoin ETFs had their worst month ever in June (-$4.5B outflows) and Citi cut its 12-month BTC/ETH price targets citing stalled legislation and weak ETF demand, while a DeFi exploit on tokenized Google shares left $403K in bad debt per CoinDesk. MiCA's July 1 deadline is now live with Europe's crypto industry split over winners and losers, and Taiwan passed its own sweeping crypto law with licensing mandates and tough penalties per CoinDesk.
+
+**Worth watching**
+- Ethereum institutional buildout — EthLabs and Ethereum Institutional both launched this week backed by Standard Chartered and major ecosystem names; the Ethereum Foundation is ceding non-protocol functions to independent orgs per CoinDesk; a structural shift in ecosystem governance not fully reflected in ETH's price
+- Open USD adoption race vs. Circle — Jefferies advised against buying the Circle dip as Stripe/Coinbase/BlackRock's Open USD enters; analysts say building network adoption is harder than assembling big-name partners per CoinDesk; stablecoin market structure is actively reshaping
+- Bitcoin long-term holder accumulation — Glassnode reports LTH wallets flipped to net accumulation, Cantor pegs the cycle bottom around October, and Ark Invest bought $75M in crypto shares during June's bloodbath per CoinDesk; a cluster of potential bottom signals not captured in watchlist metrics
+
+<details><summary>8 headlines</summary>
+
+- [The banking lobby is wrong about stablecoins and community banks](https://www.coindesk.com/opinion/2026/06/24/the-banking-lobby-is-wrong-about-stablecoins-and-community-banks)
+- [What Robinhood's recent layoffs say about the current state of crypto investments](https://www.coindesk.com/opinion/2026/06/27/what-robinhood-s-recent-layoffs-say-about-the-current-state-of-crypto-investments)
+- [Tokenized securities need competition, not gatekeepers](https://www.coindesk.com/opinion/2026/06/29/tokenized-securities-need-competition-not-gatekeepers)
+- [Europe is closing the door on offshore crypto, but it's leaving the riskiest window open](https://www.coindesk.com/opinion/2026/07/01/europe-is-closing-the-door-on-offshore-crypto-but-it-s-leaving-the-riskiest-window-open)
+- [What's next for Bitcoin and stocks? Analysts see a volatile second half](https://www.coindesk.com/markets/2026/06/30/what-s-next-for-bitcoin-and-stocks-analysts-see-a-volatile-second-half)
+- [Prices of tokenized Google stock inflated 7,700% in rare DeFi lending exploit](https://www.coindesk.com/tech/2026/07/01/tokenized-google-stock-inflated-7-700-in-rare-defi-lending-exploit)
+- [Citi slashes BTC, ETH targets as ETF bid evaporates](https://www.coindesk.com/markets/2026/07/01/citi-slashes-12-month-bitcoin-ether-targets-as-etf-flows-dry-up)
+- [Ethereum (ETH) news: A new nonprofit launches with a focus on Wall Street and institutional adoption](https://www.coindesk.com/tech/2026/07/01/ethereum-gets-a-new-nonprofit-focused-on-institutional-adoption)
+
+</details>
+
+---
+
 ## 2026-07-02
 
 **Movement** — bitcoin $60,224 ↗ +2.67%, ethereum $1,617 ↗ +2.70%, solana $78 ↗ +5.21%
