@@ -11,6 +11,32 @@ No investment advice — this surfaces what's happening, you read it.
 
 <!-- new briefs go here, between this marker and the previous entry -->
 
+## 2026-07-04
+
+**Movement** — bitcoin $62,337 ↗ +1.09%, ethereum $1,752 ↗ +2.06%, solana $83 ↗ +1.99%
+
+All three coins extended their recovery for a third straight day — a short squeeze cleared $281M in bearish positions over 24 hours and spot bitcoin ETFs saw $221M in inflows, ending a painful 10-day outflow streak, per CoinDesk. Macro tailwinds helped: June's U.S. jobs report came in sharply below expectations at just 57,000 nonfarm payrolls, softening inflation fears and easing rate-hike pressure per CoinDesk. Tokenization momentum accelerated with Securitize debuting on the NYSE, Ondo launching an SEC-aligned tokenized stock model, and Robinhood rolling out a public blockchain, while MiCA went fully live with Europe's industry split over who wins — and regulators already discussing a "MiCA 2.0" review per CoinDesk.
+
+**Worth watching**
+- Solana on-chain governance — Solana activated formal on-chain governance requiring 100,000 SOL staked to open proposals per CoinDesk; a structural shift in how the network evolves not tracked in watchlist metrics
+- STRC / Strategy bottom signal — Bitwise says STRC's selloff signals crypto cycle approaching a bottom with institutions poised to replace Strategy as bitcoin's biggest buyer per CoinDesk; JPMorgan simultaneously warned Strategy's BTC sales policy adds two-way market risk
+- MiCA 2.0 consultation — Europe's crypto framework is already under review three years after becoming law, with a public consultation closing around September per CoinDesk; Poland remains the only EU country without MiCA licensing due to a political standoff
+
+<details><summary>8 headlines</summary>
+
+- [The banking lobby is wrong about stablecoins and community banks](https://www.coindesk.com/opinion/2026/06/24/the-banking-lobby-is-wrong-about-stablecoins-and-community-banks)
+- [What Robinhood's recent layoffs say about the current state of crypto investments](https://www.coindesk.com/opinion/2026/06/27/what-robinhood-s-recent-layoffs-say-about-the-current-state-of-crypto-investments)
+- [Tokenized securities need competition, not gatekeepers](https://www.coindesk.com/opinion/2026/06/29/tokenized-securities-need-competition-not-gatekeepers)
+- [Europe is closing the door on offshore crypto, but it's leaving the riskiest window open](https://www.coindesk.com/opinion/2026/07/01/europe-is-closing-the-door-on-offshore-crypto-but-it-s-leaving-the-riskiest-window-open)
+- [Live markets: Bitcoin rises above $61,000 as U.S. jobs data for June disappoints](https://www.coindesk.com/tech/2026/07/02/live-markets-bitcoin-holds-above-usd60-000-as-yen-jumps-on-intervention-fears)
+- [ChatGPT developer OpenAI reported to discuss offering U.S. government a 5% stake](https://www.coindesk.com/policy/2026/07/02/openai-reported-to-discuss-offering-u-s-government-a-5-stake)
+- [BTC price news: Bitcoin zooms above $61,000 as inflation fears soften](https://www.coindesk.com/markets/2026/07/02/bitcoin-zooms-above-usd61-000-as-inflation-fears-soften)
+- [Smaller tokens Memecore's M, Auderia's beat lead as bitcoin, sol rally in 'first real bounce of the selloff'](https://www.coindesk.com/markets/2026/07/02/smaller-tokens-lead-as-bitcoin-sol-rally-in-first-real-bounce-of-the-selloff)
+
+</details>
+
+---
+
 ## 2026-07-03
 
 **Movement** — bitcoin $61,571 ↗ +1.83%, ethereum $1,713 ↗ +5.45%, solana $81 ↗ +3.33%

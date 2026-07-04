@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-07-03T06:45:06Z",
+  "generated_at": "2026-07-04T06:31:06Z",
   "prices": [
-    {"id": "bitcoin", "usd": 61571, "change_24h": 1.833222475453157},
-    {"id": "ethereum", "usd": 1712.83, "change_24h": 5.446528024896987},
-    {"id": "solana", "usd": 80.74, "change_24h": 3.327487510580925}
+    {"id": "bitcoin", "usd": 62337, "change_24h": 1.0891076447384516},
+    {"id": "ethereum", "usd": 1751.76, "change_24h": 2.0583925711839672},
+    {"id": "solana", "usd": 82.56, "change_24h": 1.9908929835111684}
   ],
-  "narrative": "All three coins continued their recovery for a second day as bitcoin broke back above $61,000 after Fed Chair Warsh's softer inflation comments, while ETH surged +5.45% as Ethereum Institutional and EthLabs both launched with Standard Chartered and major ecosystem backing per CoinDesk. Bearish signals persist alongside the rally: Bitcoin ETFs had their worst month ever in June (-$4.5B outflows) and Citi cut its 12-month BTC/ETH price targets citing stalled legislation and weak ETF demand, while a DeFi exploit on tokenized Google shares left $403K in bad debt per CoinDesk. MiCA's July 1 deadline is now live with Europe's crypto industry split over winners and losers, and Taiwan passed its own sweeping crypto law with licensing mandates and tough penalties per CoinDesk.",
+  "narrative": "All three coins extended their recovery for a third straight day — a short squeeze cleared $281M in bearish positions over 24 hours and spot bitcoin ETFs saw $221M in inflows, ending a painful 10-day outflow streak, per CoinDesk. Macro tailwinds helped: June's U.S. jobs report came in sharply below expectations at just 57,000 nonfarm payrolls, softening inflation fears and easing rate-hike pressure per CoinDesk. Tokenization momentum accelerated with Securitize debuting on the NYSE, Ondo launching an SEC-aligned tokenized stock model, and Robinhood rolling out a public blockchain, while MiCA went fully live with Europe's industry split over who wins — and regulators already discussing a 'MiCA 2.0' review per CoinDesk.",
   "worth_watching": [
-    "Ethereum institutional buildout — EthLabs and Ethereum Institutional both launched this week backed by Standard Chartered and major ecosystem names; the Ethereum Foundation is ceding non-protocol functions to independent orgs per CoinDesk; a structural shift in ecosystem governance not fully reflected in ETH's price",
-    "Open USD adoption race vs. Circle — Jefferies advised against buying the Circle dip as Stripe/Coinbase/BlackRock's Open USD enters; analysts say building network adoption is harder than assembling big-name partners per CoinDesk; stablecoin market structure is actively reshaping",
-    "Bitcoin long-term holder accumulation — Glassnode reports LTH wallets flipped to net accumulation, Cantor pegs the cycle bottom around October, and Ark Invest bought $75M in crypto shares during June's bloodbath per CoinDesk; a cluster of potential bottom signals not captured in watchlist metrics"
+    "Solana on-chain governance — Solana activated formal on-chain governance requiring 100,000 SOL staked to open proposals per CoinDesk; a structural shift in how the network evolves not tracked in watchlist metrics",
+    "STRC / Strategy bottom signal — Bitwise says STRC's selloff signals crypto cycle approaching a bottom with institutions poised to replace Strategy as bitcoin's biggest buyer per CoinDesk; JPMorgan simultaneously warned Strategy's BTC sales policy adds two-way market risk",
+    "MiCA 2.0 consultation — Europe's crypto framework is already under review three years after becoming law, with a public consultation closing around September per CoinDesk; Poland remains the only EU country without MiCA licensing due to a political standoff"
   ],
   "news": [
     {
@@ -19,10 +19,10 @@
         "What Robinhood's recent layoffs say about the current state of crypto investments",
         "Tokenized securities need competition, not gatekeepers",
         "Europe is closing the door on offshore crypto, but it's leaving the riskiest window open",
-        "What's next for Bitcoin and stocks? Analysts see a volatile second half",
-        "Prices of tokenized Google stock inflated 7,700% in rare DeFi lending exploit",
-        "Citi slashes BTC, ETH targets as ETF bid evaporates",
-        "Ethereum (ETH) news: A new nonprofit launches with a focus on Wall Street and institutional adoption"
+        "Live markets: Bitcoin rises above $61,000 as U.S. jobs data for June disappoints",
+        "ChatGPT developer OpenAI reported to discuss offering U.S. government a 5% stake",
+        "BTC price news: Bitcoin zooms above $61,000 as inflation fears soften",
+        "Smaller tokens Memecore's M, Auderia's beat lead as bitcoin, sol rally in 'first real bounce of the selloff'"
       ]
     }
   ]
