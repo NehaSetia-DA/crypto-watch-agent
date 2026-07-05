@@ -11,6 +11,32 @@ No investment advice — this surfaces what's happening, you read it.
 
 <!-- new briefs go here, between this marker and the previous entry -->
 
+## 2026-07-05
+
+**Movement** — bitcoin $62,718 ↗ +0.43%, ethereum $1,763 ↗ +0.57%, solana $80 ↘ -2.56%
+
+The recovery from last week's selloff is uneven: bitcoin (+0.43%) and ethereum (+0.57%) hold slim gains while solana reverses -2.56% after leading last week's short-squeeze bounce, per CoinDesk. Institutional tokenization is accelerating — Securitize debuted $295M of its own stock on Solana and Avalanche at its NYSE listing, while the IMF warned tokenization could make markets faster but also more prone to sudden shocks, per CoinDesk. Europe's regulatory picture clarified further with MiCA officially live and already under review for MiCA 2.0, Taiwan passing sweeping crypto licensing law, and France's Crédit Agricole launching euro stablecoin EURXT, per CoinDesk.
+
+**Worth watching**
+- Trump $1.4B crypto windfall — President reported $1.4B in crypto income for 2025 while his administration writes crypto rules, per CoinDesk; a political conflict-of-interest risk that could influence the Clarity Act's Senate path
+- SBI Crypto mining pool shutdown — pool holding ~2% of Bitcoin's hashrate closes July 31, per CoinDesk; hashrate redistribution at this scale affects mining difficulty and fee dynamics not tracked in watchlist metrics
+- Crédit Agricole EURXT — France's largest bank launched a euro stablecoin backed 1:1 by euros, per CoinDesk; institutional euro stablecoins from traditional banks are entering a market dominated by USDC/USDT as MiCA finalizes
+
+<details><summary>8 headlines</summary>
+
+- [MiCA became law 3 years ago, now Europe's crypto framework is undergoing a rethink](https://www.coindesk.com/policy/2026/07/02/three-years-after-mica-became-law-europe-s-crypto-framework-is-undergoing-a-rethink)
+- [The banking lobby is wrong about stablecoins and community banks](https://www.coindesk.com/opinion/2026/06/24/the-banking-lobby-is-wrong-about-stablecoins-and-community-banks)
+- [What Robinhood's recent layoffs say about the current state of crypto investments](https://www.coindesk.com/opinion/2026/06/27/what-robinhood-s-recent-layoffs-say-about-the-current-state-of-crypto-investments)
+- [Tokenized securities need competition, not gatekeepers](https://www.coindesk.com/opinion/2026/06/29/tokenized-securities-need-competition-not-gatekeepers)
+- [Europe is closing the door on offshore crypto, but it's leaving the riskiest window open](https://www.coindesk.com/opinion/2026/07/01/europe-is-closing-the-door-on-offshore-crypto-but-it-s-leaving-the-riskiest-window-open)
+- [Ondo debuts SEC-aligned tokenized stock model with BlackRock ETF, Micron shares](https://www.coindesk.com/business/2026/07/01/ondo-finance-debuts-sec-aligned-tokenized-stock-model-with-blackrock-etf-micron-shares)
+- [SBI Crypto to shut down mining pool that holds roughly 2% of Bitcoin's hashrate](https://www.coindesk.com/business/2026/07/02/sbi-crypto-to-shut-down-mining-pool-that-holds-roughly-2-of-bitcoin-s-hashrate)
+- [US Treasury sanctions over 100 ISIS-K crypto addresses in latest enforcement action](https://www.coindesk.com/policy/2026/07/02/us-treasury-sanctions-over-100-isis-k-crypto-addresses-in-latest-enforcement-action)
+
+</details>
+
+---
+
 ## 2026-07-04
 
 **Movement** — bitcoin $62,337 ↗ +1.09%, ethereum $1,752 ↗ +2.06%, solana $83 ↗ +1.99%
