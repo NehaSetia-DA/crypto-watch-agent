@@ -11,6 +11,32 @@ No investment advice — this surfaces what's happening, you read it.
 
 <!-- new briefs go here, between this marker and the previous entry -->
 
+## 2026-07-06
+
+**Movement** — bitcoin $63,021 → +0.07%, ethereum $1,770 → +0.04%, solana $81 → +0.16%
+
+All three coins drift near flat — bitcoin holds at $63,021, ethereum at $1,770, and solana at $81 — as a stalling AI and chip-stock rally keeps the mood cautious to start the week, per CoinDesk. Ethereum's biggest story today is structural: Vitalik Buterin unveiled a "lean Ethereum" rebuild that would replace nearly every major protocol component, with quantum resistance and privacy moving up the priority list, even as ETH's price barely moves, per CoinDesk. Bitcoin whales absorbed $16.7 billion in BTC over two weeks while spot ETFs bled a record $4 billion in June — a divergence analysts say has appeared near past cycle bottoms, per CoinDesk.
+
+**Worth watching**
+- Satoshi wallet freeze debate — plan to freeze Satoshi Nakamoto's 1.1M BTC as the quantum threat grows has split experts, with CZ and others warning it crosses a dangerous philosophical line, per CoinDesk; a governance question with no price signal
+- Ethereum lean rebuild timeline — Vitalik's overhaul would replace nearly every major protocol component, but community consensus and implementation timeline remain open questions not visible in today's flat ETH price, per CoinDesk
+- Big bank stablecoin race — major banks now racing to become stablecoin gateways with digital asset volumes projected to explode by 2030, per CoinDesk; a structural shift in who controls stablecoin distribution absent from the watchlist
+
+<details><summary>8 headlines</summary>
+
+- [Donald Trump says there's 'nothing wrong' with his $1.4 billion crypto windfall](https://www.coindesk.com/policy/2026/07/03/trump-says-there-is-nothing-wrong-with-family-s-crypto-windfall)
+- [Tokenized securities need competition, not gatekeepers](https://www.coindesk.com/opinion/2026/06/29/tokenized-securities-need-competition-not-gatekeepers)
+- [Europe is closing the door on offshore crypto, but it's leaving the riskiest window open](https://www.coindesk.com/opinion/2026/07/01/europe-is-closing-the-door-on-offshore-crypto-but-it-s-leaving-the-riskiest-window-open)
+- [Europe led on crypto regulation. Now implementation must match ambition](https://www.coindesk.com/opinion/2026/07/04/europe-led-on-crypto-regulation-now-implementation-must-match-ambition)
+- [Collateral, not yield, will decide which stablecoins win](https://www.coindesk.com/opinion/2026/07/05/collateral-not-yield-will-decide-which-stablecoins-win)
+- [UK's bold new crypto rules promise to unlock global trading, but huge compliance hurdles still threaten the rollout](https://www.coindesk.com/policy/2026/07/04/uk-s-bold-new-crypto-rules-promise-to-unlock-global-trading-but-huge-compliance-hurdles-still-threaten-the-rollout)
+- [A massive EU regulatory crackdown is threatening the explosive boom of multibillion-dollar prediction markets](https://www.coindesk.com/policy/2026/07/04/eu-moves-to-block-retail-investors-from-explosive-boom-of-multibillion-dollar-prediction-markets)
+- [Trump crypto token buyers are down $3.8 billion, Nansen data shows](https://www.coindesk.com/business/2026/07/04/trump-s-crypto-token-buyers-are-down-usd3-8-billion-blockchain-data-shows)
+
+</details>
+
+---
+
 ## 2026-07-05
 
 **Movement** — bitcoin $62,718 ↗ +0.43%, ethereum $1,763 ↗ +0.57%, solana $80 ↘ -2.56%
