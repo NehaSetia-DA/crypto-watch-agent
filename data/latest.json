@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-07-06T08:00:00.000000Z",
+  "generated_at": "2026-07-07T07:00:00.000000Z",
   "prices": [
-    {"id": "bitcoin", "usd": 63021, "change_24h": 0.06834042398080355},
-    {"id": "ethereum", "usd": 1770.42, "change_24h": 0.044071349516283505},
-    {"id": "solana", "usd": 80.75, "change_24h": 0.16350204992343148}
+    {"id": "bitcoin", "usd": 63325, "change_24h": 0.6230607656045917},
+    {"id": "ethereum", "usd": 1778.46, "change_24h": 0.5724319456527449},
+    {"id": "solana", "usd": 81.47, "change_24h": 1.5045681827424884}
   ],
-  "narrative": "All three coins drift near flat — bitcoin holds at $63,021, ethereum at $1,770, and solana at $81 — as a stalling AI and chip-stock rally keeps the mood cautious to start the week, per CoinDesk. Ethereum's biggest story today is structural: Vitalik Buterin unveiled a \"lean Ethereum\" rebuild that would replace nearly every major protocol component, with quantum resistance and privacy moving up the priority list, even as ETH's price barely moves, per CoinDesk. Bitcoin whales absorbed $16.7 billion in BTC over two weeks while spot ETFs bled a record $4 billion in June — a divergence analysts say has appeared near past cycle bottoms, per CoinDesk.",
+  "narrative": "All three coins extended Monday's recovery — bitcoin at $63,325 (+0.62%), ethereum at $1,778 (+0.57%), and solana at $81 (+1.50%) — as cooling AI and semiconductor stock momentum appears to be freeing up capital for digital assets, per CoinDesk. Ethereum's structural overhaul accelerated: Vitalik Buterin unveiled a \"lean Ethereum\" roadmap that would replace nearly every major protocol component, with quantum resistance and privacy elevated as priorities, per CoinDesk. On the political front, Trump's $1.4 billion in 2025 crypto income drew fresh scrutiny as critics note his administration is simultaneously writing the industry's rules, per CoinDesk.",
   "worth_watching": [
-    "Satoshi wallet freeze debate — plan to freeze Satoshi Nakamoto's 1.1M BTC as the quantum threat grows has split experts, with CZ and others warning it crosses a dangerous philosophical line, per CoinDesk; a governance question with no price signal",
-    "Ethereum lean rebuild timeline — Vitalik's overhaul would replace nearly every major protocol component, but community consensus and implementation timeline remain open questions not visible in today's flat ETH price, per CoinDesk",
-    "Big bank stablecoin race — major banks now racing to become stablecoin gateways with digital asset volumes projected to explode by 2030, per CoinDesk; a structural shift in who controls stablecoin distribution absent from the watchlist"
+    "Clarity Act timing — CoinDesk reports all parties remain optimistic but Congress's summer recess is closing the window; the legislative calendar, not the substance, is now the binding constraint for the first comprehensive U.S. crypto market-structure law",
+    "XRP — up 8% with on-chain MVRV at historic lows per CoinDesk; not on the watchlist but drawing heavy volume relative to BTC/ETH/SOL and serving as a barometer for altcoin sentiment",
+    "Prediction market regulatory crossfire — EU moving to block retail from multibillion-dollar prediction markets while Kalshi fights state regulators across the U.S. per CoinDesk; a fast-growing category facing simultaneous attacks on both continents absent from the watchlist"
   ],
   "news": [
     {
@@ -17,7 +17,7 @@
       "headlines": [
         "Donald Trump says there's 'nothing wrong' with his $1.4 billion crypto windfall",
         "Tokenized securities need competition, not gatekeepers",
-        "Europe is closing the door on offshore crypto, but it’s leaving the riskiest window open",
+        "Europe is closing the door on offshore crypto, but it's leaving the riskiest window open",
         "Europe led on crypto regulation. Now implementation must match ambition",
         "Collateral, not yield, will decide which stablecoins win",
         "UK's bold new crypto rules promise to unlock global trading, but huge compliance hurdles still threaten the rollout",
