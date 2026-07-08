@@ -11,6 +11,32 @@ No investment advice — this surfaces what's happening, you read it.
 
 <!-- new briefs go here, between this marker and the previous entry -->
 
+## 2026-07-08
+
+**Movement** — bitcoin $62,569 ↘ -0.69%, ethereum $1,751 ↘ -0.93%, solana $78 ↘ -3.29%
+
+All three coins gave back Tuesday's gains as Strategy dramatically stepped up bitcoin sales — offloading 3,588 BTC for $216 million to cover preferred-stock dividends — marking the clearest sign yet that its capital-allocation model is under stress, per CoinDesk. Meanwhile, Ethereum moved in the opposite direction: Bitmine added 42,000 ETH while developers broadly embraced Vitalik Buterin's 'Lean Ethereum' roadmap for a sweeping multi-year protocol rebuild, per CoinDesk. A $6 million DeFi exploit at Summer.fi and a $20 million governance attack on BONK's treasury darkened the risk picture even as stablecoin volumes are on track to smash 2026 records, per CoinDesk.
+
+**Worth watching**
+- Strategy's capital engine unraveling — selling BTC to fund preferred dividends reverses its core accumulation thesis; Cantor says restoring STRC to $100 par is the key to restarting the flywheel, per CoinDesk; a structural risk absent from watchlist coins
+- BONK governance exploit — attacker spent $4M buying tokens to pass a malicious proposal draining $20M from the treasury, per CoinDesk; a new attack vector for any token-governed protocol, not tracked on the watchlist
+- Japanese rate headwind — rising Japanese bond yields lifting US counterparts, adding macro pressure on risk assets per CoinDesk; a recurring macro factor not captured in the watchlist's coin-level metrics
+
+<details><summary>8 headlines</summary>
+
+- [A massive EU regulatory crackdown is threatening the explosive boom of multibillion-dollar prediction markets](https://www.coindesk.com/policy/2026/07/04/eu-moves-to-block-retail-investors-from-explosive-boom-of-multibillion-dollar-prediction-markets)
+- [Clarity and Congress's summer break: State of Crypto](https://www.coindesk.com/policy/2026/07/05/clarity-and-congress-s-summer-break-state-of-crypto)
+- [Luxembourg upgrades Ripple's preliminary crypto asset provider to fully compliant](https://www.coindesk.com/policy/2026/07/06/ripple-s-preliminary-crypto-asset-provider-license-in-luxembourg-upgraded-to-fully-compliant)
+- [Tokenized securities need competition, not gatekeepers](https://www.coindesk.com/opinion/2026/06/29/tokenized-securities-need-competition-not-gatekeepers)
+- [Europe is closing the door on offshore crypto, but it's leaving the riskiest window open](https://www.coindesk.com/opinion/2026/07/01/europe-is-closing-the-door-on-offshore-crypto-but-it-s-leaving-the-riskiest-window-open)
+- [Europe led on crypto regulation. Now implementation must match ambition](https://www.coindesk.com/opinion/2026/07/04/europe-led-on-crypto-regulation-now-implementation-must-match-ambition)
+- [Collateral, not yield, will decide which stablecoins win](https://www.coindesk.com/opinion/2026/07/05/collateral-not-yield-will-decide-which-stablecoins-win)
+- [Bitcoin's Sharpe Ratio slides to lowest since 2022.](https://www.coindesk.com/markets/2026/07/06/bitcoin-s-sharpe-ratio-slides-to-lowest-since-2022-here-s-what-it-means)
+
+</details>
+
+---
+
 ## 2026-07-07
 
 **Movement** — bitcoin $63,325 ↗ +0.62%, ethereum $1,778 ↗ +0.57%, solana $81 ↗ +1.50%

@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-07-07T07:00:00.000000Z",
+  "generated_at": "2026-07-08T06:15:00.000000Z",
   "prices": [
-    {"id": "bitcoin", "usd": 63325, "change_24h": 0.6230607656045917},
-    {"id": "ethereum", "usd": 1778.46, "change_24h": 0.5724319456527449},
-    {"id": "solana", "usd": 81.47, "change_24h": 1.5045681827424884}
+    {"id": "bitcoin", "usd": 62569, "change_24h": -0.6877503877109638},
+    {"id": "ethereum", "usd": 1751.33, "change_24h": -0.9331297004558746},
+    {"id": "solana", "usd": 78.31, "change_24h": -3.291289554834817}
   ],
-  "narrative": "All three coins extended Monday's recovery — bitcoin at $63,325 (+0.62%), ethereum at $1,778 (+0.57%), and solana at $81 (+1.50%) — as cooling AI and semiconductor stock momentum appears to be freeing up capital for digital assets, per CoinDesk. Ethereum's structural overhaul accelerated: Vitalik Buterin unveiled a \"lean Ethereum\" roadmap that would replace nearly every major protocol component, with quantum resistance and privacy elevated as priorities, per CoinDesk. On the political front, Trump's $1.4 billion in 2025 crypto income drew fresh scrutiny as critics note his administration is simultaneously writing the industry's rules, per CoinDesk.",
+  "narrative": "All three coins gave back Tuesday's gains as Strategy dramatically stepped up bitcoin sales — offloading 3,588 BTC for $216 million to cover preferred-stock dividends — marking the clearest sign yet that its capital-allocation model is under stress, per CoinDesk. Meanwhile, Ethereum moved in the opposite direction: Bitmine added 42,000 ETH while developers broadly embraced Vitalik Buterin's 'Lean Ethereum' roadmap for a sweeping multi-year protocol rebuild, per CoinDesk. A $6 million DeFi exploit at Summer.fi and a $20 million governance attack on BONK's treasury darkened the risk picture even as stablecoin volumes are on track to smash 2026 records, per CoinDesk.",
   "worth_watching": [
-    "Clarity Act timing — CoinDesk reports all parties remain optimistic but Congress's summer recess is closing the window; the legislative calendar, not the substance, is now the binding constraint for the first comprehensive U.S. crypto market-structure law",
-    "XRP — up 8% with on-chain MVRV at historic lows per CoinDesk; not on the watchlist but drawing heavy volume relative to BTC/ETH/SOL and serving as a barometer for altcoin sentiment",
-    "Prediction market regulatory crossfire — EU moving to block retail from multibillion-dollar prediction markets while Kalshi fights state regulators across the U.S. per CoinDesk; a fast-growing category facing simultaneous attacks on both continents absent from the watchlist"
+    "Strategy's capital engine unraveling — selling BTC to fund preferred dividends reverses its core accumulation thesis; Cantor says restoring STRC to $100 par is the key to restarting the flywheel, per CoinDesk; a structural risk absent from watchlist coins",
+    "BONK governance exploit — attacker spent $4M buying tokens to pass a malicious proposal draining $20M from the treasury, per CoinDesk; a new attack vector for any token-governed protocol, not tracked on the watchlist",
+    "Japanese rate headwind — rising Japanese bond yields lifting US counterparts, adding macro pressure on risk assets per CoinDesk; a recurring macro factor not captured in the watchlist's coin-level metrics"
   ],
   "news": [
     {
       "source": "coindesk.com",
       "headlines": [
-        "Donald Trump says there's 'nothing wrong' with his $1.4 billion crypto windfall",
+        "A massive EU regulatory crackdown is threatening the explosive boom of multibillion-dollar prediction markets",
+        "Clarity and Congress's summer break: State of Crypto",
+        "Luxembourg upgrades Ripple's preliminary crypto asset provider to fully compliant",
         "Tokenized securities need competition, not gatekeepers",
         "Europe is closing the door on offshore crypto, but it's leaving the riskiest window open",
         "Europe led on crypto regulation. Now implementation must match ambition",
         "Collateral, not yield, will decide which stablecoins win",
-        "UK's bold new crypto rules promise to unlock global trading, but huge compliance hurdles still threaten the rollout",
-        "A massive EU regulatory crackdown is threatening the explosive boom of multibillion-dollar prediction markets",
-        "Trump crypto token buyers are down $3.8 billion, Nansen data shows"
+        "Bitcoin's Sharpe Ratio slides to lowest since 2022."
       ]
     }
   ]
