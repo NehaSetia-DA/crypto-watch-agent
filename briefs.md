@@ -11,6 +11,32 @@ No investment advice — this surfaces what's happening, you read it.
 
 <!-- new briefs go here, between this marker and the previous entry -->
 
+## 2026-07-09
+
+**Movement** — bitcoin $62,816 ↗ +0.34%, ethereum $1,752 ↗ +0.11%, solana $78 ↗ +0.24%
+
+All three coins posted slim gains Thursday despite renewed U.S.-Iran military tensions that sent prices lower overnight, suggesting the market is finding near-term support around current levels, per CoinDesk. Japan's collapsing yen — hedge funds most bearish on the currency since 2007 — is pushing Japanese corporates into bitcoin and XRP as a reserve diversifier, per CoinDesk. On the regulatory front, the SEC plans to propose 'Reg Crypto' as soon as this month to ease startup fundraising, while the White House continues to evaluate the structure for a U.S. bitcoin reserve, per CoinDesk.
+
+**Worth watching**
+- U.S.-Iran escalation and crypto correlation — crypto sold off overnight on U.S. airstrikes against Iran then partially recovered; geopolitical event risk not captured in watchlist coin metrics
+- Japanese yen collapse as a crypto demand driver — SBI VC Trade surpassed 2M accounts as yen weakness pushes Japanese firms into BTC and XRP reserves, per CoinDesk; a regional macro channel absent from the watchlist
+- Kraken's European banking license bid — Kraken is pursuing a bank charter in Lithuania to expand beyond exchange services, per CoinDesk; a structural shift in how crypto exchanges compete with TradFi not tracked in watchlist metrics
+
+<details><summary>8 headlines</summary>
+
+- [Clarity and Congress's summer break: State of Crypto](https://www.coindesk.com/policy/2026/07/05/clarity-and-congress-s-summer-break-state-of-crypto)
+- [Luxembourg upgrades Ripple's preliminary crypto asset provider to fully compliant](https://www.coindesk.com/policy/2026/07/06/ripple-s-preliminary-crypto-asset-provider-license-in-luxembourg-upgraded-to-fully-compliant)
+- [Bitcoin's U.S. reserve still a work-in-progress as federal agencies hash it out](https://www.coindesk.com/policy/2026/07/06/bitcoin-s-u-s-reserve-still-a-work-in-progress-as-federal-agencies-hash-it-out)
+- [Tokenized securities need competition, not gatekeepers](https://www.coindesk.com/opinion/2026/06/29/tokenized-securities-need-competition-not-gatekeepers)
+- [Europe is closing the door on offshore crypto, but it's leaving the riskiest window open](https://www.coindesk.com/opinion/2026/07/01/europe-is-closing-the-door-on-offshore-crypto-but-it-s-leaving-the-riskiest-window-open)
+- [Europe led on crypto regulation. Now implementation must match ambition](https://www.coindesk.com/opinion/2026/07/04/europe-led-on-crypto-regulation-now-implementation-must-match-ambition)
+- [Collateral, not yield, will decide which stablecoins win](https://www.coindesk.com/opinion/2026/07/05/collateral-not-yield-will-decide-which-stablecoins-win)
+- [XRP price news: Why rally in Ripple-linked token stalled near $1.15](https://www.coindesk.com/markets/2026/07/07/xrp-stalls-near-usd1-14-as-breakout-attempt-struggles-for-volume)
+
+</details>
+
+---
+
 ## 2026-07-08
 
 **Movement** — bitcoin $62,569 ↘ -0.69%, ethereum $1,751 ↘ -0.93%, solana $78 ↘ -3.29%

@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-07-08T06:15:00.000000Z",
+  "generated_at": "2026-07-09T07:00:00.000000Z",
   "prices": [
-    {"id": "bitcoin", "usd": 62569, "change_24h": -0.6877503877109638},
-    {"id": "ethereum", "usd": 1751.33, "change_24h": -0.9331297004558746},
-    {"id": "solana", "usd": 78.31, "change_24h": -3.291289554834817}
+    {"id": "bitcoin", "usd": 62816, "change_24h": 0.34438606949398703},
+    {"id": "ethereum", "usd": 1751.99, "change_24h": 0.10795311584982058},
+    {"id": "solana", "usd": 78.36, "change_24h": 0.2399859514976904}
   ],
-  "narrative": "All three coins gave back Tuesday's gains as Strategy dramatically stepped up bitcoin sales — offloading 3,588 BTC for $216 million to cover preferred-stock dividends — marking the clearest sign yet that its capital-allocation model is under stress, per CoinDesk. Meanwhile, Ethereum moved in the opposite direction: Bitmine added 42,000 ETH while developers broadly embraced Vitalik Buterin's 'Lean Ethereum' roadmap for a sweeping multi-year protocol rebuild, per CoinDesk. A $6 million DeFi exploit at Summer.fi and a $20 million governance attack on BONK's treasury darkened the risk picture even as stablecoin volumes are on track to smash 2026 records, per CoinDesk.",
+  "narrative": "All three coins posted slim gains Thursday despite renewed U.S.-Iran military tensions that sent prices lower overnight, suggesting the market is finding near-term support around current levels, per CoinDesk. Japan's collapsing yen — hedge funds most bearish on the currency since 2007 — is pushing Japanese corporates into bitcoin and XRP as a reserve diversifier, per CoinDesk. On the regulatory front, the SEC plans to propose 'Reg Crypto' as soon as this month to ease startup fundraising, while the White House continues to evaluate the structure for a U.S. bitcoin reserve, per CoinDesk.",
   "worth_watching": [
-    "Strategy's capital engine unraveling — selling BTC to fund preferred dividends reverses its core accumulation thesis; Cantor says restoring STRC to $100 par is the key to restarting the flywheel, per CoinDesk; a structural risk absent from watchlist coins",
-    "BONK governance exploit — attacker spent $4M buying tokens to pass a malicious proposal draining $20M from the treasury, per CoinDesk; a new attack vector for any token-governed protocol, not tracked on the watchlist",
-    "Japanese rate headwind — rising Japanese bond yields lifting US counterparts, adding macro pressure on risk assets per CoinDesk; a recurring macro factor not captured in the watchlist's coin-level metrics"
+    "U.S.-Iran escalation and crypto correlation — crypto sold off overnight on U.S. airstrikes against Iran then partially recovered; geopolitical event risk not captured in watchlist coin metrics",
+    "Japanese yen collapse as a crypto demand driver — SBI VC Trade surpassed 2M accounts as yen weakness pushes Japanese firms into BTC and XRP reserves, per CoinDesk; a regional macro channel absent from the watchlist",
+    "Kraken's European banking license bid — Kraken is pursuing a bank charter in Lithuania to expand beyond exchange services, per CoinDesk; a structural shift in how crypto exchanges compete with TradFi not tracked in watchlist metrics"
   ],
   "news": [
     {
       "source": "coindesk.com",
       "headlines": [
-        "A massive EU regulatory crackdown is threatening the explosive boom of multibillion-dollar prediction markets",
         "Clarity and Congress's summer break: State of Crypto",
         "Luxembourg upgrades Ripple's preliminary crypto asset provider to fully compliant",
+        "Bitcoin's U.S. reserve still a work-in-progress as federal agencies hash it out",
         "Tokenized securities need competition, not gatekeepers",
         "Europe is closing the door on offshore crypto, but it's leaving the riskiest window open",
         "Europe led on crypto regulation. Now implementation must match ambition",
         "Collateral, not yield, will decide which stablecoins win",
-        "Bitcoin's Sharpe Ratio slides to lowest since 2022."
+        "XRP price news: Why rally in Ripple-linked token stalled near $1.15"
       ]
     }
   ]
