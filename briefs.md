@@ -11,6 +11,32 @@ No investment advice — this surfaces what's happening, you read it.
 
 <!-- new briefs go here, between this marker and the previous entry -->
 
+## 2026-07-10
+
+**Movement** — bitcoin $63,799 ↗ +1.56%, ethereum $1,769 ↗ +0.98%, solana $79 ↗ +0.63%
+
+All three coins pushed higher Friday — bitcoin at $63,799 (+1.56%) and ether at $1,769 (+0.98%) — despite continued U.S.-Iran military escalation that kept oil climbing for a third day; crypto appears to have decoupled from the immediate geopolitical shock, per CoinDesk. On the regulatory front, the SEC is set to propose "Reg Crypto" as soon as this month to ease startup fundraising, Coinbase won UK authorization to offer equities alongside crypto, and the White House is still working out the structure for a federal bitcoin reserve, per CoinDesk. Ethereum's "Lean Ethereum" protocol overhaul is gaining developer consensus with quantum resistance elevated as a priority, while tokenized equities hit a record $3.86B in June trading volume led by SpaceX per CoinDesk.
+
+**Worth watching**
+- BoJ rate hike acceleration — a former BoJ official warned rates could top 2% as the yen slides further; historically triggers yen-carry unwinding that has been a sharp BTC headwind, per CoinDesk; absent from watchlist metrics
+- Paradigm's AI fund pivot — crypto's most prominent VC just launched a $1.2B fund backing AI and robotics, signaling institutional capital is diversifying out of pure-crypto plays; not tracked in watchlist coins, per CoinDesk
+- India's prohibition stance — RBI still favors outright crypto prohibition despite global regulatory openness, per CoinDesk; excludes a massive market from adoption metrics absent in the watchlist
+
+<details><summary>8 headlines</summary>
+
+- [Bitcoin's U.S. reserve still a work-in-progress as federal agencies hash it out](https://www.coindesk.com/policy/2026/07/06/bitcoin-s-u-s-reserve-still-a-work-in-progress-as-federal-agencies-hash-it-out)
+- [U.S. SEC to propose crypto rule as soon as this month to ease startups, fundraising](https://www.coindesk.com/policy/2026/07/07/u-s-sec-to-propose-crypto-rule-as-soon-as-this-month-to-ease-startups-fundraising)
+- [Tokenized securities need competition, not gatekeepers](https://www.coindesk.com/opinion/2026/06/29/tokenized-securities-need-competition-not-gatekeepers)
+- [Europe is closing the door on offshore crypto, but it's leaving the riskiest window open](https://www.coindesk.com/opinion/2026/07/01/europe-is-closing-the-door-on-offshore-crypto-but-it-s-leaving-the-riskiest-window-open)
+- [Europe led on crypto regulation. Now implementation must match ambition](https://www.coindesk.com/opinion/2026/07/04/europe-led-on-crypto-regulation-now-implementation-must-match-ambition)
+- [Collateral, not yield, will decide which stablecoins win](https://www.coindesk.com/opinion/2026/07/05/collateral-not-yield-will-decide-which-stablecoins-win)
+- [Securitize (SECZ), BlackRock's tokenization partner, slides 40% after SPAC debut](https://www.coindesk.com/markets/2026/07/07/blackrock-backed-securitize-slides-40-after-spac-debut-despite-tokenization-boom)
+- [BTC, XRP, ETH under pressure as Trumps says Iran ceasefire is over](https://www.coindesk.com/markets/2026/07/08/bitcoin-under-pressure-as-u-s-iran-escalation-lifts-oil)
+
+</details>
+
+---
+
 ## 2026-07-09
 
 **Movement** — bitcoin $62,816 ↗ +0.34%, ethereum $1,752 ↗ +0.11%, solana $78 ↗ +0.24%
