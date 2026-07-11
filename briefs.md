@@ -11,6 +11,32 @@ No investment advice — this surfaces what's happening, you read it.
 
 <!-- new briefs go here, between this marker and the previous entry -->
 
+## 2026-07-11
+
+**Movement** — bitcoin $64,121 → +0.09%, ethereum $1,797 ↗ +1.10%, solana $78 ↘ -1.73%
+
+Bitcoin held near flat (+0.09%) while ETH climbed +1.10% to $1,797 and SOL slipped -1.73%, even as both bitcoin and ether ETFs bled again Thursday — spot BTC funds lost $95M and ETH funds lost $52M ending their 5-day inflow streak — a persistent flow-price divergence per CoinDesk. A new Clarity Act draft is expected as soon as next week in a final pre-recess push, per CoinDesk, while New Hampshire's executive council blocked its trailblazing bitcoin bond plan 3-2 and the SEC plans to propose Reg Crypto this month. Swift's 24/7 blockchain pilot with 17 global banks, Sony Bank's OCC-approved stablecoin trust, and Aave's new fintech vaults underscore continued institutional buildout despite the ETF headwind.
+
+**Worth watching**
+- Clarity Act July window — a new draft expected this week but still lacks bipartisan buy-in; passage now a race against Congress's summer recess, per CoinDesk; not captured in watchlist metrics
+- AI IPO capital drain — SK Hynix and CXMT blockbuster listings could pull billions from global investors, reinforcing crypto-to-AI rotation per CoinDesk; absent from watchlist coverage
+- Robinhood chain / Arbitrum — Robinhood's new L2 hit $568M in trading in days with a CASHCAT memecoin turning $800 into $1M+, pushing Arbitrum up 19%; a new ecosystem gaining volume not on the watchlist per CoinDesk
+
+<details><summary>8 headlines</summary>
+
+- [Citadel abandons multi-year crypto lawsuit to focus on bankruptcy order against an ex-employee](https://www.coindesk.com/policy/2026/07/08/citadel-drops-u-s-portofino-suit-seeks-bankruptcy-order-against-firm-s-founder-in-uk)
+- [Europe is closing the door on offshore crypto, but it's leaving the riskiest window open](https://www.coindesk.com/opinion/2026/07/01/europe-is-closing-the-door-on-offshore-crypto-but-it-s-leaving-the-riskiest-window-open)
+- [Europe led on crypto regulation. Now implementation must match ambition](https://www.coindesk.com/opinion/2026/07/04/europe-led-on-crypto-regulation-now-implementation-must-match-ambition)
+- [Collateral, not yield, will decide which stablecoins win](https://www.coindesk.com/opinion/2026/07/05/collateral-not-yield-will-decide-which-stablecoins-win)
+- [Age verification is the surveillance nobody voted for](https://www.coindesk.com/opinion/2026/07/09/age-verification-is-the-surveillance-nobody-voted-for)
+- [Q2 2026 Digital Asset Review](https://www.coindesk.com/coindesk-indices/2026/07/09/q2-2026-digital-asset-review)
+- [Brazil's B3 exchange introduces options on BTC, ETH, SOL futures](https://www.coindesk.com/business/2026/07/09/brazil-s-b3-exchange-introduces-options-on-bitcoin-ether-and-solana-futures)
+- [Swift rolls out new blockchain ledger to bring 24/7 banking to 17 global giants](https://www.coindesk.com/business/2026/07/09/swift-rolls-out-24-7-blockchain-payment-systems-with-17-global-banks-across-six-continents)
+
+</details>
+
+---
+
 ## 2026-07-10
 
 **Movement** — bitcoin $63,799 ↗ +1.56%, ethereum $1,769 ↗ +0.98%, solana $79 ↗ +0.63%

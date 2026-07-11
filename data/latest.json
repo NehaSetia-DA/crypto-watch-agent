@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-07-10T07:00:00.000000Z",
+  "generated_at": "2026-07-11T05:56:07.634061Z",
   "prices": [
-    {"id": "bitcoin", "usd": 63799, "change_24h": 1.5585964555279457},
-    {"id": "ethereum", "usd": 1769.29, "change_24h": 0.984269787127787},
-    {"id": "solana", "usd": 78.87, "change_24h": 0.6284028877685224}
+    {"id": "bitcoin", "usd": 64121, "change_24h": 0.093586014264471},
+    {"id": "ethereum", "usd": 1797.09, "change_24h": 1.103099655638314},
+    {"id": "solana", "usd": 77.78, "change_24h": -1.7289434358487017}
   ],
-  "narrative": "All three coins pushed higher Friday — bitcoin at $63,799 (+1.56%) and ether at $1,769 (+0.98%) — despite continued U.S.-Iran military escalation that kept oil climbing for a third day; crypto appears to have decoupled from the immediate geopolitical shock, per CoinDesk. On the regulatory front, the SEC is set to propose \"Reg Crypto\" as soon as this month to ease startup fundraising, Coinbase won UK authorization to offer equities alongside crypto, and the White House is still working out the structure for a federal bitcoin reserve, per CoinDesk. Ethereum's \"Lean Ethereum\" protocol overhaul is gaining developer consensus with quantum resistance elevated as a priority, while tokenized equities hit a record $3.86B in June trading volume led by SpaceX per CoinDesk.",
+  "narrative": "Bitcoin held near flat (+0.09%) while ETH climbed +1.10% to $1,797 and SOL slipped -1.73%, even as both bitcoin and ether ETFs bled again Thursday — spot BTC funds lost $95M and ETH funds lost $52M ending their 5-day inflow streak — a persistent flow-price divergence per CoinDesk. A new Clarity Act draft is expected as soon as next week in a final pre-recess push, per CoinDesk, while New Hampshire's executive council blocked its trailblazing bitcoin bond plan 3-2 and the SEC plans to propose Reg Crypto this month. Swift's 24/7 blockchain pilot with 17 global banks, Sony Bank's OCC-approved stablecoin trust, and Aave's new fintech vaults underscore continued institutional buildout despite the ETF headwind.",
   "worth_watching": [
-    "BoJ rate hike acceleration — a former BoJ official warned rates could top 2% as the yen slides further; historically triggers yen-carry unwinding that has been a sharp BTC headwind, per CoinDesk; absent from watchlist metrics",
-    "Paradigm's AI fund pivot — crypto's most prominent VC just launched a $1.2B fund backing AI and robotics, signaling institutional capital is diversifying out of pure-crypto plays; not tracked in watchlist coins, per CoinDesk",
-    "India's prohibition stance — RBI still favors outright crypto prohibition despite global regulatory openness, per CoinDesk; excludes a massive market from adoption metrics absent in the watchlist"
+    "Clarity Act July window — a new draft expected this week but still lacks bipartisan buy-in; passage now a race against Congress's summer recess, per CoinDesk; not captured in watchlist metrics",
+    "AI IPO capital drain — SK Hynix and CXMT blockbuster listings could pull billions from global investors, reinforcing crypto-to-AI rotation per CoinDesk; absent from watchlist coverage",
+    "Robinhood chain / Arbitrum — Robinhood's new L2 hit $568M in trading in days with a CASHCAT memecoin turning $800 into $1M+, pushing Arbitrum up 19%; a new ecosystem gaining volume not on the watchlist per CoinDesk"
   ],
   "news": [
     {
       "source": "coindesk.com",
       "headlines": [
-        "Bitcoin's U.S. reserve still a work-in-progress as federal agencies hash it out",
-        "U.S. SEC to propose crypto rule as soon as this month to ease startups, fundraising",
-        "Tokenized securities need competition, not gatekeepers",
+        "Citadel abandons multi-year crypto lawsuit to focus on bankruptcy order against an ex-employee",
         "Europe is closing the door on offshore crypto, but it's leaving the riskiest window open",
         "Europe led on crypto regulation. Now implementation must match ambition",
         "Collateral, not yield, will decide which stablecoins win",
-        "Securitize (SECZ), BlackRock's tokenization partner, slides 40% after SPAC debut",
-        "BTC, XRP, ETH under pressure as Trumps says Iran ceasefire is over"
+        "Age verification is the surveillance nobody voted for",
+        "Q2 2026 Digital Asset Review",
+        "Brazil's B3 exchange introduces options on BTC, ETH, SOL futures",
+        "Swift rolls out new blockchain ledger to bring 24/7 banking to 17 global giants"
       ]
     }
   ]
