@@ -11,6 +11,32 @@ No investment advice — this surfaces what's happening, you read it.
 
 <!-- new briefs go here, between this marker and the previous entry -->
 
+## 2026-07-12
+
+**Movement** — bitcoin $63,716 ↘ -0.68%, ethereum $1,793 ↘ -0.28%, solana $76 ↘ -2.26%
+
+All three coins retreated Sunday — bitcoin -0.68% to $63,716, ethereum -0.28%, solana leading losses at -2.26% — even as Circle secured U.S. trust bank approval and Hyundai completed live stablecoin treasury transfers between subsidiaries, per CoinDesk. Bitcoin has now spent 307 days in the $60K-$70K band, the third-longest consolidation in history, while its MACD flipped bullish and Japan's "invest locally" policy is channeling demand toward BTC per CoinDesk. Leadership turnover continued with Coinbase CLO Paul Grewal departing and Grayscale's CFO exiting after seven years, even as the Clarity Act's newest draft is expected as soon as next week — still without bipartisan buy-in per CoinDesk.
+
+**Worth watching**
+- CBDC ban now in effect — a housing law's CBDC limit took effect tonight banning the U.S. government digital dollar per CoinDesk; a legal precedent reshaping competition between state-issued digital currency and private stablecoins, not tracked in watchlist coins
+- Chainlink CCIP consolidation — over $7.2B migrated from LayerZero including Kelp, Lombard, and Kraken's tokenized assets per CoinDesk; a major shift in cross-chain infrastructure dominance not tracked in watchlist metrics
+- Polymarket margin trading in U.S. — Polymarket seeking CFTC approval to offer leveraged positions to U.S. customers per CoinDesk; if approved, would significantly expand prediction market liquidity in a fast-growing segment absent from the watchlist
+
+<details><summary>8 headlines</summary>
+
+- [Newest version of crypto Clarity Act may drop as soon as next week, sources say](https://www.coindesk.com/policy/2026/07/09/newest-version-of-crypto-clarity-act-may-drop-as-soon-as-next-week-sources-say)
+- [Europe is closing the door on offshore crypto, but it's leaving the riskiest window open](https://www.coindesk.com/opinion/2026/07/01/europe-is-closing-the-door-on-offshore-crypto-but-it-s-leaving-the-riskiest-window-open)
+- [Europe led on crypto regulation. Now implementation must match ambition](https://www.coindesk.com/opinion/2026/07/04/europe-led-on-crypto-regulation-now-implementation-must-match-ambition)
+- [Collateral, not yield, will decide which stablecoins win](https://www.coindesk.com/opinion/2026/07/05/collateral-not-yield-will-decide-which-stablecoins-win)
+- [Age verification is the surveillance nobody voted for](https://www.coindesk.com/opinion/2026/07/09/age-verification-is-the-surveillance-nobody-voted-for)
+- [Ethereum news: Robinhood chain hits $568M in trading frenzy, benefitting Arbitrum](https://www.coindesk.com/markets/2026/07/09/arbitrum-jumps-19-benefitting-from-robinhood-s-usd568-million-onchain-trading-frenzy)
+- [With SEC fight over, Coinbase's top legal exec Grewal moves on, and others reassigned](https://www.coindesk.com/policy/2026/07/09/with-sec-fight-over-coinbase-s-top-legal-exec-grewal-moves-on-and-others-reassigned)
+- [Grayscale's CFO exits after 7 years with crypto asset manager](https://www.coindesk.com/business/2026/07/09/grayscale-s-cfo-exits-after-7-years-with-crypto-asset-manager)
+
+</details>
+
+---
+
 ## 2026-07-11
 
 **Movement** — bitcoin $64,121 → +0.09%, ethereum $1,797 ↗ +1.10%, solana $78 ↘ -1.73%
