@@ -11,6 +11,32 @@ No investment advice — this surfaces what's happening, you read it.
 
 <!-- new briefs go here, between this marker and the previous entry -->
 
+## 2026-07-13
+
+**Movement** — bitcoin $62,754 ↘ -1.42%, ethereum $1,776 ↘ -0.88%, solana $76 ↗ +0.61%
+
+Bitcoin and ethereum extended their slide — BTC falling to $62,754 (-1.42%) while solana bucked the trend at +0.61% — as continued U.S.-Iran military strikes kept geopolitical risk elevated per CoinDesk. Regulatory momentum pressed on despite the price weakness: the Clarity Act's newest draft is expected as soon as next week though still lacking bipartisan buy-in per CoinDesk, while New Hampshire blocked a trailblazing bitcoin bond 3-2 and the UK signaled serious crypto regulatory commitment through the FCA's new framework. Institutional infrastructure continued building with Circle and Sony Bank both securing U.S. trust bank approvals, Hyundai completing live stablecoin cross-border treasury transfers, and Swift rolling out 24/7 blockchain payments with 17 global banks per CoinDesk.
+
+**Worth watching**
+- Bitcoin BIP 110 fork governance — a proposal to cap arbitrary Bitcoin data for a year has zero miner support as its deadline nears, per CoinDesk; a governance standoff with implications for Bitcoin's data layer not tracked in watchlist metrics
+- AI-found Ethereum validator bug — coordinated AI agents found a remotely triggerable validator crash per CoinDesk; a new security auditing paradigm exposing a live protocol vulnerability not captured in ETH's price
+- Bonzo Lend $9M oracle exploit on Hedera — a third-party oracle verification flaw drained $9M and crashed TVL 77% per CoinDesk; recurring DeFi oracle attack vectors not covered by watchlist coins
+
+<details><summary>8 headlines</summary>
+
+- [Newest version of crypto Clarity Act may drop as soon as next week, sources say](https://www.coindesk.com/policy/2026/07/09/newest-version-of-crypto-clarity-act-may-drop-as-soon-as-next-week-sources-say)
+- [With SEC fight over, Coinbase's top legal exec Grewal moves on, and others reassigned](https://www.coindesk.com/policy/2026/07/09/with-sec-fight-over-coinbase-s-top-legal-exec-grewal-moves-on-and-others-reassigned)
+- [New Hampshire snuffs out trailblazing bitcoin bond effort](https://www.coindesk.com/policy/2026/07/09/new-hampshire-snuffs-out-trailblazing-bitcoin-municipal-bond-effort)
+- [Europe led on crypto regulation. Now implementation must match ambition](https://www.coindesk.com/opinion/2026/07/04/europe-led-on-crypto-regulation-now-implementation-must-match-ambition)
+- [Collateral, not yield, will decide which stablecoins win](https://www.coindesk.com/opinion/2026/07/05/collateral-not-yield-will-decide-which-stablecoins-win)
+- [Age verification is the surveillance nobody voted for](https://www.coindesk.com/opinion/2026/07/09/age-verification-is-the-surveillance-nobody-voted-for)
+- [The UK has finally shown it's serious about crypto](https://www.coindesk.com/opinion/2026/07/11/the-uk-has-finally-shown-it-s-serious-about-crypto)
+- [Bitcoin (BTC) price forecast: Here's how high prices could bounce as MACD flips bullish](https://www.coindesk.com/markets/2026/07/10/bitcoin-gets-a-green-light-from-a-reliable-momentum-gauge-here-are-key-levels-to-watch)
+
+</details>
+
+---
+
 ## 2026-07-12
 
 **Movement** — bitcoin $63,716 ↘ -0.68%, ethereum $1,793 ↘ -0.28%, solana $76 ↘ -2.26%
