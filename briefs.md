@@ -11,6 +11,32 @@ No investment advice — this surfaces what's happening, you read it.
 
 <!-- new briefs go here, between this marker and the previous entry -->
 
+## 2026-07-14
+
+**Movement** — bitcoin $62,675 → -0.10%, ethereum $1,785 → +0.18%, solana $75 ↘ -1.41%
+
+All three coins held near flat — bitcoin -0.10%, ethereum +0.18%, solana -1.41% — as markets absorbed a fourth round of U.S. strikes on Iran with gold, oil, and stocks all moving sharply but crypto barely reacting, per CoinDesk. The stablecoin sector registered its biggest contraction since the 2022 Terra-Luna crash: USDT and USDC combined shed $10 billion since May, per CoinDesk. The Clarity Act is showing signs of life with a new draft expected as soon as this week, though bipartisan buy-in still eludes negotiators, per CoinDesk.
+
+**Worth watching**
+- Bitcoin approaching Fidelity's $58K power-law support — a level that has marked every cycle bottom since 2015, per CoinDesk; not a metric captured in the watchlist but a potential structural floor signal
+- Stablecoin market cap $10B contraction since May — the largest dollar-amount drop since the Terra-Luna crash signals genuine capital outflow from stablecoins, a category absent from watchlist coin metrics per CoinDesk
+- Crypto IPO pipeline stalling — funding constraints and AI capital rotation are delaying IPOs according to Cohen & Company, per CoinDesk; none of the watchlist coins track the pipeline of companies looking to go public in the space
+
+<details><summary>8 headlines</summary>
+
+- [With SEC fight over, Coinbase's top legal exec Grewal moves on, and others reassigned](https://www.coindesk.com/policy/2026/07/09/with-sec-fight-over-coinbase-s-top-legal-exec-grewal-moves-on-and-others-reassigned)
+- [New Hampshire snuffs out trailblazing bitcoin bond effort](https://www.coindesk.com/policy/2026/07/09/new-hampshire-snuffs-out-trailblazing-bitcoin-municipal-bond-effort)
+- [Europe led on crypto regulation. Now implementation must match ambition](https://www.coindesk.com/opinion/2026/07/04/europe-led-on-crypto-regulation-now-implementation-must-match-ambition)
+- [Collateral, not yield, will decide which stablecoins win](https://www.coindesk.com/opinion/2026/07/05/collateral-not-yield-will-decide-which-stablecoins-win)
+- [Age verification is the surveillance nobody voted for](https://www.coindesk.com/opinion/2026/07/09/age-verification-is-the-surveillance-nobody-voted-for)
+- [The UK has finally shown it's serious about crypto](https://www.coindesk.com/opinion/2026/07/11/the-uk-has-finally-shown-it-s-serious-about-crypto)
+- [Japan's 'invest locally' plan likely to spur demand for assets like bitcoin (BTC), gold: Crypto Daily](https://www.coindesk.com/daybook-us/2026/07/10/japan-s-invest-locally-plan-likely-to-spur-demand-for-assets-like-bitcoin-gold)
+- [Circle takes banking step with U.S. trust bank approval](https://www.coindesk.com/business/2026/07/10/circle-secures-u-s-trust-bank-approval-in-crypto-expansion)
+
+</details>
+
+---
+
 ## 2026-07-13
 
 **Movement** — bitcoin $62,754 ↘ -1.42%, ethereum $1,776 ↘ -0.88%, solana $76 ↗ +0.61%

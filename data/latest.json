@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-07-13T06:34:48.878697Z",
+  "generated_at": "2026-07-14T05:43:05.902050Z",
   "prices": [
-    {"id": "bitcoin", "usd": 62754, "change_24h": -1.4185456748320817},
-    {"id": "ethereum", "usd": 1776.16, "change_24h": -0.8788929604582609},
-    {"id": "solana", "usd": 76.42, "change_24h": 0.6115386339127402}
+    {"id": "bitcoin", "usd": 62675, "change_24h": -0.10291352768960975},
+    {"id": "ethereum", "usd": 1784.55, "change_24h": 0.18251977763195087},
+    {"id": "solana", "usd": 75.25, "change_24h": -1.410306819306803}
   ],
-  "narrative": "Bitcoin and ethereum extended their slide — BTC falling to $62,754 (-1.42%) while solana bucked the trend at +0.61% — as continued U.S.-Iran military strikes kept geopolitical risk elevated per CoinDesk. Regulatory momentum pressed on despite the price weakness: the Clarity Act's newest draft is expected as soon as next week though still lacking bipartisan buy-in per CoinDesk, while New Hampshire blocked a trailblazing bitcoin bond 3-2 and the UK signaled serious crypto regulatory commitment through the FCA's new framework. Institutional infrastructure continued building with Circle and Sony Bank both securing U.S. trust bank approvals, Hyundai completing live stablecoin cross-border treasury transfers, and Swift rolling out 24/7 blockchain payments with 17 global banks per CoinDesk.",
+  "narrative": "All three coins held near flat — bitcoin -0.10%, ethereum +0.18%, solana -1.41% — as markets absorbed a fourth round of U.S. strikes on Iran with gold, oil, and stocks all moving sharply but crypto barely reacting, per CoinDesk. The stablecoin sector registered its biggest contraction since the 2022 Terra-Luna crash: USDT and USDC combined shed $10 billion since May, per CoinDesk. The Clarity Act is showing signs of life with a new draft expected as soon as this week, though bipartisan buy-in still eludes negotiators, per CoinDesk.",
   "worth_watching": [
-    "Bitcoin BIP 110 fork governance — a proposal to cap arbitrary Bitcoin data for a year has zero miner support as its deadline nears, per CoinDesk; a governance standoff with implications for Bitcoin's data layer not tracked in watchlist metrics",
-    "AI-found Ethereum validator bug — coordinated AI agents found a remotely triggerable validator crash per CoinDesk; a new security auditing paradigm exposing a live protocol vulnerability not captured in ETH's price",
-    "Bonzo Lend $9M oracle exploit on Hedera — a third-party oracle verification flaw drained $9M and crashed TVL 77% per CoinDesk; recurring DeFi oracle attack vectors not covered by watchlist coins"
+    "Bitcoin approaching Fidelity's $58K power-law support — a level that has marked every cycle bottom since 2015, per CoinDesk; not a metric captured in the watchlist but a potential structural floor signal",
+    "Stablecoin market cap $10B contraction since May — the largest dollar-amount drop since the Terra-Luna crash signals genuine capital outflow from stablecoins, a category absent from watchlist coin metrics per CoinDesk",
+    "Crypto IPO pipeline stalling — funding constraints and AI capital rotation are delaying IPOs according to Cohen & Company, per CoinDesk; none of the watchlist coins track the pipeline of companies looking to go public in the space"
   ],
   "news": [
     {
       "source": "coindesk.com",
       "headlines": [
-        "Newest version of crypto Clarity Act may drop as soon as next week, sources say",
         "With SEC fight over, Coinbase's top legal exec Grewal moves on, and others reassigned",
         "New Hampshire snuffs out trailblazing bitcoin bond effort",
         "Europe led on crypto regulation. Now implementation must match ambition",
         "Collateral, not yield, will decide which stablecoins win",
         "Age verification is the surveillance nobody voted for",
         "The UK has finally shown it's serious about crypto",
-        "Bitcoin (BTC) price forecast: Here's how high prices could bounce as MACD flips bullish"
+        "Japan's 'invest locally' plan likely to spur demand for assets like bitcoin (BTC), gold: Crypto Daily",
+        "Circle takes banking step with U.S. trust bank approval"
       ]
     }
   ]
