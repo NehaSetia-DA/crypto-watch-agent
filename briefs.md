@@ -11,6 +11,32 @@ No investment advice — this surfaces what's happening, you read it.
 
 <!-- new briefs go here, between this marker and the previous entry -->
 
+## 2026-07-15
+
+**Movement** — bitcoin $64,674 ↗ +3.19%, ethereum $1,873 ↗ +4.94%, solana $78 ↗ +3.45%
+
+All three coins surged — BTC reclaiming $64,674 (+3.19%), ETH jumping to $1,873 (+4.94%), and SOL to $78 (+3.45%) — as CoinDesk analysts say the marginal bitcoin seller may have stepped away and spot ETF inflows are returning despite ongoing U.S.-Iran tensions that had pressured prices earlier in the week. Tokenization was the dominant infrastructure story: the UK government unveiled a 54-firm taskforce including BlackRock, Goldman Sachs, JPMorgan, and Morgan Stanley to develop live tokenization use cases, while SBI Holdings pivoted its blockchain joint venture to Solana for stablecoin issuance and token settlement, per CoinDesk. The Clarity Act appears poised for a fresh draft this week per CoinDesk, though Trump's personal crypto holdings continue to complicate bipartisan ethics negotiations.
+
+**Worth watching**
+- Robinhood Chain — debuted as top-five by DEX volume within days per CoinDesk (Bernstein), with CASHCAT memecoin activity dominating over tokenized stocks; a new competing L2 ecosystem not on the watchlist
+- U.S. government moving $288M in seized BTC and ETH to Coinbase Prime — apparently circumventing Trump's own no-sell reserve order per CoinDesk; a potential policy contradiction that could affect the bitcoin reserve narrative
+- UK tokenization taskforce — 54 firms including four of the largest Wall Street banks now working on live tokenization use cases for UK financial markets per CoinDesk; a structural shift toward institutional on-chain finance not captured in watchlist coin metrics
+
+<details><summary>8 headlines</summary>
+
+- [Signs of life?: State of Crypto](https://www.coindesk.com/policy/2026/07/12/signs-of-life-state-of-crypto)
+- [Europe led on crypto regulation. Now implementation must match ambition](https://www.coindesk.com/opinion/2026/07/04/europe-led-on-crypto-regulation-now-implementation-must-match-ambition)
+- [Collateral, not yield, will decide which stablecoins win](https://www.coindesk.com/opinion/2026/07/05/collateral-not-yield-will-decide-which-stablecoins-win)
+- [Age verification is the surveillance nobody voted for](https://www.coindesk.com/opinion/2026/07/09/age-verification-is-the-surveillance-nobody-voted-for)
+- [The UK has finally shown it's serious about crypto](https://www.coindesk.com/opinion/2026/07/11/the-uk-has-finally-shown-it-s-serious-about-crypto)
+- [BlackRock, Goldman Sachs, JPMorgan, Morgan Stanley join UK government's tokenization taskforce](https://www.coindesk.com/business/2026/07/13/uk-government-unveils-tokenization-taskforce-with-blackrock-goldman-jpmorgan-morgan-stanley)
+- [SBI Holdings' blockchain initiative pivots to Solana for tokenization, stablecoin issuance](https://www.coindesk.com/business/2026/07/13/sbi-holdings-blockchain-initiative-pivots-to-solana-for-tokenization-stablecoin-issuance)
+- [Strategy news: MSTR made no changes to BTC holdings last week as it raised cash](https://www.coindesk.com/markets/2026/07/13/michael-saylor-s-strategy-added-usd467-million-in-cash-made-no-changes-to-bitcoin-holdings)
+
+</details>
+
+---
+
 ## 2026-07-14
 
 **Movement** — bitcoin $62,675 → -0.10%, ethereum $1,785 → +0.18%, solana $75 ↘ -1.41%
