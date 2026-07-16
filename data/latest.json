@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-07-15T05:43:48.063452Z",
+  "generated_at": "2026-07-16T06:05:00Z",
   "prices": [
-    {"id": "bitcoin", "usd": 64674, "change_24h": 3.191853300852258},
-    {"id": "ethereum", "usd": 1873.43, "change_24h": 4.943190096034893},
-    {"id": "solana", "usd": 77.86, "change_24h": 3.451551749443677}
+    {"id": "bitcoin", "usd": 64851, "change_24h": -0.019394830805460027},
+    {"id": "ethereum", "usd": 1923.98, "change_24h": 2.3476664372866036},
+    {"id": "solana", "usd": 77.36, "change_24h": -0.7789867963098975}
   ],
-  "narrative": "All three coins surged — BTC reclaiming $64,674 (+3.19%), ETH jumping to $1,873 (+4.94%), and SOL to $78 (+3.45%) — as CoinDesk analysts say the marginal bitcoin seller may have stepped away and spot ETF inflows are returning despite ongoing U.S.-Iran tensions that had pressured prices earlier in the week. Tokenization was the dominant infrastructure story: the UK government unveiled a 54-firm taskforce including BlackRock, Goldman Sachs, JPMorgan, and Morgan Stanley to develop live tokenization use cases, while SBI Holdings pivoted its blockchain joint venture to Solana for stablecoin issuance and token settlement, per CoinDesk. The Clarity Act appears poised for a fresh draft this week per CoinDesk, though Trump's personal crypto holdings continue to complicate bipartisan ethics negotiations.",
+  "narrative": "The June CPI fell 0.4% per CoinDesk, slashing Fed rate-hike odds from 43% to 13% and lifting ethereum +2.35% toward $1,924 while bitcoin held nearly flat — South Korea's KOSPI meltdown drove crypto volumes up 1,426% as domestic investors rotated out of stocks, per CoinDesk. Circle faces intensifying pressure: Mizuho downgraded its outlook twice in one day — first to neutral, then to underperform — citing Open USD competition and slowing USDC growth, even as JCB partnered with Circle for Japan stablecoin payments, per CoinDesk. The Clarity Act lost key Senate Democratic backing, with critics calling it \"corrupt\" over Trump's crypto holdings, per CoinDesk, narrowing the bipartisan path it needs before recess.",
   "worth_watching": [
-    "Robinhood Chain — debuted as top-five by DEX volume within days per CoinDesk (Bernstein), with CASHCAT memecoin activity dominating over tokenized stocks; a new competing L2 ecosystem not on the watchlist",
-    "U.S. government moving $288M in seized BTC and ETH to Coinbase Prime — apparently circumventing Trump's own no-sell reserve order per CoinDesk; a potential policy contradiction that could affect the bitcoin reserve narrative",
-    "UK tokenization taskforce — 54 firms including four of the largest Wall Street banks now working on live tokenization use cases for UK financial markets per CoinDesk; a structural shift toward institutional on-chain finance not captured in watchlist coin metrics"
+    "Strategy paused bitcoin purchases while accumulating a $3B cash cushion (20+ months of dividend coverage), per CoinDesk — a signal the flywheel may be in standby mode, not on the watchlist",
+    "x402 payment protocol — now backed by Visa, Mastercard, and Ripple, settling $24M across 75M AI-agent payments last month, per CoinDesk; none of the watchlist coins directly track this emerging micropayment layer",
+    "U.S.-UK joint tokenization roadmap — formal alignment between the world's two largest financial centers, per CoinDesk; structural institutional adoption story with no direct watchlist price signal"
   ],
   "news": [
     {
       "source": "coindesk.com",
       "headlines": [
-        "Signs of life?: State of Crypto",
-        "Europe led on crypto regulation. Now implementation must match ambition",
         "Collateral, not yield, will decide which stablecoins win",
         "Age verification is the surveillance nobody voted for",
         "The UK has finally shown it's serious about crypto",
-        "BlackRock, Goldman Sachs, JPMorgan, Morgan Stanley join UK government's tokenization taskforce",
-        "SBI Holdings' blockchain initiative pivots to Solana for tokenization, stablecoin issuance",
-        "Strategy news: MSTR made no changes to BTC holdings last week as it raised cash"
+        "The Clarity Act isn't a ticket to sanctions evasion, actually",
+        "Bitcoin holds near $62,000 as RHODL compression signals the historic market rotation",
+        "Prediction markets saw over $50 billion in volume as World Cup kicked off, crushing traditional sportsbooks",
+        "Bitcoin's BIP-110 sparked a fight over who gets to decide the future of Bitcoin",
+        "U.S.-Iran escalation weighs on bitcoin (BTC) price, stocks as oil climbs: Crypto Daily"
       ]
     }
   ]

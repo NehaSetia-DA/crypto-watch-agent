@@ -11,6 +11,32 @@ No investment advice — this surfaces what's happening, you read it.
 
 <!-- new briefs go here, between this marker and the previous entry -->
 
+## 2026-07-16
+
+**Movement** — bitcoin $64,851 → -0.02%, ethereum $1,924 ↗ +2.35%, solana $77 ↘ -0.78%
+
+The June CPI fell 0.4% per CoinDesk, slashing Fed rate-hike odds from 43% to 13% and lifting ethereum +2.35% toward $1,924 while bitcoin held nearly flat — South Korea's KOSPI meltdown drove crypto volumes up 1,426% as domestic investors rotated out of stocks, per CoinDesk. Circle faces intensifying pressure: Mizuho downgraded its outlook twice in one day — first to neutral, then to underperform — citing Open USD competition and slowing USDC growth, even as JCB partnered with Circle for Japan stablecoin payments, per CoinDesk. The Clarity Act lost key Senate Democratic backing, with critics calling it "corrupt" over Trump's crypto holdings, per CoinDesk, narrowing the bipartisan path it needs before recess.
+
+**Worth watching**
+- Strategy paused bitcoin purchases while accumulating a $3B cash cushion (20+ months of dividend coverage), per CoinDesk — a signal the flywheel may be in standby mode, not on the watchlist
+- x402 payment protocol — now backed by Visa, Mastercard, and Ripple, settling $24M across 75M AI-agent payments last month, per CoinDesk; none of the watchlist coins directly track this emerging micropayment layer
+- U.S.-UK joint tokenization roadmap — formal alignment between the world's two largest financial centers, per CoinDesk; structural institutional adoption story with no direct watchlist price signal
+
+<details><summary>8 headlines</summary>
+
+- [Collateral, not yield, will decide which stablecoins win](https://www.coindesk.com/opinion/2026/07/05/collateral-not-yield-will-decide-which-stablecoins-win)
+- [Age verification is the surveillance nobody voted for](https://www.coindesk.com/opinion/2026/07/09/age-verification-is-the-surveillance-nobody-voted-for)
+- [The UK has finally shown it's serious about crypto](https://www.coindesk.com/opinion/2026/07/11/the-uk-has-finally-shown-it-s-serious-about-crypto)
+- [The Clarity Act isn't a ticket to sanctions evasion, actually](https://www.coindesk.com/opinion/2026/07/14/the-clarity-act-isn-t-a-ticket-to-sanctions-evasion-actually)
+- [Bitcoin holds near $62,000 as RHODL compression signals the historic market rotation](https://www.coindesk.com/markets/2026/07/14/bitcoin-s-great-rotation-long-term-holders-pass-supply-to-a-new-generation-of-buyers)
+- [Prediction markets saw over $50 billion in volume as World Cup kicked off, crushing traditional sportsbooks](https://www.coindesk.com/business/2026/07/14/prediction-markets-just-crushed-traditional-sportsbooks-in-a-massive-usd50-billion-world-cup-breakout)
+- [Bitcoin's BIP-110 sparked a fight over who gets to decide the future of Bitcoin](https://www.coindesk.com/tech/2026/07/14/bitcoin-s-bip-110-sparked-a-fight-over-who-gets-to-decide-the-future-of-bitcoin)
+- [U.S.-Iran escalation weighs on bitcoin (BTC) price, stocks as oil climbs: Crypto Daily](https://www.coindesk.com/daybook-us/2026/07/14/u-s-iran-escalation-weighs-on-bitcoin-stocks-as-oil-climbs)
+
+</details>
+
+---
+
 ## 2026-07-15
 
 **Movement** — bitcoin $64,674 ↗ +3.19%, ethereum $1,873 ↗ +4.94%, solana $78 ↗ +3.45%
