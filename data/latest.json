@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-07-16T06:05:00Z",
+  "generated_at": "2026-07-17T05:57:59Z",
   "prices": [
-    {"id": "bitcoin", "usd": 64851, "change_24h": -0.019394830805460027},
-    {"id": "ethereum", "usd": 1923.98, "change_24h": 2.3476664372866036},
-    {"id": "solana", "usd": 77.36, "change_24h": -0.7789867963098975}
+    {"id": "bitcoin", "usd": 62795, "change_24h": -3.2006297766294085},
+    {"id": "ethereum", "usd": 1824.13, "change_24h": -5.187317041703546},
+    {"id": "solana", "usd": 74.37, "change_24h": -3.9122454581881336}
   ],
-  "narrative": "The June CPI fell 0.4% per CoinDesk, slashing Fed rate-hike odds from 43% to 13% and lifting ethereum +2.35% toward $1,924 while bitcoin held nearly flat — South Korea's KOSPI meltdown drove crypto volumes up 1,426% as domestic investors rotated out of stocks, per CoinDesk. Circle faces intensifying pressure: Mizuho downgraded its outlook twice in one day — first to neutral, then to underperform — citing Open USD competition and slowing USDC growth, even as JCB partnered with Circle for Japan stablecoin payments, per CoinDesk. The Clarity Act lost key Senate Democratic backing, with critics calling it \"corrupt\" over Trump's crypto holdings, per CoinDesk, narrowing the bipartisan path it needs before recess.",
+  "narrative": "All three coins shed 3–5% today, with ethereum taking the steepest drop to $1,824 (-5.19%), a sharp reversal from Wednesday's CPI-fueled bounce — CoinDesk reports bitcoin's rally cooled as investors digested inflation data while oil and U.S.-Iran tensions clouded the outlook. Japan reclassified crypto as a financial asset, laying groundwork for bitcoin ETFs and tax cuts per CoinDesk, while the White House is planning a high-level meeting to resolve the Clarity Act's ethics section before summer recess, even as Senate Democrats call the bill \"corrupt.\" A dormant 2017 bitcoin wallet moved $383 million to a fresh address per CoinDesk — coins haven't reached an exchange yet, but the movement adds an overhang to an already soft market.",
   "worth_watching": [
-    "Strategy paused bitcoin purchases while accumulating a $3B cash cushion (20+ months of dividend coverage), per CoinDesk — a signal the flywheel may be in standby mode, not on the watchlist",
-    "x402 payment protocol — now backed by Visa, Mastercard, and Ripple, settling $24M across 75M AI-agent payments last month, per CoinDesk; none of the watchlist coins directly track this emerging micropayment layer",
-    "U.S.-UK joint tokenization roadmap — formal alignment between the world's two largest financial centers, per CoinDesk; structural institutional adoption story with no direct watchlist price signal"
+    "Ostium $18M oracle exploit — oracle attacks continuing to hit DeFi per CoinDesk; a systemic vulnerability pattern in on-chain derivatives not tracked in BTC/ETH/SOL metrics",
+    "Clarity Act White House meeting — high-level session planned to resolve the ethics section before recess per CoinDesk; passage or failure now a days-not-weeks question",
+    "DTCC live tokenized securities — first live production trades completed per CoinDesk; institutional blockchain adoption reaching settlement infrastructure without a direct watchlist price signal"
   ],
   "news": [
     {
       "source": "coindesk.com",
       "headlines": [
-        "Collateral, not yield, will decide which stablecoins win",
         "Age verification is the surveillance nobody voted for",
         "The UK has finally shown it's serious about crypto",
         "The Clarity Act isn't a ticket to sanctions evasion, actually",
-        "Bitcoin holds near $62,000 as RHODL compression signals the historic market rotation",
-        "Prediction markets saw over $50 billion in volume as World Cup kicked off, crushing traditional sportsbooks",
-        "Bitcoin's BIP-110 sparked a fight over who gets to decide the future of Bitcoin",
-        "U.S.-Iran escalation weighs on bitcoin (BTC) price, stocks as oil climbs: Crypto Daily"
+        "The privacy paradox of protecting kids online",
+        "Bitcoin, ether hold steady after rising on U.S. inflation report: Crypto Markets Today",
+        "Bitcoin (BTC) price rally cools as investors digest inflation data, oil clouds outlook: Crypto Daily",
+        "Strategy feels 'very secure' until bitcoin reaches $8,000-$10,000, says CEO",
+        "Japan moves crypto under financial rules in regulatory overhaul"
       ]
     }
   ]

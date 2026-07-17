@@ -11,6 +11,32 @@ No investment advice — this surfaces what's happening, you read it.
 
 <!-- new briefs go here, between this marker and the previous entry -->
 
+## 2026-07-17
+
+**Movement** — bitcoin $62,795 ↘ -3.20%, ethereum $1,824 ↘ -5.19%, solana $74 ↘ -3.91%
+
+All three coins shed 3–5% today, with ethereum taking the steepest drop to $1,824 (-5.19%), a sharp reversal from Wednesday's CPI-fueled bounce — CoinDesk reports bitcoin's rally cooled as investors digested inflation data while oil and U.S.-Iran tensions clouded the outlook. Japan reclassified crypto as a financial asset, laying groundwork for bitcoin ETFs and tax cuts per CoinDesk, while the White House is planning a high-level meeting to resolve the Clarity Act's ethics section before summer recess, even as Senate Democrats call the bill "corrupt." A dormant 2017 bitcoin wallet moved $383 million to a fresh address per CoinDesk — coins haven't reached an exchange yet, but the movement adds an overhang to an already soft market.
+
+**Worth watching**
+- Ostium $18M oracle exploit — oracle attacks continuing to hit DeFi per CoinDesk; a systemic vulnerability pattern in on-chain derivatives not tracked in BTC/ETH/SOL metrics
+- Clarity Act White House meeting — high-level session planned to resolve the ethics section before recess per CoinDesk; passage or failure now a days-not-weeks question
+- DTCC live tokenized securities — first live production trades completed per CoinDesk; institutional blockchain adoption reaching settlement infrastructure without a direct watchlist price signal
+
+<details><summary>8 headlines</summary>
+
+- [Age verification is the surveillance nobody voted for](https://www.coindesk.com/opinion/2026/07/09/age-verification-is-the-surveillance-nobody-voted-for)
+- [The UK has finally shown it's serious about crypto](https://www.coindesk.com/opinion/2026/07/11/the-uk-has-finally-shown-it-s-serious-about-crypto)
+- [The Clarity Act isn't a ticket to sanctions evasion, actually](https://www.coindesk.com/opinion/2026/07/14/the-clarity-act-isn-t-a-ticket-to-sanctions-evasion-actually)
+- [The privacy paradox of protecting kids online](https://www.coindesk.com/opinion/2026/07/14/the-privacy-paradox-of-protecting-kids-online)
+- [Bitcoin, ether hold steady after rising on U.S. inflation report: Crypto Markets Today](https://www.coindesk.com/markets/2026/07/15/crypto-steadies-as-middle-east-tensions-counter-u-s-inflation-report-boost)
+- [Bitcoin (BTC) price rally cools as investors digest inflation data, oil clouds outlook: Crypto Daily](https://www.coindesk.com/daybook-us/2026/07/15/bitcoin-rally-cools-as-investors-digest-inflation-data-oil-clouds-outlook)
+- [Strategy feels 'very secure' until bitcoin reaches $8,000-$10,000, says CEO](https://www.coindesk.com/markets/2026/07/15/strategy-feels-very-secure-until-bitcoin-reaches-usd8-000-usd10-000-says-ceo)
+- [Japan moves crypto under financial rules in regulatory overhaul](https://www.coindesk.com/policy/2026/07/15/japan-reclassifies-crypto-as-a-financial-asset-paves-way-for-tax-cuts)
+
+</details>
+
+---
+
 ## 2026-07-16
 
 **Movement** — bitcoin $64,851 → -0.02%, ethereum $1,924 ↗ +2.35%, solana $77 ↘ -0.78%
