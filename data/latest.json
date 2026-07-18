@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-07-17T05:57:59Z",
+  "generated_at": "2026-07-18T05:39:23Z",
   "prices": [
-    {"id": "bitcoin", "usd": 62795, "change_24h": -3.2006297766294085},
-    {"id": "ethereum", "usd": 1824.13, "change_24h": -5.187317041703546},
-    {"id": "solana", "usd": 74.37, "change_24h": -3.9122454581881336}
+    {"id": "bitcoin", "usd": 63939, "change_24h": 1.2887054050407365},
+    {"id": "ethereum", "usd": 1846.38, "change_24h": 0.6013662114783127},
+    {"id": "solana", "usd": 74.96, "change_24h": 0.265986930990478}
   ],
-  "narrative": "All three coins shed 3–5% today, with ethereum taking the steepest drop to $1,824 (-5.19%), a sharp reversal from Wednesday's CPI-fueled bounce — CoinDesk reports bitcoin's rally cooled as investors digested inflation data while oil and U.S.-Iran tensions clouded the outlook. Japan reclassified crypto as a financial asset, laying groundwork for bitcoin ETFs and tax cuts per CoinDesk, while the White House is planning a high-level meeting to resolve the Clarity Act's ethics section before summer recess, even as Senate Democrats call the bill \"corrupt.\" A dormant 2017 bitcoin wallet moved $383 million to a fresh address per CoinDesk — coins haven't reached an exchange yet, but the movement adds an overhang to an already soft market.",
+  "narrative": "Today's modest bounce (+0.27% to +1.29%) follows yesterday's 3–5% selloff, with all three coins finding near-term footing as U.S.-Iran tensions pause — though CoinDesk reports bitcoin briefly dipped below $63,000 on new U.S. strikes before recovering. The dominant story is regulatory: Japan formally moved crypto under financial law with insider-trading rules and a bitcoin ETF pathway, South Korea announced a blockchain-backed public finance overhaul, and a White House meeting is planned to break the Clarity Act's ethics stalemate, per CoinDesk, while Senate Democrats calling it 'corrupt' keep final passage uncertain. Institutional infrastructure advanced despite the noise — DTCC completed its first live tokenized-securities trades and Crypto.com secured $400 million from Citadel at a $20 billion valuation, per CoinDesk.",
   "worth_watching": [
-    "Ostium $18M oracle exploit — oracle attacks continuing to hit DeFi per CoinDesk; a systemic vulnerability pattern in on-chain derivatives not tracked in BTC/ETH/SOL metrics",
-    "Clarity Act White House meeting — high-level session planned to resolve the ethics section before recess per CoinDesk; passage or failure now a days-not-weeks question",
-    "DTCC live tokenized securities — first live production trades completed per CoinDesk; institutional blockchain adoption reaching settlement infrastructure without a direct watchlist price signal"
+    "Visa Open USD platform — Visa launched a stablecoin issuance platform competing directly with Circle's USDC per CoinDesk; payment-network infrastructure entering the digital dollar stack not tracked in watchlist coin metrics",
+    "Bitcoin BIP 110 / DOG Mode split — a fork to cap Bitcoin data has zero miner support while a counter-proposal requires no vote at all per CoinDesk; a governance conflict over Bitcoin's data layer without a price signal",
+    "Stripe $53B PayPal bid — if Stripe acquires PayPal and leverages stablecoin issuance per CoinDesk, it could reshape consumer payment infrastructure above the watchlist coins"
   ],
   "news": [
     {
       "source": "coindesk.com",
       "headlines": [
-        "Age verification is the surveillance nobody voted for",
+        "Japan moves crypto under financial rules in regulatory overhaul",
+        "South Korea's new economic roadmap is a massive bet on blockchain technology",
+        "Clarity Act negotiations: High-level White House meeting planned, sources say",
         "The UK has finally shown it's serious about crypto",
         "The Clarity Act isn't a ticket to sanctions evasion, actually",
         "The privacy paradox of protecting kids online",
-        "Bitcoin, ether hold steady after rising on U.S. inflation report: Crypto Markets Today",
-        "Bitcoin (BTC) price rally cools as investors digest inflation data, oil clouds outlook: Crypto Daily",
-        "Strategy feels 'very secure' until bitcoin reaches $8,000-$10,000, says CEO",
-        "Japan moves crypto under financial rules in regulatory overhaul"
+        "The Clarity Act is the most important consumer protection effort in years",
+        "U.S. Senate unanimously opposes clemency for FTX founder Sam Bankman-Fried"
       ]
     }
   ]

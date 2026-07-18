@@ -11,6 +11,32 @@ No investment advice — this surfaces what's happening, you read it.
 
 <!-- new briefs go here, between this marker and the previous entry -->
 
+## 2026-07-18
+
+**Movement** — bitcoin $63,939 ↗ +1.29%, ethereum $1,846 ↗ +0.60%, solana $75 → +0.27%
+
+Today's modest bounce (+0.27% to +1.29%) follows yesterday's 3–5% selloff, with all three coins finding near-term footing as U.S.-Iran tensions pause — though CoinDesk reports bitcoin briefly dipped below $63,000 on new U.S. strikes before recovering. The dominant story is regulatory: Japan formally moved crypto under financial law with insider-trading rules and a bitcoin ETF pathway, South Korea announced a blockchain-backed public finance overhaul, and a White House meeting is planned to break the Clarity Act's ethics stalemate, per CoinDesk, while Senate Democrats calling it "corrupt" keep final passage uncertain. Institutional infrastructure advanced despite the noise — DTCC completed its first live tokenized-securities trades and Crypto.com secured $400 million from Citadel at a $20 billion valuation, per CoinDesk.
+
+**Worth watching**
+- Visa Open USD platform — Visa launched a stablecoin issuance platform competing directly with Circle's USDC per CoinDesk; payment-network infrastructure entering the digital dollar stack not tracked in watchlist coin metrics
+- Bitcoin BIP 110 / DOG Mode split — a fork to cap Bitcoin data has zero miner support while a counter-proposal requires no vote at all per CoinDesk; a governance conflict over Bitcoin's data layer without a price signal
+- Stripe $53B PayPal bid — if Stripe acquires PayPal and leverages stablecoin issuance per CoinDesk, it could reshape consumer payment infrastructure above the watchlist coins
+
+<details><summary>8 headlines</summary>
+
+- [Japan moves crypto under financial rules in regulatory overhaul](https://www.coindesk.com/policy/2026/07/15/japan-reclassifies-crypto-as-a-financial-asset-paves-way-for-tax-cuts)
+- [South Korea's new economic roadmap is a massive bet on blockchain technology](https://www.coindesk.com/policy/2026/07/15/south-korea-to-modify-76-year-old-law-to-classify-cryptocurrencies-as-national-assets)
+- [Clarity Act negotiations: High-level White House meeting planned, sources say](https://www.coindesk.com/policy/2026/07/15/high-level-white-house-meeting-said-to-be-planned-to-hash-out-clarity-act-ethics-section)
+- [The UK has finally shown it's serious about crypto](https://www.coindesk.com/opinion/2026/07/11/the-uk-has-finally-shown-it-s-serious-about-crypto)
+- [The Clarity Act isn't a ticket to sanctions evasion, actually](https://www.coindesk.com/opinion/2026/07/14/the-clarity-act-isn-t-a-ticket-to-sanctions-evasion-actually)
+- [The privacy paradox of protecting kids online](https://www.coindesk.com/opinion/2026/07/14/the-privacy-paradox-of-protecting-kids-online)
+- [The Clarity Act is the most important consumer protection effort in years](https://www.coindesk.com/opinion/2026/07/16/the-clarity-act-is-the-most-important-consumer-protection-effort-in-years)
+- [U.S. Senate unanimously opposes clemency for FTX founder Sam Bankman-Fried](https://www.coindesk.com/policy/2026/07/16/u-s-senate-unanimously-opposes-clemency-for-ftx-founder-sam-bankman-fried)
+
+</details>
+
+---
+
 ## 2026-07-17
 
 **Movement** — bitcoin $62,795 ↘ -3.20%, ethereum $1,824 ↘ -5.19%, solana $74 ↘ -3.91%
