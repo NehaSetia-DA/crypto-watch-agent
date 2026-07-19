@@ -11,6 +11,32 @@ No investment advice — this surfaces what's happening, you read it.
 
 <!-- new briefs go here, between this marker and the previous entry -->
 
+## 2026-07-19
+
+**Movement** — bitcoin $64,654 ↗ +1.14%, ethereum $1,867 ↗ +1.25%, solana $76 ↗ +1.40%
+
+All three coins rebounded modestly — recovering from last week's pullback after U.S. strikes on Iran and China's Kimi AI model beating Claude/GPT in coding benchmarks dragged semiconductor stocks and crypto lower per CoinDesk. Institutional momentum continued despite the chop: Crypto.com landed $400M from Citadel at a $20B valuation, T. Rowe Price launched the first actively managed multi-token crypto ETF, and Visa entered the stablecoin issuance market with Open USD, directly challenging Circle per CoinDesk. The Clarity Act's legislative window is narrowing — Polymarket traders cut passage odds to a record low as the Senate's ethics-section deadlock persists, per CoinDesk.
+
+**Worth watching**
+- Polymarket Clarity Act odds at record low — Senate Democratic opposition hardening and the White House ethics meeting outcome unresolved per CoinDesk; the law's passage or failure this session is now a weeks-not-months question
+- T. Rowe Price active multi-token ETF — a $1.9T manager's first actively managed multi-asset crypto ETF creates a new product category distinct from single-coin passive funds per CoinDesk; could redirect institutional flows
+- Tether/OFAC Iran freeze — OFAC sanctioned four Iran central bank crypto wallets and Tether froze $131M in USDT per CoinDesk; a direct test of stablecoin compliance at the sovereign level absent from watchlist metrics
+
+<details><summary>8 headlines</summary>
+
+- [Japan moves crypto under financial rules in regulatory overhaul](https://www.coindesk.com/policy/2026/07/15/japan-reclassifies-crypto-as-a-financial-asset-paves-way-for-tax-cuts)
+- [South Korea's new economic roadmap is a massive bet on blockchain technology](https://www.coindesk.com/policy/2026/07/15/south-korea-to-modify-76-year-old-law-to-classify-cryptocurrencies-as-national-assets)
+- [Clarity Act negotiations: High-level White House meeting planned, sources say](https://www.coindesk.com/policy/2026/07/15/high-level-white-house-meeting-said-to-be-planned-to-hash-out-clarity-act-ethics-section)
+- [The UK has finally shown it's serious about crypto](https://www.coindesk.com/opinion/2026/07/11/the-uk-has-finally-shown-it-s-serious-about-crypto)
+- [The Clarity Act isn't a ticket to sanctions evasion, actually](https://www.coindesk.com/opinion/2026/07/14/the-clarity-act-isn-t-a-ticket-to-sanctions-evasion-actually)
+- [The privacy paradox of protecting kids online](https://www.coindesk.com/opinion/2026/07/14/the-privacy-paradox-of-protecting-kids-online)
+- [The Clarity Act is the most important consumer protection effort in years](https://www.coindesk.com/opinion/2026/07/16/the-clarity-act-is-the-most-important-consumer-protection-effort-in-years)
+- [Keyrock acquires BlockFills trading assets in institutional crypto expansion](https://www.coindesk.com/business/2026/07/16/keyrock-acquires-blockfills-trading-assets-to-expand-institutional-crypto-business)
+
+</details>
+
+---
+
 ## 2026-07-18
 
 **Movement** — bitcoin $63,939 ↗ +1.29%, ethereum $1,846 ↗ +0.60%, solana $75 → +0.27%

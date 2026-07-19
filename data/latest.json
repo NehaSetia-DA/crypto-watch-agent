@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-07-18T05:39:23Z",
+  "generated_at": "2026-07-19T06:15:00Z",
   "prices": [
-    {"id": "bitcoin", "usd": 63939, "change_24h": 1.2887054050407365},
-    {"id": "ethereum", "usd": 1846.38, "change_24h": 0.6013662114783127},
-    {"id": "solana", "usd": 74.96, "change_24h": 0.265986930990478}
+    {"id": "bitcoin", "usd": 64654, "change_24h": 1.1407839942017413},
+    {"id": "ethereum", "usd": 1867.47, "change_24h": 1.248069095561352},
+    {"id": "solana", "usd": 75.95, "change_24h": 1.401008258303752}
   ],
-  "narrative": "Today's modest bounce (+0.27% to +1.29%) follows yesterday's 3–5% selloff, with all three coins finding near-term footing as U.S.-Iran tensions pause — though CoinDesk reports bitcoin briefly dipped below $63,000 on new U.S. strikes before recovering. The dominant story is regulatory: Japan formally moved crypto under financial law with insider-trading rules and a bitcoin ETF pathway, South Korea announced a blockchain-backed public finance overhaul, and a White House meeting is planned to break the Clarity Act's ethics stalemate, per CoinDesk, while Senate Democrats calling it 'corrupt' keep final passage uncertain. Institutional infrastructure advanced despite the noise — DTCC completed its first live tokenized-securities trades and Crypto.com secured $400 million from Citadel at a $20 billion valuation, per CoinDesk.",
+  "narrative": "All three coins rebounded modestly — recovering from last week's pullback after U.S. strikes on Iran and China's Kimi AI model beating Claude/GPT in coding benchmarks dragged semiconductor stocks and crypto lower per CoinDesk. Institutional momentum continued despite the chop: Crypto.com landed $400M from Citadel at a $20B valuation, T. Rowe Price launched the first actively managed multi-token crypto ETF, and Visa entered the stablecoin issuance market with Open USD, directly challenging Circle per CoinDesk. The Clarity Act's legislative window is narrowing — Polymarket traders cut passage odds to a record low as the Senate's ethics-section deadlock persists, per CoinDesk.",
   "worth_watching": [
-    "Visa Open USD platform — Visa launched a stablecoin issuance platform competing directly with Circle's USDC per CoinDesk; payment-network infrastructure entering the digital dollar stack not tracked in watchlist coin metrics",
-    "Bitcoin BIP 110 / DOG Mode split — a fork to cap Bitcoin data has zero miner support while a counter-proposal requires no vote at all per CoinDesk; a governance conflict over Bitcoin's data layer without a price signal",
-    "Stripe $53B PayPal bid — if Stripe acquires PayPal and leverages stablecoin issuance per CoinDesk, it could reshape consumer payment infrastructure above the watchlist coins"
+    "Polymarket Clarity Act odds at record low — Senate Democratic opposition hardening and the White House ethics meeting outcome unresolved per CoinDesk; the law's passage or failure this session is now a weeks-not-months question",
+    "T. Rowe Price active multi-token ETF — a $1.9T manager's first actively managed multi-asset crypto ETF creates a new product category distinct from single-coin passive funds per CoinDesk; could redirect institutional flows",
+    "Tether/OFAC Iran freeze — OFAC sanctioned four Iran central bank crypto wallets and Tether froze $131M in USDT per CoinDesk; a direct test of stablecoin compliance at the sovereign level absent from watchlist metrics"
   ],
   "news": [
     {
@@ -22,7 +22,7 @@
         "The Clarity Act isn't a ticket to sanctions evasion, actually",
         "The privacy paradox of protecting kids online",
         "The Clarity Act is the most important consumer protection effort in years",
-        "U.S. Senate unanimously opposes clemency for FTX founder Sam Bankman-Fried"
+        "Keyrock acquires BlockFills trading assets in institutional crypto expansion"
       ]
     }
   ]
