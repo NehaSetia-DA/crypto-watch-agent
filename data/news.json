@@ -1,6 +1,6 @@
 {
-  "job": "864818/1/50",
-  "fetched_at": "2026-07-18T05:39:26.330992Z",
+  "job": "864818/1/51",
+  "fetched_at": "2026-07-19T06:10:56.322815Z",
   "count": 65,
   "items": [
     {
@@ -104,22 +104,28 @@
       "tags": []
     },
     {
-      "headline": "U.S. Senate unanimously opposes clemency for FTX founder Sam Bankman-Fried",
-      "subheadline": "The nonbinding resolution passed without objection after Bankman-Fried asked for clemency, months after Trump pardoned other major crypto figures, including Changpeng Zhao and Ross Ulbricht.",
-      "section": "Policy",
-      "url": "https://www.coindesk.com/policy/2026/07/16/u-s-senate-unanimously-opposes-clemency-for-ftx-founder-sam-bankman-fried",
-      "date_published": "2026-07-16T06:00:43Z",
-      "author": "Shaurya Malwa",
-      "tags": []
+      "headline": "Keyrock acquires BlockFills trading assets in institutional crypto expansion",
+      "subheadline": "The deal adds institutional trading clients, derivatives expertise and regulatory licenses as Keyrock looks to deepen its presence in crypto capital markets.",
+      "section": "Finance",
+      "url": "https://www.coindesk.com/business/2026/07/16/keyrock-acquires-blockfills-trading-assets-to-expand-institutional-crypto-business",
+      "date_published": "2026-07-16T15:26:15.144Z",
+      "author": "Will Canny",
+      "tags": [
+        "Keyrock",
+        "mergers and acquisitions",
+        "BlockFills"
+      ]
     },
     {
-      "headline": "Live updates: Bitcoin price (BTC) holding $64,000 as AI favorites fall from favor",
-      "subheadline": "Blockchain investigator ZachXBT came down heavily on hardware wallets. BTC traded steady near $65,000 after South Korea's rate hike.",
-      "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/07/16/live-updates-zachxbt-calls-hardware-wallets-complete-garbage-btc-steady-near-usd65-000",
-      "date_published": "2026-07-16T06:20:00.000Z",
-      "author": "Omkar Godbole",
-      "tags": []
+      "headline": "Visa backs Open USD with new stablecoin platform as Circle (CRCL) faces fresh competition",
+      "subheadline": "Visa launched a stablecoin platform that lets banks and fintechs issue, manage and settle digital dollars through its payments network.",
+      "section": "Finance",
+      "url": "https://www.coindesk.com/business/2026/07/16/visa-backs-open-usd-with-new-stablecoin-platform-as-circle-faces-fresh-competition",
+      "date_published": "2026-07-16T16:14:30.940Z",
+      "author": "Helene Braun",
+      "tags": [
+        "Stablecoins"
+      ]
     },
     {
       "headline": "Signs of life?: State of Crypto ",
@@ -147,53 +153,22 @@
       ]
     },
     {
-      "headline": "ETH news: Ethereum Foundation says AI found bug that could take validators offline",
-      "subheadline": "The Ethereum Foundation pointed coordinated AI agents at the software its validators run and got a remotely triggerable crash out of it. It also got a pile of confident, well-written findings that were not bugs at all.",
+      "headline": "BTC news: Bitcoin\u2019s BIP 110 fork deadline nears with miner support at zero",
+      "subheadline": "The BIP 110 proposal would cap arbitrary data on Bitcoin for a year, but Michael Saylor, Adam Back and others say turning a spam dispute into a consensus fight could create a bigger risk than the spam itself.",
       "section": "Tech",
-      "url": "https://www.coindesk.com/tech/2026/07/10/ai-found-an-ethereum-bug-that-could-take-validators-offline-but-humans-had-to-prove-it",
-      "date_published": "2026-07-11T12:00:00.000Z",
+      "url": "https://www.coindesk.com/tech/2026/07/12/bitcoin-s-bip-110-fork-deadline-nears-with-miner-support-at-zero",
+      "date_published": "2026-07-12T05:49:52.966Z",
       "author": "Shaurya Malwa",
       "tags": []
     },
     {
-      "headline": "BTC, ETH, SOL price news: Bitcoin nears $65,000 as Fed rate-hike expectations drop",
-      "subheadline": "The June CPI print  pulled hike odds from 43% to 13%, with analysts now watching the September FOMC meeting for further cues on positioning.",
+      "headline": "ETH news: Ethereum outruns bitcoin as ETF money returns, almost all of it from BlackRock's fund",
+      "subheadline": "This is not a broad rally as bitcoin is up 4% over the same stretch, and solana, TRON and hyperliquid are all lower.",
       "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/07/15/bitcoin-tops-usd64-000-as-cooling-u-s-inflation-guts-the-fed-rate-hike-trade",
-      "date_published": "2026-07-15T05:19:14.570Z",
+      "url": "https://www.coindesk.com/markets/2026/07/16/ether-outruns-bitcoin-as-etf-money-returns-almost-all-of-from-blackrock-s-fund",
+      "date_published": "2026-07-16T04:56:15.634Z",
       "author": "Shaurya Malwa",
       "tags": []
-    },
-    {
-      "headline": "Ostium loses $18 million in oracle attack that gamed its own price-feed infrastructure",
-      "subheadline": "A hacker used Ostium's own price-reporting infrastructure against the protocol, submitting falsified future-dated oracle data to manufacture fake trading profits and trigger an $18 million payout.",
-      "section": "Finance",
-      "url": "https://www.coindesk.com/business/2026/07/15/ostium-suffers-usd18-million-exploit-as-oracle-attack-wave-continues-to-hit-defi",
-      "date_published": "2026-07-15T15:27:43.412Z",
-      "author": "Oliver Knight",
-      "tags": [
-        "Hack"
-      ]
-    },
-    {
-      "headline": "Cantor and Securitize collaborate on blockchain-based IPOs",
-      "subheadline": "The move creates a pathway for public companies to raise capital onchain and issue tokenized securities.",
-      "section": "Finance",
-      "url": "https://www.coindesk.com/business/2026/07/15/cantor-and-securitize-collaborate-on-blockchain-based-ipos",
-      "date_published": "2026-07-15T16:52:28.227Z",
-      "author": "Ian Allison",
-      "tags": []
-    },
-    {
-      "headline": "DTCC moves tokenized securities into live trading, marking a milestone for Wall Street's blockchain push",
-      "subheadline": "DTCC's first live production trades using tokenized securities show how blockchain could reshape the infrastructure behind Wall Street.",
-      "section": "Finance",
-      "url": "https://www.coindesk.com/business/2026/07/15/dtcc-moves-tokenized-securities-into-live-trading-marking-a-milestone-for-wall-street-s-blockchain-push",
-      "date_published": "2026-07-15T17:02:22.384Z",
-      "author": "Helene Braun",
-      "tags": [
-        "Tokenization"
-      ]
     },
     {
       "headline": "Base creator Jesse Pollak pivots after admitting social strategy failed",
@@ -207,57 +182,54 @@
       ]
     },
     {
-      "headline": "Bitcoin, ether hold steady after rising on U.S. inflation report: Crypto Markets Today",
-      "subheadline": "BTC rallied to a three-week high of $65,200 and ETH hit its highest since June 3 after a softer-than-expected inflation print eased fears over the U.S.-Iran conflict.",
-      "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/07/15/crypto-steadies-as-middle-east-tensions-counter-u-s-inflation-report-boost",
-      "date_published": "2026-07-15T11:05:49.606Z",
-      "author": "Oliver Knight",
+      "headline": "U.S.' OFAC adds four Iran central bank crypto wallets to sanctions, Tether freezes $131 million of USDT ",
+      "subheadline": "The freeze targets TRON-based addresses that previously held over $165 million, preventing those specific funds from being transferred or redeemed.",
+      "section": "Finance",
+      "url": "https://www.coindesk.com/business/2026/07/16/u-s-adds-four-iran-central-bank-crypto-wallets-to-sanctions-tether-freezes-usd131-million-of-contents",
+      "date_published": "2026-07-16T10:07:06.254Z",
+      "author": "Francisco Rodrigues",
       "tags": [
-        "Crypto Markets Today"
+        "Tether",
+        "Iran"
       ]
     },
     {
-      "headline": "Strategy feels 'very secure' until bitcoin reaches $8,000-$10,000, says CEO ",
-      "subheadline": "Le highlighted increasing the U.S.-dollar reserve as an important lever in preferred stock STRC\u2019s recovery back to around $90 having fallen below $75 last month.",
-      "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/07/15/strategy-feels-very-secure-until-bitcoin-reaches-usd8-000-usd10-000-says-ceo",
-      "date_published": "2026-07-15T12:00:33.656Z",
-      "author": "Jamie Crawley",
+      "headline": "Tether invests $20 million in Argentine neobank Ual\u00e1 as it expands Latin America push",
+      "subheadline": "Ual\u00e1\u2019s CEO clarified Tether is acting solely as a financial investor, citing  current regional regulations preventing any immediate USDT integration.",
+      "section": "Finance",
+      "url": "https://www.coindesk.com/business/2026/07/16/tether-invests-usd20-million-in-argentine-neobank-uala-as-it-expands-latin-america-push",
+      "date_published": "2026-07-16T10:12:05.462Z",
+      "author": "Francisco Rodrigues",
       "tags": [
-        "Bitcoin News"
+        "Tether"
       ]
     },
     {
-      "headline": "BlackRock's crypto assets fall 39% despite $15 billion of net inflows",
-      "subheadline": "BlackRock's digital asset funds attracted $15 billion in net inflows over the past year, but falling crypto prices drove the value of those holdings sharply lower.",
-      "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/07/15/blackrock-s-crypto-assets-fall-39-despite-usd15-billion-of-net-inflows",
-      "date_published": "2026-07-15T12:12:01Z",
-      "author": "Helene Braun",
+      "headline": "Visa, Stripe and Google join massive open-source project to let AI agents pay each other",
+      "subheadline": "The newly-convened x402 Foundation is a neutral space where competitors and payment methods can work together to create an open standard for AI agentic commerce.",
+      "section": "Finance",
+      "url": "https://www.coindesk.com/business/2026/07/16/ai-payments-have-a-new-open-standards-body-its-aim-is-to-reinvent-the-internet",
+      "date_published": "2026-07-16T11:22:37.538Z",
+      "author": "Ian Allison",
       "tags": [
-        "BlackRock"
+        "Artificial Intelligence",
+        "Coinbase",
+        "Mastercard",
+        "Stripe"
       ]
     },
     {
-      "headline": "Two groups of BTC investors sell on the rise as prices near $65,000.",
-      "subheadline": "Two distinct groups of on-chain holders are selling into BTC\u2019s price bounce.",
-      "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/07/16/two-groups-of-bitcoin-investors-sell-on-the-rise-as-inflation-lifts-prices-to-nearly-usd65-000",
-      "date_published": "2026-07-16T04:09:10.923Z",
-      "author": "Omkar Godbole",
+      "headline": "Crypto brokerage firm Alpaca raises $135 million for tokenized stock infrastructure",
+      "subheadline": "The company has previously cleared or held in custody roughly 94% of tokenized U.S. equities and now holds over $1.5 billion in underlying stocks.",
+      "section": "Finance",
+      "url": "https://www.coindesk.com/business/2026/07/16/crypto-brokerage-firm-alpaca-raises-usd135-million-for-tokenized-stock-infrastructure",
+      "date_published": "2026-07-16T14:19:32.901Z",
+      "author": "Francisco Rodrigues",
       "tags": [
-        "Bitcoin News"
+        "Fundraising",
+        "Funding Rounds",
+        "Tokenization"
       ]
-    },
-    {
-      "headline": "ETH news: Ethereum outruns bitcoin as ETF money returns, almost all of it from BlackRock's fund",
-      "subheadline": "This is not a broad rally as bitcoin is up 4% over the same stretch, and solana, TRON and hyperliquid are all lower.",
-      "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/07/16/ether-outruns-bitcoin-as-etf-money-returns-almost-all-of-from-blackrock-s-fund",
-      "date_published": "2026-07-16T04:56:15.634Z",
-      "author": "Shaurya Malwa",
-      "tags": []
     },
     {
       "headline": "A bitcoin wallet dormant since the 2017 peak just moved $383 million",
@@ -269,13 +241,24 @@
       "tags": []
     },
     {
-      "headline": "BTC news: Bitcoin\u2019s BIP 110 fork deadline nears with miner support at zero",
-      "subheadline": "The BIP 110 proposal would cap arbitrary data on Bitcoin for a year, but Michael Saylor, Adam Back and others say turning a spam dispute into a consensus fight could create a bigger risk than the spam itself.",
-      "section": "Tech",
-      "url": "https://www.coindesk.com/tech/2026/07/12/bitcoin-s-bip-110-fork-deadline-nears-with-miner-support-at-zero",
-      "date_published": "2026-07-12T05:49:52.966Z",
-      "author": "Shaurya Malwa",
+      "headline": "Live updates: Bitcoin price (BTC) holding $64,000 as AI favorites fall from favor",
+      "subheadline": "Blockchain investigator ZachXBT came down heavily on hardware wallets. BTC traded steady near $65,000 after South Korea's rate hike.",
+      "section": "Markets",
+      "url": "https://www.coindesk.com/markets/2026/07/16/live-updates-zachxbt-calls-hardware-wallets-complete-garbage-btc-steady-near-usd65-000",
+      "date_published": "2026-07-16T06:20:00.000Z",
+      "author": "Omkar Godbole",
       "tags": []
+    },
+    {
+      "headline": "Bitcoin retreats from monthly high as Iran attacks U.S. bases and profit-taking sets in",
+      "subheadline": "Profit-taking after bitcoin's $65,500 monthly high combined with fresh Iranian strikes on U.S. bases sent crypto lower, with bears leading price action across most tokens.",
+      "section": "Markets",
+      "url": "https://www.coindesk.com/markets/2026/07/16/bitcoin-pulls-back-to-usd64-000-after-hitting-monthly-high-as-bears-take-control",
+      "date_published": "2026-07-16T10:35:56.993Z",
+      "author": "Oliver Knight",
+      "tags": [
+        "Crypto Markets Today"
+      ]
     },
     {
       "headline": "Robinhood Chain scores strong debut, Bernstein says",
@@ -352,6 +335,32 @@
       "tags": [
         "Ethereum News",
         "Newsletters"
+      ]
+    },
+    {
+      "headline": "Galaxy launches onchain yield vaults for institutions",
+      "subheadline": "The crypto financial services firm launched Galaxy Curator, a Morpho-based platform that gives Fireblocks' 2,400 institutional clients access to onchain yield strategies.",
+      "section": "Tech",
+      "url": "https://www.coindesk.com/tech/2026/07/16/galaxy-targets-institutional-stablecoin-yield-with-new-defi-vaults",
+      "date_published": "2026-07-16T12:00:00.000Z",
+      "author": "Will Canny",
+      "tags": [
+        "DeFi",
+        "Galaxy Digital",
+        "Exclusive",
+        "Stablecoins"
+      ]
+    },
+    {
+      "headline": "Ledger wants AI agents to manage crypto without holding your keys",
+      "subheadline": "AI agents can read wallet balances and analyze portfolios but requires every sensitive action to be approved on a Ledger hardware device before it can be executed.",
+      "section": "Tech",
+      "url": "https://www.coindesk.com/tech/2026/07/15/ledger-wants-ai-agents-to-manage-crypto-without-holding-your-keys",
+      "date_published": "2026-07-16T13:00:00.000Z",
+      "author": "Margaux Nijkerk",
+      "tags": [
+        "Ledger",
+        "Artificial Intelligence"
       ]
     },
     {
@@ -511,120 +520,13 @@
       ]
     },
     {
-      "headline": "U.S.' OFAC adds four Iran central bank crypto wallets to sanctions, Tether freezes $131 million of USDT ",
-      "subheadline": "The freeze targets TRON-based addresses that previously held over $165 million, preventing those specific funds from being transferred or redeemed.",
-      "section": "Finance",
-      "url": "https://www.coindesk.com/business/2026/07/16/u-s-adds-four-iran-central-bank-crypto-wallets-to-sanctions-tether-freezes-usd131-million-of-contents",
-      "date_published": "2026-07-16T10:07:06.254Z",
-      "author": "Francisco Rodrigues",
-      "tags": [
-        "Tether",
-        "Iran"
-      ]
-    },
-    {
-      "headline": "Tether invests $20 million in Argentine neobank Ual\u00e1 as it expands Latin America push",
-      "subheadline": "Ual\u00e1\u2019s CEO clarified Tether is acting solely as a financial investor, citing  current regional regulations preventing any immediate USDT integration.",
-      "section": "Finance",
-      "url": "https://www.coindesk.com/business/2026/07/16/tether-invests-usd20-million-in-argentine-neobank-uala-as-it-expands-latin-america-push",
-      "date_published": "2026-07-16T10:12:05.462Z",
-      "author": "Francisco Rodrigues",
+      "headline": "U.S. Senate unanimously opposes clemency for FTX founder Sam Bankman-Fried",
+      "subheadline": "The nonbinding resolution passed without objection after Bankman-Fried asked for clemency, months after Trump pardoned other major crypto figures, including Changpeng Zhao and Ross Ulbricht.",
+      "section": "Policy",
+      "url": "https://www.coindesk.com/policy/2026/07/16/u-s-senate-unanimously-opposes-clemency-for-ftx-founder-sam-bankman-fried",
+      "date_published": "2026-07-16T06:00:43Z",
+      "author": "Shaurya Malwa",
       "tags": []
-    },
-    {
-      "headline": "Bitcoin retreats from monthly high as Iran attacks U.S. bases and profit-taking sets in",
-      "subheadline": "Profit-taking after bitcoin's $65,500 monthly high combined with fresh Iranian strikes on U.S. bases sent crypto lower, with bears leading price action across most tokens.",
-      "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/07/16/bitcoin-pulls-back-to-usd64-000-after-hitting-monthly-high-as-bears-take-control",
-      "date_published": "2026-07-16T10:35:56.993Z",
-      "author": "Oliver Knight",
-      "tags": []
-    },
-    {
-      "headline": "Visa, Stripe and Google join massive open-source project to let AI agents pay each other",
-      "subheadline": "The newly-convened x402 Foundation is a neutral space where competitors and payment methods can work together to create an open standard for AI agentic commerce.",
-      "section": "Finance",
-      "url": "https://www.coindesk.com/business/2026/07/16/ai-payments-have-a-new-open-standards-body-its-aim-is-to-reinvent-the-internet",
-      "date_published": "2026-07-16T11:22:37.538Z",
-      "author": "Ian Allison",
-      "tags": []
-    },
-    {
-      "headline": "The most popular bitcoin options bet has slipped $10,000 lower to a $70,000 strike: Crypto Daily",
-      "subheadline": "The day ahead in crypto: July 18, 2026",
-      "section": "Crypto Daybook Americas",
-      "url": "https://www.coindesk.com/daybook-us/2026/07/16/the-most-popular-bitcoin-call-option-has-slipped-by-usd10-000",
-      "date_published": "2026-07-16T11:27:53.619Z",
-      "author": "Omkar Godbole",
-      "tags": []
-    },
-    {
-      "headline": "Galaxy launches onchain yield vaults for institutions",
-      "subheadline": "The crypto financial services firm launched Galaxy Curator, a Morpho-based platform that gives Fireblocks' 2,400 institutional clients access to onchain yield strategies.",
-      "section": "Tech",
-      "url": "https://www.coindesk.com/tech/2026/07/16/galaxy-targets-institutional-stablecoin-yield-with-new-defi-vaults",
-      "date_published": "2026-07-16T12:00:00.000Z",
-      "author": "Will Canny",
-      "tags": []
-    },
-    {
-      "headline": "Ledger wants AI agents to manage crypto without holding your keys",
-      "subheadline": "AI agents can read wallet balances and analyze portfolios but requires every sensitive action to be approved on a Ledger hardware device before it can be executed.",
-      "section": "Tech",
-      "url": "https://www.coindesk.com/tech/2026/07/15/ledger-wants-ai-agents-to-manage-crypto-without-holding-your-keys",
-      "date_published": "2026-07-16T13:00:00.000Z",
-      "author": "Margaux Nijkerk",
-      "tags": []
-    },
-    {
-      "headline": "Crypto brokerage firm Alpaca raises $135 million for tokenized stock infrastructure",
-      "subheadline": "The company has previously cleared or held in custody roughly 94% of tokenized U.S. equities and now holds over $1.5 billion in underlying stocks.",
-      "section": "Finance",
-      "url": "https://www.coindesk.com/business/2026/07/16/crypto-brokerage-firm-alpaca-raises-usd135-million-for-tokenized-stock-infrastructure",
-      "date_published": "2026-07-16T14:19:32.901Z",
-      "author": "Francisco Rodrigues",
-      "tags": [
-        "Fundraising",
-        "Funding Rounds",
-        "Tokenization"
-      ]
-    },
-    {
-      "headline": "Crypto for Advisors: Strengthening defenses against AI fraud",
-      "subheadline": "Crypto for Advisors: Strengthening defenses against AI fraud",
-      "section": "CoinDesk Indices",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/07/16/crypto-for-advisors-strengthening-defenses-against-ai-fraud",
-      "date_published": "2026-07-16T14:54:11.112Z",
-      "author": "Kriti Bansal",
-      "tags": [
-        "Financial Advisors",
-        "Crypto for Advisors",
-        "Newsletters"
-      ]
-    },
-    {
-      "headline": "Keyrock acquires BlockFills trading assets in institutional crypto expansion",
-      "subheadline": "The deal adds institutional trading clients, derivatives expertise and regulatory licenses as Keyrock looks to deepen its presence in crypto capital markets.",
-      "section": "Finance",
-      "url": "https://www.coindesk.com/business/2026/07/16/keyrock-acquires-blockfills-trading-assets-to-expand-institutional-crypto-business",
-      "date_published": "2026-07-16T15:26:15.144Z",
-      "author": "Will Canny",
-      "tags": [
-        "Keyrock",
-        "mergers and acquisitions",
-        "BlockFills"
-      ]
-    },
-    {
-      "headline": "Visa backs Open USD with new stablecoin platform as Circle (CRCL) faces fresh competition",
-      "subheadline": "Visa launched a stablecoin platform that lets banks and fintechs issue, manage and settle digital dollars through its payments network.",
-      "section": "Finance",
-      "url": "https://www.coindesk.com/business/2026/07/16/visa-backs-open-usd-with-new-stablecoin-platform-as-circle-faces-fresh-competition",
-      "date_published": "2026-07-16T16:14:30.940Z",
-      "author": "Helene Braun",
-      "tags": [
-        "Stablecoins"
-      ]
     },
     {
       "headline": "Why Stripe\u2019s $53 billion PayPal bid is a high-stakes play to own the future of digital payments",
@@ -642,11 +544,7 @@
       "url": "https://www.coindesk.com/business/2026/07/16/citadel-securities-invests-usd400-million-in-crypto-com-valuing-exchange-at-usd20-billion",
       "date_published": "2026-07-16T18:00:00.000Z",
       "author": "Will Canny",
-      "tags": [
-        "Citadel",
-        "Fundraising",
-        "Tokenization"
-      ]
+      "tags": []
     },
     {
       "headline": "$1.9 trillion asset manager T. Rowe Price bets on active management with first multi-token crypto ETF",
@@ -658,19 +556,17 @@
       "tags": []
     },
     {
-      "headline": "Bitcoin under $63,000 after new U.S. strike on Iran and Trump's China allegation",
+      "headline": "Bitcoin price news: BTC under $63,000 after new U.S. strike on Iran and Trump's China allegation",
       "subheadline": "Geopolitical tensions and renewed fears of U.S.-China frictions are weighing on risk assets, including bitcoin.",
       "section": "Markets",
       "url": "https://www.coindesk.com/markets/2026/07/17/bitcoin-under-usd64-000-after-u-s-strike-on-iran-trump-s-china-comment-adds-to-uncertainty",
       "date_published": "2026-07-17T04:10:09.777Z",
       "author": "Omkar Godbole",
-      "tags": [
-        "Bitcoin News"
-      ]
+      "tags": []
     },
     {
-      "headline": "BTC news: Bitcoin\u2019s anti-spam fight gets a 'DOG Mode' reply",
-      "subheadline": "While BIP 110 wants to restrict data through a consensus change and has almost no miner support, a new DOG Mode client wants the opposite and requires no vote at all.",
+      "headline": "DOG Mode vs. BIP-110: Inside the Bitcoin client built to bypass data restrictions",
+      "subheadline": "While BIP-110 wants to restrict data through a consensus change and has almost no miner support, a new DOG Mode client wants the opposite and requires no vote at all.",
       "section": "Tech",
       "url": "https://www.coindesk.com/tech/2026/07/17/bitcoin-s-anti-spam-fight-gets-a-dog-mode-reply",
       "date_published": "2026-07-17T05:32:00.140Z",
@@ -680,12 +576,131 @@
       ]
     },
     {
-      "headline": "This $28 million ether 'straddle' bet aims to profit from pure market chaos",
+      "headline": "Ether news today: This $28 million ETH bet aims to profit from pure market chaos",
       "subheadline": "A high-conviction ether straddle hit the tape this week, showing increasing interest in volatility as an asset class.",
       "section": "Markets",
       "url": "https://www.coindesk.com/markets/2026/07/17/this-usd28-million-ether-market-bet-aims-to-profit-from-pure-market-chaos",
       "date_published": "2026-07-17T07:28:52.246Z",
       "author": "Omkar Godbole",
+      "tags": [
+        "Ethereum News"
+      ]
+    },
+    {
+      "headline": "ETH, XRP, HYPE price news: Ether falls twice as hard as bitcoin and HYPE drops 10%",
+      "subheadline": "Japan's Nikkei had its worst day since March. Ether is still the only major holding a gain on the week, barely.",
+      "section": "Markets",
+      "url": "https://www.coindesk.com/markets/2026/07/17/ether-falls-twice-as-hard-as-bitcoin-and-hype-drops-10-as-the-chip-trade-unwinds",
+      "date_published": "2026-07-17T07:29:41.852Z",
+      "author": "Shaurya Malwa",
+      "tags": []
+    },
+    {
+      "headline": "Airbnb CEO Brian Chesky's X account hacked; attacker posted AI-slop on asset tokenization",
+      "subheadline": "Brian Chesky regained control of his account and told any new crypto followers he would be a \"disappointing follow\".",
+      "section": "Web3",
+      "url": "https://www.coindesk.com/web3/2026/07/17/airbnb-ceo-says-x-account-was-hacked-attacker-posted-ai-slop-thread-on-tokenization",
+      "date_published": "2026-07-17T08:50:22.508Z",
+      "author": "Francisco Rodrigues",
+      "tags": [
+        "Hack",
+        "Tokenization"
+      ]
+    },
+    {
+      "headline": "Bitcoin (BTC) price falls below $63,00 as AI fatigue, Middle East tensions drag crypto, tech stocks lower",
+      "subheadline": "Crypto approached the weekend broadly lower as AI stock fatigue and U.S.-Iran tensions weighed on sentiment, though an RSI near 42 hints at oversold conditions heading into the weekend.",
+      "section": "Markets",
+      "url": "https://www.coindesk.com/markets/2026/07/17/risk-off-wave-drags-bitcoin-below-usd63-000-as-ai-selloff-spreads-from-stocks-to-crypto",
+      "date_published": "2026-07-17T10:26:06.887Z",
+      "author": "Oliver Knight",
+      "tags": [
+        "Crypto Markets Today"
+      ]
+    },
+    {
+      "headline": "Live markets: Bitcoin and Nasdaq trim large early losses",
+      "subheadline": "A deepening global selloff in chipmakers dragged risk assets lower, pulling bitcoin back from the $65,000 level it reached on this week's soft inflation print.",
+      "section": "Markets",
+      "url": "https://www.coindesk.com/markets/2026/07/17/live-markets-bitcoin-slips-to-usd63-000-as-the-chip-rout-goes-global",
+      "date_published": "2026-07-17T10:43:57.240Z",
+      "author": "Shaurya Malwa",
+      "tags": []
+    },
+    {
+      "headline": "AI frenzy losing steam leaves BTC price less volatile than South Korea's Kospi: Crypto Daily",
+      "subheadline": "The day ahead in crypto: July 17, 2026",
+      "section": "Crypto Daybook Americas",
+      "url": "https://www.coindesk.com/daybook-us/2026/07/17/ai-frenzy-losing-steam-leaves-bitcoin-less-volatile-than-south-korean-stocks",
+      "date_published": "2026-07-17T11:48:20.604Z",
+      "author": "Omkar Godbole",
+      "tags": []
+    },
+    {
+      "headline": "Bitcoin faces fresh headwinds as China\u2019s Kimi beats Claude, GPT in coding benchmark",
+      "subheadline": "Moonshot's Kimi K3 took the top spot in frontend coding away from Claude and OpenAI, and it's free. Semiconductor stocks fell, and crypto fell with them.",
+      "section": "Markets",
+      "url": "https://www.coindesk.com/markets/2026/07/17/bitcoin-faces-fresh-headwinds-as-china-s-kimi-beats-claude-gpt-in-coding-benchmark",
+      "date_published": "2026-07-17T12:45:11.939Z",
+      "author": "Shaurya Malwa",
+      "tags": []
+    },
+    {
+      "headline": "SBI's Coinhako deal advances plan for Asia's first digital asset empire",
+      "subheadline": "The latest acquisition adds to a string of investments aimed at connecting digital asset markets across Asia.",
+      "section": "Finance",
+      "url": "https://www.coindesk.com/business/2026/07/17/japan-s-sbi-group-is-building-asia-s-first-cross-border-digital-asset-empire",
+      "date_published": "2026-07-17T13:46:46Z",
+      "author": "Olivier Acuna",
+      "tags": [
+        "SBI Holdings",
+        "Japan"
+      ]
+    },
+    {
+      "headline": "Inside Robinhood\u2019s high-stakes bet to 'democratizing' millions of its casual users onto blockchain finance",
+      "subheadline": "The company says its advantage lies in bringing retail customers onchain, but early activity remains dominated by memecoins, while its original tokenization pitch remains small. ",
+      "section": "Finance",
+      "url": "https://www.coindesk.com/business/2026/07/17/inside-robinhood-s-high-stakes-bet-to-onboard-10-million-casual-investors-onto-decentralized-finance",
+      "date_published": "2026-07-17T15:36:39.563Z",
+      "author": "Oliver Knight",
+      "tags": [
+        "Robinhood",
+        "Exclusive"
+      ]
+    },
+    {
+      "headline": "Cardano hands core software over to outside developers to achieve full decentralization",
+      "subheadline": "The move marks a major transition for the blockchain as independent engineering groups prepare to maintain the underlying software code through 2027.",
+      "section": "Tech",
+      "url": "https://www.coindesk.com/tech/2026/07/17/cardano-hands-core-development-to-outside-teams-in-decentralization-push",
+      "date_published": "2026-07-17T16:23:26.215Z",
+      "author": "Olivier Acuna",
+      "tags": [
+        "Cardano"
+      ]
+    },
+    {
+      "headline": "The payment war shifts to distribution as stablecoins reach mainstream status",
+      "subheadline": "Acquisition strategies underscore a massive land grab to capture cross-border remittance flows and native stablecoin reserve economics ahead of tight regulation.",
+      "section": "Finance",
+      "url": "https://www.coindesk.com/business/2026/07/17/stripe-and-swift-race-to-control-the-next-generation-of-global-payments-infrastructure",
+      "date_published": "2026-07-17T17:23:01Z",
+      "author": "Olivier Acuna",
+      "tags": [
+        "Stripe",
+        "Stablecoins",
+        "banks",
+        "DeFi"
+      ]
+    },
+    {
+      "headline": "Polymarket traders cut Clarity Act passage odds to record low as Senate delay drags on",
+      "subheadline": "Polymarket bettors have cut the odds of the CLARITY Act passing this year to a record low as Senate negotiations over ethics provisions remain unresolved.",
+      "section": "Markets",
+      "url": "https://www.coindesk.com/markets/2026/07/17/polymarket-traders-cut-clarity-act-passage-odds-to-record-low-as-senate-delay-drags-on",
+      "date_published": "2026-07-17T18:00:11.927Z",
+      "author": "Helene Braun",
       "tags": []
     }
   ]
