@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-07-19T06:15:00Z",
+  "generated_at": "2026-07-20T06:29:05Z",
   "prices": [
-    {"id": "bitcoin", "usd": 64654, "change_24h": 1.1407839942017413},
-    {"id": "ethereum", "usd": 1867.47, "change_24h": 1.248069095561352},
-    {"id": "solana", "usd": 75.95, "change_24h": 1.401008258303752}
+    {"id": "bitcoin", "usd": 64074, "change_24h": -0.9473481562220208},
+    {"id": "ethereum", "usd": 1854.99, "change_24h": -0.6910037476565838},
+    {"id": "solana", "usd": 75.9, "change_24h": -0.13399011274140712}
   ],
-  "narrative": "All three coins rebounded modestly — recovering from last week's pullback after U.S. strikes on Iran and China's Kimi AI model beating Claude/GPT in coding benchmarks dragged semiconductor stocks and crypto lower per CoinDesk. Institutional momentum continued despite the chop: Crypto.com landed $400M from Citadel at a $20B valuation, T. Rowe Price launched the first actively managed multi-token crypto ETF, and Visa entered the stablecoin issuance market with Open USD, directly challenging Circle per CoinDesk. The Clarity Act's legislative window is narrowing — Polymarket traders cut passage odds to a record low as the Senate's ethics-section deadlock persists, per CoinDesk.",
+  "narrative": "Today's mild pullback — all three coins down less than 1% — follows the prior session's geopolitical shock (U.S.-Iran airstrikes) and AI-stock selloff sparked by China's Kimi model topping coding benchmarks, dragging semiconductors and crypto lower per CoinDesk. Prices and news align: near-term pressure persists while the dominant story remains institutional infrastructure — Alpaca raised $135M for tokenized stock custody, 84% of financial firms now call tokenization a strategic priority per a Broadridge survey, and Visa launched a stablecoin issuance platform to challenge Circle per CoinDesk. The Clarity Act's legislative window keeps narrowing, with Polymarket bettors cutting passage odds to a record low as the Senate ethics-section deadlock holds, per CoinDesk.",
   "worth_watching": [
-    "Polymarket Clarity Act odds at record low — Senate Democratic opposition hardening and the White House ethics meeting outcome unresolved per CoinDesk; the law's passage or failure this session is now a weeks-not-months question",
-    "T. Rowe Price active multi-token ETF — a $1.9T manager's first actively managed multi-asset crypto ETF creates a new product category distinct from single-coin passive funds per CoinDesk; could redirect institutional flows",
-    "Tether/OFAC Iran freeze — OFAC sanctioned four Iran central bank crypto wallets and Tether froze $131M in USDT per CoinDesk; a direct test of stablecoin compliance at the sovereign level absent from watchlist metrics"
+    "Bitcoin $2.5B call spreads targeting $72K at month-end Fed meeting — large Deribit traders are pricing in a rally by July 31 when the Fed meets per CoinDesk; a forward options signal not tracked in day-to-day watchlist prices",
+    "France ordered ISPs to block Polymarket per CoinDesk, citing addictive mechanics — a regulatory crackdown on crypto-adjacent prediction markets in Europe absent from watchlist coin metrics",
+    "Cardano handed core software to outside developer groups through 2027 per CoinDesk — a governance model test case for L1 decentralization not tracked in BTC/ETH/SOL watchlist"
   ],
   "news": [
     {
       "source": "coindesk.com",
       "headlines": [
-        "Japan moves crypto under financial rules in regulatory overhaul",
         "South Korea's new economic roadmap is a massive bet on blockchain technology",
         "Clarity Act negotiations: High-level White House meeting planned, sources say",
+        "U.S. Senate unanimously opposes clemency for FTX founder Sam Bankman-Fried",
         "The UK has finally shown it's serious about crypto",
         "The Clarity Act isn't a ticket to sanctions evasion, actually",
         "The privacy paradox of protecting kids online",
         "The Clarity Act is the most important consumer protection effort in years",
-        "Keyrock acquires BlockFills trading assets in institutional crypto expansion"
+        "Ether news today: This $28 million ETH bet aims to profit from pure market chaos"
       ]
     }
   ]

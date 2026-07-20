@@ -11,6 +11,32 @@ No investment advice — this surfaces what's happening, you read it.
 
 <!-- new briefs go here, between this marker and the previous entry -->
 
+## 2026-07-20
+
+**Movement** — bitcoin $64,074 ↘ -0.95%, ethereum $1,855 ↘ -0.69%, solana $76 ↘ -0.13%
+
+Today's mild pullback — all three coins down less than 1% — follows the prior session's geopolitical shock (U.S.-Iran airstrikes) and AI-stock selloff sparked by China's Kimi model topping coding benchmarks, dragging semiconductors and crypto lower per CoinDesk. Prices and news align: near-term pressure persists while the dominant story remains institutional infrastructure — Alpaca raised $135M for tokenized stock custody, 84% of financial firms now call tokenization a strategic priority per a Broadridge survey, and Visa launched a stablecoin issuance platform to challenge Circle per CoinDesk. The Clarity Act's legislative window keeps narrowing, with Polymarket bettors cutting passage odds to a record low as the Senate ethics-section deadlock holds, per CoinDesk.
+
+**Worth watching**
+- Bitcoin $2.5B call spreads targeting $72K at month-end Fed meeting — large Deribit traders are pricing in a rally by July 31 when the Fed meets per CoinDesk; a forward options signal not tracked in day-to-day watchlist prices
+- France ordered ISPs to block Polymarket per CoinDesk, citing addictive mechanics — a regulatory crackdown on crypto-adjacent prediction markets in Europe absent from watchlist coin metrics
+- Cardano handed core software to outside developer groups through 2027 per CoinDesk — a governance model test case for L1 decentralization not tracked in BTC/ETH/SOL watchlist
+
+<details><summary>8 headlines</summary>
+
+- [South Korea's new economic roadmap is a massive bet on blockchain technology](https://www.coindesk.com/policy/2026/07/15/south-korea-to-modify-76-year-old-law-to-classify-cryptocurrencies-as-national-assets)
+- [Clarity Act negotiations: High-level White House meeting planned, sources say](https://www.coindesk.com/policy/2026/07/15/high-level-white-house-meeting-said-to-be-planned-to-hash-out-clarity-act-ethics-section)
+- [U.S. Senate unanimously opposes clemency for FTX founder Sam Bankman-Fried](https://www.coindesk.com/policy/2026/07/16/u-s-senate-unanimously-opposes-clemency-for-ftx-founder-sam-bankman-fried)
+- [The UK has finally shown it's serious about crypto](https://www.coindesk.com/opinion/2026/07/11/the-uk-has-finally-shown-it-s-serious-about-crypto)
+- [The Clarity Act isn't a ticket to sanctions evasion, actually](https://www.coindesk.com/opinion/2026/07/14/the-clarity-act-isn-t-a-ticket-to-sanctions-evasion-actually)
+- [The privacy paradox of protecting kids online](https://www.coindesk.com/opinion/2026/07/14/the-privacy-paradox-of-protecting-kids-online)
+- [The Clarity Act is the most important consumer protection effort in years](https://www.coindesk.com/opinion/2026/07/16/the-clarity-act-is-the-most-important-consumer-protection-effort-in-years)
+- [Ether news today: This $28 million ETH bet aims to profit from pure market chaos](https://www.coindesk.com/markets/2026/07/17/this-usd28-million-ether-market-bet-aims-to-profit-from-pure-market-chaos)
+
+</details>
+
+---
+
 ## 2026-07-19
 
 **Movement** — bitcoin $64,654 ↗ +1.14%, ethereum $1,867 ↗ +1.25%, solana $76 ↗ +1.40%
