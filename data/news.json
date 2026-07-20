@@ -1,20 +1,8 @@
 {
-  "job": "864818/1/51",
-  "fetched_at": "2026-07-19T06:10:56.322815Z",
-  "count": 65,
+  "job": "864818/1/52",
+  "fetched_at": "2026-07-20T06:29:08.406181Z",
+  "count": 66,
   "items": [
-    {
-      "headline": "Japan moves crypto under financial rules in regulatory overhaul",
-      "subheadline": "The overhaul adds insider trading rules, tighter disclosures and tougher penalties while laying the groundwork for future bitcoin ETFs.",
-      "section": "Policy",
-      "url": "https://www.coindesk.com/policy/2026/07/15/japan-reclassifies-crypto-as-a-financial-asset-paves-way-for-tax-cuts",
-      "date_published": "2026-07-15T12:05:33.013Z",
-      "author": "Olivier Acuna",
-      "tags": [
-        "Japan",
-        "Regulation"
-      ]
-    },
     {
       "headline": "South Korea\u2019s new economic roadmap is a massive bet on blockchain technology",
       "subheadline": "From tokenized public spending trials to government bond pilots, the state is aggressively pushing public finance onto distributed ledgers.",
@@ -39,6 +27,15 @@
         "Clarity Act",
         "Exclusive"
       ]
+    },
+    {
+      "headline": "U.S. Senate unanimously opposes clemency for FTX founder Sam Bankman-Fried",
+      "subheadline": "The nonbinding resolution passed without objection after Bankman-Fried asked for clemency, months after Trump pardoned other major crypto figures, including Changpeng Zhao and Ross Ulbricht.",
+      "section": "Policy",
+      "url": "https://www.coindesk.com/policy/2026/07/16/u-s-senate-unanimously-opposes-clemency-for-ftx-founder-sam-bankman-fried",
+      "date_published": "2026-07-16T06:00:43Z",
+      "author": "Shaurya Malwa",
+      "tags": []
     },
     {
       "headline": "The UK has finally shown it\u2019s serious about crypto ",
@@ -104,41 +101,37 @@
       "tags": []
     },
     {
-      "headline": "Keyrock acquires BlockFills trading assets in institutional crypto expansion",
-      "subheadline": "The deal adds institutional trading clients, derivatives expertise and regulatory licenses as Keyrock looks to deepen its presence in crypto capital markets.",
-      "section": "Finance",
-      "url": "https://www.coindesk.com/business/2026/07/16/keyrock-acquires-blockfills-trading-assets-to-expand-institutional-crypto-business",
-      "date_published": "2026-07-16T15:26:15.144Z",
-      "author": "Will Canny",
+      "headline": "Ether news today: This $28 million ETH bet aims to profit from pure market chaos",
+      "subheadline": "A high-conviction ether straddle hit the tape this week, showing increasing interest in volatility as an asset class.",
+      "section": "Markets",
+      "url": "https://www.coindesk.com/markets/2026/07/17/this-usd28-million-ether-market-bet-aims-to-profit-from-pure-market-chaos",
+      "date_published": "2026-07-17T07:28:52.246Z",
+      "author": "Omkar Godbole",
       "tags": [
-        "Keyrock",
-        "mergers and acquisitions",
-        "BlockFills"
+        "Ethereum News"
       ]
     },
     {
-      "headline": "Visa backs Open USD with new stablecoin platform as Circle (CRCL) faces fresh competition",
-      "subheadline": "Visa launched a stablecoin platform that lets banks and fintechs issue, manage and settle digital dollars through its payments network.",
-      "section": "Finance",
-      "url": "https://www.coindesk.com/business/2026/07/16/visa-backs-open-usd-with-new-stablecoin-platform-as-circle-faces-fresh-competition",
-      "date_published": "2026-07-16T16:14:30.940Z",
-      "author": "Helene Braun",
-      "tags": [
-        "Stablecoins"
-      ]
+      "headline": "ETH, XRP, HYPE price news: Ether falls twice as hard as bitcoin and HYPE drops 10%",
+      "subheadline": "Japan's Nikkei had its worst day since March. Ether is still the only major holding a gain on the week, barely.",
+      "section": "Markets",
+      "url": "https://www.coindesk.com/markets/2026/07/17/ether-falls-twice-as-hard-as-bitcoin-and-hype-drops-10-as-the-chip-trade-unwinds",
+      "date_published": "2026-07-17T07:29:41.852Z",
+      "author": "Shaurya Malwa",
+      "tags": []
     },
     {
-      "headline": "Signs of life?: State of Crypto ",
-      "subheadline": "Several sources told CoinDesk that a new draft of the Clarity Act may drop this week, but challenges remain.",
+      "headline": "Battle over blockchain stock ownership is heading to Washington regulators",
+      "subheadline": "The Securities Transfer Association, an industry group for transfer agents, said company-authorized tokenization should receive preferential treatment under future rules.",
       "section": "Policy",
-      "url": "https://www.coindesk.com/policy/2026/07/12/signs-of-life-state-of-crypto",
-      "date_published": "2026-07-12T18:30:00.000Z",
-      "author": "Nikhilesh De",
+      "url": "https://www.coindesk.com/policy/2026/07/13/wall-street-transfer-agents-lobby-sec-warning-that-third-party-tokens-pose-risks-to-market-integrity",
+      "date_published": "2026-07-13T13:45:00.000Z",
+      "author": "Krisztian Sandor",
       "tags": [
-        "Newsletters",
-        "State of Crypto",
-        "Clarity Act",
-        "Election 2026"
+        "Tokenization",
+        "SEC",
+        "Regulation",
+        "Exclusive"
       ]
     },
     {
@@ -153,56 +146,25 @@
       ]
     },
     {
-      "headline": "BTC news: Bitcoin\u2019s BIP 110 fork deadline nears with miner support at zero",
-      "subheadline": "The BIP 110 proposal would cap arbitrary data on Bitcoin for a year, but Michael Saylor, Adam Back and others say turning a spam dispute into a consensus fight could create a bigger risk than the spam itself.",
+      "headline": "Robinhood's blockchain finds early success \u2014 Thanks to memecoins, not stocks",
+      "subheadline": "Robinhood Chain has pulled in $135 million of value and 800,000 addresses since July 1. Almost none of it is doing what the chain was built for.",
       "section": "Tech",
-      "url": "https://www.coindesk.com/tech/2026/07/12/bitcoin-s-bip-110-fork-deadline-nears-with-miner-support-at-zero",
-      "date_published": "2026-07-12T05:49:52.966Z",
+      "url": "https://www.coindesk.com/tech/2026/07/13/robinhood-built-a-blockchain-for-tokenized-stocks-memecoins-took-over",
+      "date_published": "2026-07-13T15:17:05.923Z",
       "author": "Shaurya Malwa",
-      "tags": []
+      "tags": [
+        "Robinhood",
+        "Memecoin"
+      ]
     },
     {
-      "headline": "ETH news: Ethereum outruns bitcoin as ETF money returns, almost all of it from BlackRock's fund",
-      "subheadline": "This is not a broad rally as bitcoin is up 4% over the same stretch, and solana, TRON and hyperliquid are all lower.",
+      "headline": "A bitcoin wallet dormant since the 2017 peak just moved $383 million",
+      "subheadline": "The coins went to a fresh address rather than an exchange, so nothing has been sold yet.",
       "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/07/16/ether-outruns-bitcoin-as-etf-money-returns-almost-all-of-from-blackrock-s-fund",
-      "date_published": "2026-07-16T04:56:15.634Z",
+      "url": "https://www.coindesk.com/markets/2026/07/16/a-bitcoin-wallet-dormant-since-the-2017-peak-just-moved-usd383-million",
+      "date_published": "2026-07-16T05:12:26.146Z",
       "author": "Shaurya Malwa",
       "tags": []
-    },
-    {
-      "headline": "Base creator Jesse Pollak pivots after admitting social strategy failed",
-      "subheadline": "Pollak said that Jordan Fish, also known on X as 'Cobie,' will lead the Base app team.",
-      "section": "Finance",
-      "url": "https://www.coindesk.com/business/2026/07/15/coinbase-s-jesse-pollak-steps-back-from-base-app-leadership-after-admitting-his-crypto-social-strategy-failed",
-      "date_published": "2026-07-15T20:18:02.834Z",
-      "author": "Margaux Nijkerk",
-      "tags": [
-        "Coinbase"
-      ]
-    },
-    {
-      "headline": "U.S.' OFAC adds four Iran central bank crypto wallets to sanctions, Tether freezes $131 million of USDT ",
-      "subheadline": "The freeze targets TRON-based addresses that previously held over $165 million, preventing those specific funds from being transferred or redeemed.",
-      "section": "Finance",
-      "url": "https://www.coindesk.com/business/2026/07/16/u-s-adds-four-iran-central-bank-crypto-wallets-to-sanctions-tether-freezes-usd131-million-of-contents",
-      "date_published": "2026-07-16T10:07:06.254Z",
-      "author": "Francisco Rodrigues",
-      "tags": [
-        "Tether",
-        "Iran"
-      ]
-    },
-    {
-      "headline": "Tether invests $20 million in Argentine neobank Ual\u00e1 as it expands Latin America push",
-      "subheadline": "Ual\u00e1\u2019s CEO clarified Tether is acting solely as a financial investor, citing  current regional regulations preventing any immediate USDT integration.",
-      "section": "Finance",
-      "url": "https://www.coindesk.com/business/2026/07/16/tether-invests-usd20-million-in-argentine-neobank-uala-as-it-expands-latin-america-push",
-      "date_published": "2026-07-16T10:12:05.462Z",
-      "author": "Francisco Rodrigues",
-      "tags": [
-        "Tether"
-      ]
     },
     {
       "headline": "Visa, Stripe and Google join massive open-source project to let AI agents pay each other",
@@ -232,13 +194,53 @@
       ]
     },
     {
-      "headline": "A bitcoin wallet dormant since the 2017 peak just moved $383 million",
-      "subheadline": "The coins went to a fresh address rather than an exchange, so nothing has been sold yet.",
-      "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/07/16/a-bitcoin-wallet-dormant-since-the-2017-peak-just-moved-usd383-million",
-      "date_published": "2026-07-16T05:12:26.146Z",
-      "author": "Shaurya Malwa",
-      "tags": []
+      "headline": "Keyrock acquires BlockFills trading assets in institutional crypto expansion",
+      "subheadline": "The deal adds institutional trading clients, derivatives expertise and regulatory licenses as Keyrock looks to deepen its presence in crypto capital markets.",
+      "section": "Finance",
+      "url": "https://www.coindesk.com/business/2026/07/16/keyrock-acquires-blockfills-trading-assets-to-expand-institutional-crypto-business",
+      "date_published": "2026-07-16T15:26:15.144Z",
+      "author": "Will Canny",
+      "tags": [
+        "Keyrock",
+        "mergers and acquisitions",
+        "BlockFills"
+      ]
+    },
+    {
+      "headline": "Visa backs Open USD with new stablecoin platform as Circle (CRCL) faces fresh competition",
+      "subheadline": "Visa launched a stablecoin platform that lets banks and fintechs issue, manage and settle digital dollars through its payments network.",
+      "section": "Finance",
+      "url": "https://www.coindesk.com/business/2026/07/16/visa-backs-open-usd-with-new-stablecoin-platform-as-circle-faces-fresh-competition",
+      "date_published": "2026-07-16T16:14:30.940Z",
+      "author": "Helene Braun",
+      "tags": [
+        "Stablecoins"
+      ]
+    },
+    {
+      "headline": "Why Stripe\u2019s $53 billion PayPal bid is a high-stakes play to own the future of digital payments",
+      "subheadline": "If Stripe acquires PayPal, the real prize could consumer wallets, stablecoin issuance or the infrastructure powering the the next generation of digital payments.",
+      "section": "Finance",
+      "url": "https://www.coindesk.com/business/2026/07/16/stripe-s-usd53-billion-paypal-bid-is-a-high-stakes-play-to-own-the-future-of-digital-payments",
+      "date_published": "2026-07-16T16:37:16.597Z",
+      "author": "Jamie Crawley",
+      "tags": [
+        "Stripe",
+        "Stablecoins"
+      ]
+    },
+    {
+      "headline": "Crypto.com lands $400 million investment from Citadel Securities at $20 billion valuation",
+      "subheadline": "The exchange's first institutional funding round values it at $20 billion and will fund expansion into tokenized securities and derivatives.",
+      "section": "Finance",
+      "url": "https://www.coindesk.com/business/2026/07/16/citadel-securities-invests-usd400-million-in-crypto-com-valuing-exchange-at-usd20-billion",
+      "date_published": "2026-07-16T18:00:00.000Z",
+      "author": "Will Canny",
+      "tags": [
+        "Citadel",
+        "Fundraising",
+        "Tokenization"
+      ]
     },
     {
       "headline": "Live updates: Bitcoin price (BTC) holding $64,000 as AI favorites fall from favor",
@@ -261,28 +263,25 @@
       ]
     },
     {
-      "headline": "Robinhood Chain scores strong debut, Bernstein says",
-      "subheadline": "Robinhood's new blockchain quickly became a top-five network by DEX volume, signaling strong early demand for its tokenized asset platform, the broker said.",
-      "section": "Tech",
-      "url": "https://www.coindesk.com/tech/2026/07/13/robinhood-chain-surges-into-top-five-by-dex-volume-bernstein",
-      "date_published": "2026-07-13T12:49:00.947Z",
-      "author": "Will Canny",
+      "headline": "$1.9 trillion asset manager T. Rowe Price bets on active management with first multi-token crypto ETF",
+      "subheadline": "T. Rowe Price launched what it says is the industry's first actively managed multi-token spot crypto ETF, offering diversified exposure to digital assets.",
+      "section": "Markets",
+      "url": "https://www.coindesk.com/markets/2026/07/16/usd1-9-trillion-asset-manager-t-rowe-price-bets-on-active-management-with-first-multi-token-crypto-etf",
+      "date_published": "2026-07-16T18:38:13.215Z",
+      "author": "Helene Braun",
       "tags": [
-        "Robinhood",
-        "DEX",
-        "Bernstein"
+        "ETFs"
       ]
     },
     {
-      "headline": "Robinhood's blockchain finds early success \u2014 Thanks to memecoins, not stocks",
-      "subheadline": "Robinhood Chain has pulled in $135 million of value and 800,000 addresses since July 1. Almost none of it is doing what the chain was built for.",
-      "section": "Tech",
-      "url": "https://www.coindesk.com/tech/2026/07/13/robinhood-built-a-blockchain-for-tokenized-stocks-memecoins-took-over",
-      "date_published": "2026-07-13T15:17:05.923Z",
-      "author": "Shaurya Malwa",
+      "headline": "Bitcoin price news: BTC under $63,000 after new U.S. strike on Iran and Trump's China allegation",
+      "subheadline": "Geopolitical tensions and renewed fears of U.S.-China frictions are weighing on risk assets, including bitcoin.",
+      "section": "Markets",
+      "url": "https://www.coindesk.com/markets/2026/07/17/bitcoin-under-usd64-000-after-u-s-strike-on-iran-trump-s-china-comment-adds-to-uncertainty",
+      "date_published": "2026-07-17T04:10:09.777Z",
+      "author": "Omkar Godbole",
       "tags": [
-        "Robinhood",
-        "Memecoin"
+        "Bitcoin News"
       ]
     },
     {
@@ -364,6 +363,17 @@
       ]
     },
     {
+      "headline": "DOG Mode vs. BIP-110: Inside the Bitcoin client built to bypass data restrictions",
+      "subheadline": "While BIP-110 wants to restrict data through a consensus change and has almost no miner support, a new DOG Mode client wants the opposite and requires no vote at all.",
+      "section": "Tech",
+      "url": "https://www.coindesk.com/tech/2026/07/17/bitcoin-s-anti-spam-fight-gets-a-dog-mode-reply",
+      "date_published": "2026-07-17T05:32:00.140Z",
+      "author": "Shaurya Malwa",
+      "tags": [
+        "Bitcoin News"
+      ]
+    },
+    {
       "headline": "The banking lobby is wrong about stablecoins and community banks",
       "subheadline": "Congress should not kneecap one of the clearest advances in payment infrastructure to protect community banks from a threat that has not been proven, argues Eco CEO Ryne Saxe.",
       "section": "Opinion",
@@ -429,20 +439,6 @@
       "date_published": "2026-07-09T13:00:00.000Z",
       "author": "Evin McMullen",
       "tags": []
-    },
-    {
-      "headline": "Battle over blockchain stock ownership is heading to Washington regulators",
-      "subheadline": "The Securities Transfer Association, an industry group for transfer agents, said company-authorized tokenization should receive preferential treatment under future rules.",
-      "section": "Policy",
-      "url": "https://www.coindesk.com/policy/2026/07/13/wall-street-transfer-agents-lobby-sec-warning-that-third-party-tokens-pose-risks-to-market-integrity",
-      "date_published": "2026-07-13T13:45:00.000Z",
-      "author": "Krisztian Sandor",
-      "tags": [
-        "Tokenization",
-        "SEC",
-        "Regulation",
-        "Exclusive"
-      ]
     },
     {
       "headline": "Ripple news: XRP-linked firm lands inside UK plan for tokenized repo, bonds and funds",
@@ -520,80 +516,16 @@
       ]
     },
     {
-      "headline": "U.S. Senate unanimously opposes clemency for FTX founder Sam Bankman-Fried",
-      "subheadline": "The nonbinding resolution passed without objection after Bankman-Fried asked for clemency, months after Trump pardoned other major crypto figures, including Changpeng Zhao and Ross Ulbricht.",
+      "headline": "Japan moves crypto under financial rules in regulatory overhaul",
+      "subheadline": "The overhaul adds insider trading rules, tighter disclosures and tougher penalties while laying the groundwork for future bitcoin ETFs.",
       "section": "Policy",
-      "url": "https://www.coindesk.com/policy/2026/07/16/u-s-senate-unanimously-opposes-clemency-for-ftx-founder-sam-bankman-fried",
-      "date_published": "2026-07-16T06:00:43Z",
-      "author": "Shaurya Malwa",
-      "tags": []
-    },
-    {
-      "headline": "Why Stripe\u2019s $53 billion PayPal bid is a high-stakes play to own the future of digital payments",
-      "subheadline": "If Stripe acquires PayPal, the real prize could consumer wallets, stablecoin issuance or the infrastructure powering the the next generation of digital payments.",
-      "section": "Finance",
-      "url": "https://www.coindesk.com/business/2026/07/16/stripe-s-usd53-billion-paypal-bid-is-a-high-stakes-play-to-own-the-future-of-digital-payments",
-      "date_published": "2026-07-16T16:37:16.597Z",
-      "author": "Jamie Crawley",
-      "tags": []
-    },
-    {
-      "headline": "Crypto.com lands $400 million investment from Citadel Securities at $20 billion valuation",
-      "subheadline": "The exchange's first institutional funding round values it at $20 billion and will fund expansion into tokenized securities and derivatives.",
-      "section": "Finance",
-      "url": "https://www.coindesk.com/business/2026/07/16/citadel-securities-invests-usd400-million-in-crypto-com-valuing-exchange-at-usd20-billion",
-      "date_published": "2026-07-16T18:00:00.000Z",
-      "author": "Will Canny",
-      "tags": []
-    },
-    {
-      "headline": "$1.9 trillion asset manager T. Rowe Price bets on active management with first multi-token crypto ETF",
-      "subheadline": "T. Rowe Price launched what it says is the industry's first actively managed multi-token spot crypto ETF, offering diversified exposure to digital assets.",
-      "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/07/16/usd1-9-trillion-asset-manager-t-rowe-price-bets-on-active-management-with-first-multi-token-crypto-etf",
-      "date_published": "2026-07-16T18:38:13.215Z",
-      "author": "Helene Braun",
-      "tags": []
-    },
-    {
-      "headline": "Bitcoin price news: BTC under $63,000 after new U.S. strike on Iran and Trump's China allegation",
-      "subheadline": "Geopolitical tensions and renewed fears of U.S.-China frictions are weighing on risk assets, including bitcoin.",
-      "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/07/17/bitcoin-under-usd64-000-after-u-s-strike-on-iran-trump-s-china-comment-adds-to-uncertainty",
-      "date_published": "2026-07-17T04:10:09.777Z",
-      "author": "Omkar Godbole",
-      "tags": []
-    },
-    {
-      "headline": "DOG Mode vs. BIP-110: Inside the Bitcoin client built to bypass data restrictions",
-      "subheadline": "While BIP-110 wants to restrict data through a consensus change and has almost no miner support, a new DOG Mode client wants the opposite and requires no vote at all.",
-      "section": "Tech",
-      "url": "https://www.coindesk.com/tech/2026/07/17/bitcoin-s-anti-spam-fight-gets-a-dog-mode-reply",
-      "date_published": "2026-07-17T05:32:00.140Z",
-      "author": "Shaurya Malwa",
+      "url": "https://www.coindesk.com/policy/2026/07/15/japan-reclassifies-crypto-as-a-financial-asset-paves-way-for-tax-cuts",
+      "date_published": "2026-07-15T12:05:33.013Z",
+      "author": "Olivier Acuna",
       "tags": [
-        "Bitcoin News"
+        "Japan",
+        "Regulation"
       ]
-    },
-    {
-      "headline": "Ether news today: This $28 million ETH bet aims to profit from pure market chaos",
-      "subheadline": "A high-conviction ether straddle hit the tape this week, showing increasing interest in volatility as an asset class.",
-      "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/07/17/this-usd28-million-ether-market-bet-aims-to-profit-from-pure-market-chaos",
-      "date_published": "2026-07-17T07:28:52.246Z",
-      "author": "Omkar Godbole",
-      "tags": [
-        "Ethereum News"
-      ]
-    },
-    {
-      "headline": "ETH, XRP, HYPE price news: Ether falls twice as hard as bitcoin and HYPE drops 10%",
-      "subheadline": "Japan's Nikkei had its worst day since March. Ether is still the only major holding a gain on the week, barely.",
-      "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/07/17/ether-falls-twice-as-hard-as-bitcoin-and-hype-drops-10-as-the-chip-trade-unwinds",
-      "date_published": "2026-07-17T07:29:41.852Z",
-      "author": "Shaurya Malwa",
-      "tags": []
     },
     {
       "headline": "Airbnb CEO Brian Chesky's X account hacked; attacker posted AI-slop on asset tokenization",
@@ -602,10 +534,7 @@
       "url": "https://www.coindesk.com/web3/2026/07/17/airbnb-ceo-says-x-account-was-hacked-attacker-posted-ai-slop-thread-on-tokenization",
       "date_published": "2026-07-17T08:50:22.508Z",
       "author": "Francisco Rodrigues",
-      "tags": [
-        "Hack",
-        "Tokenization"
-      ]
+      "tags": []
     },
     {
       "headline": "Bitcoin (BTC) price falls below $63,00 as AI fatigue, Middle East tensions drag crypto, tech stocks lower",
@@ -652,10 +581,7 @@
       "url": "https://www.coindesk.com/business/2026/07/17/japan-s-sbi-group-is-building-asia-s-first-cross-border-digital-asset-empire",
       "date_published": "2026-07-17T13:46:46Z",
       "author": "Olivier Acuna",
-      "tags": [
-        "SBI Holdings",
-        "Japan"
-      ]
+      "tags": []
     },
     {
       "headline": "Inside Robinhood\u2019s high-stakes bet to 'democratizing' millions of its casual users onto blockchain finance",
@@ -664,10 +590,7 @@
       "url": "https://www.coindesk.com/business/2026/07/17/inside-robinhood-s-high-stakes-bet-to-onboard-10-million-casual-investors-onto-decentralized-finance",
       "date_published": "2026-07-17T15:36:39.563Z",
       "author": "Oliver Knight",
-      "tags": [
-        "Robinhood",
-        "Exclusive"
-      ]
+      "tags": []
     },
     {
       "headline": "Cardano hands core software over to outside developers to achieve full decentralization",
@@ -701,6 +624,94 @@
       "url": "https://www.coindesk.com/markets/2026/07/17/polymarket-traders-cut-clarity-act-passage-odds-to-record-low-as-senate-delay-drags-on",
       "date_published": "2026-07-17T18:00:11.927Z",
       "author": "Helene Braun",
+      "tags": [
+        "Clarity Act"
+      ]
+    },
+    {
+      "headline": "Tokenization has become a strategic priority for 84% of financial firms",
+      "subheadline": "A Broadridge survey found Wall Street is accelerating tokenization efforts while betting on hybrid markets where digital and traditional assets coexist.",
+      "section": "Finance",
+      "url": "https://www.coindesk.com/business/2026/07/16/tokenization-has-become-a-strategic-priority-for-84-of-financial-firms",
+      "date_published": "2026-07-18T14:00:00.000Z",
+      "author": "Helene Braun",
+      "tags": []
+    },
+    {
+      "headline": "$2.5 billion in BTC call spreads target $72,000 by the month end when the Fed meets",
+      "subheadline": "Large traders on Deribit show expectations for a price rally to $72,000 by month end, right when the Fed meets.",
+      "section": "Markets",
+      "url": "https://www.coindesk.com/markets/2026/07/18/massive-bitcoin-call-spreads-target-usd72-000-by-month-end-right-when-the-fed-meets",
+      "date_published": "2026-07-18T14:15:15.568Z",
+      "author": "Omkar Godbole",
+      "tags": [
+        "Bitcoin News"
+      ]
+    },
+    {
+      "headline": "DeFi users are missing out on $150 million a year. Here\u2019s why",
+      "subheadline": "About $542 million weekly sat outside active trading ranges, meaning this capital earned zero fees and provided no market depth.",
+      "section": "Web3",
+      "url": "https://www.coindesk.com/web3/2026/07/18/here-is-why-a-massive-usd1-6-billion-in-crypto-liquidity-is-sitting-idle-and-wasting-away",
+      "date_published": "2026-07-18T15:50:31.795Z",
+      "author": "Francisco Rodrigues",
+      "tags": [
+        "Web3",
+        "DeFi"
+      ]
+    },
+    {
+      "headline": "Trump targets Brazil's payments system while dollar stablecoins are quietly overtaking country's payments",
+      "subheadline": "Washington views Brazil\u2019s promotion of non-dollar payment channels, including Pix and the growth of stablecoins, as a potential threat to dollar-based trade.",
+      "section": "Finance",
+      "url": "https://www.coindesk.com/business/2026/07/18/trump-targets-brazil-s-payments-system-while-dollar-stablecoins-quietly-dominate-country-s-payments",
+      "date_published": "2026-07-18T16:09:59.084Z",
+      "author": "Francisco Rodrigues",
+      "tags": [
+        "Stablecoins"
+      ]
+    },
+    {
+      "headline": "DOG Mode explains Bitcoin's next governance fight",
+      "subheadline": "Leonidas' DOG Mode client challenges Bitcoin's default relay policies, reopening a philosophical debate over censorship, free markets and who really governs the network.",
+      "section": "Tech",
+      "url": "https://www.coindesk.com/tech/2026/07/18/dog-mode-explains-bitcoin-s-next-governance-fight",
+      "date_published": "2026-07-18T17:00:00.000Z",
+      "author": "Jamie Crawley",
+      "tags": [
+        "Bitcoin News"
+      ]
+    },
+    {
+      "headline": "The traditional bank account is facing an existential threat from digital wallets",
+      "subheadline": "Finance leaders managing over $4 billion in decentralized vaults predict younger consumers will treat the internet as their primary financial ledger.",
+      "section": "Finance",
+      "url": "https://www.coindesk.com/business/2026/07/17/crypto-executives-say-digital-native-generations-may-never-need-a-bank-account",
+      "date_published": "2026-07-18T18:30:00.000Z",
+      "author": "Olivier Acuna",
+      "tags": [
+        "Stablecoins",
+        "banks",
+        "Binance",
+        "Standard chartered"
+      ]
+    },
+    {
+      "headline": "France orders country's internet service providers to block Polymarket",
+      "subheadline": "The regulator cited concerns over addictive mechanics, a lack of self-exclusion tools, and a high volume of French users bypassing previous financial restrictions.",
+      "section": "Policy",
+      "url": "https://www.coindesk.com/policy/2026/07/18/france-orders-country-s-internet-service-providers-to-block-polymarket",
+      "date_published": "2026-07-18T21:52:18.244Z",
+      "author": "Francisco Rodrigues",
+      "tags": []
+    },
+    {
+      "headline": "Inside Zcash's new node that targets Visa-scale privacy at 50,000 transactions per second",
+      "subheadline": "The new Zakura client is the first live piece of a plan to take Zcash from roughly one private transaction per second to payment-network scale.",
+      "section": "Tech",
+      "url": "https://www.coindesk.com/tech/2026/07/16/inside-zcash-s-new-node-that-targets-visa-scale-privacy-at-50-000-transactions-per-second",
+      "date_published": "2026-07-19T05:37:34.643Z",
+      "author": "Shaurya Malwa",
       "tags": []
     }
   ]
