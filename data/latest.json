@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-07-20T06:29:05Z",
+  "generated_at": "2026-07-21T06:15:00Z",
   "prices": [
-    {"id": "bitcoin", "usd": 64074, "change_24h": -0.9473481562220208},
-    {"id": "ethereum", "usd": 1854.99, "change_24h": -0.6910037476565838},
-    {"id": "solana", "usd": 75.9, "change_24h": -0.13399011274140712}
+    {"id": "bitcoin", "usd": 65668, "change_24h": 2.4367739112354694},
+    {"id": "ethereum", "usd": 1929.83, "change_24h": 4.048724396345882},
+    {"id": "solana", "usd": 78.42, "change_24h": 3.370931916280564}
   ],
-  "narrative": "Today's mild pullback — all three coins down less than 1% — follows the prior session's geopolitical shock (U.S.-Iran airstrikes) and AI-stock selloff sparked by China's Kimi model topping coding benchmarks, dragging semiconductors and crypto lower per CoinDesk. Prices and news align: near-term pressure persists while the dominant story remains institutional infrastructure — Alpaca raised $135M for tokenized stock custody, 84% of financial firms now call tokenization a strategic priority per a Broadridge survey, and Visa launched a stablecoin issuance platform to challenge Circle per CoinDesk. The Clarity Act's legislative window keeps narrowing, with Polymarket bettors cutting passage odds to a record low as the Senate ethics-section deadlock holds, per CoinDesk.",
+  "narrative": "All three coins bounced sharply — ethereum leading at +4.05% to $1,930 — as markets found footing despite lingering U.S.-Iran tensions and AI-stock overhang from China's Kimi model, which dragged crypto lower mid-week per CoinDesk. Prices and news diverge on the Clarity Act: Polymarket bettors cut passage odds to a record low as Senate Democratic opposition holds and the ethics-section deadlock drags on per CoinDesk, even as a White House high-level meeting is planned to force a resolution. The payment infrastructure race is accelerating independently of legislation — Stripe and SWIFT are racing for next-gen settlement rails while Visa's Open USD challenges Circle, and 84% of financial firms now call tokenization a strategic priority per a Broadridge survey cited by CoinDesk.",
   "worth_watching": [
-    "Bitcoin $2.5B call spreads targeting $72K at month-end Fed meeting — large Deribit traders are pricing in a rally by July 31 when the Fed meets per CoinDesk; a forward options signal not tracked in day-to-day watchlist prices",
-    "France ordered ISPs to block Polymarket per CoinDesk, citing addictive mechanics — a regulatory crackdown on crypto-adjacent prediction markets in Europe absent from watchlist coin metrics",
-    "Cardano handed core software to outside developer groups through 2027 per CoinDesk — a governance model test case for L1 decentralization not tracked in BTC/ETH/SOL watchlist"
+    "Tether USDT faces a 2-year countdown to compliance under the GENIUS Act per CoinDesk — rules remain unwritten a year in, with USDT's U.S. platform position at risk by 2028; a structural stablecoin market shift absent from watchlist coin metrics",
+    "Deribit $2.5B BTC call spreads targeting $72K at month-end when the Fed meets per CoinDesk — an options market signal pointing 10%+ above current price, not visible in spot watchlist prices",
+    "Kraken launched simplified USD-settled BTC and ETH options per CoinDesk, arguing product complexity (not demand) held back adoption — a derivatives access story that could expand the options market beyond watchlist spot metrics"
   ],
   "news": [
     {
       "source": "coindesk.com",
       "headlines": [
-        "South Korea's new economic roadmap is a massive bet on blockchain technology",
         "Clarity Act negotiations: High-level White House meeting planned, sources say",
         "U.S. Senate unanimously opposes clemency for FTX founder Sam Bankman-Fried",
-        "The UK has finally shown it's serious about crypto",
         "The Clarity Act isn't a ticket to sanctions evasion, actually",
         "The privacy paradox of protecting kids online",
         "The Clarity Act is the most important consumer protection effort in years",
-        "Ether news today: This $28 million ETH bet aims to profit from pure market chaos"
+        "AI is destroying the internet. Math is our only hope.",
+        "The payment war shifts to distribution as stablecoins reach mainstream status",
+        "Polymarket traders cut Clarity Act passage odds to record low as Senate delay drags on"
       ]
     }
   ]
