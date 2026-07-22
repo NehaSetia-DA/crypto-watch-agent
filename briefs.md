@@ -11,6 +11,32 @@ No investment advice — this surfaces what's happening, you read it.
 
 <!-- new briefs go here, between this marker and the previous entry -->
 
+## 2026-07-22
+
+**Movement** — bitcoin $65,925 ↗ +0.41%, ethereum $1,917 ↘ -0.60%, solana $77 ↘ -1.38%
+
+Bitcoin edged up +0.41% while ethereum and solana gave back a portion of yesterday's sharp rally, as bitcoin briefly touched a two-week high near $65,700 before stocks pulled it back per CoinDesk. A five-day BTC ETF inflow streak has now drawn roughly $727 million — the most sustained buying since June's record outflows — though CoinDesk analysts caution this remains "peanuts" relative to the prior exodus. The Clarity Act's Senate passage odds on Polymarket sit at record lows, while the AI-driven semiconductor selloff lingers as a macro headwind alongside improving ETF flows.
+
+**Worth watching**
+- UK Parliament launched a banking chokepoint inquiry per CoinDesk, focused on banks refusing crypto firm accounts or restricting crypto transactions — institutional access constraints not tracked in watchlist coin metrics
+- Bitcoin BIP-110 vs. DOG Mode governance split — Saylor called BIP-110 'a bad idea' per CoinDesk while the competing DOG Mode client requires no miner vote; a protocol governance conflict without a price signal
+- Ethereum Foundation's ongoing leadership shakeup — CoinDesk published a full timeline of this year's changes; structural governance transitions at ETH's core institution not reflected in price
+
+<details><summary>8 headlines</summary>
+
+- [France orders country's internet service providers to block Polymarket](https://www.coindesk.com/policy/2026/07/18/france-orders-country-s-internet-service-providers-to-block-polymarket)
+- [The GENIUS Act turns 1: State of Crypto](https://www.coindesk.com/policy/2026/07/19/the-genius-act-turns-1-state-of-crypto)
+- [The Clarity Act isn't a ticket to sanctions evasion, actually](https://www.coindesk.com/opinion/2026/07/14/the-clarity-act-isn-t-a-ticket-to-sanctions-evasion-actually)
+- [The privacy paradox of protecting kids online](https://www.coindesk.com/opinion/2026/07/14/the-privacy-paradox-of-protecting-kids-online)
+- [The Clarity Act is the most important consumer protection effort in years](https://www.coindesk.com/opinion/2026/07/16/the-clarity-act-is-the-most-important-consumer-protection-effort-in-years)
+- [AI is destroying the internet. Math is our only hope.](https://www.coindesk.com/opinion/2026/07/17/ai-is-destroying-the-internet-math-is-our-only-hope)
+- [BTC ETFs attract $273 million in two weeks. That's peanuts compared to recent exodus](https://www.coindesk.com/markets/2026/07/20/bitcoin-etfs-see-new-money-again-but-inflows-remain-peanuts-relative-to-the-recent-exodus)
+- [Moonshot AI IPO push follows Kimi, Alibaba AI releases that shook bitcoin](https://www.coindesk.com/tech/2026/07/20/moonshot-ai-ipo-push-follows-kimi-alibaba-ai-releases-that-shook-bitcoin)
+
+</details>
+
+---
+
 ## 2026-07-21
 
 **Movement** — bitcoin $65,668 ↗ +2.44%, ethereum $1,930 ↗ +4.05%, solana $78 ↗ +3.37%

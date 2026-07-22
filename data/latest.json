@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-07-21T06:15:00Z",
+  "generated_at": "2026-07-22T06:10:00Z",
   "prices": [
-    {"id": "bitcoin", "usd": 65668, "change_24h": 2.4367739112354694},
-    {"id": "ethereum", "usd": 1929.83, "change_24h": 4.048724396345882},
-    {"id": "solana", "usd": 78.42, "change_24h": 3.370931916280564}
+    {"id": "bitcoin", "usd": 65925, "change_24h": 0.4074179972327873},
+    {"id": "ethereum", "usd": 1917.48, "change_24h": -0.5952082717865192},
+    {"id": "solana", "usd": 77.35, "change_24h": -1.3806103933447005}
   ],
-  "narrative": "All three coins bounced sharply — ethereum leading at +4.05% to $1,930 — as markets found footing despite lingering U.S.-Iran tensions and AI-stock overhang from China's Kimi model, which dragged crypto lower mid-week per CoinDesk. Prices and news diverge on the Clarity Act: Polymarket bettors cut passage odds to a record low as Senate Democratic opposition holds and the ethics-section deadlock drags on per CoinDesk, even as a White House high-level meeting is planned to force a resolution. The payment infrastructure race is accelerating independently of legislation — Stripe and SWIFT are racing for next-gen settlement rails while Visa's Open USD challenges Circle, and 84% of financial firms now call tokenization a strategic priority per a Broadridge survey cited by CoinDesk.",
+  "narrative": "Bitcoin edged up +0.41% while ethereum and solana gave back a portion of yesterday's sharp rally, as bitcoin briefly touched a two-week high near $65,700 before stocks pulled it back per CoinDesk. A five-day BTC ETF inflow streak has now drawn roughly $727 million — the most sustained buying since June's record outflows — though CoinDesk analysts caution this remains \"peanuts\" relative to the prior exodus. The Clarity Act's Senate passage odds on Polymarket sit at record lows, while the AI-driven semiconductor selloff lingers as a macro headwind alongside improving ETF flows.",
   "worth_watching": [
-    "Tether USDT faces a 2-year countdown to compliance under the GENIUS Act per CoinDesk — rules remain unwritten a year in, with USDT's U.S. platform position at risk by 2028; a structural stablecoin market shift absent from watchlist coin metrics",
-    "Deribit $2.5B BTC call spreads targeting $72K at month-end when the Fed meets per CoinDesk — an options market signal pointing 10%+ above current price, not visible in spot watchlist prices",
-    "Kraken launched simplified USD-settled BTC and ETH options per CoinDesk, arguing product complexity (not demand) held back adoption — a derivatives access story that could expand the options market beyond watchlist spot metrics"
+    "UK Parliament launched a banking chokepoint inquiry per CoinDesk, focused on banks refusing crypto firm accounts or restricting crypto transactions — institutional access constraints not tracked in watchlist coin metrics",
+    "Bitcoin BIP-110 vs. DOG Mode governance split — Saylor called BIP-110 'a bad idea' per CoinDesk while the competing DOG Mode client requires no miner vote; a protocol governance conflict without a price signal",
+    "Ethereum Foundation's ongoing leadership shakeup — CoinDesk published a full timeline of this year's changes; structural governance transitions at ETH's core institution not reflected in price"
   ],
   "news": [
     {
       "source": "coindesk.com",
       "headlines": [
-        "Clarity Act negotiations: High-level White House meeting planned, sources say",
-        "U.S. Senate unanimously opposes clemency for FTX founder Sam Bankman-Fried",
+        "France orders country's internet service providers to block Polymarket",
+        "The GENIUS Act turns 1: State of Crypto",
         "The Clarity Act isn't a ticket to sanctions evasion, actually",
         "The privacy paradox of protecting kids online",
         "The Clarity Act is the most important consumer protection effort in years",
         "AI is destroying the internet. Math is our only hope.",
-        "The payment war shifts to distribution as stablecoins reach mainstream status",
-        "Polymarket traders cut Clarity Act passage odds to record low as Senate delay drags on"
+        "BTC ETFs attract $273 million in two weeks. That's peanuts compared to recent exodus",
+        "Moonshot AI IPO push follows Kimi, Alibaba AI releases that shook bitcoin"
       ]
     }
   ]
