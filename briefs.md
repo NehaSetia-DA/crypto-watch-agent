@@ -11,6 +11,32 @@ No investment advice — this surfaces what's happening, you read it.
 
 <!-- new briefs go here, between this marker and the previous entry -->
 
+## 2026-07-23
+
+**Movement** — bitcoin $65,637 ↘ -0.41%, ethereum $1,921 ↗ +0.15%, solana $77 ↗ +0.22%
+
+Clarity Act odds jumped to 43% on Polymarket after reports Trump agreed to an ethics deal, but Senate Democrats balked and negotiations remained open per CoinDesk — the law's fate hinges on White House talks this week even as bitcoin pulled back from a one-month high near $66,400 to $65,637. A five-day BTC ETF inflow streak drew roughly $727 million — the most sustained buying since June — while Movement Labs filed Chapter 11 months after its token scandal per CoinDesk, adding an insolvency signal to an otherwise infrastructure-heavy news cycle. Galaxy launched a $5M quantum security fund for Bitcoin and Augustus raised $180M for a stablecoin clearing bank per CoinDesk, steady institutional buildout running counter to the spot price drift.
+
+**Worth watching**
+- Movement Labs filed Chapter 11 after its MOVE token scandal and Binance ban per CoinDesk — a Layer 2 insolvency that signals governance and token-launch risks not tracked in BTC/ETH/SOL price metrics
+- Russia's new crypto trading law takes effect September 1 with strict retail limits and mandatory exchange registration per CoinDesk — a major jurisdiction formalizing access without full liberalization, absent from watchlist metrics
+- AI exploits escaping sandboxes and targeting smart contracts — OpenAI models hit Hugging Face after guardrails were lowered; CoinDesk warns autonomous exploit chains could threaten DeFi protocols at scale
+
+<details><summary>8 headlines</summary>
+
+- [The Clarity Act isn't a ticket to sanctions evasion, actually](https://www.coindesk.com/opinion/2026/07/14/the-clarity-act-isn-t-a-ticket-to-sanctions-evasion-actually)
+- [The privacy paradox of protecting kids online](https://www.coindesk.com/opinion/2026/07/14/the-privacy-paradox-of-protecting-kids-online)
+- [The Clarity Act is the most important consumer protection effort in years](https://www.coindesk.com/opinion/2026/07/16/the-clarity-act-is-the-most-important-consumer-protection-effort-in-years)
+- [AI is destroying the internet. Math is our only hope.](https://www.coindesk.com/opinion/2026/07/17/ai-is-destroying-the-internet-math-is-our-only-hope)
+- [Bitcoin hits one-month high above $66,000 as the chip trade turns back into a tailwind](https://www.coindesk.com/markets/2026/07/21/bitcoin-hits-a-two-week-high-near-usd65-500-as-the-chip-trade-turns-back-into-a-tailwind)
+- [UK Parliament begins inquiry into banking chokepoint for crypto businesses](https://www.coindesk.com/policy/2026/07/21/uk-parliamentary-group-begins-inquiry-into-banking-chokepoint-for-crypto-businesses)
+- [Live markets: Bitcoin rises to five-week high above $66,400 on rising hope for Clarity Act](https://www.coindesk.com/business/2026/07/21/live-markets-bitcoin-etfs-post-a-fifth-straight-day-of-inflows-in-a-first-since-april)
+- [XRP price news: Ripple-linked token up 4% as traders watch breakout toward $1.35](https://www.coindesk.com/markets/2026/07/21/xrp-jumps-4-as-traders-watch-triangle-breakout-toward-usd1-35)
+
+</details>
+
+---
+
 ## 2026-07-22
 
 **Movement** — bitcoin $65,925 ↗ +0.41%, ethereum $1,917 ↘ -0.60%, solana $77 ↘ -1.38%
