@@ -11,6 +11,32 @@ No investment advice — this surfaces what's happening, you read it.
 
 <!-- new briefs go here, between this marker and the previous entry -->
 
+## 2026-07-24
+
+**Movement** — bitcoin $65,256 ↘ -0.64%, ethereum $1,880 ↘ -2.18%, solana $76 ↘ -2.24%
+
+All three coins retreated Thursday — ethereum and solana each down over 2% — as oil surged above $88 on U.S. B1 bomber deployment against Iran and Clarity Act odds tumbled back to 38% after Senate Democrats rejected the latest ethics draft per CoinDesk. A cascade of DeFi exploits darkened the session: $35 million drained from Bitcoin and Ethereum-linked cross-chain protocols, the Balance stablecoin collapsed 99% after an oracle attack, and AFX Trade lost $24 million on Arbitrum, per CoinDesk. AI-blockchain convergence emerged as the dominant forward narrative, with Franklin Templeton and Circle CEO arguing blockchain networks will power the next major AI trade as autonomous agents begin transacting on their own, per CoinDesk.
+
+**Worth watching**
+- Serial bridge/oracle exploit pattern — four cross-chain attacks within days (Wanchain, AFX Trade on Arbitrum, B² Network, Verus per CoinDesk) all exploiting compromised keys or validation gaps, not chain vulnerabilities; systemic risk not tracked in watchlist coin prices
+- SEC Commissioner Pierce warning DeFi vaults and onchain lending may fall under securities laws per CoinDesk — a direct regulatory threat to a major DeFi category with timeline and scope still unclear
+- UK Digital Gilt (DIGIT) sovereign bond plan stalled on missing onchain cash per CoinDesk — technically ready but awaiting stablecoin regulatory approval; a tokenized government debt signal outside watchlist coins
+
+<details><summary>8 headlines</summary>
+
+- [The Clarity Act isn't a ticket to sanctions evasion, actually](https://www.coindesk.com/opinion/2026/07/14/the-clarity-act-isn-t-a-ticket-to-sanctions-evasion-actually)
+- [The privacy paradox of protecting kids online](https://www.coindesk.com/opinion/2026/07/14/the-privacy-paradox-of-protecting-kids-online)
+- [The Clarity Act is the most important consumer protection effort in years](https://www.coindesk.com/opinion/2026/07/16/the-clarity-act-is-the-most-important-consumer-protection-effort-in-years)
+- [AI is destroying the internet. Math is our only hope.](https://www.coindesk.com/opinion/2026/07/17/ai-is-destroying-the-internet-math-is-our-only-hope)
+- [Profit-taking, oil spike knock bitcoin (BTC) price off its best levels in a month: Crypto Markets Today](https://www.coindesk.com/markets/2026/07/22/bitcoin-retreats-from-one-month-high-as-oil-tops-usd85-inflation-concerns-resurface)
+- [SecondFi to shut down after $2.4 million ADA wallet theft](https://www.coindesk.com/web3/2026/07/22/secondfi-to-shut-down-after-usd2-4-million-ada-wallet-theft)
+- [Here's why bitcoin bulls should take a closer look at interest rates: Crypto Daily](https://www.coindesk.com/daybook-us/2026/07/22/here-s-why-bitcoin-bulls-should-take-a-closer-look-at-interest-rates)
+- [Midnight's NIGHT token rebounds 19% after Wanchain bridge hack](https://www.coindesk.com/business/2026/07/22/midnight-token-rebounds-after-wanchain-bridge-hack-hoskinson-calls-for-industry-overhaul)
+
+</details>
+
+---
+
 ## 2026-07-23
 
 **Movement** — bitcoin $65,637 ↘ -0.41%, ethereum $1,921 ↗ +0.15%, solana $77 ↗ +0.22%

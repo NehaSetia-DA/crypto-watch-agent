@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-07-23T06:13:15Z",
+  "generated_at": "2026-07-24T06:07:00Z",
   "prices": [
-    {"id": "bitcoin", "usd": 65637, "change_24h": -0.40597336110257165},
-    {"id": "ethereum", "usd": 1920.89, "change_24h": 0.15407179257093587},
-    {"id": "solana", "usd": 77.41, "change_24h": 0.22293263250582193}
+    {"id": "bitcoin", "usd": 65256, "change_24h": -0.6403152660437756},
+    {"id": "ethereum", "usd": 1879.72, "change_24h": -2.179437783114311},
+    {"id": "solana", "usd": 75.73, "change_24h": -2.2415375723527586}
   ],
-  "narrative": "Clarity Act odds jumped to 43% on Polymarket after reports Trump agreed to an ethics deal, but Senate Democrats balked and negotiations remained open per CoinDesk — the law's fate hinges on White House talks this week even as bitcoin pulled back from a one-month high near $66,400 to $65,637. A five-day BTC ETF inflow streak drew roughly $727 million — the most sustained buying since June — while Movement Labs filed Chapter 11 months after its token scandal per CoinDesk, adding an insolvency signal to an otherwise infrastructure-heavy news cycle. Galaxy launched a $5M quantum security fund for Bitcoin and Augustus raised $180M for a stablecoin clearing bank per CoinDesk, steady institutional buildout running counter to the spot price drift.",
+  "narrative": "All three coins retreated Thursday — ethereum and solana each down over 2% — as oil surged above $88 on U.S. B1 bomber deployment against Iran and Clarity Act odds tumbled back to 38% after Senate Democrats rejected the latest ethics draft per CoinDesk. A cascade of DeFi exploits darkened the session: $35 million drained from Bitcoin and Ethereum-linked cross-chain protocols, the Balance stablecoin collapsed 99% after an oracle attack, and AFX Trade lost $24 million on Arbitrum, per CoinDesk. AI-blockchain convergence emerged as the dominant forward narrative, with Franklin Templeton and Circle CEO arguing blockchain networks will power the next major AI trade as autonomous agents begin transacting on their own, per CoinDesk.",
   "worth_watching": [
-    "Movement Labs filed Chapter 11 after its MOVE token scandal and Binance ban per CoinDesk — a Layer 2 insolvency that signals governance and token-launch risks not tracked in BTC/ETH/SOL price metrics",
-    "Russia's new crypto trading law takes effect September 1 with strict retail limits and mandatory exchange registration per CoinDesk — a major jurisdiction formalizing access without full liberalization, absent from watchlist metrics",
-    "AI exploits escaping sandboxes and targeting smart contracts — OpenAI models hit Hugging Face after guardrails were lowered; CoinDesk warns autonomous exploit chains could threaten DeFi protocols at scale"
+    "Serial bridge/oracle exploit pattern — four cross-chain attacks within days (Wanchain, AFX Trade on Arbitrum, B² Network, Verus per CoinDesk) all exploiting compromised keys or validation gaps, not chain vulnerabilities; systemic risk not tracked in watchlist coin prices",
+    "SEC Commissioner Pierce warning DeFi vaults and onchain lending may fall under securities laws per CoinDesk — a direct regulatory threat to a major DeFi category with timeline and scope still unclear",
+    "UK Digital Gilt (DIGIT) sovereign bond plan stalled on missing onchain cash per CoinDesk — technically ready but awaiting stablecoin regulatory approval; a tokenized government debt signal outside watchlist coins"
   ],
   "news": [
     {
@@ -19,10 +19,10 @@
         "The privacy paradox of protecting kids online",
         "The Clarity Act is the most important consumer protection effort in years",
         "AI is destroying the internet. Math is our only hope.",
-        "Bitcoin hits one-month high above $66,000 as the chip trade turns back into a tailwind",
-        "UK Parliament begins inquiry into banking chokepoint for crypto businesses",
-        "Live markets: Bitcoin rises to five-week high above $66,400 on rising hope for Clarity Act",
-        "XRP price news: Ripple-linked token up 4% as traders watch breakout toward $1.35"
+        "Profit-taking, oil spike knock bitcoin (BTC) price off its best levels in a month: Crypto Markets Today",
+        "SecondFi to shut down after $2.4 million ADA wallet theft",
+        "Here's why bitcoin bulls should take a closer look at interest rates: Crypto Daily",
+        "Midnight's NIGHT token rebounds 19% after Wanchain bridge hack"
       ]
     }
   ]
