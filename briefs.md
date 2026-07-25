@@ -11,6 +11,32 @@ No investment advice — this surfaces what's happening, you read it.
 
 <!-- new briefs go here, between this marker and the previous entry -->
 
+## 2026-07-25
+
+**Movement** — bitcoin $63,958 ↘ -1.98%, ethereum $1,857 ↘ -1.20%, solana $74 ↘ -2.38%
+
+All three coins fell Friday as bitcoin shed 1.98% to $63,958 — tech stocks had their worst day since 2025 on Alphabet and Tesla earnings disappointments on AI spend, dragging crypto with them, while the Clarity Act is expected to miss Congress's summer break per CoinDesk. The tokenization wave continued independent of price: BNY is testing 24/7 tokenized Treasury settlement, Mubadala Capital brought a private markets fund onchain across Solana, Sui, and Base, and Uniswap launched permissioned RWA trading pools per CoinDesk. Security costs are running high — AFX Trade lost $24M on Arbitrum via compromised bridge keys on the heels of Wednesday's $35M cross-chain attacks, even as BlackRock, Coinbase, and Strategy jointly committed $15M to quantum-proofing Bitcoin per CoinDesk.
+
+**Worth watching**
+- Clarity Act misses summer window per CoinDesk — Senate Majority Leader Thune confirmed it likely won't pass before recess; next meaningful vote pushes to fall 2026, extending legislative uncertainty for the first comprehensive U.S. crypto market-structure law
+- BitMEX shutting down by Sept. 23 per CoinDesk — Arthur Hayes' exchange closing after 11 years with user asset withdrawal deadlines; ongoing exchange consolidation reshaping the trading landscape not captured in watchlist coin metrics
+- Coinbase x402 AI agent payments now live per CoinDesk — corporate customers can accept payments from AI agents via x402 protocol; if the AI-agent economy scales, on-chain micropayments could become a significant new volume driver not tracked in BTC/ETH/SOL spot prices
+
+<details><summary>8 headlines</summary>
+
+- [The privacy paradox of protecting kids online](https://www.coindesk.com/opinion/2026/07/14/the-privacy-paradox-of-protecting-kids-online)
+- [The Clarity Act is the most important consumer protection effort in years](https://www.coindesk.com/opinion/2026/07/16/the-clarity-act-is-the-most-important-consumer-protection-effort-in-years)
+- [AI is destroying the internet. Math is our only hope.](https://www.coindesk.com/opinion/2026/07/17/ai-is-destroying-the-internet-math-is-our-only-hope)
+- [The KIDS Act is way worse than digital carding — it is a mass surveillance system](https://www.coindesk.com/opinion/2026/07/23/the-kids-act-is-way-worse-than-digital-carding-it-is-a-mass-surveillance-system)
+- [BitMEX notifies users that it is shutting down operations after an 11-year run](https://www.coindesk.com/markets/2026/07/23/bitmex-s-11-year-run-comes-to-an-end-notifies-users-it-is-ending-operations-in-by-sept-23)
+- [Live markets: Bitcoin slides as stocks slump on Iran war expansion, AI spending concern](https://www.coindesk.com/tech/2026/07/23/live-markets-bitcoin-trades-above-usd65-000-as-alphabet-s-bigger-ai-bill-props-up-the-chip-trade)
+- [Bitcoin consolidates below $66,000 as a 13% July recovery runs out of steam](https://www.coindesk.com/markets/2026/07/23/crypto-catches-its-breath-as-bitcoin-settles-into-a-holding-pattern-after-its-best-month-since-january)
+- [Bulls face a test unlike anything in bitcoin's 17-year history: Crypto Daily](https://www.coindesk.com/daybook-us/2026/07/23/bulls-face-a-test-unlike-anything-in-bitcoin-s-17-year-history)
+
+</details>
+
+---
+
 ## 2026-07-24
 
 **Movement** — bitcoin $65,256 ↘ -0.64%, ethereum $1,880 ↘ -2.18%, solana $76 ↘ -2.24%

@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-07-24T06:07:00Z",
+  "generated_at": "2026-07-25T06:05:00Z",
   "prices": [
-    {"id": "bitcoin", "usd": 65256, "change_24h": -0.6403152660437756},
-    {"id": "ethereum", "usd": 1879.72, "change_24h": -2.179437783114311},
-    {"id": "solana", "usd": 75.73, "change_24h": -2.2415375723527586}
+    {"id": "bitcoin", "usd": 63958, "change_24h": -1.9818151085154618},
+    {"id": "ethereum", "usd": 1856.7, "change_24h": -1.196844228390574},
+    {"id": "solana", "usd": 73.9, "change_24h": -2.3767407133619445}
   ],
-  "narrative": "All three coins retreated Thursday — ethereum and solana each down over 2% — as oil surged above $88 on U.S. B1 bomber deployment against Iran and Clarity Act odds tumbled back to 38% after Senate Democrats rejected the latest ethics draft per CoinDesk. A cascade of DeFi exploits darkened the session: $35 million drained from Bitcoin and Ethereum-linked cross-chain protocols, the Balance stablecoin collapsed 99% after an oracle attack, and AFX Trade lost $24 million on Arbitrum, per CoinDesk. AI-blockchain convergence emerged as the dominant forward narrative, with Franklin Templeton and Circle CEO arguing blockchain networks will power the next major AI trade as autonomous agents begin transacting on their own, per CoinDesk.",
+  "narrative": "All three coins fell Friday as bitcoin shed 1.98% to $63,958 — tech stocks had their worst day since 2025 on Alphabet and Tesla earnings disappointments on AI spend, dragging crypto with them, while the Clarity Act is expected to miss Congress's summer break per CoinDesk. The tokenization wave continued independent of price: BNY is testing 24/7 tokenized Treasury settlement, Mubadala Capital brought a private markets fund onchain across Solana, Sui, and Base, and Uniswap launched permissioned RWA trading pools per CoinDesk. Security costs are running high — AFX Trade lost $24M on Arbitrum via compromised bridge keys on the heels of Wednesday's $35M cross-chain attacks, even as BlackRock, Coinbase, and Strategy jointly committed $15M to quantum-proofing Bitcoin per CoinDesk.",
   "worth_watching": [
-    "Serial bridge/oracle exploit pattern — four cross-chain attacks within days (Wanchain, AFX Trade on Arbitrum, B² Network, Verus per CoinDesk) all exploiting compromised keys or validation gaps, not chain vulnerabilities; systemic risk not tracked in watchlist coin prices",
-    "SEC Commissioner Pierce warning DeFi vaults and onchain lending may fall under securities laws per CoinDesk — a direct regulatory threat to a major DeFi category with timeline and scope still unclear",
-    "UK Digital Gilt (DIGIT) sovereign bond plan stalled on missing onchain cash per CoinDesk — technically ready but awaiting stablecoin regulatory approval; a tokenized government debt signal outside watchlist coins"
+    "Clarity Act misses summer window per CoinDesk — Senate Majority Leader Thune confirmed it likely won't pass before recess; next meaningful vote pushes to fall 2026, extending legislative uncertainty for the first comprehensive U.S. crypto market-structure law",
+    "BitMEX shutting down by Sept. 23 per CoinDesk — Arthur Hayes' exchange closing after 11 years with user asset withdrawal deadlines; ongoing exchange consolidation reshaping the trading landscape not captured in watchlist coin metrics",
+    "Coinbase x402 AI agent payments now live per CoinDesk — corporate customers can accept payments from AI agents via x402 protocol; if the AI-agent economy scales, on-chain micropayments could become a significant new volume driver not tracked in BTC/ETH/SOL spot prices"
   ],
   "news": [
     {
       "source": "coindesk.com",
       "headlines": [
-        "The Clarity Act isn't a ticket to sanctions evasion, actually",
         "The privacy paradox of protecting kids online",
         "The Clarity Act is the most important consumer protection effort in years",
         "AI is destroying the internet. Math is our only hope.",
-        "Profit-taking, oil spike knock bitcoin (BTC) price off its best levels in a month: Crypto Markets Today",
-        "SecondFi to shut down after $2.4 million ADA wallet theft",
-        "Here's why bitcoin bulls should take a closer look at interest rates: Crypto Daily",
-        "Midnight's NIGHT token rebounds 19% after Wanchain bridge hack"
+        "The KIDS Act is way worse than digital carding — it is a mass surveillance system",
+        "BitMEX notifies users that it is shutting down operations after an 11-year run",
+        "Live markets: Bitcoin slides as stocks slump on Iran war expansion, AI spending concern",
+        "Bitcoin consolidates below $66,000 as a 13% July recovery runs out of steam",
+        "Bulls face a test unlike anything in bitcoin's 17-year history: Crypto Daily"
       ]
     }
   ]
