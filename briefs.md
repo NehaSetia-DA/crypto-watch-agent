@@ -11,6 +11,32 @@ No investment advice — this surfaces what's happening, you read it.
 
 <!-- new briefs go here, between this marker and the previous entry -->
 
+## 2026-07-26
+
+**Movement** — bitcoin $64,298 ↗ +0.50%, ethereum $1,881 ↗ +1.24%, solana $75 ↗ +1.24%
+
+All three coins rebounded modestly Sunday — recovering from Friday's tech-stock-driven selloff — even as the news cycle remained cautious: the Clarity Act is officially expected to miss Congress's summer recess per CoinDesk, and bitcoin treasury companies are unwinding holdings as share prices collapse under debt pressure. Tokenization continued its institutional march: Mubadala Capital tokenized a private markets fund across Solana, Sui, and Base as Coinbase took exposure, and BNY is testing 24/7 tokenized Treasury settlement per CoinDesk. Security incidents ran high again — the Balance stablecoin collapsed 99% after a $1M oracle exploit and AFX Trade lost $24M via compromised bridge keys on Arbitrum per CoinDesk — widening the gap between infrastructure buildout and protocol hardening.
+
+**Worth watching**
+- Poolin files for bankruptcy owing $173M per CoinDesk — formerly Bitcoin's biggest mining pool at ~20% of global hashrate, now selling assets; mining consolidation at this scale reshapes network hash distribution not tracked in coin prices
+- Bitcoin options bullish cluster — $5B in open interest accumulating at $70K-$72K strikes on Deribit per CoinDesk, signaling institutional positioning roughly 10% above current spot; a forward-looking market signal absent from the daily price watchlist
+- EU 21st sanctions package targets 14 crypto firms per CoinDesk — new rules could enable a blanket ban on all EU crypto provider transactions with Russia; expanding geopolitical compliance pressure not captured in BTC/ETH/SOL metrics
+
+<details><summary>8 headlines</summary>
+
+- [The SEC settles with Coinbase over its missing Gary Gensler texts](https://www.coindesk.com/policy/2026/07/23/sec-agrees-to-end-lawsuit-over-missing-ethereum-records-will-pay-usd150-000-in-fees)
+- [The privacy paradox of protecting kids online](https://www.coindesk.com/opinion/2026/07/14/the-privacy-paradox-of-protecting-kids-online)
+- [The Clarity Act is the most important consumer protection effort in years](https://www.coindesk.com/opinion/2026/07/16/the-clarity-act-is-the-most-important-consumer-protection-effort-in-years)
+- [AI is destroying the internet. Math is our only hope.](https://www.coindesk.com/opinion/2026/07/17/ai-is-destroying-the-internet-math-is-our-only-hope)
+- [The KIDS Act is way worse than digital carding — it is a mass surveillance system](https://www.coindesk.com/opinion/2026/07/23/the-kids-act-is-way-worse-than-digital-carding-it-is-a-mass-surveillance-system)
+- [Robinhood CEO Vlad Tenev's X account hacked to promote token amid memecoin frenzy](https://www.coindesk.com/business/2026/07/23/robinhood-ceo-vlad-tenev-s-x-account-hacked-to-promote-token-amid-memecoin-frenzy)
+- [Clarity Act expected to miss its window before Congress' summer break, leadership says](https://www.coindesk.com/policy/2026/07/23/clarity-act-expected-to-miss-its-window-before-congress-summer-break-leadership-says)
+- [BTC, ETH price news: Bitcoin steady around $65,000 as 'Mag 7' have worst day since 2025](https://www.coindesk.com/markets/2026/07/24/bitcoin-holds-near-usd65-000-as-usd800-billion-ai-selloff-leaves-crypto-largest-untouched)
+
+</details>
+
+---
+
 ## 2026-07-25
 
 **Movement** — bitcoin $63,958 ↘ -1.98%, ethereum $1,857 ↘ -1.20%, solana $74 ↘ -2.38%

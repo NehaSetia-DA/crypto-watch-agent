@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-07-25T06:05:00Z",
+  "generated_at": "2026-07-26T06:30:00Z",
   "prices": [
-    {"id": "bitcoin", "usd": 63958, "change_24h": -1.9818151085154618},
-    {"id": "ethereum", "usd": 1856.7, "change_24h": -1.196844228390574},
-    {"id": "solana", "usd": 73.9, "change_24h": -2.3767407133619445}
+    {"id": "bitcoin", "usd": 64298, "change_24h": 0.5028053756894614},
+    {"id": "ethereum", "usd": 1881.33, "change_24h": 1.2407810124339824},
+    {"id": "solana", "usd": 74.83, "change_24h": 1.2426017895851742}
   ],
-  "narrative": "All three coins fell Friday as bitcoin shed 1.98% to $63,958 — tech stocks had their worst day since 2025 on Alphabet and Tesla earnings disappointments on AI spend, dragging crypto with them, while the Clarity Act is expected to miss Congress's summer break per CoinDesk. The tokenization wave continued independent of price: BNY is testing 24/7 tokenized Treasury settlement, Mubadala Capital brought a private markets fund onchain across Solana, Sui, and Base, and Uniswap launched permissioned RWA trading pools per CoinDesk. Security costs are running high — AFX Trade lost $24M on Arbitrum via compromised bridge keys on the heels of Wednesday's $35M cross-chain attacks, even as BlackRock, Coinbase, and Strategy jointly committed $15M to quantum-proofing Bitcoin per CoinDesk.",
+  "narrative": "All three coins rebounded modestly Sunday — recovering from Friday's tech-stock-driven selloff — even as the news cycle remained cautious: the Clarity Act is officially expected to miss Congress's summer recess per CoinDesk, and bitcoin treasury companies are unwinding holdings as share prices collapse under debt pressure. Tokenization continued its institutional march: Mubadala Capital tokenized a private markets fund across Solana, Sui, and Base as Coinbase took exposure, and BNY is testing 24/7 tokenized Treasury settlement per CoinDesk. Security incidents ran high again — the Balance stablecoin collapsed 99% after a $1M oracle exploit and AFX Trade lost $24M via compromised bridge keys on Arbitrum per CoinDesk — widening the gap between infrastructure buildout and protocol hardening.",
   "worth_watching": [
-    "Clarity Act misses summer window per CoinDesk — Senate Majority Leader Thune confirmed it likely won't pass before recess; next meaningful vote pushes to fall 2026, extending legislative uncertainty for the first comprehensive U.S. crypto market-structure law",
-    "BitMEX shutting down by Sept. 23 per CoinDesk — Arthur Hayes' exchange closing after 11 years with user asset withdrawal deadlines; ongoing exchange consolidation reshaping the trading landscape not captured in watchlist coin metrics",
-    "Coinbase x402 AI agent payments now live per CoinDesk — corporate customers can accept payments from AI agents via x402 protocol; if the AI-agent economy scales, on-chain micropayments could become a significant new volume driver not tracked in BTC/ETH/SOL spot prices"
+    "Poolin files for bankruptcy owing $173M per CoinDesk — formerly Bitcoin's biggest mining pool at ~20% of global hashrate, now selling assets; mining consolidation at this scale reshapes network hash distribution not tracked in coin prices",
+    "Bitcoin options bullish cluster — $5B in open interest accumulating at $70K-$72K strikes on Deribit per CoinDesk, signaling institutional positioning roughly 10% above current spot; a forward-looking market signal absent from the daily price watchlist",
+    "EU 21st sanctions package targets 14 crypto firms per CoinDesk — new rules could enable a blanket ban on all EU crypto provider transactions with Russia; expanding geopolitical compliance pressure not captured in BTC/ETH/SOL metrics"
   ],
   "news": [
     {
       "source": "coindesk.com",
       "headlines": [
+        "The SEC settles with Coinbase over its missing Gary Gensler texts",
         "The privacy paradox of protecting kids online",
         "The Clarity Act is the most important consumer protection effort in years",
         "AI is destroying the internet. Math is our only hope.",
         "The KIDS Act is way worse than digital carding — it is a mass surveillance system",
-        "BitMEX notifies users that it is shutting down operations after an 11-year run",
-        "Live markets: Bitcoin slides as stocks slump on Iran war expansion, AI spending concern",
-        "Bitcoin consolidates below $66,000 as a 13% July recovery runs out of steam",
-        "Bulls face a test unlike anything in bitcoin's 17-year history: Crypto Daily"
+        "Robinhood CEO Vlad Tenev's X account hacked to promote token amid memecoin frenzy",
+        "Clarity Act expected to miss its window before Congress' summer break, leadership says",
+        "BTC, ETH price news: Bitcoin steady around $65,000 as 'Mag 7' have worst day since 2025"
       ]
     }
   ]
