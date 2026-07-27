@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-07-26T06:30:00Z",
+  "generated_at": "2026-07-27T06:50:00Z",
   "prices": [
-    {"id": "bitcoin", "usd": 64298, "change_24h": 0.5028053756894614},
-    {"id": "ethereum", "usd": 1881.33, "change_24h": 1.2407810124339824},
-    {"id": "solana", "usd": 74.83, "change_24h": 1.2426017895851742}
+    {"id": "bitcoin", "usd": 65480, "change_24h": 1.8048883052236668},
+    {"id": "ethereum", "usd": 1970.33, "change_24h": 4.695760060918557},
+    {"id": "solana", "usd": 76.79, "change_24h": 2.5488023128952104}
   ],
-  "narrative": "All three coins rebounded modestly Sunday — recovering from Friday's tech-stock-driven selloff — even as the news cycle remained cautious: the Clarity Act is officially expected to miss Congress's summer recess per CoinDesk, and bitcoin treasury companies are unwinding holdings as share prices collapse under debt pressure. Tokenization continued its institutional march: Mubadala Capital tokenized a private markets fund across Solana, Sui, and Base as Coinbase took exposure, and BNY is testing 24/7 tokenized Treasury settlement per CoinDesk. Security incidents ran high again — the Balance stablecoin collapsed 99% after a $1M oracle exploit and AFX Trade lost $24M via compromised bridge keys on Arbitrum per CoinDesk — widening the gap between infrastructure buildout and protocol hardening.",
+  "narrative": "All three coins rallied Monday — ethereum the standout at +4.70% to $1,970 — as no single named news catalyst emerged, though AI-model capabilities (Claude Fable 5 solving an 87-year-old math problem with bitcoin implications, per CoinDesk) and a $5B bullish options cluster at $70K–$72K per CoinDesk may be shaping sentiment. Senate Majority Leader Thune confirmed the Clarity Act will miss Congress's summer recess per CoinDesk, even as Goldman Sachs CEO broke with banking peers to back the bill; a second exchange, BitMart, announced shutdown alongside BitMEX. Robinhood Chain's RWAs jumped fivefold as tokenized stocks clear $500K daily per CoinDesk, continuing the tokenization buildout independent of prices.",
   "worth_watching": [
-    "Poolin files for bankruptcy owing $173M per CoinDesk — formerly Bitcoin's biggest mining pool at ~20% of global hashrate, now selling assets; mining consolidation at this scale reshapes network hash distribution not tracked in coin prices",
-    "Bitcoin options bullish cluster — $5B in open interest accumulating at $70K-$72K strikes on Deribit per CoinDesk, signaling institutional positioning roughly 10% above current spot; a forward-looking market signal absent from the daily price watchlist",
-    "EU 21st sanctions package targets 14 crypto firms per CoinDesk — new rules could enable a blanket ban on all EU crypto provider transactions with Russia; expanding geopolitical compliance pressure not captured in BTC/ETH/SOL metrics"
+    "SHIB +35% mystery rally driven by South Korean traders per CoinDesk — no announcement, unique regional concentration; altcoin rotation signal absent from the BTC/ETH/SOL watchlist",
+    "BitMart closure joins BitMEX this week per CoinDesk — two major exchanges shutting down simultaneously; exchange consolidation at this pace is a liquidity and counterparty-risk signal not tracked in watchlist coin prices",
+    "Sberbank building crypto trading infrastructure by December per CoinDesk — Russia's largest bank entering under new Sept. 1 regulations; a major jurisdiction formalizing structured crypto participation outside watchlist metrics"
   ],
   "news": [
     {
       "source": "coindesk.com",
       "headlines": [
         "The SEC settles with Coinbase over its missing Gary Gensler texts",
-        "The privacy paradox of protecting kids online",
+        "Clarity Act expected to miss its window before Congress' summer break, leadership says",
         "The Clarity Act is the most important consumer protection effort in years",
         "AI is destroying the internet. Math is our only hope.",
         "The KIDS Act is way worse than digital carding — it is a mass surveillance system",
-        "Robinhood CEO Vlad Tenev's X account hacked to promote token amid memecoin frenzy",
-        "Clarity Act expected to miss its window before Congress' summer break, leadership says",
-        "BTC, ETH price news: Bitcoin steady around $65,000 as 'Mag 7' have worst day since 2025"
+        "Democratizing weather derivatives through tokenization could be blockchain industry's most important real-world use case",
+        "Crypto exchange BitMEX sued for 623 bitcoin as it prepares to shut down",
+        "India orders takedown of Jack Dorsey's bitcoin-linked messaging app Bitchat"
       ]
     }
   ]

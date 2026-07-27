@@ -11,6 +11,32 @@ No investment advice — this surfaces what's happening, you read it.
 
 <!-- new briefs go here, between this marker and the previous entry -->
 
+## 2026-07-27
+
+**Movement** — bitcoin $65,480 ↗ +1.80%, ethereum $1,970 ↗ +4.70%, solana $77 ↗ +2.55%
+
+All three coins rallied Monday — ethereum the standout at +4.70% to $1,970 — as no single named news catalyst emerged, though AI-model capabilities (Claude Fable 5 solving an 87-year-old math problem with bitcoin implications, per CoinDesk) and a $5B bullish options cluster at $70K–$72K per CoinDesk may be shaping sentiment. Senate Majority Leader Thune confirmed the Clarity Act will miss Congress's summer recess per CoinDesk, even as Goldman Sachs CEO broke with banking peers to back the bill; a second exchange, BitMart, announced shutdown alongside BitMEX. Robinhood Chain's RWAs jumped fivefold as tokenized stocks clear $500K daily per CoinDesk, continuing the tokenization buildout independent of prices.
+
+**Worth watching**
+- SHIB +35% mystery rally driven by South Korean traders per CoinDesk — no announcement, unique regional concentration; altcoin rotation signal absent from the BTC/ETH/SOL watchlist
+- BitMart closure joins BitMEX this week per CoinDesk — two major exchanges shutting down simultaneously; exchange consolidation at this pace is a liquidity and counterparty-risk signal not tracked in watchlist coin prices
+- Sberbank building crypto trading infrastructure by December per CoinDesk — Russia's largest bank entering under new Sept. 1 regulations; a major jurisdiction formalizing structured crypto participation outside watchlist metrics
+
+<details><summary>8 headlines</summary>
+
+- [The SEC settles with Coinbase over its missing Gary Gensler texts](https://www.coindesk.com/policy/2026/07/23/sec-agrees-to-end-lawsuit-over-missing-ethereum-records-will-pay-usd150-000-in-fees)
+- [Clarity Act expected to miss its window before Congress' summer break, leadership says](https://www.coindesk.com/policy/2026/07/23/clarity-act-expected-to-miss-its-window-before-congress-summer-break-leadership-says)
+- [The Clarity Act is the most important consumer protection effort in years](https://www.coindesk.com/opinion/2026/07/16/the-clarity-act-is-the-most-important-consumer-protection-effort-in-years)
+- [AI is destroying the internet. Math is our only hope.](https://www.coindesk.com/opinion/2026/07/17/ai-is-destroying-the-internet-math-is-our-only-hope)
+- [The KIDS Act is way worse than digital carding — it is a mass surveillance system](https://www.coindesk.com/opinion/2026/07/23/the-kids-act-is-way-worse-than-digital-carding-it-is-a-mass-surveillance-system)
+- [Democratizing weather derivatives through tokenization could be blockchain industry's most important real-world use case](https://www.coindesk.com/opinion/2026/07/25/democratizing-weather-derivatives-through-tokenization-could-be-crypto-s-most-important-real-world-use-case)
+- [Crypto exchange BitMEX sued for 623 bitcoin as it prepares to shut down](https://www.coindesk.com/business/2026/07/24/bitmex-faces-proposed-class-action-suit-for-theft-insider-trading-as-crypto-exchange-shuts-down)
+- [India orders takedown of Jack Dorsey's bitcoin-linked messaging app Bitchat](https://www.coindesk.com/tech/2026/07/24/india-orders-takedown-of-jack-dorsey-s-bitcoin-linked-messaging-app-bitchat)
+
+</details>
+
+---
+
 ## 2026-07-26
 
 **Movement** — bitcoin $64,298 ↗ +0.50%, ethereum $1,881 ↗ +1.24%, solana $75 ↗ +1.24%
