@@ -11,6 +11,32 @@ No investment advice — this surfaces what's happening, you read it.
 
 <!-- new briefs go here, between this marker and the previous entry -->
 
+## 2026-07-28
+
+**Movement** — bitcoin $63,372 ↘ -3.20%, ethereum $1,880 ↘ -4.37%, solana $73 ↘ -4.59%
+
+All three coins reversed sharply Tuesday — ethereum and solana each down over 4%, bitcoin off 3.20% to $63,372 — pulling back from Monday's recovery highs with no fresh catalyst; CoinDesk's live updates showed prices holding near $65,500 through Sunday before the overnight slide. Clarity Act negotiations face a hard deadline with CoinDesk reporting two weeks remain before the Senate's summer recess, bipartisan disagreement on ethics provisions still unresolved. Tokenization continued its institutional march: POSCO International and LG CNS tokenized live commercial invoices on Injective, and Robinhood Chain's RWAs jumped fivefold as tokenized stocks clear $500K daily per CoinDesk.
+
+**Worth watching**
+- Quantum computing threat to Bitcoin gaining mainstream press — CoinDesk ran a feature calling BTC "the canary in the coal mine" for quantum resilience; Galaxy's $5M security fund and AI math breakthroughs add texture absent from watchlist prices
+- Europe's MiCA-driven M&A wave — CoinDesk reports stringent regulation could spur crypto mergers, acquisitions, and closer bank partnerships; a structural consolidation story not tracked in BTC/ETH/SOL spot metrics
+- Clarity Act 2-week window — two weeks until Senate summer recess per CoinDesk; passage now a calendar question for the first comprehensive U.S. crypto market-structure law
+
+<details><summary>8 headlines</summary>
+
+- [The Clarity Act is the most important consumer protection effort in years](https://www.coindesk.com/opinion/2026/07/16/the-clarity-act-is-the-most-important-consumer-protection-effort-in-years)
+- [AI is destroying the internet. Math is our only hope.](https://www.coindesk.com/opinion/2026/07/17/ai-is-destroying-the-internet-math-is-our-only-hope)
+- [The KIDS Act is way worse than digital carding — it is a mass surveillance system](https://www.coindesk.com/opinion/2026/07/23/the-kids-act-is-way-worse-than-digital-carding-it-is-a-mass-surveillance-system)
+- [Democratizing weather derivatives through tokenization could be blockchain industry's most important real-world use case](https://www.coindesk.com/opinion/2026/07/25/democratizing-weather-derivatives-through-tokenization-could-be-crypto-s-most-important-real-world-use-case)
+- [Crypto market maker B2C2 explored sale talks with multiple potential buyers](https://www.coindesk.com/business/2026/06/29/crypto-market-maker-b2c2-held-sale-talks-with-multiple-potential-buyers)
+- [EU deploys a 21st sanction package against Russia that escalates bans on 14 crypto firms](https://www.coindesk.com/policy/2026/07/24/eu-hits-russia-with-massive-21st-sanctions-package-targeting-usd120b-crypto-network)
+- [Struggling farmers unlock $20,000 in credit by putting cows on the blockchain](https://www.coindesk.com/markets/2026/07/24/brazilian-farmers-tokenized-dairy-cows-to-get-loans-bypassing-bank-lending-limits)
+- [Strategy overhauls bitcoin metrics to account for senior claims](https://www.coindesk.com/markets/2026/07/24/saylor-and-team-overhaul-strategy-s-bitcoin-metrics-as-bear-market-persists)
+
+</details>
+
+---
+
 ## 2026-07-27
 
 **Movement** — bitcoin $65,480 ↗ +1.80%, ethereum $1,970 ↗ +4.70%, solana $77 ↗ +2.55%

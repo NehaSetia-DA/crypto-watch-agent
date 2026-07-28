@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-07-27T06:50:00Z",
+  "generated_at": "2026-07-28T06:06:09.373357Z",
   "prices": [
-    {"id": "bitcoin", "usd": 65480, "change_24h": 1.8048883052236668},
-    {"id": "ethereum", "usd": 1970.33, "change_24h": 4.695760060918557},
-    {"id": "solana", "usd": 76.79, "change_24h": 2.5488023128952104}
+    {"id": "bitcoin", "usd": 63372, "change_24h": -3.2019574514017783},
+    {"id": "ethereum", "usd": 1880.25, "change_24h": -4.369363989152117},
+    {"id": "solana", "usd": 73.12, "change_24h": -4.587919618183286}
   ],
-  "narrative": "All three coins rallied Monday — ethereum the standout at +4.70% to $1,970 — as no single named news catalyst emerged, though AI-model capabilities (Claude Fable 5 solving an 87-year-old math problem with bitcoin implications, per CoinDesk) and a $5B bullish options cluster at $70K–$72K per CoinDesk may be shaping sentiment. Senate Majority Leader Thune confirmed the Clarity Act will miss Congress's summer recess per CoinDesk, even as Goldman Sachs CEO broke with banking peers to back the bill; a second exchange, BitMart, announced shutdown alongside BitMEX. Robinhood Chain's RWAs jumped fivefold as tokenized stocks clear $500K daily per CoinDesk, continuing the tokenization buildout independent of prices.",
+  "narrative": "All three coins reversed sharply Tuesday — ethereum and solana each down over 4%, bitcoin off 3.20% to $63,372 — pulling back from Monday's recovery highs with no fresh catalyst; CoinDesk's live updates showed prices holding near $65,500 through Sunday before the overnight slide. Clarity Act negotiations face a hard deadline with CoinDesk reporting two weeks remain before the Senate's summer recess, bipartisan disagreement on ethics provisions still unresolved. Tokenization continued its institutional march: POSCO International and LG CNS tokenized live commercial invoices on Injective, and Robinhood Chain's RWAs jumped fivefold as tokenized stocks clear $500K daily per CoinDesk.",
   "worth_watching": [
-    "SHIB +35% mystery rally driven by South Korean traders per CoinDesk — no announcement, unique regional concentration; altcoin rotation signal absent from the BTC/ETH/SOL watchlist",
-    "BitMart closure joins BitMEX this week per CoinDesk — two major exchanges shutting down simultaneously; exchange consolidation at this pace is a liquidity and counterparty-risk signal not tracked in watchlist coin prices",
-    "Sberbank building crypto trading infrastructure by December per CoinDesk — Russia's largest bank entering under new Sept. 1 regulations; a major jurisdiction formalizing structured crypto participation outside watchlist metrics"
+    "Quantum computing threat to Bitcoin gaining mainstream press — CoinDesk ran a feature calling BTC 'the canary in the coal mine' for quantum resilience; Galaxy's $5M security fund and AI math breakthroughs add texture absent from watchlist prices",
+    "Europe's MiCA-driven M&A wave — CoinDesk reports stringent regulation could spur crypto mergers, acquisitions, and closer bank partnerships; a structural consolidation story not tracked in BTC/ETH/SOL spot metrics",
+    "Clarity Act 2-week window — two weeks until Senate summer recess per CoinDesk; passage now a calendar question for the first comprehensive U.S. crypto market-structure law"
   ],
   "news": [
     {
       "source": "coindesk.com",
       "headlines": [
-        "The SEC settles with Coinbase over its missing Gary Gensler texts",
-        "Clarity Act expected to miss its window before Congress' summer break, leadership says",
         "The Clarity Act is the most important consumer protection effort in years",
         "AI is destroying the internet. Math is our only hope.",
         "The KIDS Act is way worse than digital carding — it is a mass surveillance system",
-        "Democratizing weather derivatives through tokenization could be blockchain industry's most important real-world use case",
-        "Crypto exchange BitMEX sued for 623 bitcoin as it prepares to shut down",
-        "India orders takedown of Jack Dorsey's bitcoin-linked messaging app Bitchat"
+        "Democratizing weather derivatives through tokenization could be blockchain industry’s most important real-world use case",
+        "Crypto market maker B2C2 explored sale talks with multiple potential buyers",
+        "EU deploys a 21st sanction package against Russia that escalates bans on 14 crypto firms",
+        "Struggling farmers unlock $20,000 in credit by putting cows on the blockchain",
+        "Strategy overhauls bitcoin metrics to account for senior claims"
       ]
     }
   ]
