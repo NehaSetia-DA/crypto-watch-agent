@@ -11,6 +11,32 @@ No investment advice — this surfaces what's happening, you read it.
 
 <!-- new briefs go here, between this marker and the previous entry -->
 
+## 2026-07-29
+
+**Movement** — bitcoin $63,993 ↗ +1.04%, ethereum $1,908 ↗ +1.52%, solana $74 ↗ +0.59%
+
+All three coins bounced Wednesday — recovering from Tuesday's sharp losses — as bitcoin options traders shed downside hedges ahead of the FOMC decision per CoinDesk, with the put/call ratio falling to 0.52 from 0.76 in late June. The U.S. Senate officially deferred the Clarity Act with the majority leader prioritizing other bills, pushing back the first comprehensive U.S. crypto market-structure law per CoinDesk. Tokenization and institutional infrastructure kept building independently: Lido began migrating $16.5B in staked ether to cut validator count, Securitize added an SEC investment adviser license, and Circle bought nearly 1,000 blockchain patents from IBM per CoinDesk.
+
+**Worth watching**
+- FOMC decision today — bitcoin options market is unhedged (put/call at 0.52 from 0.76) per CoinDesk; a hawkish surprise could amplify downside with fewer hedges in place than in late June
+- Storj Chapter 11 per CoinDesk — decentralized storage company filed, token down 16%, proposing equity for token holders; extends a week of crypto failures including Uphold's 17% headcount cut
+- Regulated perpetual futures arriving in the U.S. per CoinDesk — the $90 trillion trading product is officially landing; agile crypto exchanges racing ahead while big banks wait; a derivatives access story not tracked in watchlist spot prices
+
+<details><summary>8 headlines</summary>
+
+- [2 weeks left for Clarity: State of Crypto](https://www.coindesk.com/policy/2026/07/26/2-weeks-left-for-clarity-state-of-crypto)
+- [The Clarity Act is the most important consumer protection effort in years](https://www.coindesk.com/opinion/2026/07/16/the-clarity-act-is-the-most-important-consumer-protection-effort-in-years)
+- [AI is destroying the internet. Math is our only hope.](https://www.coindesk.com/opinion/2026/07/17/ai-is-destroying-the-internet-math-is-our-only-hope)
+- [The KIDS Act is way worse than digital carding — it is a mass surveillance system](https://www.coindesk.com/opinion/2026/07/23/the-kids-act-is-way-worse-than-digital-carding-it-is-a-mass-surveillance-system)
+- [Democratizing weather derivatives through tokenization could be blockchain industry's most important real-world use case](https://www.coindesk.com/opinion/2026/07/25/democratizing-weather-derivatives-through-tokenization-could-be-crypto-s-most-important-real-world-use-case)
+- [Ballooning U.S. debt sends investors to bitcoin (BTC), gold to shelter from dollar devaluation: Crypto Daily](https://www.coindesk.com/daybook-us/2026/07/27/ballooning-u-s-debt-sends-investors-to-bitcoin-gold-to-shelter-from-dollar-devaluation)
+- [Bitcoin options traders are dropping their hedges going into the Fed meeting](https://www.coindesk.com/markets/2026/07/27/bitcoin-options-traders-are-dropping-their-hedges-going-into-the-fed-meeting)
+- [Strategy (MSTR) bought back STRC shares, lifted cash reserves last week](https://www.coindesk.com/markets/2026/07/27/michael-saylor-s-strategy-boosted-cash-reserve-to-usd3-75-billion)
+
+</details>
+
+---
+
 ## 2026-07-28
 
 **Movement** — bitcoin $63,372 ↘ -3.20%, ethereum $1,880 ↘ -4.37%, solana $73 ↘ -4.59%

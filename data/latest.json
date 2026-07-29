@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-07-28T06:06:09.373357Z",
+  "generated_at": "2026-07-29T06:11:09.259963Z",
   "prices": [
-    {"id": "bitcoin", "usd": 63372, "change_24h": -3.2019574514017783},
-    {"id": "ethereum", "usd": 1880.25, "change_24h": -4.369363989152117},
-    {"id": "solana", "usd": 73.12, "change_24h": -4.587919618183286}
+    {"id": "bitcoin", "usd": 63993, "change_24h": 1.042282182468956},
+    {"id": "ethereum", "usd": 1907.6, "change_24h": 1.5234807695445112},
+    {"id": "solana", "usd": 73.53, "change_24h": 0.5939513816764272}
   ],
-  "narrative": "All three coins reversed sharply Tuesday — ethereum and solana each down over 4%, bitcoin off 3.20% to $63,372 — pulling back from Monday's recovery highs with no fresh catalyst; CoinDesk's live updates showed prices holding near $65,500 through Sunday before the overnight slide. Clarity Act negotiations face a hard deadline with CoinDesk reporting two weeks remain before the Senate's summer recess, bipartisan disagreement on ethics provisions still unresolved. Tokenization continued its institutional march: POSCO International and LG CNS tokenized live commercial invoices on Injective, and Robinhood Chain's RWAs jumped fivefold as tokenized stocks clear $500K daily per CoinDesk.",
+  "narrative": "All three coins bounced Wednesday — recovering from Tuesday's sharp losses — as bitcoin options traders shed downside hedges ahead of the FOMC decision per CoinDesk, with the put/call ratio falling to 0.52 from 0.76 in late June. The U.S. Senate officially deferred the Clarity Act with the majority leader prioritizing other bills, pushing back the first comprehensive U.S. crypto market-structure law per CoinDesk. Tokenization and institutional infrastructure kept building independently: Lido began migrating $16.5B in staked ether to cut validator count, Securitize added an SEC investment adviser license, and Circle bought nearly 1,000 blockchain patents from IBM per CoinDesk.",
   "worth_watching": [
-    "Quantum computing threat to Bitcoin gaining mainstream press — CoinDesk ran a feature calling BTC 'the canary in the coal mine' for quantum resilience; Galaxy's $5M security fund and AI math breakthroughs add texture absent from watchlist prices",
-    "Europe's MiCA-driven M&A wave — CoinDesk reports stringent regulation could spur crypto mergers, acquisitions, and closer bank partnerships; a structural consolidation story not tracked in BTC/ETH/SOL spot metrics",
-    "Clarity Act 2-week window — two weeks until Senate summer recess per CoinDesk; passage now a calendar question for the first comprehensive U.S. crypto market-structure law"
+    "FOMC decision today — bitcoin options market is unhedged (put/call at 0.52 from 0.76) per CoinDesk; a hawkish surprise could amplify downside with fewer hedges in place than in late June",
+    "Storj Chapter 11 per CoinDesk — decentralized storage company filed, token down 16%, proposing equity for token holders; extends a week of crypto failures including Uphold's 17% headcount cut",
+    "Regulated perpetual futures arriving in the U.S. per CoinDesk — the $90 trillion trading product is officially landing; agile crypto exchanges racing ahead while big banks wait; a derivatives access story not tracked in watchlist spot prices"
   ],
   "news": [
     {
       "source": "coindesk.com",
       "headlines": [
+        "2 weeks left for Clarity: State of Crypto",
         "The Clarity Act is the most important consumer protection effort in years",
         "AI is destroying the internet. Math is our only hope.",
         "The KIDS Act is way worse than digital carding — it is a mass surveillance system",
         "Democratizing weather derivatives through tokenization could be blockchain industry’s most important real-world use case",
-        "Crypto market maker B2C2 explored sale talks with multiple potential buyers",
-        "EU deploys a 21st sanction package against Russia that escalates bans on 14 crypto firms",
-        "Struggling farmers unlock $20,000 in credit by putting cows on the blockchain",
-        "Strategy overhauls bitcoin metrics to account for senior claims"
+        "Ballooning U.S. debt sends investors to bitcoin (BTC), gold to shelter from dollar devaluation: Crypto Daily",
+        "Bitcoin options traders are dropping their hedges going into the Fed meeting",
+        "Strategy (MSTR) bought back STRC shares, lifted cash reserves last week"
       ]
     }
   ]
