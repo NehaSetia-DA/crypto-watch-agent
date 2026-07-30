@@ -11,6 +11,32 @@ No investment advice — this surfaces what's happening, you read it.
 
 <!-- new briefs go here, between this marker and the previous entry -->
 
+## 2026-07-30
+
+**Movement** — bitcoin $63,954 → -0.05%, ethereum $1,904 ↘ -0.32%, solana $74 → +0.01%
+
+All three coins held near flat Thursday — markets absorbing Wednesday's Fed decision with little drama — while Morgan Stanley launched ETH and SOL exchange-traded products after its bitcoin fund topped $381M per CoinDesk. The Clarity Act remains shelved despite public backing from BlackRock, Fidelity, Goldman Sachs, and Franklin Templeton, as the Senate majority leader focused bandwidth elsewhere per CoinDesk. Exchange consolidation is accelerating: new regulations and disappearing day traders are pushing regional platforms toward bankruptcy, with Uphold already cutting 17% of headcount, per CoinDesk.
+
+**Worth watching**
+- CME vs. CFTC battle over onchain perps per CoinDesk — the CFTC approved the first crypto perps listing while CME is fighting back; a regulatory outcome that could reshape derivatives access not tracked in watchlist spot prices
+- Morgan Stanley ETH/SOL ETPs per CoinDesk — new institutional products after bitcoin fund topped $381M; could channel fresh flows into ETH and SOL beyond what spot prices show
+- Core Scientific pivoting from bitcoin mining to AI data centers per CoinDesk — signs a major miner is exiting the space; an infrastructure convergence story absent from watchlist coin metrics
+
+<details><summary>8 headlines</summary>
+
+- [Inside the CME and CFTC's battle over onchain perpetual futures](https://www.coindesk.com/policy/2026/07/28/inside-the-cme-and-cftc-s-battle-over-onchain-perpetual-futures)
+- [The Clarity Act is the most important consumer protection effort in years](https://www.coindesk.com/opinion/2026/07/16/the-clarity-act-is-the-most-important-consumer-protection-effort-in-years)
+- [AI is destroying the internet. Math is our only hope.](https://www.coindesk.com/opinion/2026/07/17/ai-is-destroying-the-internet-math-is-our-only-hope)
+- [The KIDS Act is way worse than digital carding — it is a mass surveillance system](https://www.coindesk.com/opinion/2026/07/23/the-kids-act-is-way-worse-than-digital-carding-it-is-a-mass-surveillance-system)
+- [Democratizing weather derivatives through tokenization could be blockchain industry's most important real-world use case](https://www.coindesk.com/opinion/2026/07/25/democratizing-weather-derivatives-through-tokenization-could-be-crypto-s-most-important-real-world-use-case)
+- [1inch opens Aqua liquidity protocol across 13 chains](https://www.coindesk.com/web3/2026/07/27/1inch-opens-aqua-liquidity-protocol-across-13-chains)
+- [South Korea's worst market day in years and a stalled Clarity Act put crypto on the back foot](https://www.coindesk.com/markets/2026/07/28/bitcoin-drops-as-south-korean-stocks-tumble-senate-shelves-crypto-clarity-act)
+- [Crypto Daily](https://www.coindesk.com/daybook-us/2026/07/28/bitcoin-s-recent-stability-hasn-t-been-enough-to-spark-a-broader-altcoin-rally)
+
+</details>
+
+---
+
 ## 2026-07-29
 
 **Movement** — bitcoin $63,993 ↗ +1.04%, ethereum $1,908 ↗ +1.52%, solana $74 ↗ +0.59%
