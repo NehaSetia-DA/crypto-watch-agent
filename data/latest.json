@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-07-30T06:10:00.000000Z",
+  "generated_at": "2026-07-31T06:26:50.059106Z",
   "prices": [
-    {"id": "bitcoin", "usd": 63954, "change_24h": -0.045139246904769545},
-    {"id": "ethereum", "usd": 1903.65, "change_24h": -0.32468654759499604},
-    {"id": "solana", "usd": 73.59, "change_24h": 0.012940157513408056}
+    {"id": "bitcoin", "usd": 64324, "change_24h": 0.5658235055106464},
+    {"id": "ethereum", "usd": 1905.02, "change_24h": 0.12488118045932733},
+    {"id": "solana", "usd": 74.28, "change_24h": 0.9892878040180466}
   ],
-  "narrative": "All three coins held near flat Thursday — markets absorbing Wednesday's Fed decision with little drama — while Morgan Stanley launched ETH and SOL exchange-traded products after its bitcoin fund topped $381M per CoinDesk. The Clarity Act remains shelved despite public backing from BlackRock, Fidelity, Goldman Sachs, and Franklin Templeton, as the Senate majority leader focused bandwidth elsewhere per CoinDesk. Exchange consolidation is accelerating: new regulations and disappearing day traders are pushing regional platforms toward bankruptcy, with Uphold already cutting 17% of headcount, per CoinDesk.",
+  "narrative": "All three coins gained slightly Friday — recovering from Wednesday's $280M FOMC-triggered liquidations — as the Federal Reserve's hawkish 9-3 hold kept rates steady and markets stabilized per CoinDesk. The Clarity Act moved closer to a Senate vote with BlackRock, Fidelity, Goldman Sachs, and SoFi publicly backing the bill while senators finalized stricter Trump ethics provisions per CoinDesk, though the two-week window before recess is nearly spent. Institutional infrastructure kept building independently: Morgan Stanley launched ETH and SOL ETPs, BNY is building a blockchain system for its $8.6T fund business, and perpetual futures saw a surge of activity across both DeFi and regulated venues per CoinDesk.",
   "worth_watching": [
-    "CME vs. CFTC battle over onchain perps per CoinDesk — the CFTC approved the first crypto perps listing while CME is fighting back; a regulatory outcome that could reshape derivatives access not tracked in watchlist spot prices",
-    "Morgan Stanley ETH/SOL ETPs per CoinDesk — new institutional products after bitcoin fund topped $381M; could channel fresh flows into ETH and SOL beyond what spot prices show",
-    "Core Scientific pivoting from bitcoin mining to AI data centers per CoinDesk — signs a major miner is exiting the space; an infrastructure convergence story absent from watchlist coin metrics"
+    "Clarity Act ethics revision in Senate — bipartisan senators finalizing stricter Trump crypto limits per CoinDesk; the window closes when the Senate leaves for recess in days, not weeks; a vote outcome not tracked in watchlist coin metrics",
+    "Bitcoin quantum resistance pressure — AI weakened a HAWK algorithm in 60 hours per CoinDesk, compressing Bitcoin developers' post-quantum timeline; a protocol security story not visible in spot prices",
+    "Crypto exchange revenue collapse — Robinhood's crypto revenue fell 38% YoY and regional exchanges face existential pressure per CoinDesk; structural industry consolidation not captured in BTC/ETH/SOL metrics"
   ],
   "news": [
     {
       "source": "coindesk.com",
       "headlines": [
-        "Inside the CME and CFTC’s battle over onchain perpetual futures",
-        "The Clarity Act is the most important consumer protection effort in years",
-        "AI is destroying the internet. Math is our only hope.",
+        "Here's which Wall Street giants have backed the Clarity Act",
+        "Coinbase wants to be Canada’s ‘everything exchange,’ but says clearer rules are needed first",
+        "Russia charges Telegram founder Pavel Durov with aiding terrorism",
         "The KIDS Act is way worse than digital carding — it is a mass surveillance system",
         "Democratizing weather derivatives through tokenization could be blockchain industry’s most important real-world use case",
-        "1inch opens Aqua liquidity protocol across 13 chains",
-        "South Korea’s worst market day in years and a stalled Clarity Act put crypto on the back foot",
-        "Crypto Daily"
+        "SpaceX is a battleground Solana must win",
+        "The systemic-risk debate over perpetual futures is aimed at the wrong target",
+        "Binance offers gold and silver options after commodity futures pull in billions in daily volume"
       ]
     }
   ]

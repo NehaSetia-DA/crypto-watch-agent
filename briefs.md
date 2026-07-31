@@ -11,6 +11,32 @@ No investment advice — this surfaces what's happening, you read it.
 
 <!-- new briefs go here, between this marker and the previous entry -->
 
+## 2026-07-31
+
+**Movement** — bitcoin $64,324 ↗ +0.57%, ethereum $1,905 ↗ +0.12%, solana $74 ↗ +0.99%
+
+All three coins gained slightly Friday — recovering from Wednesday's $280M FOMC-triggered liquidations — as the Federal Reserve's hawkish 9-3 hold kept rates steady and markets stabilized per CoinDesk. The Clarity Act moved closer to a Senate vote with BlackRock, Fidelity, Goldman Sachs, and SoFi publicly backing the bill while senators finalized stricter Trump ethics provisions per CoinDesk, though the two-week window before recess is nearly spent. Institutional infrastructure kept building independently: Morgan Stanley launched ETH and SOL ETPs, BNY is building a blockchain system for its $8.6T fund business, and perpetual futures saw a surge of activity across both DeFi and regulated venues per CoinDesk.
+
+**Worth watching**
+- Clarity Act ethics revision in Senate — bipartisan senators finalizing stricter Trump crypto limits per CoinDesk; the window closes when the Senate leaves for recess in days, not weeks; a vote outcome not tracked in watchlist coin metrics
+- Bitcoin quantum resistance pressure — AI weakened a HAWK algorithm in 60 hours per CoinDesk, compressing Bitcoin developers' post-quantum timeline; a protocol security story not visible in spot prices
+- Crypto exchange revenue collapse — Robinhood's crypto revenue fell 38% YoY and regional exchanges face existential pressure per CoinDesk; structural industry consolidation not captured in BTC/ETH/SOL metrics
+
+<details><summary>8 headlines</summary>
+
+- [Here's which Wall Street giants have backed the Clarity Act](https://www.coindesk.com/policy/2026/07/28/blackrock-fidelity-other-wall-street-giants-back-the-clarity-act)
+- [Coinbase wants to be Canada's 'everything exchange,' but says clearer rules are needed first](https://www.coindesk.com/policy/2026/07/28/coinbase-wants-to-be-canada-s-everything-exchange-but-says-clearer-rules-are-needed-first)
+- [Russia charges Telegram founder Pavel Durov with aiding terrorism](https://www.coindesk.com/policy/2026/07/29/russia-charges-telegram-founder-pavel-durov-with-aiding-terrorism)
+- [The KIDS Act is way worse than digital carding — it is a mass surveillance system](https://www.coindesk.com/opinion/2026/07/23/the-kids-act-is-way-worse-than-digital-carding-it-is-a-mass-surveillance-system)
+- [Democratizing weather derivatives through tokenization could be blockchain industry's most important real-world use case](https://www.coindesk.com/opinion/2026/07/25/democratizing-weather-derivatives-through-tokenization-could-be-crypto-s-most-important-real-world-use-case)
+- [SpaceX is a battleground Solana must win](https://www.coindesk.com/opinion/2026/07/29/spacex-is-a-battleground-solana-must-win)
+- [The systemic-risk debate over perpetual futures is aimed at the wrong target](https://www.coindesk.com/opinion/2026/07/29/the-systemic-risk-debate-over-perpetual-futures-is-aimed-at-the-wrong-threat)
+- [Binance offers gold and silver options after commodity futures pull in billions in daily volume](https://www.coindesk.com/markets/2026/07/29/binance-offers-gold-and-silver-options-after-commodity-futures-pull-in-billions-in-daily-volume)
+
+</details>
+
+---
+
 ## 2026-07-30
 
 **Movement** — bitcoin $63,954 → -0.05%, ethereum $1,904 ↘ -0.32%, solana $74 → +0.01%
