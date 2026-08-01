@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-07-31T06:26:50.059106Z",
+  "generated_at": "2026-08-01T06:30:00.000000Z",
   "prices": [
-    {"id": "bitcoin", "usd": 64324, "change_24h": 0.5658235055106464},
-    {"id": "ethereum", "usd": 1905.02, "change_24h": 0.12488118045932733},
-    {"id": "solana", "usd": 74.28, "change_24h": 0.9892878040180466}
+    {"id": "bitcoin", "usd": 62941, "change_24h": -2.1546670481613304},
+    {"id": "ethereum", "usd": 1864.86, "change_24h": -2.157534184630526},
+    {"id": "solana", "usd": 72.85, "change_24h": -1.9697079022062647}
   ],
-  "narrative": "All three coins gained slightly Friday — recovering from Wednesday's $280M FOMC-triggered liquidations — as the Federal Reserve's hawkish 9-3 hold kept rates steady and markets stabilized per CoinDesk. The Clarity Act moved closer to a Senate vote with BlackRock, Fidelity, Goldman Sachs, and SoFi publicly backing the bill while senators finalized stricter Trump ethics provisions per CoinDesk, though the two-week window before recess is nearly spent. Institutional infrastructure kept building independently: Morgan Stanley launched ETH and SOL ETPs, BNY is building a blockchain system for its $8.6T fund business, and perpetual futures saw a surge of activity across both DeFi and regulated venues per CoinDesk.",
+  "narrative": "All three coins declined further Saturday as the week closed with the Fed's hawkish 9-3 hold and oil above $90 bearing down on risk assets — the same macro forces that triggered $286M in FOMC-day liquidations carried through the weekend per CoinDesk. Perpetual futures dominated the news cycle: CoinDesk's Perps Week coverage showed perps now drive primary price discovery for bitcoin and ether while CME and CFTC are in open conflict over who regulates onchain perps per CoinDesk. Tokenization continued its institutional march despite the price weakness, with JPMorgan, Citi, and UBS completing a live BIS cross-border settlement pilot and institutional trading hitting a record 72% of crypto volume per CoinDesk.",
   "worth_watching": [
-    "Clarity Act ethics revision in Senate — bipartisan senators finalizing stricter Trump crypto limits per CoinDesk; the window closes when the Senate leaves for recess in days, not weeks; a vote outcome not tracked in watchlist coin metrics",
-    "Bitcoin quantum resistance pressure — AI weakened a HAWK algorithm in 60 hours per CoinDesk, compressing Bitcoin developers' post-quantum timeline; a protocol security story not visible in spot prices",
-    "Crypto exchange revenue collapse — Robinhood's crypto revenue fell 38% YoY and regional exchanges face existential pressure per CoinDesk; structural industry consolidation not captured in BTC/ETH/SOL metrics"
+    "Bitcoin hardware wallet randomness bug drained 594 BTC ($38M) in a 25-minute sweep per CoinDesk — a supply-side security vulnerability not captured in spot prices",
+    "Clarity Act losing its last catalyst — JPMorgan warns deteriorating prospects for the bill weigh on the crypto outlook per CoinDesk; a regulatory outcome outside watchlist coin metrics",
+    "Aave proposing to exit 6 blockchains earning under $5,000 per quarter per CoinDesk — DeFi contraction and chain consolidation signal not tracked in BTC/ETH/SOL prices"
   ],
   "news": [
     {
       "source": "coindesk.com",
       "headlines": [
-        "Here's which Wall Street giants have backed the Clarity Act",
-        "Coinbase wants to be Canada’s ‘everything exchange,’ but says clearer rules are needed first",
-        "Russia charges Telegram founder Pavel Durov with aiding terrorism",
-        "The KIDS Act is way worse than digital carding — it is a mass surveillance system",
         "Democratizing weather derivatives through tokenization could be blockchain industry’s most important real-world use case",
         "SpaceX is a battleground Solana must win",
         "The systemic-risk debate over perpetual futures is aimed at the wrong target",
-        "Binance offers gold and silver options after commodity futures pull in billions in daily volume"
+        "Everything is becoming a perp",
+        "Founder of Russia's largest crypto mining operation transferred to a detention center",
+        "Crypto’s resilience is tested as oil surges back above $90 and the Fed signals rates could still rise",
+        "South Korea plans to tax crypto gains over $1,740 as political battle moves to parliament",
+        "Bitcoin ETFs on track for their smallest monthly inflows: Crypto Daily"
       ]
     }
   ]

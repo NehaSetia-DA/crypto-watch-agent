@@ -11,6 +11,32 @@ No investment advice — this surfaces what's happening, you read it.
 
 <!-- new briefs go here, between this marker and the previous entry -->
 
+## 2026-08-01
+
+**Movement** — bitcoin $62,941 ↘ -2.15%, ethereum $1,865 ↘ -2.16%, solana $73 ↘ -1.97%
+
+All three coins declined further Saturday as the week closed with the Fed's hawkish 9-3 hold and oil above $90 bearing down on risk assets — the same macro forces that triggered $286M in FOMC-day liquidations carried through the weekend per CoinDesk. Perpetual futures dominated the news cycle: CoinDesk's Perps Week coverage showed perps now drive primary price discovery for bitcoin and ether while CME and CFTC are in open conflict over who regulates onchain perps per CoinDesk. Tokenization continued its institutional march despite the price weakness, with JPMorgan, Citi, and UBS completing a live BIS cross-border settlement pilot and institutional trading hitting a record 72% of crypto volume per CoinDesk.
+
+**Worth watching**
+- Bitcoin hardware wallet randomness bug drained 594 BTC ($38M) in a 25-minute sweep per CoinDesk — a supply-side security vulnerability not captured in spot prices
+- Clarity Act losing its last catalyst — JPMorgan warns deteriorating prospects for the bill weigh on the crypto outlook per CoinDesk; a regulatory outcome outside watchlist coin metrics
+- Aave proposing to exit 6 blockchains earning under $5,000 per quarter per CoinDesk — DeFi contraction and chain consolidation signal not tracked in BTC/ETH/SOL prices
+
+<details><summary>8 headlines</summary>
+
+- [Democratizing weather derivatives through tokenization could be blockchain industry's most important real-world use case](https://www.coindesk.com/opinion/2026/07/25/democratizing-weather-derivatives-through-tokenization-could-be-crypto-s-most-important-real-world-use-case)
+- [SpaceX is a battleground Solana must win](https://www.coindesk.com/opinion/2026/07/29/spacex-is-a-battleground-solana-must-win)
+- [The systemic-risk debate over perpetual futures is aimed at the wrong target](https://www.coindesk.com/opinion/2026/07/29/the-systemic-risk-debate-over-perpetual-futures-is-aimed-at-the-wrong-target)
+- [Everything is becoming a perp](https://www.coindesk.com/opinion/2026/07/28/everything-is-becoming-a-perp)
+- [Founder of Russia's largest crypto mining operation transferred to a detention center](https://www.coindesk.com/policy/2026/07/30/bitriver-founder-charged-in-russia-with-usd12-5-million-fraud)
+- [Crypto's resilience is tested as oil surges back above $90 and the Fed signals rates could still rise](https://www.coindesk.com/markets/2026/07/30/crypto-s-resilience-tested-as-oil-rises-after-iran-strikes-fed-signals-rates-could-still-rise)
+- [South Korea plans to tax crypto gains over $1,740 as political battle moves to parliament](https://www.coindesk.com/policy/2026/07/30/south-korea-s-long-delayed-crypto-tax-set-to-start-in-2027)
+- [Bitcoin ETFs on track for their smallest monthly inflows: Crypto Daily](https://www.coindesk.com/daybook-us/2026/07/30/bitcoin-etfs-on-track-for-the-smallest-monthly-inflows-ever)
+
+</details>
+
+---
+
 ## 2026-07-31
 
 **Movement** — bitcoin $64,324 ↗ +0.57%, ethereum $1,905 ↗ +0.12%, solana $74 ↗ +0.99%
