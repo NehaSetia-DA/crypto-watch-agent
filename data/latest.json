@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-08-01T06:30:00.000000Z",
+  "generated_at": "2026-08-02T06:30:00.000000Z",
   "prices": [
-    {"id": "bitcoin", "usd": 62941, "change_24h": -2.1546670481613304},
-    {"id": "ethereum", "usd": 1864.86, "change_24h": -2.157534184630526},
-    {"id": "solana", "usd": 72.85, "change_24h": -1.9697079022062647}
+    {"id": "bitcoin", "usd": 63395, "change_24h": 0.6833848180091743},
+    {"id": "ethereum", "usd": 1874.1, "change_24h": 0.4510097305574057},
+    {"id": "solana", "usd": 73.43, "change_24h": 0.7197567624822936}
   ],
-  "narrative": "All three coins declined further Saturday as the week closed with the Fed's hawkish 9-3 hold and oil above $90 bearing down on risk assets — the same macro forces that triggered $286M in FOMC-day liquidations carried through the weekend per CoinDesk. Perpetual futures dominated the news cycle: CoinDesk's Perps Week coverage showed perps now drive primary price discovery for bitcoin and ether while CME and CFTC are in open conflict over who regulates onchain perps per CoinDesk. Tokenization continued its institutional march despite the price weakness, with JPMorgan, Citi, and UBS completing a live BIS cross-border settlement pilot and institutional trading hitting a record 72% of crypto volume per CoinDesk.",
+  "narrative": "All three coins reversed yesterday's macro-driven losses with modest gains Sunday, even as the Coldcard hardware wallet exploit grew from $38M to $70M with Galaxy Research tracing weak seed generation attacks across 1,200 wallets per CoinDesk — prices and security risk pointing in opposite directions. Circle secured a New York trust charter and senators advanced stricter Trump ethics rules while the U.S. Treasury sanctioned an Iran-linked bitcoin insurance scheme per CoinDesk. Institutional tokenization kept building: JPMorgan, Citi, and UBS tested live cross-border tokenized payments in a BIS pilot, and institutional trading now accounts for a record 72% of crypto volume per CoinDesk.",
   "worth_watching": [
-    "Bitcoin hardware wallet randomness bug drained 594 BTC ($38M) in a 25-minute sweep per CoinDesk — a supply-side security vulnerability not captured in spot prices",
-    "Clarity Act losing its last catalyst — JPMorgan warns deteriorating prospects for the bill weigh on the crypto outlook per CoinDesk; a regulatory outcome outside watchlist coin metrics",
-    "Aave proposing to exit 6 blockchains earning under $5,000 per quarter per CoinDesk — DeFi contraction and chain consolidation signal not tracked in BTC/ETH/SOL prices"
+    "Coldcard exploit growing to $70M across 1,200 wallets per CoinDesk (Galaxy Research); ongoing hardware seed randomness risk not captured in spot prices",
+    "Coinbase Q2 revenue miss ($1.22B vs $1.5B prior year) leaving Wall Street split on recovery timing per CoinDesk — exchange revenue weakness not tracked in watchlist coin metrics",
+    "Perpetual futures reshaping market structure — Perps Week 2026 coverage shows perps now dominate volume and Ethereum's role is shifting to L2 support; a derivatives story absent from BTC/ETH/SOL spot watchlist"
   ],
   "news": [
     {
       "source": "coindesk.com",
       "headlines": [
-        "Democratizing weather derivatives through tokenization could be blockchain industry’s most important real-world use case",
+        "There is a hidden tax risk of crypto perps that no one is talking about, says CME's CEO",
         "SpaceX is a battleground Solana must win",
         "The systemic-risk debate over perpetual futures is aimed at the wrong target",
         "Everything is becoming a perp",
-        "Founder of Russia's largest crypto mining operation transferred to a detention center",
-        "Crypto’s resilience is tested as oil surges back above $90 and the Fed signals rates could still rise",
-        "South Korea plans to tax crypto gains over $1,740 as political battle moves to parliament",
-        "Bitcoin ETFs on track for their smallest monthly inflows: Crypto Daily"
+        "RWA perps will outpace tokenization",
+        "Live updates: 'Worst hit in Bitcoin history' – longtime Bitcoiners react to Coincard flaw",
+        "Bitcoin (BTC) is as hard to trade right now as it was in January",
+        "Quantum Solutions, Hyperscale Data tap crypto treasuries to fund AI data centers"
       ]
     }
   ]

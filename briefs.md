@@ -11,6 +11,32 @@ No investment advice — this surfaces what's happening, you read it.
 
 <!-- new briefs go here, between this marker and the previous entry -->
 
+## 2026-08-02
+
+**Movement** — bitcoin $63,395 ↗ +0.68%, ethereum $1,874 ↗ +0.45%, solana $73 ↗ +0.72%
+
+All three coins reversed yesterday's macro-driven losses with modest gains Sunday, even as the Coldcard hardware wallet exploit grew from $38M to $70M with Galaxy Research tracing weak seed generation attacks across 1,200 wallets per CoinDesk — prices and security risk pointing in opposite directions. Circle secured a New York trust charter and senators advanced stricter Trump ethics rules while the U.S. Treasury sanctioned an Iran-linked bitcoin insurance scheme per CoinDesk. Institutional tokenization kept building: JPMorgan, Citi, and UBS tested live cross-border tokenized payments in a BIS pilot, and institutional trading now accounts for a record 72% of crypto volume per CoinDesk.
+
+**Worth watching**
+- Coldcard exploit growing to $70M across 1,200 wallets per CoinDesk (Galaxy Research); ongoing hardware seed randomness risk not captured in spot prices
+- Coinbase Q2 revenue miss ($1.22B vs $1.5B prior year) leaving Wall Street split on recovery timing per CoinDesk — exchange revenue weakness not tracked in watchlist coin metrics
+- Perpetual futures reshaping market structure — Perps Week 2026 coverage shows perps now dominate volume and Ethereum's role is shifting to L2 support; a derivatives story absent from BTC/ETH/SOL spot watchlist
+
+<details><summary>8 headlines</summary>
+
+- [There is a hidden tax risk of crypto perps that no one is talking about, says CME's CEO](https://www.coindesk.com/policy/2026/07/30/cme-s-duffy-warns-an-overlooked-tax-risk-looms-over-u-s-perpetual-futures)
+- [SpaceX is a battleground Solana must win](https://www.coindesk.com/opinion/2026/07/29/spacex-is-a-battleground-solana-must-win)
+- [The systemic-risk debate over perpetual futures is aimed at the wrong target](https://www.coindesk.com/opinion/2026/07/29/the-systemic-risk-debate-over-perpetual-futures-is-aimed-at-the-wrong-target)
+- [Everything is becoming a perp](https://www.coindesk.com/opinion/2026/07/28/everything-is-becoming-a-perp)
+- [RWA perps will outpace tokenization](https://www.coindesk.com/opinion/2026/07/31/rwa-perps-will-outpace-tokenization)
+- [Live updates: 'Worst hit in Bitcoin history' – longtime Bitcoiners react to Coincard flaw](https://www.coindesk.com/markets/2026/07/31/live-updates-bitcoin-steady-as-japan-holds-rates-at-1-keeping-the-yen-carry-trade-alive)
+- [Bitcoin (BTC) is as hard to trade right now as it was in January](https://www.coindesk.com/markets/2026/07/31/bitcoin-s-calm-is-back-and-so-is-the-setup-for-a-volatility-explosion)
+- [Quantum Solutions, Hyperscale Data tap crypto treasuries to fund AI data centers](https://www.coindesk.com/business/2026/07/31/quantum-solutions-hyperscale-data-tap-crypto-treasuries-to-fund-ai-data-centers)
+
+</details>
+
+---
+
 ## 2026-08-01
 
 **Movement** — bitcoin $62,941 ↘ -2.15%, ethereum $1,865 ↘ -2.16%, solana $73 ↘ -1.97%
