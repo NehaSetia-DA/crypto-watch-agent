@@ -11,6 +11,32 @@ No investment advice — this surfaces what's happening, you read it.
 
 <!-- new briefs go here, between this marker and the previous entry -->
 
+## 2026-08-03
+
+**Movement** — bitcoin $62,672 ↘ -1.18%, ethereum $1,853 ↘ -1.21%, solana $73 ↘ -1.16%
+
+The Coldcard hardware wallet exploit continued spreading — losses reached $89M across 4,500 addresses per CoinDesk (Galaxy Research), a third wave of sweeps targeting smaller balances — yet all three coins fell only about 1.2%, suggesting the breach isn't triggering forced selling at scale. Bitcoin mining difficulty dropped 14% from this year's high as plunging revenues force operators to pivot per CoinDesk, a supply-side contraction consistent with extended price weakness. Circle secured a New York trust charter, Tether posted $1.5B in Q2 profit while its reserve buffer fell by half, and the SEC moved to review Nasdaq bitcoin options approval after a CME jurisdictional challenge per CoinDesk.
+
+**Worth watching**
+- Coldcard exploit still active — losses near $89M across 4,500 addresses in a third wave of sweeps per CoinDesk (Galaxy Research); hardware seed randomness risk not captured in spot prices
+- Bitcoin mining difficulty down 14% from 2026 high, forward markets signaling little relief through year-end per CoinDesk — profitability contraction that could reduce hashrate, absent from watchlist metrics
+- SEC reviewing Nasdaq bitcoin options approval after CME challenge per CoinDesk — a SEC vs. CFTC jurisdictional fight that could reshape BTC derivatives access, not tracked in spot prices
+
+<details><summary>8 headlines</summary>
+
+- [New York sues Kalshi, will seek damages, alleging it offers gambling platform](https://www.coindesk.com/policy/2026/07/31/new-york-sues-kalshi-alleges-it-offers-a-gambling-platform-plain-and-simple)
+- [U.S. sanctions Iran-linked bitcoin insurance scheme for Strait of Hormuz ships](https://www.coindesk.com/policy/2026/07/31/u-s-sanctions-iran-linked-bitcoin-insurance-scheme-for-strait-of-hormuz-ships)
+- [The systemic-risk debate over perpetual futures is aimed at the wrong target](https://www.coindesk.com/opinion/2026/07/29/the-systemic-risk-debate-over-perpetual-futures-is-aimed-at-the-wrong-target)
+- [Everything is becoming a perp](https://www.coindesk.com/opinion/2026/07/28/everything-is-becoming-a-perp)
+- [RWA perps will outpace tokenization](https://www.coindesk.com/opinion/2026/07/31/rwa-perps-will-outpace-tokenization)
+- [Everyone has the perps convergence backwards](https://www.coindesk.com/opinion/2026/08/01/everyone-has-the-perps-convergence-backwards)
+- [Iran-linked crypto network moved $4B through Dubai exchange](https://www.coindesk.com/business/2026/07/31/dubai-based-crypto-exchange-tied-to-usd4-billion-iran-sanctioned-evasion-network-reuters)
+- [Coinbase's (COIN) weak quarter leaves Wall Street split on timing of a recovery](https://www.coindesk.com/markets/2026/07/31/coinbase-s-weak-quarter-leaves-wall-street-split-on-timing-of-a-recovery)
+
+</details>
+
+---
+
 ## 2026-08-02
 
 **Movement** — bitcoin $63,395 ↗ +0.68%, ethereum $1,874 ↗ +0.45%, solana $73 ↗ +0.72%

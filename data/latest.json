@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-08-02T06:30:00.000000Z",
+  "generated_at": "2026-08-03T06:45:00.000000Z",
   "prices": [
-    {"id": "bitcoin", "usd": 63395, "change_24h": 0.6833848180091743},
-    {"id": "ethereum", "usd": 1874.1, "change_24h": 0.4510097305574057},
-    {"id": "solana", "usd": 73.43, "change_24h": 0.7197567624822936}
+    {"id": "bitcoin", "usd": 62672, "change_24h": -1.1798626463502209},
+    {"id": "ethereum", "usd": 1852.79, "change_24h": -1.2128845969720212},
+    {"id": "solana", "usd": 72.63, "change_24h": -1.1599043795808979}
   ],
-  "narrative": "All three coins reversed yesterday's macro-driven losses with modest gains Sunday, even as the Coldcard hardware wallet exploit grew from $38M to $70M with Galaxy Research tracing weak seed generation attacks across 1,200 wallets per CoinDesk — prices and security risk pointing in opposite directions. Circle secured a New York trust charter and senators advanced stricter Trump ethics rules while the U.S. Treasury sanctioned an Iran-linked bitcoin insurance scheme per CoinDesk. Institutional tokenization kept building: JPMorgan, Citi, and UBS tested live cross-border tokenized payments in a BIS pilot, and institutional trading now accounts for a record 72% of crypto volume per CoinDesk.",
+  "narrative": "The Coldcard hardware wallet exploit continued spreading — losses reached $89M across 4,500 addresses per CoinDesk (Galaxy Research), a third wave of sweeps targeting smaller balances — yet all three coins fell only about 1.2%, suggesting the breach isn't triggering forced selling at scale. Bitcoin mining difficulty dropped 14% from this year's high as plunging revenues force operators to pivot per CoinDesk, a supply-side contraction consistent with extended price weakness. Circle secured a New York trust charter, Tether posted $1.5B in Q2 profit while its reserve buffer fell by half, and the SEC moved to review Nasdaq bitcoin options approval after a CME jurisdictional challenge per CoinDesk.",
   "worth_watching": [
-    "Coldcard exploit growing to $70M across 1,200 wallets per CoinDesk (Galaxy Research); ongoing hardware seed randomness risk not captured in spot prices",
-    "Coinbase Q2 revenue miss ($1.22B vs $1.5B prior year) leaving Wall Street split on recovery timing per CoinDesk — exchange revenue weakness not tracked in watchlist coin metrics",
-    "Perpetual futures reshaping market structure — Perps Week 2026 coverage shows perps now dominate volume and Ethereum's role is shifting to L2 support; a derivatives story absent from BTC/ETH/SOL spot watchlist"
+    "Coldcard exploit still active — losses near $89M across 4,500 addresses in a third wave of sweeps per CoinDesk (Galaxy Research); hardware seed randomness risk not captured in spot prices",
+    "Bitcoin mining difficulty down 14% from 2026 high, forward markets signaling little relief through year-end per CoinDesk — profitability contraction that could reduce hashrate, absent from watchlist metrics",
+    "SEC reviewing Nasdaq bitcoin options approval after CME challenge per CoinDesk — a SEC vs. CFTC jurisdictional fight that could reshape BTC derivatives access, not tracked in spot prices"
   ],
   "news": [
     {
       "source": "coindesk.com",
       "headlines": [
-        "There is a hidden tax risk of crypto perps that no one is talking about, says CME's CEO",
-        "SpaceX is a battleground Solana must win",
+        "New York sues Kalshi, will seek damages, alleging it offers gambling platform",
+        "U.S. sanctions Iran-linked bitcoin insurance scheme for Strait of Hormuz ships",
         "The systemic-risk debate over perpetual futures is aimed at the wrong target",
         "Everything is becoming a perp",
         "RWA perps will outpace tokenization",
-        "Live updates: 'Worst hit in Bitcoin history' – longtime Bitcoiners react to Coincard flaw",
-        "Bitcoin (BTC) is as hard to trade right now as it was in January",
-        "Quantum Solutions, Hyperscale Data tap crypto treasuries to fund AI data centers"
+        "Everyone has the perps convergence backwards",
+        "Iran-linked crypto network moved $4B through Dubai exchange",
+        "Coinbase's (COIN) weak quarter leaves Wall Street split on timing of a recovery"
       ]
     }
   ]
