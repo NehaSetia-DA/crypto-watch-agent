@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-08-03T06:45:00.000000Z",
+  "generated_at": "2026-08-04T06:15:00.000000Z",
   "prices": [
-    {"id": "bitcoin", "usd": 62672, "change_24h": -1.1798626463502209},
-    {"id": "ethereum", "usd": 1852.79, "change_24h": -1.2128845969720212},
-    {"id": "solana", "usd": 72.63, "change_24h": -1.1599043795808979}
+    {"id": "bitcoin", "usd": 63768, "change_24h": 1.5669152970241949},
+    {"id": "ethereum", "usd": 1862.62, "change_24h": 0.22528788640009592},
+    {"id": "solana", "usd": 73.71, "change_24h": 1.136890394008385}
   ],
-  "narrative": "The Coldcard hardware wallet exploit continued spreading — losses reached $89M across 4,500 addresses per CoinDesk (Galaxy Research), a third wave of sweeps targeting smaller balances — yet all three coins fell only about 1.2%, suggesting the breach isn't triggering forced selling at scale. Bitcoin mining difficulty dropped 14% from this year's high as plunging revenues force operators to pivot per CoinDesk, a supply-side contraction consistent with extended price weakness. Circle secured a New York trust charter, Tether posted $1.5B in Q2 profit while its reserve buffer fell by half, and the SEC moved to review Nasdaq bitcoin options approval after a CME jurisdictional challenge per CoinDesk.",
+  "narrative": "All three coins reversed yesterday's losses — bitcoin +1.57%, ethereum +0.23%, solana +1.14% — even as the Coldcard exploit hit 4,500 addresses with losses near $89M and CoinDesk reports holders are moving coins back to exchanges for safety, a behavior pointing opposite to today's price action. The Clarity Act is effectively out of time: the Senate enters summer recess in days with the bill still unresolved, removing the last near-term catalyst per CoinDesk. Strategy is now tracking Bitcoin's 200-week moving average — BTC sitting precisely on that level per CoinDesk — while Circle secured a New York trust charter and Tether posted $1.5B in Q2 operating profit.",
   "worth_watching": [
-    "Coldcard exploit still active — losses near $89M across 4,500 addresses in a third wave of sweeps per CoinDesk (Galaxy Research); hardware seed randomness risk not captured in spot prices",
-    "Bitcoin mining difficulty down 14% from 2026 high, forward markets signaling little relief through year-end per CoinDesk — profitability contraction that could reduce hashrate, absent from watchlist metrics",
-    "SEC reviewing Nasdaq bitcoin options approval after CME challenge per CoinDesk — a SEC vs. CFTC jurisdictional fight that could reshape BTC derivatives access, not tracked in spot prices"
+    "Trump Media moved 7,000 BTC to Crypto.com per CoinDesk (leaving only apparent loan collateral); next 10-Q will reveal if this was a custody move or sale — a strategic reserve narrative test not visible in spot prices",
+    "Stablecoin fragmentation intensifying as tech giants build competing corporate stablecoins — per CoinDesk, infrastructure platforms are repositioning to serve multiple issuers; structural shift absent from watchlist coin metrics",
+    "Bitcoin sitting on its 200-week moving average per CoinDesk — Strategy now tracks it, historically a significant level at cycle turns; a technical milestone that could influence institutional positioning not shown in the price watchlist"
   ],
   "news": [
     {
       "source": "coindesk.com",
       "headlines": [
-        "New York sues Kalshi, will seek damages, alleging it offers gambling platform",
         "U.S. sanctions Iran-linked bitcoin insurance scheme for Strait of Hormuz ships",
+        "Circle secures New York trust charter as crypto regulatory push accelerates",
         "The systemic-risk debate over perpetual futures is aimed at the wrong target",
         "Everything is becoming a perp",
         "RWA perps will outpace tokenization",
         "Everyone has the perps convergence backwards",
-        "Iran-linked crypto network moved $4B through Dubai exchange",
-        "Coinbase's (COIN) weak quarter leaves Wall Street split on timing of a recovery"
+        "Tether clears $1.5 billion in profit as its safety cushion shrinks by half",
+        "Bitcoin (BTC) price's July gain survives hawkish Fed, AI meltdown and Coldcard fallout"
       ]
     }
   ]

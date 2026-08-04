@@ -11,6 +11,32 @@ No investment advice — this surfaces what's happening, you read it.
 
 <!-- new briefs go here, between this marker and the previous entry -->
 
+## 2026-08-04
+
+**Movement** — bitcoin $63,768 ↗ +1.57%, ethereum $1,863 ↗ +0.23%, solana $74 ↗ +1.14%
+
+All three coins reversed yesterday's losses — bitcoin +1.57%, ethereum +0.23%, solana +1.14% — even as the Coldcard exploit hit 4,500 addresses with losses near $89M and CoinDesk reports holders are moving coins back to exchanges for safety, a behavior pointing opposite to today's price action. The Clarity Act is effectively out of time: the Senate enters summer recess in days with the bill still unresolved, removing the last near-term catalyst per CoinDesk. Strategy is now tracking Bitcoin's 200-week moving average — BTC sitting precisely on that level per CoinDesk — while Circle secured a New York trust charter and Tether posted $1.5B in Q2 operating profit.
+
+**Worth watching**
+- Trump Media moved 7,000 BTC to Crypto.com per CoinDesk (leaving only apparent loan collateral); next 10-Q will reveal if this was a custody move or sale — a strategic reserve narrative test not visible in spot prices
+- Stablecoin fragmentation intensifying as tech giants build competing corporate stablecoins — per CoinDesk, infrastructure platforms are repositioning to serve multiple issuers; structural shift absent from watchlist coin metrics
+- Bitcoin sitting on its 200-week moving average per CoinDesk — Strategy now tracks it, historically a significant level at cycle turns; a technical milestone that could influence institutional positioning not shown in the price watchlist
+
+<details><summary>8 headlines</summary>
+
+- [U.S. sanctions Iran-linked bitcoin insurance scheme for Strait of Hormuz ships](https://www.coindesk.com/policy/2026/07/31/u-s-sanctions-iran-linked-bitcoin-insurance-scheme-for-strait-of-hormuz-ships)
+- [Circle secures New York trust charter as crypto regulatory push accelerates](https://www.coindesk.com/policy/2026/07/31/circle-secures-new-york-trust-charter-as-crypto-regulatory-push-accelerates)
+- [The systemic-risk debate over perpetual futures is aimed at the wrong target](https://www.coindesk.com/opinion/2026/07/29/the-systemic-risk-debate-over-perpetual-futures-is-aimed-at-the-wrong-target)
+- [Everything is becoming a perp](https://www.coindesk.com/opinion/2026/07/28/everything-is-becoming-a-perp)
+- [RWA perps will outpace tokenization](https://www.coindesk.com/opinion/2026/07/31/rwa-perps-will-outpace-tokenization)
+- [Everyone has the perps convergence backwards](https://www.coindesk.com/opinion/2026/08/01/everyone-has-the-perps-convergence-backwards)
+- [Tether clears $1.5 billion in profit as its safety cushion shrinks by half](https://www.coindesk.com/business/2026/07/31/tether-posts-usd1-5-billion-operating-profit-in-q2-as-reserve-buffer-falls-by-half)
+- [Bitcoin (BTC) price's July gain survives hawkish Fed, AI meltdown and Coldcard fallout](https://www.coindesk.com/markets/2026/07/31/bitcoin-holds-onto-july-gain-as-forced-selling-fuel-was-already-spent-analysts-say)
+
+</details>
+
+---
+
 ## 2026-08-03
 
 **Movement** — bitcoin $62,672 ↘ -1.18%, ethereum $1,853 ↘ -1.21%, solana $73 ↘ -1.16%
