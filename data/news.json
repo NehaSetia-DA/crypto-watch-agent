@@ -1,20 +1,8 @@
 {
-  "job": "864818/1/66",
-  "fetched_at": "2026-08-03T06:41:38.227295Z",
-  "count": 63,
+  "job": "864818/1/67",
+  "fetched_at": "2026-08-04T06:07:27.935195Z",
+  "count": 64,
   "items": [
-    {
-      "headline": "New York sues Kalshi, will seek damages, alleging it offers gambling platform",
-      "subheadline": "The state is seeking a penalty equal to three times Kalshi\u2019s gains from the activity, plus $100,000 for each unauthorized or attempted offer of sports or mobile sports wagering,.",
-      "section": "Policy",
-      "url": "https://www.coindesk.com/policy/2026/07/31/new-york-sues-kalshi-alleges-it-offers-a-gambling-platform-plain-and-simple",
-      "date_published": "2026-07-31T09:55:47.619Z",
-      "author": "Olivier Acuna",
-      "tags": [
-        "Kalshi",
-        "litigation"
-      ]
-    },
     {
       "headline": "U.S. sanctions Iran-linked bitcoin insurance scheme for Strait of Hormuz ships",
       "subheadline": "The Treasury Department said the Hormuz Safe platform accepted bitcoin and other digital assets as part of an alleged sanctions workaround tied to IRGC-backed shipping controls.",
@@ -23,6 +11,18 @@
       "date_published": "2026-07-31T11:58:33.475Z",
       "author": "Shaurya Malwa",
       "tags": []
+    },
+    {
+      "headline": "Circle secures New York trust charter as crypto regulatory push accelerates",
+      "subheadline": "The approval lets the USDC issuer offer fiduciary and custody services under New York banking law.",
+      "section": "Policy",
+      "url": "https://www.coindesk.com/policy/2026/07/31/circle-secures-new-york-trust-charter-as-crypto-regulatory-push-accelerates",
+      "date_published": "2026-07-31T13:35:17Z",
+      "author": "Olivier Acuna",
+      "tags": [
+        "Circle",
+        "Stablecoins"
+      ]
     },
     {
       "headline": "The systemic-risk debate over perpetual futures is aimed at the wrong target",
@@ -90,49 +90,49 @@
       "tags": []
     },
     {
-      "headline": "Iran-linked crypto network moved $4B through Dubai exchange",
-      "subheadline": "Blockchain investigators traced billions in crypto through Shelbit, with hundreds of millions later reaching Binance and other major crypto exchanges.",
+      "headline": "Tether clears $1.5 billion in profit as its safety cushion shrinks by half",
+      "subheadline": "The stablecoin issuer stockpiled 14 tons of gold and 1,800 bitcoin, but a market slump dragged down the overall dollar value of its balance sheet.",
       "section": "Finance",
-      "url": "https://www.coindesk.com/business/2026/07/31/dubai-based-crypto-exchange-tied-to-usd4-billion-iran-sanctioned-evasion-network-reuters",
-      "date_published": "2026-07-31T12:28:02.567Z",
+      "url": "https://www.coindesk.com/business/2026/07/31/tether-posts-usd1-5-billion-operating-profit-in-q2-as-reserve-buffer-falls-by-half",
+      "date_published": "2026-07-31T18:24:55.686Z",
       "author": "Olivier Acuna",
       "tags": [
-        "Iran"
+        "Tether",
+        "Stablecoins",
+        "Bitcoin News"
       ]
     },
     {
-      "headline": "Coinbase's (COIN) weak quarter leaves Wall Street split on timing of a recovery",
-      "subheadline": "Most analysts blamed a weak crypto market for Coinbase's earnings miss, though opinions diverged on when trading activity will recover.",
+      "headline": "Bitcoin (BTC) price's July gain survives hawkish Fed, AI meltdown and Coldcard fallout",
+      "subheadline": "Bitcoin shrugged off a barrage of bad news this month, but traders remain cautious as rate hike fears and jobs data loom.",
       "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/07/31/coinbase-s-weak-quarter-leaves-wall-street-split-on-timing-of-a-recovery",
-      "date_published": "2026-07-31T13:20:45.480Z",
-      "author": "Helene Braun",
+      "url": "https://www.coindesk.com/markets/2026/07/31/bitcoin-holds-onto-july-gain-as-forced-selling-fuel-was-already-spent-analysts-say",
+      "date_published": "2026-07-31T20:50:58.883Z",
+      "author": "Krisztian Sandor",
       "tags": [
-        "Coinbase"
+        "Bitcoin News",
+        "Market Wrap"
       ]
     },
     {
-      "headline": "Circle secures New York trust charter as crypto regulatory push accelerates",
-      "subheadline": "The approval lets the USDC issuer offer fiduciary and custody services under New York banking law.",
-      "section": "Policy",
-      "url": "https://www.coindesk.com/policy/2026/07/31/circle-secures-new-york-trust-charter-as-crypto-regulatory-push-accelerates",
-      "date_published": "2026-07-31T13:35:17Z",
-      "author": "Olivier Acuna",
-      "tags": [
-        "Circle",
-        "Stablecoins"
-      ]
+      "headline": "How bitcoin cold wallets lost $70 million in an attack that never touched the devices",
+      "subheadline": "Galaxy Research said weak seed generation let an attacker recreate likely private keys offline, sweep more than 1,000 BTC from nearly 1,200 wallets and continue searching without ever accessing the devices.",
+      "section": "Tech",
+      "url": "https://www.coindesk.com/tech/2026/08/01/how-bitcoin-cold-wallets-lost-usd70-million-in-an-attack-that-never-touched-the-devices",
+      "date_published": "2026-08-01T05:55:46.668Z",
+      "author": "Shaurya Malwa",
+      "tags": []
     },
     {
-      "headline": "Coinbase wants to be Canada\u2019s \u2018everything exchange,\u2019 but says clearer rules are needed first",
-      "subheadline": "Coinbase Canada's new CEO, Eric Richmond, says permanent rules, rather than temporary exemptions, are needed as the company pushes to expand into derivatives, tokenized assets and decentralized finance.",
+      "headline": "Russia charges Telegram founder Pavel Durov with aiding terrorism",
+      "subheadline": "The charges could result in life imprisonment, escalating an investigation that has already led to over 100 million rubles in fines for the platform this year.",
       "section": "Policy",
-      "url": "https://www.coindesk.com/policy/2026/07/28/coinbase-wants-to-be-canada-s-everything-exchange-but-says-clearer-rules-are-needed-first",
-      "date_published": "2026-07-28T23:50:38.808Z",
-      "author": "Aoyon Ashraf",
+      "url": "https://www.coindesk.com/policy/2026/07/29/russia-charges-telegram-founder-pavel-durov-with-aiding-terrorism",
+      "date_published": "2026-07-29T09:10:54.886Z",
+      "author": "Francisco Rodrigues",
       "tags": [
-        "Coinbase",
-        "Exclusive"
+        "Crypto News",
+        "Telegram"
       ]
     },
     {
@@ -145,33 +145,25 @@
       "tags": []
     },
     {
-      "headline": "About $80 million ZEC crosses into Zcash's Ironwood pool in the first day",
-      "subheadline": "Roughly 5% of the funds in the retired Orchard pool have gone through the turnstile. The rest sit in a pool that can no longer take deposits.",
+      "headline": "Ethereum (ETH) news: Foundation names pcaversaccio to board amid leadership changes",
+      "subheadline": "pcaversaccio (known as \"pc\"), is a prominent security researcher in the Ethereum ecosystem. His addition brings the foundation's board to four members.",
       "section": "Tech",
-      "url": "https://www.coindesk.com/tech/2026/07/29/about-usd80-million-zec-crosses-into-zcash-s-new-ironwood-pool-in-the-first-day",
-      "date_published": "2026-07-29T13:32:37.904Z",
-      "author": "Shaurya Malwa",
-      "tags": []
-    },
-    {
-      "headline": "BTC, ETH price news: Bitcoin at $64,000 as Kospi's record 17% surge leaves crypto untouched",
-      "subheadline": "Samsung and SK Hynix both jumped more than 23%. Bitcoin moved a fraction of a percent in the past 24 hours, and most majors are still lower on the week.",
-      "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/07/31/bitcoin-flat-near-usd64-000-as-kospi-s-record-17-surge-leaves-crypto-untouched",
-      "date_published": "2026-07-31T05:43:39.790Z",
-      "author": "Shaurya Malwa",
-      "tags": []
-    },
-    {
-      "headline": "Brale bets new protocol can solve stablecoin liquidity bottleneck",
-      "subheadline": "Today's bridge model won't scale as hundreds of companies issue their own stablecoins, fragmenting liquidity, Brale CEO Ben Milne said in an interview.",
-      "section": "Finance",
-      "url": "https://www.coindesk.com/business/2026/07/29/stablecoin-firm-brale-says-new-protocol-can-remove-a-major-hurdle-to-scaling-custom-tokens",
-      "date_published": "2026-07-29T15:27:30.670Z",
-      "author": "Krisztian Sandor",
+      "url": "https://www.coindesk.com/tech/2026/07/29/ethereum-foundation-names-pcaversaccio-to-board-amid-leadership-changes",
+      "date_published": "2026-07-29T14:11:21.831Z",
+      "author": "Margaux Nijkerk",
       "tags": [
-        "Stablecoins",
-        "Exclusive"
+        "Ethereum News"
+      ]
+    },
+    {
+      "headline": "2026 FIFA World Cup saw $20 billion in prediction market volume",
+      "subheadline": "Markets ranged from the simple question of who would win the tournament to whether Cristiano Ronaldo would cry when Portugal were eliminated (he did).",
+      "section": "Markets",
+      "url": "https://www.coindesk.com/markets/2026/07/31/world-cup-bets-smash-records-as-prediction-markets-hit-usd20-billion-in-volume",
+      "date_published": "2026-07-31T12:00:26.389Z",
+      "author": "Jamie Crawley",
+      "tags": [
+        "Prediction Markets"
       ]
     },
     {
@@ -236,6 +228,40 @@
       ]
     },
     {
+      "headline": "Iran-linked crypto network moved $4B through Dubai exchange",
+      "subheadline": "Blockchain investigators traced billions in crypto through Shelbit, with hundreds of millions later reaching Binance and other major crypto exchanges.",
+      "section": "Finance",
+      "url": "https://www.coindesk.com/business/2026/07/31/dubai-based-crypto-exchange-tied-to-usd4-billion-iran-sanctioned-evasion-network-reuters",
+      "date_published": "2026-07-31T12:28:02.567Z",
+      "author": "Olivier Acuna",
+      "tags": [
+        "Iran"
+      ]
+    },
+    {
+      "headline": "Coldcard exploit reignites Bitcoin self-custody debate after $38 million theft",
+      "subheadline": "A software bug in popular hardware wallet Coldcard that led to the theft to this point of nearly 600 bitcoin worth roughly $38 million is prompting questions about security and whether managing private keys has become too risky for everyday investors.",
+      "section": "Finance",
+      "url": "https://www.coindesk.com/business/2026/07/31/coldcard-s-usd38-million-so-far-exploit-shakes-faith-in-self-custody-may-push-investors-to-etfs",
+      "date_published": "2026-07-31T17:07:30.029Z",
+      "author": "Krisztian Sandor",
+      "tags": [
+        "Bitcoin News",
+        "Hack"
+      ]
+    },
+    {
+      "headline": "The good and the bad of perps, according to crypto traders",
+      "subheadline": "Both retail and institutional traders worry about the funding rate.",
+      "section": "Finance",
+      "url": "https://www.coindesk.com/business/2026/07/31/the-good-and-the-bad-of-perps-according-to-crypto-traders",
+      "date_published": "2026-07-31T17:53:59.999Z",
+      "author": "Omkar Godbole",
+      "tags": [
+        "Perps Week 2026"
+      ]
+    },
+    {
       "headline": "Bitcoin mining difficulty shrinks 14% from this year's high as plunging revenues force operators to pivot",
       "subheadline": "Difficulty falls as weak mining economics reduce capacity, while forward markets signal little relief through year-end.",
       "section": "Finance",
@@ -248,57 +274,41 @@
       ]
     },
     {
-      "headline": "Live updates: 'Worst hit in Bitcoin history' \u2013 longtime Bitcoiners react to Coincard flaw",
-      "subheadline": "The Bank of Japan left its benchmark at 1% and Governor Ueda's hawkish signals landed softly, since markets had already priced an October hike.",
+      "headline": "Coinbase's (COIN) weak quarter leaves Wall Street split on timing of a recovery",
+      "subheadline": "Most analysts blamed a weak crypto market for Coinbase's earnings miss, though opinions diverged on when trading activity will recover.",
       "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/07/31/live-updates-bitcoin-steady-as-japan-holds-rates-at-1-keeping-the-yen-carry-trade-alive",
-      "date_published": "2026-07-31T07:46:10.355Z",
-      "author": "Shaurya Malwa",
-      "tags": []
-    },
-    {
-      "headline": "Bitcoin (BTC) is as hard to trade right now as it was in January",
-      "subheadline": "Bitcoin is as hard to trade now as in January. A standard deviation study shows its daily price swings at their tightest in six months, with volatility collapsing into small ranges. Here's what could happen next.",
-      "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/07/31/bitcoin-s-calm-is-back-and-so-is-the-setup-for-a-volatility-explosion",
-      "date_published": "2026-07-31T08:30:31.931Z",
-      "author": "Omkar Godbole",
+      "url": "https://www.coindesk.com/markets/2026/07/31/coinbase-s-weak-quarter-leaves-wall-street-split-on-timing-of-a-recovery",
+      "date_published": "2026-07-31T13:20:45.480Z",
+      "author": "Helene Braun",
       "tags": [
-        "Bitcoin News",
-        "Technical Analysis"
+        "Coinbase"
       ]
     },
     {
-      "headline": "Bitcoin slides on the final day of July while equities boom ",
-      "subheadline": "The BTC price fell as July drew to a close, even as stocks gained in Asia and U.S. index futures advanced. The CoinDesk 20 (CD20) index is set to post its biggest gain since July 2025.",
+      "headline": "STS Digital CEO sees three major headwinds for crypto markets",
+      "subheadline": "Institutional options selling, AI and delayed U.S. crypto regulation are weighing on bitcoin, according to STS Digital CEO Maxime Seiler.",
       "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/07/31/bitcoin-ether-fall-equities-rally-with-broader-crypto-market-on-track-for-best-month-in-a-year",
-      "date_published": "2026-07-31T11:07:52.307Z",
-      "author": "Oliver Knight",
+      "url": "https://www.coindesk.com/markets/2026/07/31/crypto-faces-3-barriers-to-next-bull-run-sts-digital-ceo-says",
+      "date_published": "2026-07-31T15:00:00.000Z",
+      "author": "Will Canny",
       "tags": [
-        "Crypto Markets Today"
+        "Crypto Trading",
+        "Exclusive",
+        "STS Digital",
+        "crypto options",
+        "Regulation",
+        "Bitcoin News"
       ]
     },
     {
-      "headline": "2026 FIFA World Cup saw $20 billion in prediction market volume",
-      "subheadline": "Markets ranged from the simple question of who would win the tournament to whether Cristiano Ronaldo would cry when Portugal were eliminated (he did).",
+      "headline": "Quantum computing nears commercial breakthrough, IBM CEO says",
+      "subheadline": "Arvind Krishna said quantum computing will begin generating meaningful revenue before the decade ends as investment in the sector accelerates, in an interview on CNBC.",
       "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/07/31/world-cup-bets-smash-records-as-prediction-markets-hit-usd20-billion-in-volume",
-      "date_published": "2026-07-31T12:00:26.389Z",
-      "author": "Jamie Crawley",
+      "url": "https://www.coindesk.com/markets/2026/07/31/quantum-computing-nears-commercial-breakthrough-ibm-ceo-says",
+      "date_published": "2026-07-31T15:39:30.025Z",
+      "author": "Helene Braun",
       "tags": [
-        "Prediction Markets"
-      ]
-    },
-    {
-      "headline": "Ethereum (ETH) news: Foundation names pcaversaccio to board amid leadership changes",
-      "subheadline": "pcaversaccio (known as \"pc\"), is a prominent security researcher in the Ethereum ecosystem. His addition brings the foundation's board to four members.",
-      "section": "Tech",
-      "url": "https://www.coindesk.com/tech/2026/07/29/ethereum-foundation-names-pcaversaccio-to-board-amid-leadership-changes",
-      "date_published": "2026-07-29T14:11:21.831Z",
-      "author": "Margaux Nijkerk",
-      "tags": [
-        "Ethereum News"
+        "quantum computing"
       ]
     },
     {
@@ -427,18 +437,6 @@
       "tags": []
     },
     {
-      "headline": "Russia charges Telegram founder Pavel Durov with aiding terrorism",
-      "subheadline": "The charges could result in life imprisonment, escalating an investigation that has already led to over 100 million rubles in fines for the platform this year.",
-      "section": "Policy",
-      "url": "https://www.coindesk.com/policy/2026/07/29/russia-charges-telegram-founder-pavel-durov-with-aiding-terrorism",
-      "date_published": "2026-07-29T09:10:54.886Z",
-      "author": "Francisco Rodrigues",
-      "tags": [
-        "Crypto News",
-        "Telegram"
-      ]
-    },
-    {
       "headline": "Senators ready to send stricter ethics rules on Trump's crypto ventures to White House, sources say",
       "subheadline": "Insiders say that the bipartisan Senate duo revamping the bill's Trump-approved ethics section have come up with something they hope wins sufficient yes votes.",
       "section": "Policy",
@@ -511,69 +509,16 @@
       ]
     },
     {
-      "headline": "STS Digital CEO sees three major headwinds for crypto markets",
-      "subheadline": "Institutional options selling, AI and delayed U.S. crypto regulation are weighing on bitcoin, according to STS Digital CEO Maxime Seiler.",
-      "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/07/31/crypto-faces-3-barriers-to-next-bull-run-sts-digital-ceo-says",
-      "date_published": "2026-07-31T15:00:00.000Z",
-      "author": "Will Canny",
-      "tags": []
-    },
-    {
-      "headline": "Quantum computing nears commercial breakthrough, IBM CEO says",
-      "subheadline": "Arvind Krishna said quantum computing will begin generating meaningful revenue before the decade ends as investment in the sector accelerates, in an interview on CNBC.",
-      "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/07/31/quantum-computing-nears-commercial-breakthrough-ibm-ceo-says",
-      "date_published": "2026-07-31T15:39:30.025Z",
-      "author": "Helene Braun",
-      "tags": [
-        "quantum computing"
-      ]
-    },
-    {
-      "headline": "Coldcard exploit reignites Bitcoin self-custody debate after $38 million theft",
-      "subheadline": "A software bug in popular hardware wallet Coldcard that led to the theft to this point of nearly 600 bitcoin worth roughly $38 million is prompting questions about security and whether managing private keys has become too risky for everyday investors.",
-      "section": "Finance",
-      "url": "https://www.coindesk.com/business/2026/07/31/coldcard-s-usd38-million-so-far-exploit-shakes-faith-in-self-custody-may-push-investors-to-etfs",
-      "date_published": "2026-07-31T17:07:30.029Z",
-      "author": "Krisztian Sandor",
-      "tags": []
-    },
-    {
-      "headline": "The good and the bad of perps, according to crypto traders",
-      "subheadline": "Both retail and institutional traders worry about the funding rate.",
-      "section": "Finance",
-      "url": "https://www.coindesk.com/business/2026/07/31/the-good-and-the-bad-of-perps-according-to-crypto-traders",
-      "date_published": "2026-07-31T17:53:59.999Z",
-      "author": "Omkar Godbole",
-      "tags": []
-    },
-    {
-      "headline": "Tether clears $1.5 billion in profit as its safety cushion shrinks by half",
-      "subheadline": "The stablecoin issuer stockpiled 14 tons of gold and 1,800 bitcoin, but a market slump dragged down the overall dollar value of its balance sheet.",
-      "section": "Finance",
-      "url": "https://www.coindesk.com/business/2026/07/31/tether-posts-usd1-5-billion-operating-profit-in-q2-as-reserve-buffer-falls-by-half",
-      "date_published": "2026-07-31T18:24:55.686Z",
+      "headline": "New York sues Kalshi, will seek damages, alleging it offers gambling platform",
+      "subheadline": "The state is seeking a penalty equal to three times Kalshi\u2019s gains from the activity, plus $100,000 for each unauthorized or attempted offer of sports or mobile sports wagering,.",
+      "section": "Policy",
+      "url": "https://www.coindesk.com/policy/2026/07/31/new-york-sues-kalshi-alleges-it-offers-a-gambling-platform-plain-and-simple",
+      "date_published": "2026-07-31T09:55:47.619Z",
       "author": "Olivier Acuna",
-      "tags": []
-    },
-    {
-      "headline": "Bitcoin (BTC) price's July gain survives hawkish Fed, AI meltdown and Coldcard fallout",
-      "subheadline": "Bitcoin shrugged off a barrage of bad news this month, but traders remain cautious as rate hike fears and jobs data loom.",
-      "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/07/31/bitcoin-holds-onto-july-gain-as-forced-selling-fuel-was-already-spent-analysts-say",
-      "date_published": "2026-07-31T20:50:58.883Z",
-      "author": "Krisztian Sandor",
-      "tags": []
-    },
-    {
-      "headline": "How bitcoin cold wallets lost $70 million in an attack that never touched the devices",
-      "subheadline": "Galaxy Research said weak seed generation let an attacker recreate likely private keys offline, sweep more than 1,000 BTC from nearly 1,200 wallets and continue searching without ever accessing the devices.",
-      "section": "Tech",
-      "url": "https://www.coindesk.com/tech/2026/08/01/how-bitcoin-cold-wallets-lost-usd70-million-in-an-attack-that-never-touched-the-devices",
-      "date_published": "2026-08-01T05:55:46.668Z",
-      "author": "Shaurya Malwa",
-      "tags": []
+      "tags": [
+        "Kalshi",
+        "litigation"
+      ]
     },
     {
       "headline": "Ripple news: XRP Ledger upgrade brings back features once pulled over critical bugs",
@@ -591,10 +536,7 @@
       "url": "https://www.coindesk.com/markets/2026/08/01/binance-founder-cz-says-diversify-your-wallets-following-usd70-million-coldcard-exploit",
       "date_published": "2026-08-01T09:01:08.272Z",
       "author": "Omkar Godbole",
-      "tags": [
-        "Binance",
-        "CZ"
-      ]
+      "tags": []
     },
     {
       "headline": "Solana (SOL) news: Foundation's new CISO warns AI is making crypto scams more convincing",
@@ -652,6 +594,87 @@
         "MicroStrategy",
         "Bitcoin News"
       ]
+    },
+    {
+      "headline": "Unlike the FTX collapse, the $89 million Coldcard exploit has investors sending bitcoin back to exchanges",
+      "subheadline": "Unlike the FTX collapse, the $89 million Coldcard exploit is driving bitcoin back onto exchanges as holders seek temporary safety, data from CryptoQuant and Timechainindex shows.",
+      "section": "Markets",
+      "url": "https://www.coindesk.com/markets/2026/08/02/unlike-the-ftx-collapse-the-usd88-million-coldcard-exploit-has-investors-sending-bitcoin-back-to-exchanges",
+      "date_published": "2026-08-02T12:03:51.278Z",
+      "author": "Omkar Godbole",
+      "tags": [
+        "Bitcoin News"
+      ]
+    },
+    {
+      "headline": "The reverse bridge: Crypto meets Wall Street using perps",
+      "subheadline": "Crypto exchanges built perpetual futures for digital assets. Now they are using them to offer 24/7 exposure to stocks, commodities and indexes.",
+      "section": "Finance",
+      "url": "https://www.coindesk.com/business/2026/08/02/the-reverse-bridge-crypto-meets-wall-street-using-perps",
+      "date_published": "2026-08-02T13:00:00.000Z",
+      "author": "Olivier Acuna",
+      "tags": []
+    },
+    {
+      "headline": "Legacy crypto on-ramps and bridges will disappear as payments become invisible, Fun CEO says",
+      "subheadline": "Alex Fine said standalone crypto payment rails are becoming obsolete as platforms shift toward unified funding flows that abstract away blockchain complexity for users.",
+      "section": "Tech",
+      "url": "https://www.coindesk.com/tech/2026/08/02/the-future-of-crypto-payments-won-t-include-on-ramps-or-bridges-fun-ceo-says",
+      "date_published": "2026-08-02T16:00:00.000Z",
+      "author": "Will Canny",
+      "tags": []
+    },
+    {
+      "headline": "A massive stablecoin fragmentation war is brewing between tech giants and a startup is aiming to capitalize on it",
+      "subheadline": "Revenue fell from $80 million to $20 million in the bear market. OTC lending at $260 million outstanding is the fastest-growing line, targeting $1 billion by year-end.",
+      "section": "Web3",
+      "url": "https://www.coindesk.com/web3/2026/08/02/why-a-defi-platform-ditched-its-consumer-app-to-become-the-secret-backend-for-tech-giants",
+      "date_published": "2026-08-02T17:00:00.000Z",
+      "author": "Francisco Rodrigues",
+      "tags": [
+        "DeFi",
+        "Stablecoins",
+        "Web3"
+      ]
+    },
+    {
+      "headline": "Counting down the days: State of Crypto ",
+      "subheadline": "The Senate is going on its summer break in a week, leaving next to no time left to sort out its remaining priorities in August. And obviously, the fate of Clarity is one of those priorities. \n",
+      "section": "Policy",
+      "url": "https://www.coindesk.com/policy/2026/08/02/counting-down-the-days-state-of-crypto",
+      "date_published": "2026-08-02T18:30:00.000Z",
+      "author": "Nikhilesh De",
+      "tags": []
+    },
+    {
+      "headline": "Here's why Michael Saylor\u2019s Strategy (MSTR) is tracking BTC's 200-week moving average",
+      "subheadline": "Strategy begins tracking Bitcoin\u2019s 200-week moving average as the price sits right on the historically important level. Here\u2019s why it matters.",
+      "section": "Markets",
+      "url": "https://www.coindesk.com/markets/2026/08/03/michael-saylor-s-strategy-is-now-tracking-bitcoin-s-200-week-moving-average",
+      "date_published": "2026-08-03T05:07:49.370Z",
+      "author": "Omkar Godbole",
+      "tags": [
+        "Bitcoin News",
+        "Technical Analysis"
+      ]
+    },
+    {
+      "headline": "BTC news: Trump Media has moved out 7,000 bitcoin, leaving only likely loan collateral",
+      "subheadline": "Wallets tied to the Truth Social parent now hold about as much bitcoin as the company previously pledged as note collateral, making its next 10-Q the key test of whether recent Crypto.com transfers were custody moves or sales.",
+      "section": "Markets",
+      "url": "https://www.coindesk.com/markets/2026/08/03/trump-media-s-bitcoin-stash-may-be-down-to-loan-collateral-after-usd165-million-btc-move",
+      "date_published": "2026-08-03T05:52:29.775Z",
+      "author": "Shaurya Malwa",
+      "tags": []
+    },
+    {
+      "headline": "Bitcoin slips under $63,000 despite Iran deal hopes as Coldcard losses rattle market",
+      "subheadline": "Oil and Treasury yields fell after fresh U.S.-Iran talks eased inflation fears, but bitcoin and ether failed to catch a bid as fresh Coldcard-linked sweeps pushed observed losses to nearly $89 million.",
+      "section": "Markets",
+      "url": "https://www.coindesk.com/markets/2026/08/03/bitcoin-slips-under-usd63-000-despite-iran-deal-hopes-as-coldcard-losses-rattle-market",
+      "date_published": "2026-08-03T06:15:38.749Z",
+      "author": "Shaurya Malwa",
+      "tags": []
     }
   ]
 }
