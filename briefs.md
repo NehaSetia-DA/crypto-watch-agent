@@ -11,6 +11,32 @@ No investment advice — this surfaces what's happening, you read it.
 
 <!-- new briefs go here, between this marker and the previous entry -->
 
+## 2026-08-05
+
+**Movement** — bitcoin $64,273 ↗ +0.83%, ethereum $1,872 ↗ +0.52%, solana $74 ↗ +0.52%
+
+All three coins posted slim gains — bitcoin +0.83%, ethereum +0.52%, solana +0.52% — even as the Coldcard exploit entered a fifth day, with losses nearing $114 million across a possible fourth sweep per CoinDesk, prices and security news moving in opposite directions for the second straight session. Strategy sold 1,638 BTC last week per CoinDesk while bitcoin futures carry collapsed below U.S. Treasury yields; BlackRock simultaneously launched tokenized money market funds aligned to GENIUS Act reserve rules per CoinDesk. Bernstein warned Clarity Act failure this session could trigger another leg lower per CoinDesk, with the Senate recess now imminent and the bill still unresolved.
+
+**Worth watching**
+- Coldcard losses nearing $114M in a possible fourth sweep per CoinDesk — attacker still active, no patch in place; hardware wallet seed risk not in spot prices, with dormant 2013 wallets also moving as owners check holdings
+- Solana governance proposal SGP-0003 would increase daily SOL burns 14x (from $47K to $650K) per CoinDesk, doubling the disinflation rate — needs 40M more SOL validator support in two weeks to reach a vote; not visible in spot price
+- Circle stock slashed to $38 from $106 by Morgan Stanley per CoinDesk, citing Open USD and slower USDC growth — stablecoin issuer fragmentation accelerating outside watchlist coin metrics
+
+<details><summary>8 headlines</summary>
+
+- [The systemic-risk debate over perpetual futures is aimed at the wrong target](https://www.coindesk.com/opinion/2026/07/29/the-systemic-risk-debate-over-perpetual-futures-is-aimed-at-the-wrong-target)
+- [Everything is becoming a perp](https://www.coindesk.com/opinion/2026/07/28/everything-is-becoming-a-perp)
+- [RWA perps will outpace tokenization](https://www.coindesk.com/opinion/2026/07/31/rwa-perps-will-outpace-tokenization)
+- [Everyone has the perps convergence backwards](https://www.coindesk.com/opinion/2026/08/01/everyone-has-the-perps-convergence-backwards)
+- [Bitcoin cold-wallet losses may near $114 million as possible fourth sweep emerges](https://www.coindesk.com/tech/2026/08/03/coldcard-wallet-losses-may-near-usd114-million-as-possible-fourth-sweep-emerges)
+- [Robinhood wins UK crypto registration ahead of new regulatory regime commencing](https://www.coindesk.com/policy/2026/08/03/robinhood-wins-uk-crypto-registration-before-new-regulatory-regime-kicks-off)
+- [The bitcoin futures yield collapse: Once over 20%, now behind Treasury notes](https://www.coindesk.com/markets/2026/08/03/the-bitcoin-futures-yield-collapse-once-over-20-now-less-than-treasury-notes)
+- [Live updates: Bitcoin flirts with $64,000 as stocks start strong in August](https://www.coindesk.com/business/2026/08/03/live-updates-traders-say-bitcoin-sell-off-from-usd65-000-points-to-thin-volume-not-panic-selling)
+
+</details>
+
+---
+
 ## 2026-08-04
 
 **Movement** — bitcoin $63,768 ↗ +1.57%, ethereum $1,863 ↗ +0.23%, solana $74 ↗ +1.14%
