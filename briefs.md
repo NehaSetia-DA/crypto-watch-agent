@@ -11,6 +11,32 @@ No investment advice — this surfaces what's happening, you read it.
 
 <!-- new briefs go here, between this marker and the previous entry -->
 
+## 2026-08-06
+
+**Movement** — bitcoin $64,806 ↗ +0.81%, ethereum $1,912 ↗ +2.20%, solana $74 ↗ +0.20%
+
+Ethereum outperformed at +2.20% as a new EIP-8361 proposal would cut ETH issuance to zero if staking reaches $112B per CoinDesk, even as the Coldcard exploit continued to drain wallets — losses top $114M with the maker now urging users to move funds, a security crisis not reflected in spot prices across three straight sessions. Tokenization advanced on multiple fronts: BlackRock debuted $311B of tokenized money market funds in Europe, Wells Fargo joined JPMorgan and Citi in building tokenized settlement rails, and Samsung is embedding stablecoins into 800 million phones per CoinDesk. The Clarity Act remained stalled as Senator Warren called on the SEC to investigate Trump's memecoin — with Bernstein warning legislative failure could push crypto lower and the Senate about to enter summer recess per CoinDesk.
+
+**Worth watching**
+- Bitcoin is 49% below its all-time record while the S&P 500 hits all-time highs per CoinDesk — macro divergence widening as global stocks print records on Iran deal hopes; gap not captured in daily watchlist moves
+- New Ethereum EIP-8361 proposal would cut issuance to zero if staked ETH reaches $112B per CoinDesk — a deflationary protocol change that could shift ETH supply dynamics significantly outside spot prices
+- Polymarket targeting $20B valuation per CoinDesk, up from $15B just months ago — prediction markets reaching institutional scale and competing with traditional financial products; sector story absent from BTC/ETH/SOL metrics
+
+<details><summary>8 headlines</summary>
+
+- [U.S. FBI intelligence agent arrested in connection with theft of $1 million in crypto](https://www.coindesk.com/policy/2026/08/03/u-s-fbi-intelligence-agent-arrested-in-connection-with-theft-of-usd1-million-in-crypto)
+- [The systemic-risk debate over perpetual futures is aimed at the wrong target](https://www.coindesk.com/opinion/2026/07/29/the-systemic-risk-debate-over-perpetual-futures-is-aimed-at-the-wrong-target)
+- [Everything is becoming a perp](https://www.coindesk.com/opinion/2026/07/28/everything-is-becoming-a-perp)
+- [RWA perps will outpace tokenization](https://www.coindesk.com/opinion/2026/07/31/rwa-perps-will-outpace-tokenization)
+- [Everyone has the perps convergence backwards](https://www.coindesk.com/opinion/2026/08/01/everyone-has-the-perps-convergence-backwards)
+- [BlackRock (BLK) debuts tokenized access to $311 billion of money market funds in Europe](https://www.coindesk.com/business/2026/08/04/blackrock-debuts-tokenized-access-to-usd311-billion-of-money-market-funds-in-europe)
+- [BTC price rises as Coldcard exploit, Strategy sales recede. ADA advances: Crypto Markets Today](https://www.coindesk.com/markets/2026/08/04/bitcoin-rises-toward-usd64-000-as-coldcard-exploit-strategy-sales-recede-ada-advances)
+- [South African lawmakers propose draft rules on cross-border crypto transactions](https://www.coindesk.com/policy/2026/08/04/south-african-lawmakers-propose-draft-rules-on-cross-border-crypto-transactions)
+
+</details>
+
+---
+
 ## 2026-08-05
 
 **Movement** — bitcoin $64,273 ↗ +0.83%, ethereum $1,872 ↗ +0.52%, solana $74 ↗ +0.52%

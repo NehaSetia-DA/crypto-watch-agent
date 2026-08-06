@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-08-05T06:10:00.000000Z",
+  "generated_at": "2026-08-06T06:10:00.000000Z",
   "prices": [
-    {"id": "bitcoin", "usd": 64273.0, "change_24h": 0.8286111982634885},
-    {"id": "ethereum", "usd": 1871.6, "change_24h": 0.5191750311639135},
-    {"id": "solana", "usd": 74.06, "change_24h": 0.5218125794374204}
+    {"id": "bitcoin", "usd": 64806, "change_24h": 0.814227743704309},
+    {"id": "ethereum", "usd": 1911.7, "change_24h": 2.2032849018975105},
+    {"id": "solana", "usd": 74.16, "change_24h": 0.2026121845688198}
   ],
-  "narrative": "All three coins posted slim gains — bitcoin +0.83%, ethereum +0.52%, solana +0.52% — even as the Coldcard exploit entered a fifth day, with losses nearing $114 million across a possible fourth sweep per CoinDesk, prices and security news moving in opposite directions for the second straight session. Strategy sold 1,638 BTC last week per CoinDesk while bitcoin futures carry collapsed below U.S. Treasury yields; BlackRock simultaneously launched tokenized money market funds aligned to GENIUS Act reserve rules per CoinDesk. Bernstein warned Clarity Act failure this session could trigger another leg lower per CoinDesk, with the Senate recess now imminent and the bill still unresolved.",
+  "narrative": "Ethereum outperformed at +2.20% as a new EIP-8361 proposal would cut ETH issuance to zero if staking reaches $112B per CoinDesk, even as the Coldcard exploit continued to drain wallets — losses top $114M with the maker now urging users to move funds, a security crisis not reflected in spot prices across three straight sessions. Tokenization advanced on multiple fronts: BlackRock debuted $311B of tokenized money market funds in Europe, Wells Fargo joined JPMorgan and Citi in building tokenized settlement rails, and Samsung is embedding stablecoins into 800 million phones per CoinDesk. The Clarity Act remained stalled as Senator Warren called on the SEC to investigate Trump's memecoin — with Bernstein warning legislative failure could push crypto lower and the Senate about to enter summer recess per CoinDesk.",
   "worth_watching": [
-    "Coldcard losses nearing $114M in a possible fourth sweep per CoinDesk — attacker still active, no patch in place; hardware wallet seed risk not in spot prices, with dormant 2013 wallets also moving as owners check holdings",
-    "Solana governance proposal SGP-0003 would increase daily SOL burns 14x (from $47K to $650K) per CoinDesk, doubling the disinflation rate — needs 40M more SOL validator support in two weeks to reach a vote; not visible in spot price",
-    "Circle stock slashed to $38 from $106 by Morgan Stanley per CoinDesk, citing Open USD and slower USDC growth — stablecoin issuer fragmentation accelerating outside watchlist coin metrics"
+    "Bitcoin is 49% below its all-time record while the S&P 500 hits all-time highs per CoinDesk — macro divergence widening as global stocks print records on Iran deal hopes; gap not captured in daily watchlist moves",
+    "New Ethereum EIP-8361 proposal would cut issuance to zero if staked ETH reaches $112B per CoinDesk — a deflationary protocol change that could shift ETH supply dynamics significantly outside spot prices",
+    "Polymarket targeting $20B valuation per CoinDesk, up from $15B just months ago — prediction markets reaching institutional scale and competing with traditional financial products; sector story absent from BTC/ETH/SOL metrics"
   ],
   "news": [
     {
       "source": "coindesk.com",
       "headlines": [
+        "U.S. FBI intelligence agent arrested in connection with theft of $1 million in crypto",
         "The systemic-risk debate over perpetual futures is aimed at the wrong target",
         "Everything is becoming a perp",
         "RWA perps will outpace tokenization",
         "Everyone has the perps convergence backwards",
-        "Bitcoin cold-wallet losses may near $114 million as possible fourth sweep emerges",
-        "Robinhood wins UK crypto registration ahead of new regulatory regime commencing",
-        "The bitcoin futures yield collapse: Once over 20%, now behind Treasury notes",
-        "Live updates: Bitcoin flirts with $64,000 as stocks start strong in August"
+        "BlackRock (BLK) debuts tokenized access to $311 billion of money market funds in Europe",
+        "BTC price rises as Coldcard exploit, Strategy sales recede. ADA advances: Crypto Markets Today",
+        "South African lawmakers propose draft rules on cross-border crypto transactions"
       ]
     }
   ]
