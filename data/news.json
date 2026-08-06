@@ -1,8 +1,19 @@
 {
-  "job": "864818/1/68",
-  "fetched_at": "2026-08-05T06:03:55.873569Z",
+  "job": "864818/1/69",
+  "fetched_at": "2026-08-06T06:07:53.363468Z",
   "count": 64,
   "items": [
+    {
+      "headline": "U.S. FBI intelligence agent arrested in connection with theft of $1 million in crypto",
+      "subheadline": "The agent, who had \"top secret\" clearance and worked in FBI headquarters, was accused of taking crypto from wallets the agency had investigated.",
+      "section": "Policy",
+      "url": "https://www.coindesk.com/policy/2026/08/03/u-s-fbi-intelligence-agent-arrested-in-connection-with-theft-of-usd1-million-in-crypto",
+      "date_published": "2026-08-03T22:17:59.102Z",
+      "author": "Jesse Hamilton",
+      "tags": [
+        "Crime"
+      ]
+    },
     {
       "headline": "The systemic-risk debate over perpetual futures is aimed at the wrong target",
       "subheadline": "As perpetuals enter regulated markets, critics warn they import systemic risk. But the risk comes from venue design \u2014 leverage limits, margin rules, index construction, and default handling \u2014 not the contract itself, argues Chris Tyrer, President of Bullish Exchange.",
@@ -69,71 +80,60 @@
       "tags": []
     },
     {
-      "headline": "Bitcoin cold-wallet losses may near $114 million as possible fourth sweep emerges",
-      "subheadline": "The pending transactions signal replace-by-fee, so anyone who spots their address in the mempool has minutes to pay a higher fee and move funds first.",
-      "section": "Tech",
-      "url": "https://www.coindesk.com/tech/2026/08/03/coldcard-wallet-losses-may-near-usd114-million-as-possible-fourth-sweep-emerges",
-      "date_published": "2026-08-03T08:51:39.073Z",
-      "author": "Shaurya Malwa",
+      "headline": "BlackRock (BLK) debuts tokenized access to $311 billion of money market funds in Europe",
+      "subheadline": "Earlier this week, BlackRock expanded its U.S. tokenized cash platform which involved offering onchain shares of an existing fund, plus a new daily reinvestment stablecoin fund.",
+      "section": "Finance",
+      "url": "https://www.coindesk.com/business/2026/08/04/blackrock-debuts-tokenized-access-to-usd311-billion-of-money-market-funds-in-europe",
+      "date_published": "2026-08-04T10:03:24.045Z",
+      "author": "Ian Allison",
       "tags": [
-        "Bitcoin News",
-        "Hack"
+        "Tokenization",
+        "BlackRock"
       ]
     },
     {
-      "headline": "Robinhood wins UK crypto registration ahead of new regulatory regime commencing",
-      "subheadline": "Robinhood\u2019s U.K. arm has been added to the FCA's list of registered cryptoasset companies as of July 31.",
+      "headline": "BTC price rises as Coldcard exploit, Strategy sales recede. ADA advances: Crypto Markets Today",
+      "subheadline": "Bitcoin advanced as the market settled down following the weekend\u2019s hack of Coldcard wallets and sales by Strategy even as sentiment remained in \u201cextreme fear.\u201d",
+      "section": "Markets",
+      "url": "https://www.coindesk.com/markets/2026/08/04/bitcoin-rises-toward-usd64-000-as-coldcard-exploit-strategy-sales-recede-ada-advances",
+      "date_published": "2026-08-04T10:51:11.776Z",
+      "author": "Francisco Rodrigues",
+      "tags": [
+        "Crypto Markets Today"
+      ]
+    },
+    {
+      "headline": "South African lawmakers propose draft rules on cross-border crypto transactions",
+      "subheadline": "A draft rulebook proposes that sending crypto offshore must be conducted through an authorized provider and be reported to the central bank\u2019s FinSurv.",
       "section": "Policy",
-      "url": "https://www.coindesk.com/policy/2026/08/03/robinhood-wins-uk-crypto-registration-before-new-regulatory-regime-kicks-off",
-      "date_published": "2026-08-03T09:38:53Z",
+      "url": "https://www.coindesk.com/policy/2026/08/04/south-african-lawmakers-propose-draft-rules-on-cross-border-crypto-transactions",
+      "date_published": "2026-08-04T10:59:41.570Z",
       "author": "Jamie Crawley",
       "tags": [
-        "Robinhood",
-        "UK",
-        "Regulation"
+        "South Korea"
       ]
     },
     {
-      "headline": "The bitcoin futures yield collapse: Once over 20%, now behind Treasury notes",
-      "subheadline": "Bitcoin futures\u2019 carry collapsed from 30%+ to below two\u2011year Treasury yields since February, weighing on volumes and suggesting tighter spreads, improved liquidity and fewer arbitrage opportunities.",
-      "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/08/03/the-bitcoin-futures-yield-collapse-once-over-20-now-less-than-treasury-notes",
-      "date_published": "2026-08-03T10:13:50.006Z",
+      "headline": "The bitcoin (BTC) price has plenty of reasons to freak out, yet volatility remains low: Crypto Daily",
+      "subheadline": "The day ahead in crypto: Aug. 4, 2026",
+      "section": "Crypto Daybook Americas",
+      "url": "https://www.coindesk.com/daybook-us/2026/08/04/the-bitcoin-market-has-plenty-of-reasons-to-freak-out-yet-calm-pervades",
+      "date_published": "2026-08-04T11:23:33.412Z",
       "author": "Omkar Godbole",
       "tags": [
-        "Bitcoin News"
+        "Crypto Daybook Americas"
       ]
     },
     {
-      "headline": "Live updates: Bitcoin flirts with $64,000 as stocks start strong in August",
-      "subheadline": "ARP Digital\u2019s Yusuf Fakhro said bitcoin\u2019s weakness reflects stalled participation more than forced selling, with ETF flows turning negative, CME open interest back at 2023 levels and Strategy idle for a fifth straight week.",
-      "section": "Finance",
-      "url": "https://www.coindesk.com/business/2026/08/03/live-updates-traders-say-bitcoin-sell-off-from-usd65-000-points-to-thin-volume-not-panic-selling",
-      "date_published": "2026-08-03T10:29:23.632Z",
-      "author": "Shaurya Malwa",
-      "tags": []
-    },
-    {
-      "headline": "Bithumb shares its new roadmap toward 2028 IPO",
-      "subheadline": "South Korea's largest crypto trading platform announced efforts to meet international accounting and compliance standards ahead of its preliminary 2027 IPO listing.",
-      "section": "Finance",
-      "url": "https://www.coindesk.com/business/2026/08/03/bithumb-now-targets-2028-ip-after-major-internal-restructuring",
-      "date_published": "2026-08-03T10:41:08.578Z",
-      "author": "Olivier Acuna",
-      "tags": [
-        "South Korea",
-        "IPOs"
-      ]
-    },
-    {
-      "headline": "Pavel Durov's Telegram messaging app faces new terror charges. Now in Australia.",
-      "subheadline": "Australian authorities accused Telegram of allegedly failing to remove terror-related content, including a video of New Zealand's March 2019 Christchurch shooting. ",
+      "headline": "New York sues Kalshi, will seek damages, alleging it offers gambling platform",
+      "subheadline": "The state is seeking a penalty equal to three times Kalshi\u2019s gains from the activity, plus $100,000 for each unauthorized or attempted offer of sports or mobile sports wagering,.",
       "section": "Policy",
-      "url": "https://www.coindesk.com/policy/2026/07/30/telegram-faces-terror-related-legal-action-in-australia-one-day-after-founder-is-charged-by-russia",
-      "date_published": "2026-07-30T12:09:18.686Z",
+      "url": "https://www.coindesk.com/policy/2026/07/31/new-york-sues-kalshi-alleges-it-offers-a-gambling-platform-plain-and-simple",
+      "date_published": "2026-07-31T09:55:47.619Z",
       "author": "Olivier Acuna",
       "tags": [
-        "Telegram"
+        "Kalshi",
+        "litigation"
       ]
     },
     {
@@ -146,146 +146,6 @@
       "tags": []
     },
     {
-      "headline": "Bitcoin's quantum plan assumes some algorithms break. AI just weakened one in 60 hours",
-      "subheadline": "The HAWK system isn't deployed anywhere, and Bitcoin doesn't use it. But is sitting in the same quantum race that Bitcoin developers are scrambling to finish.",
-      "section": "Tech",
-      "url": "https://www.coindesk.com/tech/2026/07/29/bitcoin-s-quantum-plan-assumes-some-algorithms-break-ai-just-weakened-one-in-60-hours",
-      "date_published": "2026-07-30T04:16:30Z",
-      "author": "Shaurya Malwa",
-      "tags": []
-    },
-    {
-      "headline": "Bitcoin news today: Here's why Michael Saylor\u2019s Strategy (MSTR) is tracking BTC's 200-week moving average",
-      "subheadline": "Strategy begins tracking Bitcoin\u2019s 200-week moving average as the price sits right on the historically important level. Here\u2019s why it matters.",
-      "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/08/03/michael-saylor-s-strategy-is-now-tracking-bitcoin-s-200-week-moving-average",
-      "date_published": "2026-08-03T05:07:49.370Z",
-      "author": "Omkar Godbole",
-      "tags": [
-        "Bitcoin News",
-        "Technical Analysis"
-      ]
-    },
-    {
-      "headline": "Iran-linked crypto network moved $4B through Dubai exchange",
-      "subheadline": "Blockchain investigators traced billions in crypto through Shelbit, with hundreds of millions later reaching Binance and other major crypto exchanges.",
-      "section": "Finance",
-      "url": "https://www.coindesk.com/business/2026/07/31/dubai-based-crypto-exchange-tied-to-usd4-billion-iran-sanctioned-evasion-network-reuters",
-      "date_published": "2026-07-31T12:28:02.567Z",
-      "author": "Olivier Acuna",
-      "tags": [
-        "Iran"
-      ]
-    },
-    {
-      "headline": "Coldcard exploit reignites Bitcoin self-custody debate after $38 million theft",
-      "subheadline": "A software bug in popular hardware wallet Coldcard that led to the theft to this point of nearly 600 bitcoin worth roughly $38 million is prompting questions about security and whether managing private keys has become too risky for everyday investors.",
-      "section": "Finance",
-      "url": "https://www.coindesk.com/business/2026/07/31/coldcard-s-usd38-million-so-far-exploit-shakes-faith-in-self-custody-may-push-investors-to-etfs",
-      "date_published": "2026-07-31T17:07:30.029Z",
-      "author": "Krisztian Sandor",
-      "tags": [
-        "Bitcoin News",
-        "Hack"
-      ]
-    },
-    {
-      "headline": "The good and the bad of perps, according to crypto traders",
-      "subheadline": "Both retail and institutional traders worry about the funding rate.",
-      "section": "Finance",
-      "url": "https://www.coindesk.com/business/2026/07/31/the-good-and-the-bad-of-perps-according-to-crypto-traders",
-      "date_published": "2026-07-31T17:53:59.999Z",
-      "author": "Omkar Godbole",
-      "tags": [
-        "Perps Week 2026"
-      ]
-    },
-    {
-      "headline": "Tether clears $1.5 billion in profit as its safety cushion shrinks by half",
-      "subheadline": "The stablecoin issuer stockpiled 14 tons of gold and 1,800 bitcoin, but a market slump dragged down the overall dollar value of its balance sheet.",
-      "section": "Finance",
-      "url": "https://www.coindesk.com/business/2026/07/31/tether-posts-usd1-5-billion-operating-profit-in-q2-as-reserve-buffer-falls-by-half",
-      "date_published": "2026-07-31T18:24:55.686Z",
-      "author": "Olivier Acuna",
-      "tags": [
-        "Tether",
-        "Stablecoins",
-        "Bitcoin News"
-      ]
-    },
-    {
-      "headline": "Bitcoin mining difficulty shrinks 14% from this year's high as plunging revenues force operators to pivot",
-      "subheadline": "Difficulty falls as weak mining economics reduce capacity, while forward markets signal little relief through year-end.",
-      "section": "Finance",
-      "url": "https://www.coindesk.com/business/2026/08/01/bitcoin-mining-difficulty-shrinks-14-from-this-year-s-high-as-plunging-revenues-force-operators-to-pivot",
-      "date_published": "2026-08-01T15:51:10.098Z",
-      "author": "Francisco Rodrigues",
-      "tags": [
-        "Bitcoin Mining",
-        "Bitcoin News"
-      ]
-    },
-    {
-      "headline": "Bank of Italy research suggests stablecoins aren't necessarily cheaper for remittances",
-      "subheadline": "A Bank of Italy study found stablecoin remittances aren't systematically cheaper than traditional money transfers, with fiat on- and off-ramps accounting for most of the cost.",
-      "section": "Finance",
-      "url": "https://www.coindesk.com/business/2026/08/01/bank-of-italy-research-suggests-stablecoins-aren-t-necessarily-cheaper-for-remittances",
-      "date_published": "2026-08-01T16:00:00.000Z",
-      "author": "Jamie Crawley",
-      "tags": [
-        "Stablecoins"
-      ]
-    },
-    {
-      "headline": "The reverse bridge: Crypto meets Wall Street using perps",
-      "subheadline": "Crypto exchanges built perpetual futures for digital assets. Now they are using them to offer 24/7 exposure to stocks, commodities and indexes.",
-      "section": "Finance",
-      "url": "https://www.coindesk.com/business/2026/08/02/the-reverse-bridge-crypto-meets-wall-street-using-perps",
-      "date_published": "2026-08-02T13:00:00.000Z",
-      "author": "Olivier Acuna",
-      "tags": [
-        "Perps Week 2026"
-      ]
-    },
-    {
-      "headline": "BTC news: Trump Media has moved out 7,000 bitcoin, leaving only likely loan collateral",
-      "subheadline": "Wallets tied to the Truth Social parent now hold about as much bitcoin as the company previously pledged as note collateral, making its next 10-Q the key test of whether recent Crypto.com transfers were custody moves or sales.",
-      "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/08/03/trump-media-s-bitcoin-stash-may-be-down-to-loan-collateral-after-usd165-million-btc-move",
-      "date_published": "2026-08-03T05:52:29.775Z",
-      "author": "Shaurya Malwa",
-      "tags": []
-    },
-    {
-      "headline": "Bitcoin slips under $63,000 despite Iran deal hopes as Coldcard losses rattle market",
-      "subheadline": "Oil and Treasury yields fell after fresh U.S.-Iran talks eased inflation fears, but bitcoin and ether failed to catch a bid as fresh Coldcard-linked sweeps pushed observed losses to nearly $89 million.",
-      "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/08/03/bitcoin-slips-under-usd63-000-despite-iran-deal-hopes-as-coldcard-losses-rattle-market",
-      "date_published": "2026-08-03T06:15:38.749Z",
-      "author": "Shaurya Malwa",
-      "tags": []
-    },
-    {
-      "headline": "U.S. Jobs, Circle, Galaxy, American Bitcoin earnings: Crypto Week Ahead",
-      "subheadline": "Your look at what's coming in the week starting Aug. 3",
-      "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/08/03/u-s-jobs-circle-galaxy-american-bitcoin-earnings-crypto-week-ahead",
-      "date_published": "2026-08-03T08:16:28.913Z",
-      "author": "Francisco Rodrigues",
-      "tags": [
-        "week ahead"
-      ]
-    },
-    {
-      "headline": "Live updates: Bitcoin holds above $64,000 as Nasdaq surges on AI trade comeback",
-      "subheadline": "The Nasdaq gained more than 2%, with Microsoft higher by 15% after its cloud unit grew at the fastest pace in four years while it held the line on spending.",
-      "section": "Tech",
-      "url": "https://www.coindesk.com/tech/2026/07/30/live-updates-bitcoin-holds-near-usd64-000-as-microsoft-s-ai-payoff-lifts-stocks",
-      "date_published": "2026-07-30T09:01:13.586Z",
-      "author": "Shaurya Malwa",
-      "tags": []
-    },
-    {
       "headline": "Ethereum enters its second decade after a year of upheaval at the foundation",
       "subheadline": "Few periods in Ethereum's 11-year history have brought as much change, from leadership shakeups at the Ethereum Foundation to institutional adoption, as the past year has.",
       "section": "Tech",
@@ -294,6 +154,115 @@
       "author": "Margaux Nijkerk",
       "tags": [
         "Ethereum News"
+      ]
+    },
+    {
+      "headline": "Circle (CRCL) slides after Morgan Stanley slashes price target to $38 from $106",
+      "subheadline": "The bank said tokenized money market funds, Open USD and slower USDC growth could weigh on the stablecoin issuer's earnings.",
+      "section": "Markets",
+      "url": "https://www.coindesk.com/markets/2026/08/03/circle-internet-slides-after-morgan-stanley-downgrade-cut-in-price-target",
+      "date_published": "2026-08-03T13:59:50.112Z",
+      "author": "Helene Braun",
+      "tags": [
+        "Circle",
+        "Stablecoins"
+      ]
+    },
+    {
+      "headline": "Trump-backed American Bitcoin (ABTC) executive Matt Prusak joins Giga Energy",
+      "subheadline": "The executive is leaving the Eric Trump-backed miner to join an AI power infrastructure firm, highlighting the shift toward energy and data center buildout.",
+      "section": "Finance",
+      "url": "https://www.coindesk.com/business/2026/08/03/trump-linked-american-bitcoin-president-matt-prusak-departs-for-giga-energy",
+      "date_published": "2026-08-03T15:24:45.715Z",
+      "author": "Will Canny",
+      "tags": [
+        "American Bitcoin",
+        "Exclusive",
+        "Eric Trump"
+      ]
+    },
+    {
+      "headline": "Live updates: Bitcoin stuck in tight range as risk assets soar on Iran deal hopes",
+      "subheadline": "Japan may have spent as much as $36.6 billion buying yen in the first joint US-Japan action to support the currency since 1998. Bitget Wallet\u2019s Alvin Kan says it can slow a disorderly slide without reversing the broader trend.",
+      "section": "Finance",
+      "url": "https://www.coindesk.com/business/2026/08/04/live-updates-bitcoin-at-usd63-600-as-rare-us-japan-yen-action-tests-carry-trade-fears",
+      "date_published": "2026-08-04T08:41:00.611Z",
+      "author": "Shaurya Malwa",
+      "tags": []
+    },
+    {
+      "headline": "Hashdex to close U.S. spot BTC ETF as inflows concentrate, investors chase AI returns",
+      "subheadline": "DEFI held $14.7 million, versus $142.4 million for BTCW and $47.08 billion for BlackRock\u2019s IBIT.",
+      "section": "Finance",
+      "url": "https://www.coindesk.com/business/2026/08/04/first-u-s-spot-bitcoin-etf-to-close-as-inflows-dwindle-investors-chase-ai-returns",
+      "date_published": "2026-08-04T09:54:02.533Z",
+      "author": "Francisco Rodrigues",
+      "tags": [
+        "Bitcoin News",
+        "ETFs"
+      ]
+    },
+    {
+      "headline": "U.S.-Japan yen intervention revives bitcoin carry trade fears despite weak link",
+      "subheadline": "Coordinated action sent the yen sharply higher, but bitcoin\u2019s recent correlation suggests U.S. dollar strength, rather than the carry trade, may be the bigger risk.",
+      "section": "Markets",
+      "url": "https://www.coindesk.com/markets/2026/08/03/u-s-japan-intervention-revives-yen-carry-trade-fears-for-bitcoin",
+      "date_published": "2026-08-03T14:46:08.976Z",
+      "author": "James Van Straten",
+      "tags": [
+        "Bitcoin News"
+      ]
+    },
+    {
+      "headline": "BTC news: A bitcoin wallet dormant since 2013 moved $31 million",
+      "subheadline": "A dormant bitcoin wallet holding $31 million moved for the first time since 2013, amid a wave of old coins shifting on-chain following the Coldcard hardware wallet hack.",
+      "section": "Markets",
+      "url": "https://www.coindesk.com/markets/2026/08/04/a-bitcoin-wallet-dormant-since-2013-moved-usd31-million-and-it-s-not-the-only-one",
+      "date_published": "2026-08-04T04:48:40.948Z",
+      "author": "Omkar Godbole",
+      "tags": [
+        "Bitcoin News"
+      ]
+    },
+    {
+      "headline": "BTC, ETH, SOL price news: Bitcoin nears $64,000 as traders look past Strategy's BTC sales",
+      "subheadline": "Every major token except ether is green on the week, with BTC up 1.9% over 24 hours and Asian equities selling off on AI-trade jitters.",
+      "section": "Markets",
+      "url": "https://www.coindesk.com/markets/2026/08/04/bitcoin-nears-usd64-000-as-traders-look-past-the-fourth-coldcard-sweep",
+      "date_published": "2026-08-04T05:21:13.066Z",
+      "author": "Shaurya Malwa",
+      "tags": []
+    },
+    {
+      "headline": "XRP holders can now borrow RLUSD on Ethereum through $280 million lending pool",
+      "subheadline": "XRP holders can now borrow RLUSD against their coins on Ethereum without selling, through a $280 million vault that had never accepted an XRP-linked asset before.",
+      "section": "Markets",
+      "url": "https://www.coindesk.com/markets/2026/08/04/flare-s-wrapped-xrp-wins-approval-in-a-usd280-million-rlusd-lending-vault",
+      "date_published": "2026-08-04T06:12:20.165Z",
+      "author": "Shaurya Malwa",
+      "tags": []
+    },
+    {
+      "headline": "Why Jim Cramer\u2019s quantum panic isn\u2019t rattling bitcoin (BTC) as price holds around $64,000",
+      "subheadline": "Jim Cramer says he's dumping his bitcoin over quantum computing fears, but his track record of crypto and bank calls has buoyed the crypto community.",
+      "section": "Markets",
+      "url": "https://www.coindesk.com/markets/2026/08/04/why-jim-cramer-s-quantum-panic-isn-t-rattling-bitcoin-as-price-holds-steady-around-usd64-000",
+      "date_published": "2026-08-04T07:53:18.798Z",
+      "author": "Omkar Godbole",
+      "tags": [
+        "quantum computing",
+        "Bitcoin News"
+      ]
+    },
+    {
+      "headline": "Bhutan's Gelephu Mindfulness City puts part of its BTC treasury to work after 10,000 bitcoin pledge",
+      "subheadline": "The planned Gelephu Mindfulness City says 3iQ will run part of its bitcoin treasury on a market-neutral basis, a shift from holding the coins as a long-term national asset.",
+      "section": "Markets",
+      "url": "https://www.coindesk.com/markets/2026/08/04/bhutan-s-gmc-puts-part-of-its-bitcoin-treasury-to-work-after-10-000-btc-pledge",
+      "date_published": "2026-08-04T07:56:11.004Z",
+      "author": "Shaurya Malwa",
+      "tags": [
+        "Bitcoin News"
       ]
     },
     {
@@ -369,6 +338,27 @@
       ]
     },
     {
+      "headline": "Bitcoin cold-wallet losses may near $114 million as possible fourth sweep emerges",
+      "subheadline": "The pending transactions signal replace-by-fee, so anyone who spots their address in the mempool has minutes to pay a higher fee and move funds first.",
+      "section": "Tech",
+      "url": "https://www.coindesk.com/tech/2026/08/03/coldcard-wallet-losses-may-near-usd114-million-as-possible-fourth-sweep-emerges",
+      "date_published": "2026-08-03T08:51:39.073Z",
+      "author": "Shaurya Malwa",
+      "tags": [
+        "Bitcoin News",
+        "Hack"
+      ]
+    },
+    {
+      "headline": "A new Solana proposal would take daily SOL burns from $47,000 to $650,000",
+      "subheadline": "SGP-0003 bundles a fee overhaul with a doubling of the disinflation rate. It needs 40 million more SOL of validator support in two weeks to reach a vote.",
+      "section": "Tech",
+      "url": "https://www.coindesk.com/tech/2026/08/04/a-new-solana-proposal-would-take-daily-sol-burns-from-usd47-000-to-usd650-000",
+      "date_published": "2026-08-04T05:39:18.467Z",
+      "author": "Shaurya Malwa",
+      "tags": []
+    },
+    {
       "headline": "The Clarity Act isn't a ticket to sanctions evasion, actually",
       "subheadline": "The bill, as currently drafted, has the power to stop sanctions evasion at scale, argues Ari Redbord, global head of policy at TRM Labs. ",
       "section": "Opinion",
@@ -434,42 +424,6 @@
       "tags": []
     },
     {
-      "headline": "JPMorgan warns crypto risks losing out as Clarity Act stalls",
-      "subheadline": "The bank said deteriorating prospects for U.S. market structure legislation remove a key catalyst for digital assets, even as tokenization and institutional adoption advance.",
-      "section": "Policy",
-      "url": "https://www.coindesk.com/policy/2026/07/30/jpmorgan-says-fading-clarity-act-odds-weigh-on-crypto-outlook",
-      "date_published": "2026-07-30T14:06:14.904Z",
-      "author": "Will Canny",
-      "tags": [
-        "Clarity Act",
-        "Regulation",
-        "JPMorgan"
-      ]
-    },
-    {
-      "headline": "There is a hidden tax risk of crypto perps that no one is talking about, says CME's CEO",
-      "subheadline": "CME CEO Terry Duffy said a court battle over whether perpetual futures are swaps or futures could eventually affect how the IRS taxes the contracts. Independent legal experts say the issue remains unresolved.",
-      "section": "Policy",
-      "url": "https://www.coindesk.com/policy/2026/07/30/cme-s-duffy-warns-an-overlooked-tax-risk-looms-over-u-s-perpetual-futures",
-      "date_published": "2026-07-30T14:33:02.228Z",
-      "author": "Aoyon Ashraf",
-      "tags": [
-        "Perps Week 2026"
-      ]
-    },
-    {
-      "headline": "New York sues Kalshi, will seek damages, alleging it offers gambling platform",
-      "subheadline": "The state is seeking a penalty equal to three times Kalshi\u2019s gains from the activity, plus $100,000 for each unauthorized or attempted offer of sports or mobile sports wagering,.",
-      "section": "Policy",
-      "url": "https://www.coindesk.com/policy/2026/07/31/new-york-sues-kalshi-alleges-it-offers-a-gambling-platform-plain-and-simple",
-      "date_published": "2026-07-31T09:55:47.619Z",
-      "author": "Olivier Acuna",
-      "tags": [
-        "Kalshi",
-        "litigation"
-      ]
-    },
-    {
       "headline": "U.S. sanctions Iran-linked bitcoin insurance scheme for Strait of Hormuz ships",
       "subheadline": "The Treasury Department said the Hormuz Safe platform accepted bitcoin and other digital assets as part of an alleged sanctions workaround tied to IRGC-backed shipping controls.",
       "section": "Policy",
@@ -509,27 +463,23 @@
       "url": "https://www.coindesk.com/policy/2026/08/02/counting-down-the-days-state-of-crypto",
       "date_published": "2026-08-02T18:30:00.000Z",
       "author": "Nikhilesh De",
-      "tags": []
-    },
-    {
-      "headline": "Bitcoin (BTC), ether (ETH) prices decline as Coldcard exploit enters a fifth day: Crypto Markets Today",
-      "subheadline": "Nevertheless, the drop in crypto prices seems restrained given the magnitude of losses in the wallet hack and the erosion of confidence in cold storage.",
-      "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/08/03/bitcoin-ether-decline-as-coldcard-exploit-enters-a-fifth-day",
-      "date_published": "2026-08-03T10:51:37.105Z",
-      "author": "Omkar Godbole",
       "tags": [
-        "Crypto Markets Today"
+        "Newsletters",
+        "State of Crypto"
       ]
     },
     {
-      "headline": "Solo Bitcoin (BTC) miner nets $200,000 as Coldcard wallet hack rocks sentiment: Crypto Daily",
-      "subheadline": "The day ahead in crypto: Aug. 3, 2026",
-      "section": "Crypto Daybook Americas",
-      "url": "https://www.coindesk.com/daybook-us/2026/08/03/solo-bitcoin-miner-nets-usd200-000-as-coldcard-hardware-wallet-drains-rocks-sentiment",
-      "date_published": "2026-08-03T11:18:31.576Z",
-      "author": "Omkar Godbole",
-      "tags": []
+      "headline": "Robinhood wins UK crypto registration ahead of new regulatory regime commencing",
+      "subheadline": "Robinhood\u2019s U.K. arm has been added to the FCA's list of registered cryptoasset companies as of July 31.",
+      "section": "Policy",
+      "url": "https://www.coindesk.com/policy/2026/08/03/robinhood-wins-uk-crypto-registration-before-new-regulatory-regime-kicks-off",
+      "date_published": "2026-08-03T09:38:53Z",
+      "author": "Jamie Crawley",
+      "tags": [
+        "Robinhood",
+        "UK",
+        "Regulation"
+      ]
     },
     {
       "headline": "Bitget notifies users of end to crypto trading services in Japan",
@@ -538,39 +488,12 @@
       "url": "https://www.coindesk.com/policy/2026/08/03/bitget-set-to-exit-japan-close-all-remaining-positions-by-year-end",
       "date_published": "2026-08-03T12:03:41.036Z",
       "author": "Olivier Acuna",
-      "tags": []
-    },
-    {
-      "headline": "Strategy (MSTR) news: Saylor sells more bitcoin, buys back more STRC",
-      "subheadline": "The company trimmed bitcoin holdings by 1,638 coins, while raising $290.6 million with sales of common stock.",
-      "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/08/03/strategy-sold-another-usd105-million-of-bitcoin-last-week-repurchased-usd81-2-million-of-strc",
-      "date_published": "2026-08-03T12:17:10.836Z",
-      "author": "James Van Straten",
       "tags": [
-        "Bitcoin News"
+        "Japan",
+        "Crypto Trading",
+        "Cryptocurrency",
+        "Regulation"
       ]
-    },
-    {
-      "headline": "Ethereum news: Tom Lee's Bitmine (BMNR) continues to buy ETH while Strategy sold bitcoin",
-      "subheadline": "Chairman Tom Lee said ether's outperformance versus the Nasdaq in July signals strengthening crypto fundamentals.",
-      "section": "Finance",
-      "url": "https://www.coindesk.com/business/2026/08/03/bitmine-bought-more-ether-added-to-stock-buyback-last-week",
-      "date_published": "2026-08-03T12:53:21.645Z",
-      "author": "Krisztian Sandor",
-      "tags": [
-        "Ethereum News",
-        "Digital Asset Treasury"
-      ]
-    },
-    {
-      "headline": "BlackRock expands tokenized cash with new blockchain-based money market offerings",
-      "subheadline": "Both funds intend to qualify as eligible reserve assets for permitted U.S. payment stablecoin issuers under the GENIUS Act.",
-      "section": "Finance",
-      "url": "https://www.coindesk.com/business/2026/08/03/blackrock-expands-tokenized-cash-with-new-blockchain-based-money-market-offerings",
-      "date_published": "2026-08-03T13:15:46.608Z",
-      "author": "Ian Allison",
-      "tags": []
     },
     {
       "headline": "Bernstein warns Clarity Act failure could spark another crypto selloff",
@@ -586,81 +509,177 @@
       ]
     },
     {
-      "headline": "Circle (CRCL) slides after Morgan Stanley slashes price target to $38 from $106",
-      "subheadline": "The bank said tokenized money market funds, Open USD and slower USDC growth could weigh on the stablecoin issuer's earnings.",
-      "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/08/03/circle-internet-slides-after-morgan-stanley-downgrade-cut-in-price-target",
-      "date_published": "2026-08-03T13:59:50.112Z",
-      "author": "Helene Braun",
-      "tags": [
-        "Circle",
-        "Stablecoins"
-      ]
-    },
-    {
-      "headline": "U.S.-Japan yen intervention revives bitcoin carry trade fears despite weak link",
-      "subheadline": "Coordinated action sent the yen sharply higher, but bitcoin\u2019s recent correlation suggests U.S. dollar strength, rather than the carry trade, may be the bigger risk.",
-      "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/08/03/u-s-japan-intervention-revives-yen-carry-trade-fears-for-bitcoin",
-      "date_published": "2026-08-03T14:46:08.976Z",
-      "author": "James Van Straten",
+      "headline": "BTC news: Coldcard urges users to move bitcoin as active wallet exploit continues",
+      "subheadline": "The cold wallet maker said the flaw behind roughly $114 million in losses remains live, with specific models and firmware still exposed.",
+      "section": "Tech",
+      "url": "https://www.coindesk.com/tech/2026/08/04/coldcard-urges-users-to-move-bitcoin-as-active-wallet-exploit-continues",
+      "date_published": "2026-08-04T12:00:25.238Z",
+      "author": "Shaurya Malwa",
       "tags": []
     },
     {
-      "headline": "Trump-backed American Bitcoin (ABTC) executive Matt Prusak joins Giga Energy",
-      "subheadline": "The executive is leaving the Eric Trump-backed miner to join an AI power infrastructure firm, highlighting the shift toward energy and data center buildout.",
+      "headline": "BNY to add crypto staking to digital asset custody platform",
+      "subheadline": "The custody bank has selected Galaxy to provide staking infrastructure as it broadens services for institutional crypto investors.",
       "section": "Finance",
-      "url": "https://www.coindesk.com/business/2026/08/03/trump-linked-american-bitcoin-president-matt-prusak-departs-for-giga-energy",
-      "date_published": "2026-08-03T15:24:45.715Z",
-      "author": "Will Canny",
+      "url": "https://www.coindesk.com/business/2026/08/04/bny-to-add-crypto-staking-to-digital-asset-custody-platform",
+      "date_published": "2026-08-04T12:30:00.000Z",
+      "author": "Helene Braun",
       "tags": [
-        "American Bitcoin",
-        "Exclusive",
-        "Eric Trump"
+        "Staking",
+        "Galaxy Digital",
+        "Custody"
       ]
     },
     {
-      "headline": "U.S. FBI intelligence agent arrested in connection with theft of $1 million in crypto",
-      "subheadline": "The agent, who had \"top secret\" clearance and worked in FBI headquarters, was accused of taking crypto from wallets the agency had investigated.",
+      "headline": "BitGo\u2019s WBTC move pushes LayerZero-to-Chainlink tally near $15 billion",
+      "subheadline": "A migration wave followed a $292 million Kelp bridge exploit, with announced LayerZero-to-Chainlink moves now totaling $14.5 billion.",
+      "section": "Finance",
+      "url": "https://www.coindesk.com/business/2026/08/04/bitgo-s-wbtc-move-pushes-layerzero-to-chainlink-tally-near-usd15-billion",
+      "date_published": "2026-08-04T13:00:00.000Z",
+      "author": "Francisco Rodrigues",
+      "tags": []
+    },
+    {
+      "headline": "As Clarity Act teeters, mystery group hammers away at crypto in Washington ads",
+      "subheadline": "Crypto Watchdog has taken to warning people in DC about the hazards of digital assets, and its director won't say who is backing it.",
       "section": "Policy",
-      "url": "https://www.coindesk.com/policy/2026/08/03/u-s-fbi-intelligence-agent-arrested-in-connection-with-theft-of-usd1-million-in-crypto",
-      "date_published": "2026-08-03T22:17:59.102Z",
+      "url": "https://www.coindesk.com/policy/2026/08/03/as-clarity-act-teeters-mystery-group-hammers-away-at-crypto-in-washington-ads",
+      "date_published": "2026-08-04T13:00:00.000Z",
       "author": "Jesse Hamilton",
       "tags": []
     },
     {
-      "headline": "BTC news: A bitcoin wallet dormant since 2013 moved $31 million",
-      "subheadline": "A dormant bitcoin wallet holding $31 million moved for the first time since 2013, amid a wave of old coins shifting on-chain following the Coldcard hardware wallet hack.",
+      "headline": "Dinari brings tokenized U.S. stocks to American investors as equity race heats up",
+      "subheadline": "The move brings the custodial tokenization model to eligible U.S. investors as competition over blockchain-based equities intensifies.",
+      "section": "Finance",
+      "url": "https://www.coindesk.com/business/2026/08/04/dinari-brings-tokenized-u-s-stocks-to-american-investors-as-equity-race-heats-up",
+      "date_published": "2026-08-04T14:00:00.000Z",
+      "author": "Krisztian Sandor",
+      "tags": []
+    },
+    {
+      "headline": "Banking giant Intesa Sanpaolo cuts IBIT stake 94%, triples ether ETF holding",
+      "subheadline": "Its iShares Staked Ethereum Trust ETF (ETHB) stake tripled to 349,600 shares as long bitcoin ETF holdings fell 35% in value to $69.3 million.",
+      "section": "Finance",
+      "url": "https://www.coindesk.com/business/2026/08/04/intesa-sanpaolo-slashed-ibit-stake-by-94-in-2q-tripled-ether-etf-holding-as-crypto-prices-slumped",
+      "date_published": "2026-08-04T14:25:50.952Z",
+      "author": "Francisco Rodrigues",
+      "tags": [
+        "ETFs",
+        "Crypto News"
+      ]
+    },
+    {
+      "headline": "Polymarket targets $20 billion valuation as competition heats up in prediction market sector",
+      "subheadline": "The blockchain-based prediction markets platform is reportedly returning to investors months after a $15 billion funding round.",
       "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/08/04/a-bitcoin-wallet-dormant-since-2013-moved-usd31-million-and-it-s-not-the-only-one",
-      "date_published": "2026-08-04T04:48:40.948Z",
+      "url": "https://www.coindesk.com/markets/2026/08/04/polymarket-targets-usd20-billion-valuation-as-competition-heats-up-in-prediction-markets",
+      "date_published": "2026-08-04T14:38:23.416Z",
+      "author": "Helene Braun",
+      "tags": [
+        "Polymarket",
+        "Prediction Markets"
+      ]
+    },
+    {
+      "headline": "Bitcoin (BTC) price analysis: $63,000 level is key",
+      "subheadline": "Retail investors and large whales are buying as bitcoin trades near its 200-week moving average.",
+      "section": "Markets",
+      "url": "https://www.coindesk.com/markets/2026/08/04/bitcoin-s-usd63-000-zone-emerges-as-key-battleground-for-buyers-glassnode",
+      "date_published": "2026-08-04T14:49:33.231Z",
+      "author": "James Van Straten",
+      "tags": [
+        "Bitcoin News"
+      ]
+    },
+    {
+      "headline": "Wells Fargo joins JPMorgan and Citi in the race to tokenize Wall Street\u2019s settlement rails",
+      "subheadline": "Payments will run on the bank\u2019s proprietary blockchain and be routed automatically through its existing client interface.",
+      "section": "Finance",
+      "url": "https://www.coindesk.com/business/2026/08/04/wells-fargo-to-offer-tokenized-deposits-for-24-7-corporate-payments",
+      "date_published": "2026-08-04T15:47:05.040Z",
+      "author": "Francisco Rodrigues",
+      "tags": [
+        "banks",
+        "Tokenization",
+        "tokenized deposits"
+      ]
+    },
+    {
+      "headline": "Clarity Act sits idle over Trump ethics question as Warren asks SEC to investigate him",
+      "subheadline": "Senators Elizabeth Warren and Richard Blumenthal requested the U.S. Securities and Exchange Commission probe Trump's memecoin.",
+      "section": "Policy",
+      "url": "https://www.coindesk.com/policy/2026/08/04/clarity-act-sits-idle-over-trump-ethics-question-as-warren-asks-sec-to-investigate-him",
+      "date_published": "2026-08-04T16:21:59.810Z",
+      "author": "Jesse Hamilton",
+      "tags": [
+        "Donald Trump",
+        "Memecoin",
+        "Clarity Act"
+      ]
+    },
+    {
+      "headline": "Samsung is bringing stablecoins to 800 million phones in a massive crypto bet",
+      "subheadline": "By baking digital dollar tools straight into its native wallet app, the tech giant is solving one of Web3's biggest distribution hurdles.",
+      "section": "Finance",
+      "url": "https://www.coindesk.com/business/2026/08/04/samsung-is-poised-to-become-a-dominant-stablecoin-distributor-analysts-say",
+      "date_published": "2026-08-04T17:14:13Z",
+      "author": "Olivier Acuna",
+      "tags": []
+    },
+    {
+      "headline": "Why Visa, Mastercard and Coinbase aren't abandoning USDC stablecoin for Open USD",
+      "subheadline": "Executives at Coinbase, Visa and Mastercard said they plan to support multiple stablecoins, suggesting Open USD is another payments rail rather than a direct replacement for USDC.",
+      "section": "Finance",
+      "url": "https://www.coindesk.com/business/2026/08/03/open-usd-rattled-circle-s-stock-but-its-key-backers-still-support-usdc",
+      "date_published": "2026-08-04T17:55:23.475Z",
+      "author": "Krisztian Sandor",
+      "tags": [
+        "Stablecoins",
+        "Coinbase",
+        "Mastercard",
+        "Circle"
+      ]
+    },
+    {
+      "headline": "Elon Musk's SpaceX (SPCX) tops earnings as bitcoin (BTC) holding value drops by $540 million",
+      "subheadline": "Elon Musk's space company posted its first earnings as a public company ahead of a major insider share unlock.",
+      "section": "Finance",
+      "url": "https://www.coindesk.com/business/2026/08/04/spacex-tops-wall-street-revenue-forecast-posts-usd540-million-decline-on-bitcoin-holding-value",
+      "date_published": "2026-08-04T20:26:21.525Z",
+      "author": "Krisztian Sandor",
+      "tags": [
+        "SpaceX",
+        "Elon Musk",
+        "Bitcoin News"
+      ]
+    },
+    {
+      "headline": "Bitcoin is 49% below its record while the S&P 500 hits all-time highs",
+      "subheadline": "BTC held near $64,000 as MSCI's world index set another peak and Brent fell toward a Hormuz deal. Ether is the only major down on the week.",
+      "section": "Markets",
+      "url": "https://www.coindesk.com/markets/2026/08/05/bitcoin-flat-at-usd64-000-as-stocks-print-records-and-hormuz-deal-nears",
+      "date_published": "2026-08-05T04:32:16.487Z",
+      "author": "Shaurya Malwa",
+      "tags": []
+    },
+    {
+      "headline": "Coldcard hacker's $36 million bitcoin (BTC) wallet becomes a graffiti wall of pleas and hustles",
+      "subheadline": "The Coldcard hacker's bitcoin wallet has turned into a graffiti wall of pleas, poetry and scams, as victims and opportunists pay to leave permanent messages using Bitcoin's OP_RETURN function.",
+      "section": "Markets",
+      "url": "https://www.coindesk.com/markets/2026/08/05/you-stole-please-return-some-coldcard-hacker-s-wallet-becomes-a-graffiti-wall-of-pleas-and-hustles",
+      "date_published": "2026-08-05T05:12:46.782Z",
       "author": "Omkar Godbole",
-      "tags": []
+      "tags": [
+        "Bitcoin News"
+      ]
     },
     {
-      "headline": "BTC, ETH, SOL price news: Bitcoin nears $64,000 as traders look past Strategy's BTC sales",
-      "subheadline": "Every major token except ether is green on the week, with BTC up 1.9% over 24 hours and Asian equities selling off on AI-trade jitters.",
-      "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/08/04/bitcoin-nears-usd64-000-as-traders-look-past-the-fourth-coldcard-sweep",
-      "date_published": "2026-08-04T05:21:13.066Z",
-      "author": "Shaurya Malwa",
-      "tags": []
-    },
-    {
-      "headline": "A new Solana proposal would take daily SOL burns from $47,000 to $650,000",
-      "subheadline": "SGP-0003 bundles a fee overhaul with a doubling of the disinflation rate. It needs 40 million more SOL of validator support in two weeks to reach a vote.",
+      "headline": "New Ethereum proposal would cut issuance to zero if staked ETH reaches $112 billion",
+      "subheadline": "The EIP-8361 draft proposal calls for burning a rising share of validator rewards as the staking ratio climbs.",
       "section": "Tech",
-      "url": "https://www.coindesk.com/tech/2026/08/04/a-new-solana-proposal-would-take-daily-sol-burns-from-usd47-000-to-usd650-000",
-      "date_published": "2026-08-04T05:39:18.467Z",
-      "author": "Shaurya Malwa",
-      "tags": []
-    },
-    {
-      "headline": "XRP holders can now borrow RLUSD on Ethereum through $280 million lending pool",
-      "subheadline": "XRP holders can now borrow RLUSD against their coins on Ethereum without selling, through a $280 million vault that had never accepted an XRP-linked asset before.",
-      "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/08/04/flare-s-wrapped-xrp-wins-approval-in-a-usd280-million-rlusd-lending-vault",
-      "date_published": "2026-08-04T06:12:20.165Z",
+      "url": "https://www.coindesk.com/tech/2026/08/05/new-ethereum-proposal-would-cut-issuance-to-zero-if-staked-eth-reaches-usd112-billion",
+      "date_published": "2026-08-05T05:49:57.319Z",
       "author": "Shaurya Malwa",
       "tags": []
     }
