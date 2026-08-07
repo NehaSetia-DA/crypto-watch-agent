@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-08-06T06:10:00.000000Z",
+  "generated_at": "2026-08-07T05:30:00.000000Z",
   "prices": [
-    {"id": "bitcoin", "usd": 64806, "change_24h": 0.814227743704309},
-    {"id": "ethereum", "usd": 1911.7, "change_24h": 2.2032849018975105},
-    {"id": "solana", "usd": 74.16, "change_24h": 0.2026121845688198}
+    {"id": "bitcoin", "usd": 64161, "change_24h": -1.0374503800246202},
+    {"id": "ethereum", "usd": 1895.3, "change_24h": -0.8084828035152372},
+    {"id": "solana", "usd": 72.6, "change_24h": -2.002934562887905}
   ],
-  "narrative": "Ethereum outperformed at +2.20% as a new EIP-8361 proposal would cut ETH issuance to zero if staking reaches $112B per CoinDesk, even as the Coldcard exploit continued to drain wallets — losses top $114M with the maker now urging users to move funds, a security crisis not reflected in spot prices across three straight sessions. Tokenization advanced on multiple fronts: BlackRock debuted $311B of tokenized money market funds in Europe, Wells Fargo joined JPMorgan and Citi in building tokenized settlement rails, and Samsung is embedding stablecoins into 800 million phones per CoinDesk. The Clarity Act remained stalled as Senator Warren called on the SEC to investigate Trump's memecoin — with Bernstein warning legislative failure could push crypto lower and the Senate about to enter summer recess per CoinDesk.",
+  "narrative": "All three coins pulled back Friday after yesterday's gains, with solana leading losses at -2.00% as the Coldcard hardware wallet exploit's total tab reached $120 million per CoinDesk, keeping Bitcoin's mempool active with attacker sweeps still ongoing. The Clarity Act's legislative window continued to close: a mystery anti-crypto group ran Washington ads, Senator Warren asked the SEC to probe Trump's memecoin, and Bernstein warned a bill failure could spark another selloff per CoinDesk, all as the Senate prepares for summer recess. On the infrastructure side, Wells Fargo joined JPMorgan and Citi in tokenizing settlement rails, Samsung moved to embed stablecoins in 800 million phones, and Circle shares fell 3% on a revenue miss despite an earnings beat per CoinDesk — stablecoin expansion without stablecoin stock gains.",
   "worth_watching": [
-    "Bitcoin is 49% below its all-time record while the S&P 500 hits all-time highs per CoinDesk — macro divergence widening as global stocks print records on Iran deal hopes; gap not captured in daily watchlist moves",
-    "New Ethereum EIP-8361 proposal would cut issuance to zero if staked ETH reaches $112B per CoinDesk — a deflationary protocol change that could shift ETH supply dynamics significantly outside spot prices",
-    "Polymarket targeting $20B valuation per CoinDesk, up from $15B just months ago — prediction markets reaching institutional scale and competing with traditional financial products; sector story absent from BTC/ETH/SOL metrics"
+    "SpaceX $100B insider unlock Thursday — $101 billion in shares become tradable per CoinDesk; SpaceX holds bitcoin, and stock already fell 11% after first earnings; any forced selling could pressure BTC beyond watchlist metrics",
+    "Coldcard exploit active at $120M+ with replace-by-fee sweeps still hitting Bitcoin mempool per CoinDesk — affected users have minutes to front-run pending transactions; hardware custody trust shifting toward regulated products not shown in spot prices",
+    "AI16Z/ELIZAOS founder called the token 'dead' after a 97% crash from $2.4B per CoinDesk — high-profile AI agent token implosion surfaces sector-wide risks absent from the BTC/ETH/SOL watchlist"
   ],
   "news": [
     {
       "source": "coindesk.com",
       "headlines": [
-        "U.S. FBI intelligence agent arrested in connection with theft of $1 million in crypto",
-        "The systemic-risk debate over perpetual futures is aimed at the wrong target",
+        "As Clarity Act teeters, mystery group hammers away at crypto in Washington ads",
+        "Clarity Act sits idle over Trump ethics question as Warren asks SEC to investigate him",
         "Everything is becoming a perp",
         "RWA perps will outpace tokenization",
         "Everyone has the perps convergence backwards",
-        "BlackRock (BLK) debuts tokenized access to $311 billion of money market funds in Europe",
-        "BTC price rises as Coldcard exploit, Strategy sales recede. ADA advances: Crypto Markets Today",
-        "South African lawmakers propose draft rules on cross-border crypto transactions"
+        "Crypto may have institutionalized, but it still trades like a rumor mill",
+        "Circle shares fall 3% despite earnings beat as stablecoin issuer misses on revenue",
+        "The $120 million Coldcard wallet hack lights up Bitcoin's memory pool: Crypto Daily"
       ]
     }
   ]

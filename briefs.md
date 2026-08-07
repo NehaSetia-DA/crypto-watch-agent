@@ -11,6 +11,32 @@ No investment advice — this surfaces what's happening, you read it.
 
 <!-- new briefs go here, between this marker and the previous entry -->
 
+## 2026-08-07
+
+**Movement** — bitcoin $64,161 ↘ -1.04%, ethereum $1,895 ↘ -0.81%, solana $73 ↘ -2.00%
+
+All three coins pulled back Friday after yesterday's gains, with solana leading losses at -2.00% as the Coldcard hardware wallet exploit's total tab reached $120 million per CoinDesk, keeping Bitcoin's mempool active with attacker sweeps still ongoing. The Clarity Act's legislative window continued to close: a mystery anti-crypto group ran Washington ads, Senator Warren asked the SEC to probe Trump's memecoin, and Bernstein warned a bill failure could spark another selloff per CoinDesk, all as the Senate prepares for summer recess. On the infrastructure side, Wells Fargo joined JPMorgan and Citi in tokenizing settlement rails, Samsung moved to embed stablecoins in 800 million phones, and Circle shares fell 3% on a revenue miss despite an earnings beat per CoinDesk — stablecoin expansion without stablecoin stock gains.
+
+**Worth watching**
+- SpaceX $100B insider unlock Thursday — $101 billion in shares become tradable per CoinDesk; SpaceX holds bitcoin, and stock already fell 11% after first earnings; any forced selling could pressure BTC beyond watchlist metrics
+- Coldcard exploit active at $120M+ with replace-by-fee sweeps still hitting Bitcoin mempool per CoinDesk — affected users have minutes to front-run pending transactions; hardware custody trust shifting toward regulated products not shown in spot prices
+- AI16Z/ELIZAOS founder called the token 'dead' after a 97% crash from $2.4B per CoinDesk — high-profile AI agent token implosion surfaces sector-wide risks absent from the BTC/ETH/SOL watchlist
+
+<details><summary>8 headlines</summary>
+
+- [As Clarity Act teeters, mystery group hammers away at crypto in Washington ads](https://www.coindesk.com/policy/2026/08/03/as-clarity-act-teeters-mystery-group-hammers-away-at-crypto-in-washington-ads)
+- [Clarity Act sits idle over Trump ethics question as Warren asks SEC to investigate him](https://www.coindesk.com/policy/2026/08/04/clarity-act-sits-idle-over-trump-ethics-question-as-warren-asks-sec-to-investigate-him)
+- [Everything is becoming a perp](https://www.coindesk.com/opinion/2026/07/28/everything-is-becoming-a-perp)
+- [RWA perps will outpace tokenization](https://www.coindesk.com/opinion/2026/07/31/rwa-perps-will-outpace-tokenization)
+- [Everyone has the perps convergence backwards](https://www.coindesk.com/opinion/2026/08/01/everyone-has-the-perps-convergence-backwards)
+- [Crypto may have institutionalized, but it still trades like a rumor mill](https://www.coindesk.com/opinion/2026/08/05/crypto-may-have-institutionalized-but-it-still-trades-like-a-rumor-mill)
+- [Circle shares fall 3% despite earnings beat as stablecoin issuer misses on revenue](https://www.coindesk.com/markets/2026/08/05/circle-shares-jump-as-earnings-beat-offsets-revenue-miss-arc-blockchain-gains-wall-street-backing)
+- [The $120 million Coldcard wallet hack lights up Bitcoin's memory pool: Crypto Daily](https://www.coindesk.com/daybook-us/2026/08/05/the-usd120-million-coldcard-hack-lights-up-bitcoin-s-memory-pool)
+
+</details>
+
+---
+
 ## 2026-08-06
 
 **Movement** — bitcoin $64,806 ↗ +0.81%, ethereum $1,912 ↗ +2.20%, solana $74 ↗ +0.20%
