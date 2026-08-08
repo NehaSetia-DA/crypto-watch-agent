@@ -11,6 +11,32 @@ No investment advice — this surfaces what's happening, you read it.
 
 <!-- new briefs go here, between this marker and the previous entry -->
 
+## 2026-08-08
+
+**Movement** — bitcoin $64,963 ↗ +1.11%, ethereum $1,916 ↗ +0.97%, solana $75 ↗ +2.63%
+
+All three coins bounced Saturday — led by solana at +2.63% — even as the Senate officially confirmed it won't vote on the Clarity Act before its summer recess per CoinDesk, pushing the market structure bill to September and dimming its chances for this year. The recovery runs counter to the regulatory setback: bitcoin whale accumulation of $1.2 billion and $754 million in ETF inflows this week per CoinDesk appear to be providing the floor, while BTC and ETH outperform as altcoins sell off. The Coldcard exploit's toll continues rising alongside an AI-powered Bitcoin bug hunt averaging one critical finding per hour per CoinDesk — security undercurrents the spot price isn't reflecting.
+
+**Worth watching**
+- Ondo Finance governance crisis — founder's mother seeking to oust the CEO after founder Nathan Allman's death per CoinDesk; a corporate control battle at a tokenized-assets firm just days after it hired a new CFO, not tracked in watchlist metrics
+- XRP fell worst of the major coins (-5.5% on the week) per CoinDesk despite whale accumulation signals — a divergence between on-chain positioning and price not visible in the BTC/ETH/SOL watchlist
+- AI-powered Bitcoin bug hunt averaging one critical finding per hour at $10K/day compute per CoinDesk — a protocol security escalation absent from spot prices, with the Coldcard exploit still active
+
+<details><summary>8 headlines</summary>
+
+- [Clarity Act: Here's what could happen with the crypto market structure legislation](https://www.coindesk.com/policy/2026/08/05/here-are-the-possible-outcomes-for-clarity-right-now)
+- [RWA perps will outpace tokenization](https://www.coindesk.com/opinion/2026/07/31/rwa-perps-will-outpace-tokenization)
+- [Everyone has the perps convergence backwards](https://www.coindesk.com/opinion/2026/08/01/everyone-has-the-perps-convergence-backwards)
+- [Crypto may have institutionalized, but it still trades like a rumor mill](https://www.coindesk.com/opinion/2026/08/05/crypto-may-have-institutionalized-but-it-still-trades-like-a-rumor-mill)
+- [Free Markets and Innovation, Sort Of](https://www.coindesk.com/opinion/2026/08/06/free-markets-and-innovation-sort-of)
+- [Bitcoin steadies above $64,000 as traders watch $100 billion SpaceX unlock](https://www.coindesk.com/markets/2026/08/06/bitcoin-steadies-above-usd64-000-as-traders-watch-usd100-billion-spacex-unlock)
+- [Bitcoin price analysis: Here's why BTC isn't rallying with S&P 500, Nasdaq.](https://www.coindesk.com/markets/2026/08/06/s-and-p-500-has-added-crypto-s-usd2-trillion-market-cap-this-month-bitcoin-is-not-impressed-here-s-why)
+- [BTC news: Some Bitcoin developers say they're finding a critical bug every hour](https://www.coindesk.com/tech/2026/08/06/bitcoin-developers-flag-85-critical-bugs-in-an-extremely-bad-situation)
+
+</details>
+
+---
+
 ## 2026-08-07
 
 **Movement** — bitcoin $64,161 ↘ -1.04%, ethereum $1,895 ↘ -0.81%, solana $73 ↘ -2.00%

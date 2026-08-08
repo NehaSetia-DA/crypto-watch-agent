@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-08-07T05:30:00.000000Z",
+  "generated_at": "2026-08-08T04:32:16.830094Z",
   "prices": [
-    {"id": "bitcoin", "usd": 64161, "change_24h": -1.0374503800246202},
-    {"id": "ethereum", "usd": 1895.3, "change_24h": -0.8084828035152372},
-    {"id": "solana", "usd": 72.6, "change_24h": -2.002934562887905}
+    {"id": "bitcoin", "usd": 64963, "change_24h": 1.1065910717724377},
+    {"id": "ethereum", "usd": 1916.14, "change_24h": 0.9720201015105305},
+    {"id": "solana", "usd": 74.57, "change_24h": 2.6272313033170267}
   ],
-  "narrative": "All three coins pulled back Friday after yesterday's gains, with solana leading losses at -2.00% as the Coldcard hardware wallet exploit's total tab reached $120 million per CoinDesk, keeping Bitcoin's mempool active with attacker sweeps still ongoing. The Clarity Act's legislative window continued to close: a mystery anti-crypto group ran Washington ads, Senator Warren asked the SEC to probe Trump's memecoin, and Bernstein warned a bill failure could spark another selloff per CoinDesk, all as the Senate prepares for summer recess. On the infrastructure side, Wells Fargo joined JPMorgan and Citi in tokenizing settlement rails, Samsung moved to embed stablecoins in 800 million phones, and Circle shares fell 3% on a revenue miss despite an earnings beat per CoinDesk — stablecoin expansion without stablecoin stock gains.",
+  "narrative": "All three coins bounced Saturday — led by solana at +2.63% — even as the Senate officially confirmed it won't vote on the Clarity Act before its summer recess per CoinDesk, pushing the market structure bill to September and dimming its chances for this year. The recovery runs counter to the regulatory setback: bitcoin whale accumulation of $1.2 billion and $754 million in ETF inflows this week per CoinDesk appear to be providing the floor, while BTC and ETH outperform as altcoins sell off. The Coldcard exploit's toll continues rising alongside an AI-powered Bitcoin bug hunt averaging one critical finding per hour per CoinDesk — security undercurrents the spot price isn't reflecting.",
   "worth_watching": [
-    "SpaceX $100B insider unlock Thursday — $101 billion in shares become tradable per CoinDesk; SpaceX holds bitcoin, and stock already fell 11% after first earnings; any forced selling could pressure BTC beyond watchlist metrics",
-    "Coldcard exploit active at $120M+ with replace-by-fee sweeps still hitting Bitcoin mempool per CoinDesk — affected users have minutes to front-run pending transactions; hardware custody trust shifting toward regulated products not shown in spot prices",
-    "AI16Z/ELIZAOS founder called the token 'dead' after a 97% crash from $2.4B per CoinDesk — high-profile AI agent token implosion surfaces sector-wide risks absent from the BTC/ETH/SOL watchlist"
+    "Ondo Finance governance crisis — founder's mother seeking to oust the CEO after founder Nathan Allman's death per CoinDesk; a corporate control battle at a tokenized-assets firm just days after it hired a new CFO, not tracked in watchlist metrics",
+    "XRP fell worst of the major coins (-5.5% on the week) per CoinDesk despite whale accumulation signals — a divergence between on-chain positioning and price not visible in the BTC/ETH/SOL watchlist",
+    "AI-powered Bitcoin bug hunt averaging one critical finding per hour at $10K/day compute per CoinDesk — a protocol security escalation absent from spot prices, with the Coldcard exploit still active"
   ],
   "news": [
     {
       "source": "coindesk.com",
       "headlines": [
-        "As Clarity Act teeters, mystery group hammers away at crypto in Washington ads",
-        "Clarity Act sits idle over Trump ethics question as Warren asks SEC to investigate him",
-        "Everything is becoming a perp",
+        "Clarity Act: Here's what could happen with the crypto market structure legislation",
         "RWA perps will outpace tokenization",
         "Everyone has the perps convergence backwards",
         "Crypto may have institutionalized, but it still trades like a rumor mill",
-        "Circle shares fall 3% despite earnings beat as stablecoin issuer misses on revenue",
-        "The $120 million Coldcard wallet hack lights up Bitcoin's memory pool: Crypto Daily"
+        "Free Markets and Innovation, Sort Of",
+        "Bitcoin steadies above $64,000 as traders watch $100 billion SpaceX unlock",
+        "Bitcoin price analysis: Here's why BTC isn't rallying with S&P 500, Nasdaq.",
+        "BTC news: Some Bitcoin developers say they're finding a critical bug every hour"
       ]
     }
   ]
