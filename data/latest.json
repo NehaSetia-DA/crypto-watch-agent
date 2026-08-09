@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-08-08T04:32:16.830094Z",
+  "generated_at": "2026-08-09T04:41:48.385009Z",
   "prices": [
-    {"id": "bitcoin", "usd": 64963, "change_24h": 1.1065910717724377},
-    {"id": "ethereum", "usd": 1916.14, "change_24h": 0.9720201015105305},
-    {"id": "solana", "usd": 74.57, "change_24h": 2.6272313033170267}
+    {"id": "bitcoin", "usd": 64769, "change_24h": -0.37117525721738803},
+    {"id": "ethereum", "usd": 1912.39, "change_24h": -0.24729139502782505},
+    {"id": "solana", "usd": 75.96, "change_24h": 1.766435652781973}
   ],
-  "narrative": "All three coins bounced Saturday — led by solana at +2.63% — even as the Senate officially confirmed it won't vote on the Clarity Act before its summer recess per CoinDesk, pushing the market structure bill to September and dimming its chances for this year. The recovery runs counter to the regulatory setback: bitcoin whale accumulation of $1.2 billion and $754 million in ETF inflows this week per CoinDesk appear to be providing the floor, while BTC and ETH outperform as altcoins sell off. The Coldcard exploit's toll continues rising alongside an AI-powered Bitcoin bug hunt averaging one critical finding per hour per CoinDesk — security undercurrents the spot price isn't reflecting.",
+  "narrative": "Bitcoin and ethereum slipped again Sunday while solana was the sole green on the watchlist, diverging as the U.S. jobs report missed badly — down 23,000 in July versus an expected gain of 80,000 per CoinDesk — reinforcing Fed rate-hike uncertainty alongside escalating Middle East tensions. Bitcoin's security week kept worsening: BTCPay warned Lightning node operators to update or go offline after credential theft per CoinDesk, and developers flagged replay risk for anyone selling coins from the imminent BIP-110 fork chain. The Senate left for summer recess without a Clarity Act vote, pushing the bill to September; OKX's head of policy warned optimism was already priced into bitcoin per CoinDesk, a read confirmed by price holding rangebound below $65,000 all week.",
   "worth_watching": [
-    "Ondo Finance governance crisis — founder's mother seeking to oust the CEO after founder Nathan Allman's death per CoinDesk; a corporate control battle at a tokenized-assets firm just days after it hired a new CFO, not tracked in watchlist metrics",
-    "XRP fell worst of the major coins (-5.5% on the week) per CoinDesk despite whale accumulation signals — a divergence between on-chain positioning and price not visible in the BTC/ETH/SOL watchlist",
-    "AI-powered Bitcoin bug hunt averaging one critical finding per hour at $10K/day compute per CoinDesk — a protocol security escalation absent from spot prices, with the Coldcard exploit still active"
+    "BIP-110 fork imminent — a minority chain could appear this weekend with replay risk for anyone selling fork coins per CoinDesk; a Bitcoin protocol split absent from spot prices and watchlist metrics",
+    "Bybit sues North Korea's Lazarus Group over $1.5B hack and secures asset freeze per CoinDesk — first major exchange legal action against a nation-state actor; a geopolitical escalation not tracked in watchlist coin metrics",
+    "US July jobs loss (-23K, first since February, vs. +80K expected) per CoinDesk reopens the Fed rate-hike debate — a macro signal that could shift crypto's rate-sensitivity not visible in daily price moves"
   ],
   "news": [
     {
       "source": "coindesk.com",
       "headlines": [
-        "Clarity Act: Here's what could happen with the crypto market structure legislation",
-        "RWA perps will outpace tokenization",
         "Everyone has the perps convergence backwards",
         "Crypto may have institutionalized, but it still trades like a rumor mill",
         "Free Markets and Innovation, Sort Of",
-        "Bitcoin steadies above $64,000 as traders watch $100 billion SpaceX unlock",
-        "Bitcoin price analysis: Here's why BTC isn't rallying with S&P 500, Nasdaq.",
-        "BTC news: Some Bitcoin developers say they're finding a critical bug every hour"
+        "A part of FTX survived, and it's the case for the CLARITY Act",
+        "ETH news: Ethereum staking token weETH splits from restaking as rewards debate heats up",
+        "Crypto market maker Wintermute lands SEC approval to trade equities and ETF blocks",
+        "Coldcard fallout shows up onchain as 210,000 bitcoin (BTC) leaves old wallets",
+        "Bitcoin hovers below $65,000 as Middle East tensions escalate further: Crypto Markets Today"
       ]
     }
   ]

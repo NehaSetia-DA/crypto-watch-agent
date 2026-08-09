@@ -11,6 +11,32 @@ No investment advice — this surfaces what's happening, you read it.
 
 <!-- new briefs go here, between this marker and the previous entry -->
 
+## 2026-08-09
+
+**Movement** — bitcoin $64,769 ↘ -0.37%, ethereum $1,912 ↘ -0.25%, solana $76 ↗ +1.77%
+
+Bitcoin and ethereum slipped again Sunday while solana was the sole green on the watchlist, diverging as the U.S. jobs report missed badly — down 23,000 in July versus an expected gain of 80,000 per CoinDesk — reinforcing Fed rate-hike uncertainty alongside escalating Middle East tensions. Bitcoin's security week kept worsening: BTCPay warned Lightning node operators to update or go offline after credential theft per CoinDesk, and developers flagged replay risk for anyone selling coins from the imminent BIP-110 fork chain. The Senate left for summer recess without a Clarity Act vote, pushing the bill to September; OKX's head of policy warned optimism was already priced into bitcoin per CoinDesk, a read confirmed by price holding rangebound below $65,000 all week.
+
+**Worth watching**
+- BIP-110 fork imminent — a minority chain could appear this weekend with replay risk for anyone selling fork coins per CoinDesk; a Bitcoin protocol split absent from spot prices and watchlist metrics
+- Bybit sues North Korea's Lazarus Group over $1.5B hack and secures asset freeze per CoinDesk — first major exchange legal action against a nation-state actor; a geopolitical escalation not tracked in watchlist coin metrics
+- US July jobs loss (-23K, first since February, vs. +80K expected) per CoinDesk reopens the Fed rate-hike debate — a macro signal that could shift crypto's rate-sensitivity not visible in daily price moves
+
+<details><summary>8 headlines</summary>
+
+- [Everyone has the perps convergence backwards](https://www.coindesk.com/opinion/2026/08/01/everyone-has-the-perps-convergence-backwards)
+- [Crypto may have institutionalized, but it still trades like a rumor mill](https://www.coindesk.com/opinion/2026/08/05/crypto-may-have-institutionalized-but-it-still-trades-like-a-rumor-mill)
+- [Free Markets and Innovation, Sort Of](https://www.coindesk.com/opinion/2026/08/06/free-markets-and-innovation-sort-of)
+- [A part of FTX survived, and it's the case for the CLARITY Act](https://www.coindesk.com/opinion/2026/08/07/a-part-of-ftx-survived-and-it-s-the-case-for-the-clarity-act)
+- [ETH news: Ethereum staking token weETH splits from restaking as rewards debate heats up](https://www.coindesk.com/tech/2026/08/07/ethereum-staking-token-weeth-splits-from-restaking-as-rewards-debate-heats-up)
+- [Crypto market maker Wintermute lands SEC approval to trade equities and ETF blocks](https://www.coindesk.com/business/2026/08/07/wintermute-gains-u-s-broker-dealer-status-in-wall-street-push)
+- [Coldcard fallout shows up onchain as 210,000 bitcoin (BTC) leaves old wallets](https://www.coindesk.com/markets/2026/08/07/coldcard-fallout-shows-up-onchain-as-210-000-bitcoin-leaves-old-wallets)
+- [Bitcoin hovers below $65,000 as Middle East tensions escalate further: Crypto Markets Today](https://www.coindesk.com/markets/2026/08/07/cmt)
+
+</details>
+
+---
+
 ## 2026-08-08
 
 **Movement** — bitcoin $64,963 ↗ +1.11%, ethereum $1,916 ↗ +0.97%, solana $75 ↗ +2.63%
