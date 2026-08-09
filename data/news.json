@@ -1,28 +1,8 @@
 {
-  "job": "864818/1/71",
-  "fetched_at": "2026-08-08T04:32:19.605995Z",
-  "count": 65,
+  "job": "864818/1/72",
+  "fetched_at": "2026-08-09T04:41:50.617281Z",
+  "count": 66,
   "items": [
-    {
-      "headline": "Clarity Act: Here's what could happen with the crypto market structure legislation ",
-      "subheadline": "The Senate has not yet indicated if it will advance the Digital Asset Market Clarity Act, and with its summer recess looming, here are the possible outcomes.",
-      "section": "Policy",
-      "url": "https://www.coindesk.com/policy/2026/08/05/here-are-the-possible-outcomes-for-clarity-right-now",
-      "date_published": "2026-08-06T03:49:04.889Z",
-      "author": "Nikhilesh De",
-      "tags": [
-        "Clarity Act"
-      ]
-    },
-    {
-      "headline": "RWA perps will outpace tokenization",
-      "subheadline": "Tokenization was crypto's first big export to TradFi. Perps are next, says Martin Lee, markets insight lead at DWF labs. ",
-      "section": "Opinion",
-      "url": "https://www.coindesk.com/opinion/2026/07/31/rwa-perps-will-outpace-tokenization",
-      "date_published": "2026-07-31T13:00:00.000Z",
-      "author": "Martin Lee",
-      "tags": []
-    },
     {
       "headline": "Everyone has the perps convergence backwards",
       "subheadline": "Crypto is said to be growing up to look like Wall Street. The evidence in its biggest market points the other way, argues Bitget CEO Gracy Chen.",
@@ -48,6 +28,15 @@
       "url": "https://www.coindesk.com/opinion/2026/08/06/free-markets-and-innovation-sort-of",
       "date_published": "2026-08-06T11:30:00.000Z",
       "author": "Summer Mersinger",
+      "tags": []
+    },
+    {
+      "headline": "A part of FTX survived, and it\u2019s the case for the CLARITY Act",
+      "subheadline": "When FTX collapsed, the parts of it bound by law survived. Mainstream finance is now converging with digital assets, and the law built to protect it the same way is the one the Senate did not pass this week, argues Bullish's Randi Abernethy.",
+      "section": "Opinion",
+      "url": "https://www.coindesk.com/opinion/2026/08/07/a-part-of-ftx-survived-and-it-s-the-case-for-the-clarity-act",
+      "date_published": "2026-08-07T14:30:25.604Z",
+      "author": "Randi Abernethy",
       "tags": []
     },
     {
@@ -78,13 +67,91 @@
       "tags": []
     },
     {
-      "headline": "Bitcoin steadies above $64,000 as traders watch $100 billion SpaceX unlock",
-      "subheadline": "Korea's Kospi fell 4.4% as the AI trade wobbled, and $101 billion of SpaceX stock becomes tradable Thursday.",
-      "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/08/06/bitcoin-steadies-above-usd64-000-as-traders-watch-usd100-billion-spacex-unlock",
-      "date_published": "2026-08-06T04:59:11.084Z",
+      "headline": "ETH news: Ethereum staking token weETH splits from restaking as rewards debate heats up",
+      "subheadline": "The move separates ordinary Ethereum staking from higher-risk restaking exposure as a new proposal to cap validator rewards divides the staking sector.",
+      "section": "Tech",
+      "url": "https://www.coindesk.com/tech/2026/08/07/ethereum-staking-token-weeth-splits-from-restaking-as-rewards-debate-heats-up",
+      "date_published": "2026-08-07T08:01:28.672Z",
       "author": "Shaurya Malwa",
+      "tags": [
+        "Ethereum News"
+      ]
+    },
+    {
+      "headline": "Crypto market maker Wintermute lands SEC approval to trade equities and ETF blocks",
+      "subheadline": "The crypto market maker can now trade US stocks and options and support ETFs as crypto moves closer to traditional markets.",
+      "section": "Finance",
+      "url": "https://www.coindesk.com/business/2026/08/07/wintermute-gains-u-s-broker-dealer-status-in-wall-street-push",
+      "date_published": "2026-08-07T08:46:17.605Z",
+      "author": "Francisco Rodrigues",
+      "tags": [
+        "Crypto Trading"
+      ]
+    },
+    {
+      "headline": "Coldcard fallout shows up onchain as 210,000 bitcoin (BTC) leaves old wallets",
+      "subheadline": "Roughly 200,000 bitcoin have moved from long-term holder wallets in the past week, suggesting a possible shift in custody rather than conventional selling",
+      "section": "Markets",
+      "url": "https://www.coindesk.com/markets/2026/08/07/coldcard-fallout-shows-up-onchain-as-210-000-bitcoin-leaves-old-wallets",
+      "date_published": "2026-08-07T09:24:00.740Z",
+      "author": "James Van Straten",
+      "tags": [
+        "Bitcoin News"
+      ]
+    },
+    {
+      "headline": "Bitcoin hovers below $65,000 as Middle East tensions escalate further: Crypto Markets Today",
+      "subheadline": "Brent crude has meanwhile moved to over $83 a barrel after Yemen\u2019s Iran-linked Houthis attacked Saudi Arabia, further escalating tensions in the Middle East.",
+      "section": "Markets",
+      "url": "https://www.coindesk.com/markets/2026/08/07/cmt",
+      "date_published": "2026-08-07T10:36:14.973Z",
+      "author": "Francisco Rodrigues",
+      "tags": [
+        "Crypto Markets Today"
+      ]
+    },
+    {
+      "headline": "Bitcoin\u2019s volatility has nearly disappeared. The risk hasn\u2019t: Crypto Daily",
+      "subheadline": "The day ahead in crypto: Aug. 7, 2026",
+      "section": "Crypto Daybook Americas",
+      "url": "https://www.coindesk.com/daybook-us/2026/08/07/bitcoin-s-volatility-has-nearly-disappeared-the-risk-hasn-t",
+      "date_published": "2026-08-07T11:42:20.606Z",
+      "author": "Francisco Rodrigues",
+      "tags": [
+        "Crypto Daybook Americas"
+      ]
+    },
+    {
+      "headline": "South African lawmakers propose draft rules on cross-border crypto transactions",
+      "subheadline": "A draft rulebook proposes that sending crypto offshore must be conducted through an authorized provider and be reported to the central bank\u2019s FinSurv.",
+      "section": "Policy",
+      "url": "https://www.coindesk.com/policy/2026/08/04/south-african-lawmakers-propose-draft-rules-on-cross-border-crypto-transactions",
+      "date_published": "2026-08-04T10:59:41.570Z",
+      "author": "Jamie Crawley",
+      "tags": [
+        "South Korea"
+      ]
+    },
+    {
+      "headline": "The Clarity Act is the most important consumer protection effort in years",
+      "subheadline": "Consumers should not have to wait for another crisis to get the protections they deserve, argues Summer Mersinger, CEO of the Blockchain Association.",
+      "section": "Opinion",
+      "url": "https://www.coindesk.com/opinion/2026/07/16/the-clarity-act-is-the-most-important-consumer-protection-effort-in-years",
+      "date_published": "2026-07-16T15:07:30.691Z",
+      "author": "Summer Mersinger",
       "tags": []
+    },
+    {
+      "headline": "Legacy crypto on-ramps and bridges will disappear as payments become invisible, Fun CEO says",
+      "subheadline": "Alex Fine said standalone crypto payment rails are becoming obsolete as platforms shift toward unified funding flows that abstract away blockchain complexity for users.",
+      "section": "Tech",
+      "url": "https://www.coindesk.com/tech/2026/08/02/the-future-of-crypto-payments-won-t-include-on-ramps-or-bridges-fun-ceo-says",
+      "date_published": "2026-08-02T16:00:00.000Z",
+      "author": "Will Canny",
+      "tags": [
+        "Prediction Markets",
+        "Exclusive"
+      ]
     },
     {
       "headline": "Bitcoin price analysis: Here's why BTC isn't rallying with S&P 500, Nasdaq. ",
@@ -94,129 +161,6 @@
       "date_published": "2026-08-06T06:10:43.503Z",
       "author": "Omkar Godbole",
       "tags": [
-        "Bitcoin News"
-      ]
-    },
-    {
-      "headline": "BTC news: Some Bitcoin developers say they're finding a critical bug every hour",
-      "subheadline": "A volunteer group running AI models against bitcoin codebases says it is averaging roughly one critical bug per hour per person, at about $10,000 a day in compute.",
-      "section": "Tech",
-      "url": "https://www.coindesk.com/tech/2026/08/06/bitcoin-developers-flag-85-critical-bugs-in-an-extremely-bad-situation",
-      "date_published": "2026-08-06T07:14:11.099Z",
-      "author": "Shaurya Malwa",
-      "tags": []
-    },
-    {
-      "headline": "Live updates: BTC holding just above $64,000 ahead of Friday's key jobs data",
-      "subheadline": "Trump\u2019s comments on jobs, inflation and a possible Strait of Hormuz deal have helped risk sentiment, but bitcoin\u2019s next move depends on whether lower oil actually pulls Treasury yields and the dollar down.",
-      "section": "Tech",
-      "url": "https://www.coindesk.com/tech/2026/08/06/live-updates-bitcoin-nears-usd65-000-as-oil-inflation-hopes-keep-macro-bid-alive",
-      "date_published": "2026-08-06T07:26:23.324Z",
-      "author": "Shaurya Malwa",
-      "tags": []
-    },
-    {
-      "headline": "Robinhood wins UK crypto registration ahead of new regulatory regime commencing",
-      "subheadline": "Robinhood\u2019s U.K. arm has been added to the FCA's list of registered cryptoasset companies as of July 31.",
-      "section": "Policy",
-      "url": "https://www.coindesk.com/policy/2026/08/03/robinhood-wins-uk-crypto-registration-before-new-regulatory-regime-kicks-off",
-      "date_published": "2026-08-03T09:38:53Z",
-      "author": "Jamie Crawley",
-      "tags": [
-        "Robinhood",
-        "UK",
-        "Regulation"
-      ]
-    },
-    {
-      "headline": "The privacy paradox of protecting kids online",
-      "subheadline": "We don\u2019t need to imagine the privacy pitfalls of age verification. They\u2019ve been happening for years, argues Cardano Foundation CEO Frederik Gregaard. ",
-      "section": "Opinion",
-      "url": "https://www.coindesk.com/opinion/2026/07/14/the-privacy-paradox-of-protecting-kids-online",
-      "date_published": "2026-07-15T14:58:50.778Z",
-      "author": "Frederik Gregaard",
-      "tags": []
-    },
-    {
-      "headline": "How bitcoin cold wallets lost $70 million in an attack that never touched the devices",
-      "subheadline": "Galaxy Research said weak seed generation let an attacker recreate likely private keys offline, sweep more than 1,000 BTC from nearly 1,200 wallets and continue searching without ever accessing the devices.",
-      "section": "Tech",
-      "url": "https://www.coindesk.com/tech/2026/08/01/how-bitcoin-cold-wallets-lost-usd70-million-in-an-attack-that-never-touched-the-devices",
-      "date_published": "2026-08-01T05:55:46.668Z",
-      "author": "Shaurya Malwa",
-      "tags": []
-    },
-    {
-      "headline": "CASHCAT jumps 120% in a week as Robinhood Chain TVL hits $774 million",
-      "subheadline": "The memecoin that defined the chain's launch has recovered to an $86 million cap. Tokenized assets, the chain's stated purpose, sit at $27.6 million.",
-      "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/08/05/cashcat-jumps-120-in-a-week-as-robinhood-chain-tvl-hits-usd774-million",
-      "date_published": "2026-08-06T04:31:41.107Z",
-      "author": "Shaurya Malwa",
-      "tags": []
-    },
-    {
-      "headline": "Banking giant Intesa Sanpaolo cuts IBIT stake 94%, triples ether ETF holding",
-      "subheadline": "Its iShares Staked Ethereum Trust ETF (ETHB) stake tripled to 349,600 shares as long bitcoin ETF holdings fell 35% in value to $69.3 million.",
-      "section": "Finance",
-      "url": "https://www.coindesk.com/business/2026/08/04/intesa-sanpaolo-slashed-ibit-stake-by-94-in-2q-tripled-ether-etf-holding-as-crypto-prices-slumped",
-      "date_published": "2026-08-04T14:25:50.952Z",
-      "author": "Francisco Rodrigues",
-      "tags": [
-        "ETFs",
-        "Crypto News"
-      ]
-    },
-    {
-      "headline": "Wells Fargo joins JPMorgan and Citi in the race to tokenize Wall Street\u2019s settlement rails",
-      "subheadline": "Payments will run on the bank\u2019s proprietary blockchain and be routed automatically through its existing client interface.",
-      "section": "Finance",
-      "url": "https://www.coindesk.com/business/2026/08/04/wells-fargo-to-offer-tokenized-deposits-for-24-7-corporate-payments",
-      "date_published": "2026-08-04T15:47:05.040Z",
-      "author": "Francisco Rodrigues",
-      "tags": [
-        "banks",
-        "Tokenization",
-        "tokenized deposits"
-      ]
-    },
-    {
-      "headline": "Samsung is bringing stablecoins to 800 million phones in a massive crypto bet",
-      "subheadline": "By baking digital dollar tools straight into its native wallet app, the tech giant is solving one of Web3's biggest distribution hurdles.",
-      "section": "Finance",
-      "url": "https://www.coindesk.com/business/2026/08/04/samsung-is-poised-to-become-a-dominant-stablecoin-distributor-analysts-say",
-      "date_published": "2026-08-04T17:14:13Z",
-      "author": "Olivier Acuna",
-      "tags": [
-        "South Korea",
-        "Mobile Apps",
-        "Stablecoins"
-      ]
-    },
-    {
-      "headline": "Why Visa, Mastercard and Coinbase aren't abandoning USDC stablecoin for Open USD",
-      "subheadline": "Executives at Coinbase, Visa and Mastercard said they plan to support multiple stablecoins, suggesting Open USD is another payments rail rather than a direct replacement for USDC.",
-      "section": "Finance",
-      "url": "https://www.coindesk.com/business/2026/08/03/open-usd-rattled-circle-s-stock-but-its-key-backers-still-support-usdc",
-      "date_published": "2026-08-04T17:55:23.475Z",
-      "author": "Krisztian Sandor",
-      "tags": [
-        "Stablecoins",
-        "Coinbase",
-        "Mastercard",
-        "Circle"
-      ]
-    },
-    {
-      "headline": "Elon Musk's SpaceX (SPCX) tops earnings as bitcoin (BTC) holding value drops by $540 million",
-      "subheadline": "Elon Musk's space company posted its first earnings as a public company ahead of a major insider share unlock.",
-      "section": "Finance",
-      "url": "https://www.coindesk.com/business/2026/08/04/spacex-tops-wall-street-revenue-forecast-posts-usd540-million-decline-on-bitcoin-holding-value",
-      "date_published": "2026-08-04T20:26:21.525Z",
-      "author": "Krisztian Sandor",
-      "tags": [
-        "SpaceX",
-        "Elon Musk",
         "Bitcoin News"
       ]
     },
@@ -278,56 +222,112 @@
       ]
     },
     {
-      "headline": "XRP price news: Whales keep buying the dip, but ether shows deeper capitulation",
-      "subheadline": "CryptoQuant said large XRP spot orders point to \"quiet accumulation\" rather than a breakout, while ether\u2019s price below realized value leaves holders underwater and gives it the strongest valuation case among BTC, ETH and XRP.",
-      "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/08/06/xrp-whales-keep-buying-the-dip-but-ether-shows-deeper-capitulation",
-      "date_published": "2026-08-06T04:46:17.443Z",
-      "author": "Shaurya Malwa",
-      "tags": []
-    },
-    {
-      "headline": "Ripple news: XRP Ledger upgrade brings back features once pulled over critical bugs",
-      "subheadline": "The xrpld 3.3.0 release is expected next week with five proposed amendments, including two revised features that were previously withdrawn after researchers found bugs that could have allowed unauthorized transactions or fee draining.",
-      "section": "Tech",
-      "url": "https://www.coindesk.com/tech/2026/08/01/xrp-ledger-upgrade-brings-back-features-once-pulled-over-critical-bugs",
-      "date_published": "2026-08-01T06:09:51.642Z",
-      "author": "Shaurya Malwa",
-      "tags": []
-    },
-    {
-      "headline": "Solana (SOL) news: Foundation's new CISO warns AI is making crypto scams more convincing",
-      "subheadline": "Michael Coates, the foundation\u2019s new CISO, said that AI vulnerabilities and fake identities will drive the next wave of blockchain security concerns.",
-      "section": "Tech",
-      "url": "https://www.coindesk.com/tech/2026/07/31/solana-foundation-s-new-ciso-warns-ai-is-making-crypto-scams-more-convincing",
-      "date_published": "2026-08-01T13:00:00.000Z",
-      "author": "Margaux Nijkerk",
+      "headline": "JPYC raises $38 million Series B led by major Japanese logistics firm AZ-COM Maruwa (9090)",
+      "subheadline": "The investment brings the company\u2019s total raised to $106 million across seven funding rounds since November 2021.",
+      "section": "Finance",
+      "url": "https://www.coindesk.com/business/2026/08/06/jpyc-raises-usd38-million-series-b-led-by-major-japanese-logistics-firm-az-com-maruwa",
+      "date_published": "2026-08-06T10:53:09.444Z",
+      "author": "Jamie Crawley",
       "tags": [
-        "Solana News",
-        "quantum computing",
-        "Hack"
+        "Stablecoins",
+        "Funding Rounds"
       ]
     },
     {
-      "headline": "Bitcoin cold-wallet attack spreads to 4,500 addresses as losses near $89 million",
-      "subheadline": "Galaxy Research flagged a third wave of sweeps tied to weak Coldcard-generated keys, with the attacker now targeting smaller balances and changing how funds are collected onchain.",
-      "section": "Tech",
-      "url": "https://www.coindesk.com/tech/2026/08/02/bitcoin-cold-wallet-attack-spreads-to-4-500-addresses-as-losses-near-usd89-million",
-      "date_published": "2026-08-01T20:10:54Z",
-      "author": "Shaurya Malwa",
-      "tags": []
+      "headline": "RWA news: Tether expands tokenization platform to Saudi Arabia, starting with real estate",
+      "subheadline": "The stablecoin issuer is extending its tokenization business into Saudi Arabia, starting with institutional real estate assets with plans to expand to other asset classes.",
+      "section": "Finance",
+      "url": "https://www.coindesk.com/business/2026/08/06/tether-expands-tokenization-business-into-saudi-arabia-starting-with-real-estate",
+      "date_published": "2026-08-06T16:10:04.287Z",
+      "author": "Krisztian Sandor",
+      "tags": [
+        "Tokenization",
+        "Real World Assets",
+        "Tether"
+      ]
     },
     {
-      "headline": "Legacy crypto on-ramps and bridges will disappear as payments become invisible, Fun CEO says",
-      "subheadline": "Alex Fine said standalone crypto payment rails are becoming obsolete as platforms shift toward unified funding flows that abstract away blockchain complexity for users.",
-      "section": "Tech",
-      "url": "https://www.coindesk.com/tech/2026/08/02/the-future-of-crypto-payments-won-t-include-on-ramps-or-bridges-fun-ceo-says",
-      "date_published": "2026-08-02T16:00:00.000Z",
+      "headline": "Bitcoin (BTC), ether (ETH) benefit as altcoins lose their luster: Crypto Markets Today",
+      "subheadline": "The two largest cryptocurrencies are the only CoinDesk 20 members in positive territory as altcoins fall out of favor.",
+      "section": "Markets",
+      "url": "https://www.coindesk.com/markets/2026/08/06/bitcoin-ether-benefit-as-traders-seek-safety-of-largest-tokens",
+      "date_published": "2026-08-06T10:43:07.363Z",
+      "author": "Francisco Rodrigues",
+      "tags": [
+        "Crypto Markets Today"
+      ]
+    },
+    {
+      "headline": "Why Sandisk (SNDK) and Western Digital (WDC) crashed 10% and what it means for bitcoin",
+      "subheadline": "Strong earnings from Sandisk and Western Digital were not enough to satisfy investors, raising questions about whether capital is beginning to rotate from AI winners into crypto.",
+      "section": "Markets",
+      "url": "https://www.coindesk.com/markets/2026/08/06/why-sandisk-and-western-digital-crashed-10-and-what-it-means-for-bitcoin",
+      "date_published": "2026-08-06T11:14:47.027Z",
+      "author": "James Van Straten",
+      "tags": [
+        "Bitcoin News",
+        "Artificial Intelligence"
+      ]
+    },
+    {
+      "headline": "Hyperliquid ETF demand cools as competition heats up: JPMorgan",
+      "subheadline": "After leading crypto ETF inflows in May and June, demand for Hyperliquid funds stalled in July and August as competition intensified, the bank said.",
+      "section": "Markets",
+      "url": "https://www.coindesk.com/markets/2026/08/06/jpmorgan-says-hyperliquid-etf-inflows-have-stalled-as-competition-mounts",
+      "date_published": "2026-08-06T12:46:42.910Z",
       "author": "Will Canny",
       "tags": [
-        "Prediction Markets",
-        "Exclusive"
+        "Hyperliquid",
+        "ETFs",
+        "JPMorgan"
       ]
+    },
+    {
+      "headline": "BTC, XRP price: Bitcoin stuck near $64,000 as Clarity Act vote slips to September",
+      "subheadline": "Bitcoin, ether showed slight losses while Ripple-linked XRP fell 5.5% on the week, the worst of the majors, as the Senate left Washington without taking up the market structure bill.",
+      "section": "Markets",
+      "url": "https://www.coindesk.com/markets/2026/08/07/bitcoin-stuck-near-usd64-000-as-clarity-act-vote-slips-to-september",
+      "date_published": "2026-08-07T04:17:01.401Z",
+      "author": "Shaurya Malwa",
+      "tags": []
+    },
+    {
+      "headline": "BTC price news: Head-and-shoulders bottom meets Clarity Act uncertainty",
+      "subheadline": "Bitcoin's boring price action may be masking a bullish inverse head-and-shoulders pattern pointing to $76,000, but the setup isn't confirmed, and a key level will decide if it holds.",
+      "section": "Markets",
+      "url": "https://www.coindesk.com/markets/2026/08/07/a-case-for-a-bitcoin-surge-to-usd76-000-may-be-building-beneath-the-boring-price-action-but-there-s-a-caveat",
+      "date_published": "2026-08-07T04:28:17.492Z",
+      "author": "Omkar Godbole",
+      "tags": [
+        "Bitcoin News"
+      ]
+    },
+    {
+      "headline": "BTC news: Early bitcoin wallet wakes after 15 years with $3.2 million transfer",
+      "subheadline": "The 50 BTC remained in the receiving address Friday, but that wallet has previously sent funds to FalconX-labeled deposits, leaving open whether the old stash is being reorganized or moved closer to a trading venue.",
+      "section": "Markets",
+      "url": "https://www.coindesk.com/markets/2026/08/07/bitcoin-wallet-dormant-since-2011-moves-usd3-2-million-toward-falconx-linked-address",
+      "date_published": "2026-08-07T04:50:44.714Z",
+      "author": "Shaurya Malwa",
+      "tags": []
+    },
+    {
+      "headline": "Bitcoin whales load up on $1.2 billion in BTC as ETFs attract $750 million",
+      "subheadline": "Bitcoin whales accumulate $1.2 billion in BTC while spot ETFs pull in $754 million this week. Here's what it means for the price.",
+      "section": "Markets",
+      "url": "https://www.coindesk.com/markets/2026/08/07/bitcoin-whales-load-up-on-usd1-2-billion-in-btc-as-etfs-attract-usd750-million",
+      "date_published": "2026-08-07T05:45:21.767Z",
+      "author": "Omkar Godbole",
+      "tags": []
+    },
+    {
+      "headline": "Live updates: Bitcoin holding near $65,000 as U.S. jobs data falls short of forecasts",
+      "subheadline": "The U.S. lost 23,000 in July, the first such loss since February. Expectations had been for a gain of 80,000 jobs.",
+      "section": "Markets",
+      "url": "https://www.coindesk.com/markets/2026/08/07/live-updates-bitcoin-flat-at-usd64-300-before-us-jobs-report-with-oil-back-as-a-headwind",
+      "date_published": "2026-08-07T07:44:57.369Z",
+      "author": "Shaurya Malwa",
+      "tags": []
     },
     {
       "headline": "Bitcoin cold-wallet losses may near $114 million as possible fourth sweep emerges",
@@ -384,12 +384,21 @@
       ]
     },
     {
-      "headline": "The Clarity Act is the most important consumer protection effort in years",
-      "subheadline": "Consumers should not have to wait for another crisis to get the protections they deserve, argues Summer Mersinger, CEO of the Blockchain Association.",
-      "section": "Opinion",
-      "url": "https://www.coindesk.com/opinion/2026/07/16/the-clarity-act-is-the-most-important-consumer-protection-effort-in-years",
-      "date_published": "2026-07-16T15:07:30.691Z",
-      "author": "Summer Mersinger",
+      "headline": "BTC news: Some Bitcoin developers say they're finding a critical bug every hour",
+      "subheadline": "A volunteer group running AI models against bitcoin codebases says it is averaging roughly one critical bug per hour per person, at about $10,000 a day in compute.",
+      "section": "Tech",
+      "url": "https://www.coindesk.com/tech/2026/08/06/bitcoin-developers-flag-85-critical-bugs-in-an-extremely-bad-situation",
+      "date_published": "2026-08-06T07:14:11.099Z",
+      "author": "Shaurya Malwa",
+      "tags": []
+    },
+    {
+      "headline": "Live updates: BTC holding just above $64,000 ahead of Friday's key jobs data",
+      "subheadline": "Trump\u2019s comments on jobs, inflation and a possible Strait of Hormuz deal have helped risk sentiment, but bitcoin\u2019s next move depends on whether lower oil actually pulls Treasury yields and the dollar down.",
+      "section": "Tech",
+      "url": "https://www.coindesk.com/tech/2026/08/06/live-updates-bitcoin-nears-usd65-000-as-oil-inflation-hopes-keep-macro-bid-alive",
+      "date_published": "2026-08-06T07:26:23.324Z",
+      "author": "Shaurya Malwa",
       "tags": []
     },
     {
@@ -451,53 +460,13 @@
       "tags": []
     },
     {
-      "headline": "Bitget notifies users of end to crypto trading services in Japan",
-      "subheadline": "The Seychelles-based crypto exchange did not share specific reasons for shutting down operations in Japan. ",
-      "section": "Policy",
-      "url": "https://www.coindesk.com/policy/2026/08/03/bitget-set-to-exit-japan-close-all-remaining-positions-by-year-end",
-      "date_published": "2026-08-03T12:03:41.036Z",
-      "author": "Olivier Acuna",
-      "tags": [
-        "Japan",
-        "Crypto Trading",
-        "Cryptocurrency",
-        "Regulation"
-      ]
-    },
-    {
-      "headline": "Bernstein warns Clarity Act failure could spark another crypto selloff",
-      "subheadline": "The broker said failure to pass the Clarity Act this year would likely send crypto lower, but expects U.S. regulators to accelerate rulemaking.",
-      "section": "Policy",
-      "url": "https://www.coindesk.com/policy/2026/08/03/bernstein-sees-another-leg-lower-for-crypto-markets-if-clarity-act-stalls",
-      "date_published": "2026-08-03T13:49:40.397Z",
-      "author": "Will Canny",
-      "tags": [
-        "Clarity Act",
-        "Regulation",
-        "Bernstein"
-      ]
-    },
-    {
-      "headline": "U.S. FBI intelligence agent arrested in connection with theft of $1 million in crypto",
-      "subheadline": "The agent, who had \"top secret\" clearance and worked in FBI headquarters, was accused of taking crypto from wallets the agency had investigated.",
-      "section": "Policy",
-      "url": "https://www.coindesk.com/policy/2026/08/03/u-s-fbi-intelligence-agent-arrested-in-connection-with-theft-of-usd1-million-in-crypto",
-      "date_published": "2026-08-03T22:17:59.102Z",
-      "author": "Jesse Hamilton",
-      "tags": [
-        "Crime"
-      ]
-    },
-    {
-      "headline": "South African lawmakers propose draft rules on cross-border crypto transactions",
-      "subheadline": "A draft rulebook proposes that sending crypto offshore must be conducted through an authorized provider and be reported to the central bank\u2019s FinSurv.",
-      "section": "Policy",
-      "url": "https://www.coindesk.com/policy/2026/08/04/south-african-lawmakers-propose-draft-rules-on-cross-border-crypto-transactions",
-      "date_published": "2026-08-04T10:59:41.570Z",
-      "author": "Jamie Crawley",
-      "tags": [
-        "South Korea"
-      ]
+      "headline": "RWA perps will outpace tokenization",
+      "subheadline": "Tokenization was crypto's first big export to TradFi. Perps are next, says Martin Lee, markets insight lead at DWF labs. ",
+      "section": "Opinion",
+      "url": "https://www.coindesk.com/opinion/2026/07/31/rwa-perps-will-outpace-tokenization",
+      "date_published": "2026-07-31T13:00:00.000Z",
+      "author": "Martin Lee",
+      "tags": []
     },
     {
       "headline": "As Clarity Act teeters, mystery group hammers away at crypto in Washington ads",
@@ -535,87 +504,26 @@
       ]
     },
     {
+      "headline": "Clarity Act: Here's what could happen with the crypto market structure legislation ",
+      "subheadline": "The Senate has not yet indicated if it will advance the Digital Asset Market Clarity Act, and with its summer recess looming, here are the possible outcomes.",
+      "section": "Policy",
+      "url": "https://www.coindesk.com/policy/2026/08/05/here-are-the-possible-outcomes-for-clarity-right-now",
+      "date_published": "2026-08-06T03:49:04.889Z",
+      "author": "Nikhilesh De",
+      "tags": [
+        "Clarity Act"
+      ]
+    },
+    {
       "headline": "Few and Far founder Taj Tarsha charged with misusing funds from $10 million raise",
       "subheadline": "Federal prosecutors say Taj Tarsha misled backers and used investor funds for personal expenses.",
       "section": "Policy",
       "url": "https://www.coindesk.com/policy/2026/08/06/nft-startup-founder-charged-with-misusing-funds-from-usd10-million-fundraising",
       "date_published": "2026-08-06T09:19:03.754Z",
       "author": "Francisco Rodrigues",
-      "tags": []
-    },
-    {
-      "headline": "Bitcoin (BTC), ether (ETH) benefit as altcoins lose their luster: Crypto Markets Today",
-      "subheadline": "The two largest cryptocurrencies are the only CoinDesk 20 members in positive territory as altcoins fall out of favor.",
-      "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/08/06/bitcoin-ether-benefit-as-traders-seek-safety-of-largest-tokens",
-      "date_published": "2026-08-06T10:43:07.363Z",
-      "author": "Francisco Rodrigues",
-      "tags": []
-    },
-    {
-      "headline": "JPYC raises $38 million Series B led by major Japanese logistics firm AZ-COM Maruwa (9090)",
-      "subheadline": "The investment brings the company\u2019s total raised to $106 million across seven funding rounds since November 2021.",
-      "section": "Finance",
-      "url": "https://www.coindesk.com/business/2026/08/06/jpyc-raises-usd38-million-series-b-led-by-major-japanese-logistics-firm-az-com-maruwa",
-      "date_published": "2026-08-06T10:53:09.444Z",
-      "author": "Jamie Crawley",
-      "tags": []
-    },
-    {
-      "headline": "Why Sandisk (SNDK) and Western Digital (WDC) crashed 10% and what it means for bitcoin",
-      "subheadline": "Strong earnings from Sandisk and Western Digital were not enough to satisfy investors, raising questions about whether capital is beginning to rotate from AI winners into crypto.",
-      "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/08/06/why-sandisk-and-western-digital-crashed-10-and-what-it-means-for-bitcoin",
-      "date_published": "2026-08-06T11:14:47.027Z",
-      "author": "James Van Straten",
       "tags": [
-        "Bitcoin News",
-        "Artificial Intelligence"
+        "Crypto News"
       ]
-    },
-    {
-      "headline": "Bitcoin\u2019s (BTC) low price volatility doesn\u2019t necessarily mean low risk: Crypto Daily",
-      "subheadline": "The day ahead in crypto: Aug. 6, 2026",
-      "section": "Crypto Daybook Americas",
-      "url": "https://www.coindesk.com/daybook-us/2026/08/06/bitcoin-s-low-volatility-doesn-t-necessarily-mean-low-risk",
-      "date_published": "2026-08-06T11:37:03.773Z",
-      "author": "Omkar Godbole",
-      "tags": [
-        "Crypto Daybook Americas"
-      ]
-    },
-    {
-      "headline": "Hyperliquid ETF demand cools as competition heats up: JPMorgan",
-      "subheadline": "After leading crypto ETF inflows in May and June, demand for Hyperliquid funds stalled in July and August as competition intensified, the bank said.",
-      "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/08/06/jpmorgan-says-hyperliquid-etf-inflows-have-stalled-as-competition-mounts",
-      "date_published": "2026-08-06T12:46:42.910Z",
-      "author": "Will Canny",
-      "tags": [
-        "Hyperliquid",
-        "ETFs",
-        "JPMorgan"
-      ]
-    },
-    {
-      "headline": "Crypto for Advisors: Europe's crypto rules, U.S. Preview",
-      "subheadline": "Crypto for Advisors: Europe's crypto rules, U.S. Preview",
-      "section": "CoinDesk Indices",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/08/06/crypto-for-advisors-europe-s-crypto-rules-u-s-preview",
-      "date_published": "2026-08-06T15:07:00.459Z",
-      "author": "Maria Golenkov",
-      "tags": [
-        "Crypto for Advisors"
-      ]
-    },
-    {
-      "headline": "RWA news: Tether expands tokenization platform to Saudi Arabia, starting with real estate",
-      "subheadline": "The stablecoin issuer is extending its tokenization business into Saudi Arabia, starting with institutional real estate assets with plans to expand to other asset classes.",
-      "section": "Finance",
-      "url": "https://www.coindesk.com/business/2026/08/06/tether-expands-tokenization-business-into-saudi-arabia-starting-with-real-estate",
-      "date_published": "2026-08-06T16:10:04.287Z",
-      "author": "Krisztian Sandor",
-      "tags": []
     },
     {
       "headline": "Ondo Finance hit by corporate control fight as founder\u2019s mother seeks to oust CEO",
@@ -624,10 +532,7 @@
       "url": "https://www.coindesk.com/policy/2026/08/06/power-struggle-erupts-at-ondo-finance-after-founder-s-death",
       "date_published": "2026-08-06T21:59:33.352Z",
       "author": "Will Canny",
-      "tags": [
-        "ondo finance",
-        "litigation"
-      ]
+      "tags": []
     },
     {
       "headline": "Senate won't vote on crypto Clarity Act before its summer break",
@@ -636,55 +541,151 @@
       "url": "https://www.coindesk.com/policy/2026/08/06/senate-won-t-vote-on-crypto-clarity-act-before-its-summer-break",
       "date_published": "2026-08-07T02:14:43.405Z",
       "author": "Nikhilesh De",
-      "tags": [
-        "Breaking News",
-        "Clarity Act"
-      ]
-    },
-    {
-      "headline": "BTC, XRP price: Bitcoin stuck near $64,000 as Clarity Act vote slips to September",
-      "subheadline": "Bitcoin, ether showed slight losses while Ripple-linked XRP fell 5.5% on the week, the worst of the majors, as the Senate left Washington without taking up the market structure bill.",
-      "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/08/07/bitcoin-stuck-near-usd64-000-as-clarity-act-vote-slips-to-september",
-      "date_published": "2026-08-07T04:17:01.401Z",
-      "author": "Shaurya Malwa",
       "tags": []
     },
     {
-      "headline": "BTC price news: Head-and-shoulders bottom meets Clarity Act uncertainty",
-      "subheadline": "Bitcoin's boring price action may be masking a bullish inverse head-and-shoulders pattern pointing to $76,000, but the setup isn't confirmed, and a key level will decide if it holds.",
-      "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/08/07/a-case-for-a-bitcoin-surge-to-usd76-000-may-be-building-beneath-the-boring-price-action-but-there-s-a-caveat",
-      "date_published": "2026-08-07T04:28:17.492Z",
-      "author": "Omkar Godbole",
+      "headline": "Why Bitcoin's BIP-110 refuses to die despite near-zero miner support",
+      "subheadline": "BIP-110 has attracted only a sliver of miner support, yet its user-activated design means the proposal continues toward its activation date and (most likely) beyond. ",
+      "section": "Tech",
+      "url": "https://www.coindesk.com/tech/2026/08/06/why-bitcoin-s-bip-110-refuses-to-die-despite-near-zero-miner-support",
+      "date_published": "2026-08-07T11:45:49Z",
+      "author": "Jamie Crawley",
       "tags": [
         "Bitcoin News"
       ]
     },
     {
-      "headline": "BTC news: Early bitcoin wallet wakes after 15 years with $3.2 million transfer",
-      "subheadline": "The 50 BTC remained in the receiving address Friday, but that wallet has previously sent funds to FalconX-labeled deposits, leaving open whether the old stash is being reorganized or moved closer to a trading venue.",
+      "headline": "After a Clarity Act funeral, the crypto world would keep turning",
+      "subheadline": "With the U.S. crypto bill missing a crucial window before the Senate hangs its closed-for-summer sign, the alternatives are getting more attention.",
+      "section": "News Analysis",
+      "url": "https://www.coindesk.com/news-analysis/2026/08/06/after-a-clarity-act-funeral-the-crypto-world-would-keep-turning",
+      "date_published": "2026-08-07T12:00:00.000Z",
+      "author": "Jesse Hamilton",
+      "tags": [
+        "Clarity Act",
+        "Regulation"
+      ]
+    },
+    {
+      "headline": "The U.S. lost 23,000 jobs in July, far shy of forecasts for a gain of 80,000",
+      "subheadline": "Prior to the report, markets were split on whether the Fed would hike rates at its next policy meeting in September.",
       "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/08/07/bitcoin-wallet-dormant-since-2011-moves-usd3-2-million-toward-falconx-linked-address",
-      "date_published": "2026-08-07T04:50:44.714Z",
+      "url": "https://www.coindesk.com/markets/2026/08/07/the-u-s-lost-23-000-jobs-in-july-far-shy-of-forecasts-for-a-gain-of-80-000",
+      "date_published": "2026-08-07T12:31:51.375Z",
+      "author": "James Van Straten",
+      "tags": [
+        "Bitcoin News"
+      ]
+    },
+    {
+      "headline": "Russian security agents arrest over 20 in alleged crypto network linked to Ukraine",
+      "subheadline": "FSB agents said the ring was involved in crypto exchange network aimed at stealing money from Russians to fund Ukraine's war effort.",
+      "section": "Policy",
+      "url": "https://www.coindesk.com/policy/2026/08/07/russia-cracks-down-on-unlicensed-crypto-exchanges-it-claims-are-linked-to-ukraine",
+      "date_published": "2026-08-07T14:04:47.986Z",
+      "author": "Olivier Acuna",
+      "tags": [
+        "Crime"
+      ]
+    },
+    {
+      "headline": "Prediction market Polymarket overhauls rules after study finds fraud",
+      "subheadline": "As rival platforms debate market safety, Polymarket is adding new time-weighted averages to prevent whales from tipping contract outcomes at the last second.",
+      "section": "Finance",
+      "url": "https://www.coindesk.com/business/2026/08/07/how-a-five-second-trick-let-traders-drain-millions-from-polymarket",
+      "date_published": "2026-08-07T15:09:07.120Z",
+      "author": "Olivier Acuna",
+      "tags": []
+    },
+    {
+      "headline": "OKX's Rafique says politics could derail crypto's biggest U.S. bill",
+      "subheadline": "The OKX executive says Democrats have little incentive to hand Republicans a crypto victory before the midterms.",
+      "section": "Policy",
+      "url": "https://www.coindesk.com/policy/2026/08/04/okx-s-rafique-doubts-clarity-act-will-pass-warns-optimism-is-already-priced-into-bitcoin",
+      "date_published": "2026-08-07T15:22:44.363Z",
+      "author": "Will Canny",
+      "tags": [
+        "Clarity Act",
+        "Regulation",
+        "Exclusive",
+        "OKX"
+      ]
+    },
+    {
+      "headline": "Bybit sues North Korea and Lazarus Group over $1.5 billion hack, secures asset freeze",
+      "subheadline": "The exchange has secured a preliminary injunction freezing stolen assets. ",
+      "section": "Policy",
+      "url": "https://www.coindesk.com/policy/2026/08/07/bybit-sues-north-korea-and-lazarus-group-over-usd1-5-billion-hack-secures-asset-freeze",
+      "date_published": "2026-08-07T16:32:41.561Z",
+      "author": "Ian Allison",
+      "tags": []
+    },
+    {
+      "headline": "BitMEX sale faltered as buyers balked at founder ownership and shrinking business",
+      "subheadline": "Potential buyers, including Exodus, passed on BitMEX amid concerns over founder ownership and its shrinking business, according to a source.",
+      "section": "Finance",
+      "url": "https://www.coindesk.com/business/2026/07/31/bitmex-sale-collapsed-as-buyers-balked-at-founder-ownership-and-shrinking-business",
+      "date_published": "2026-08-07T16:53:56.651Z",
+      "author": "Will Canny",
+      "tags": []
+    },
+    {
+      "headline": "U.S. sanctions Iran-linked crypto exchanges Shelbit and Aban Tether",
+      "subheadline": "The Treasury's OFAC targeted Shelbit and Aban Tether as Washington continues its effort to cut Tehran's access to crypto and foreign currency.",
+      "section": "Policy",
+      "url": "https://www.coindesk.com/policy/2026/08/07/u-s-widens-iran-crypto-crackdown-with-sanctions-on-two-exchanges",
+      "date_published": "2026-08-07T18:42:44.828Z",
+      "author": "Krisztian Sandor",
+      "tags": [
+        "Iran"
+      ]
+    },
+    {
+      "headline": "Trump-backed American Bitcoin board member adds $1.9 million to personal stake",
+      "subheadline": "Mateen purchased more than 306,000 shares across two days following the company's quarterly earnings, lifting his stake to more than 492,000 shares.",
+      "section": "Finance",
+      "url": "https://www.coindesk.com/business/2026/08/07/trump-backed-american-bitcoin-director-justin-mateen-buys-nearly-usd2-million-of-abtc-stock",
+      "date_published": "2026-08-07T20:20:00.000Z",
+      "author": "Will Canny",
+      "tags": []
+    },
+    {
+      "headline": "Trump crypto news: DJT scraps Crypto.com deals citing market condition, CRO token falls 5%",
+      "subheadline": "The Truth Social parent company is refocusing on media and its pending merger with a fusion energy firm, as the digital asset treasury boom has lost its steam.",
+      "section": "Finance",
+      "url": "https://www.coindesk.com/business/2026/08/07/trump-media-pulls-back-from-crypto-scraps-crypto-com-cro-treasury-deal",
+      "date_published": "2026-08-07T21:13:21Z",
+      "author": "Krisztian Sandor",
+      "tags": [
+        "Trump",
+        "Donald Trump",
+        "Digital Asset Treasury"
+      ]
+    },
+    {
+      "headline": "Attention bitcoin holders: You can lose real BTC trying to sell coins from BIP-110 fork",
+      "subheadline": "If a minority chain appears this weekend, buyers could replay signed fork-coin sales on bitcoin itself, making doing nothing the safest move until the chains can be separated.",
+      "section": "Tech",
+      "url": "https://www.coindesk.com/tech/2026/08/08/bitcoin-holders-risk-losing-real-btc-if-they-sell-coins-from-bip-110-fork-says-developer",
+      "date_published": "2026-08-08T02:30:00.000Z",
       "author": "Shaurya Malwa",
       "tags": []
     },
     {
-      "headline": "Bitcoin whales load up on $1.2 billion in BTC as ETFs attract $750 million",
-      "subheadline": "Bitcoin whales accumulate $1.2 billion in BTC while spot ETFs pull in $754 million this week. Here's what it means for the price.",
-      "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/08/07/bitcoin-whales-load-up-on-usd1-2-billion-in-btc-as-etfs-attract-usd750-million",
-      "date_published": "2026-08-07T05:45:21.767Z",
-      "author": "Omkar Godbole",
+      "headline": "Ripple news: New XRP Ledger proposals target $530 million in tokenized Wall Street assets",
+      "subheadline": "A new XRPL amendment proposal would let institutions encrypt token balances and transfer amounts while still giving issuers, auditors and regulators selective access.",
+      "section": "Tech",
+      "url": "https://www.coindesk.com/tech/2026/08/07/new-xrp-ledger-amendments-target-usd530-million-in-tokenized-wall-street-assets",
+      "date_published": "2026-08-08T03:30:00.000Z",
+      "author": "Shaurya Malwa",
       "tags": []
     },
     {
-      "headline": "Live updates: Bitcoin at $64,300 before US jobs report, with oil back as a headwind",
-      "subheadline": "Brent climbed on stalled Hormuz talks, reviving the inflation worry that has capped bitcoin all summer. Today's US payrolls print is the next catalyst.",
-      "section": "Markets",
-      "url": "https://www.coindesk.com/markets/2026/08/07/live-updates-bitcoin-flat-at-usd64-300-before-us-jobs-report-with-oil-back-as-a-headwind",
-      "date_published": "2026-08-07T07:44:57.369Z",
+      "headline": "BTC news: Bitcoin\u2019s exploit week worsens as BTCPay flaw drains Lightning nodes",
+      "subheadline": "BTCPay told users running LND to update immediately or take servers offline after attackers stole credentials that can control Lightning wallets and move funds.",
+      "section": "Tech",
+      "url": "https://www.coindesk.com/tech/2026/08/08/another-bitcoin-infrastructure-exploit-hits-this-time-draining-merchant-lightning-nodes",
+      "date_published": "2026-08-08T07:46:04.562Z",
       "author": "Shaurya Malwa",
       "tags": []
     }
