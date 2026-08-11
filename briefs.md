@@ -11,6 +11,32 @@ No investment advice — this surfaces what's happening, you read it.
 
 <!-- new briefs go here, between this marker and the previous entry -->
 
+## 2026-08-11
+
+**Movement** — bitcoin $64,042 ↘ -1.42%, ethereum $1,876 ↘ -2.07%, solana $76 ↘ -0.52%
+
+All three coins reversed yesterday's modest gains Tuesday as ETH led losses at -2.07%, even as $853M in weekly ETF inflows — the largest since April per CoinDesk — and strong whale accumulation provided a bullish underpinning that prices aren't reflecting. The BIP-110 fork resolved anticlimactically, with the minority chain effectively dead after two blocks while BTCPay and Coldcard exploits continued keeping Bitcoin's security track record under pressure. The Senate opened the first procedural stage of Clarity Act voting per CoinDesk, giving the bill a narrow September window, though OKX warned the optimism may already be priced into BTC.
+
+**Worth watching**
+- Bybit secured an asset freeze against North Korea and the Lazarus Group for the $1.5B hack per CoinDesk — first exchange-initiated nation-state legal action, a geopolitical escalation not tracked in BTC/ETH/SOL prices
+- Brazil's central bank ordered exchanges to delay cross-border transfers above $10K per CoinDesk — sovereign capital controls on crypto outflows not visible in spot prices
+- 100+ crypto projects folding in 2026 per CoinDesk — a dot-com-style shakeout selecting for protocols with real cash flow; watchlist coins may appear stable while the broader ecosystem contracts
+
+<details><summary>8 headlines</summary>
+
+- [Bybit sues North Korea and Lazarus Group over $1.5 billion hack, secures asset freeze](https://www.coindesk.com/policy/2026/08/07/bybit-sues-north-korea-and-lazarus-group-over-usd1-5-billion-hack-secures-asset-freeze)
+- [U.S. sanctions Iran-linked crypto exchanges Shelbit and Aban Tether](https://www.coindesk.com/policy/2026/08/07/u-s-widens-iran-crypto-crackdown-with-sanctions-on-two-exchanges)
+- [Everyone has the perps convergence backwards](https://www.coindesk.com/opinion/2026/08/01/everyone-has-the-perps-convergence-backwards)
+- [Crypto may have institutionalized, but it still trades like a rumor mill](https://www.coindesk.com/opinion/2026/08/05/crypto-may-have-institutionalized-but-it-still-trades-like-a-rumor-mill)
+- [Free Markets and Innovation, Sort Of](https://www.coindesk.com/opinion/2026/08/06/free-markets-and-innovation-sort-of)
+- [A part of FTX survived, and it's the case for the CLARITY Act](https://www.coindesk.com/opinion/2026/08/07/a-part-of-ftx-survived-and-it-s-the-case-for-the-clarity-act)
+- [Trump crypto news: DJT scraps Crypto.com deals citing market condition, CRO token falls 5%](https://www.coindesk.com/business/2026/08/07/trump-media-pulls-back-from-crypto-scraps-crypto-com-cro-treasury-deal)
+- [Attention bitcoin holders: You can lose real BTC trying to sell coins from BIP-110 fork](https://www.coindesk.com/tech/2026/08/08/bitcoin-holders-risk-losing-real-btc-if-they-sell-coins-from-bip-110-fork-says-developer)
+
+</details>
+
+---
+
 ## 2026-08-10
 
 **Movement** — bitcoin $64,950 ↗ +0.32%, ethereum $1,914 ↗ +0.14%, solana $76 ↗ +0.73%

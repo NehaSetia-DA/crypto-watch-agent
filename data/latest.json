@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-08-10T05:10:00.000000Z",
+  "generated_at": "2026-08-11T05:00:00.000000Z",
   "prices": [
-    {"id": "bitcoin", "usd": 64950, "change_24h": 0.3237831923270123},
-    {"id": "ethereum", "usd": 1914.21, "change_24h": 0.13918684190071187},
-    {"id": "solana", "usd": 76.46, "change_24h": 0.7313782263384568}
+    {"id": "bitcoin", "usd": 64042, "change_24h": -1.420752986029173},
+    {"id": "ethereum", "usd": 1876.25, "change_24h": -2.0699641059422285},
+    {"id": "solana", "usd": 76.11, "change_24h": -0.5202507934143418}
   ],
-  "narrative": "All three coins edged higher Monday even as Bitcoin's protocol drama resolved anticlimactically — the controversial BIP-110 fork mined two blocks then stalled, leaving both chains accepting the same transactions with replay risk per CoinDesk; spot prices barely registered the event. A second security front remained live: BTCPay warned Lightning node operators to update immediately after credential theft, and Coldcard fallout triggered 210,000 BTC in wallet migrations per CoinDesk, while the July U.S. jobs miss (-23,000 vs. expected +80,000 per CoinDesk) kept macro sentiment cautious. The Senate reversed course and opened the first stage of Clarity Act voting, preserving a narrow path to September per CoinDesk — a modest legislative win after last week's recess scare.",
+  "narrative": "All three coins reversed yesterday's modest gains Tuesday as ETH led losses at -2.07%, even as $853M in weekly ETF inflows — the largest since April per CoinDesk — and strong whale accumulation provided a bullish underpinning that prices aren't reflecting. The BIP-110 fork resolved anticlimactically, with the minority chain effectively dead after two blocks while BTCPay and Coldcard exploits continued keeping Bitcoin's security track record under pressure. The Senate opened the first procedural stage of Clarity Act voting per CoinDesk, giving the bill a narrow September window, though OKX warned the optimism may already be priced into BTC.",
   "worth_watching": [
-    "BIP-110 minority fork stalled at two blocks but replay risk persists for anyone selling fork coins per CoinDesk — a Bitcoin protocol stress test not reflected in spot prices, with both chains still accepting the same transactions",
-    "Brazil's central bank ordered exchanges to delay cross-border transfers over $10,000 per CoinDesk — sovereign capital controls targeting crypto outflows arriving outside watchlist coin metrics",
-    "Trump Media scrapped its Crypto.com treasury deals, with the company calling the digital asset treasury boom 'lost steam' per CoinDesk — a corporate treasury retreat not tracked in BTC/ETH/SOL spot prices"
+    "Bybit secured an asset freeze against North Korea and the Lazarus Group for the $1.5B hack per CoinDesk — first exchange-initiated nation-state legal action, a geopolitical escalation not tracked in BTC/ETH/SOL prices",
+    "Brazil's central bank ordered exchanges to delay cross-border transfers above $10K per CoinDesk — sovereign capital controls on crypto outflows not visible in spot prices",
+    "100+ crypto projects folding in 2026 per CoinDesk — a dot-com-style shakeout selecting for protocols with real cash flow; watchlist coins may appear stable while the broader ecosystem contracts"
   ],
   "news": [
     {
       "source": "coindesk.com",
       "headlines": [
+        "Bybit sues North Korea and Lazarus Group over $1.5 billion hack, secures asset freeze",
+        "U.S. sanctions Iran-linked crypto exchanges Shelbit and Aban Tether",
         "Everyone has the perps convergence backwards",
         "Crypto may have institutionalized, but it still trades like a rumor mill",
         "Free Markets and Innovation, Sort Of",
         "A part of FTX survived, and it's the case for the CLARITY Act",
-        "The U.S. lost 23,000 jobs in July, far shy of forecasts for a gain of 80,000",
-        "Russian security agents arrest over 20 in alleged crypto network linked to Ukraine",
-        "Prediction market Polymarket overhauls rules after study finds fraud",
-        "OKX's Rafique says politics could derail crypto's biggest U.S. bill"
+        "Trump crypto news: DJT scraps Crypto.com deals citing market condition, CRO token falls 5%",
+        "Attention bitcoin holders: You can lose real BTC trying to sell coins from BIP-110 fork"
       ]
     }
   ]
