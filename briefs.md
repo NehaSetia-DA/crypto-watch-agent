@@ -11,6 +11,32 @@ No investment advice — this surfaces what's happening, you read it.
 
 <!-- new briefs go here, between this marker and the previous entry -->
 
+## 2026-08-12
+
+**Movement** — bitcoin $63,676 ↘ -0.48%, ethereum $1,886 ↗ +0.57%, solana $76 ↗ +0.23%
+
+Bitcoin dipped slightly while ethereum and solana recovered modestly on Wednesday, with price action diverging from bullish on-chain signals: large BTC holders (10,000+ BTC wallets) reached a 6-month high and CME hedge funds flipped net long for the first time in years per CoinDesk, even as Strategy sold 1,690 BTC to build a $4.75B cash reserve. The SEC announced it will vote this week to propose "Reg Crypto," its first major digital-asset rulemaking per CoinDesk, as Coinsbuy lost $8 million in a cross-chain attack and BTCPay offered a $190,000 bounty after last week's Lightning drain, keeping Bitcoin's security track record under continued pressure.
+
+**Worth watching**
+- SEC proposes "Reg Crypto" this week — first formal SEC digital-asset rulemaking per CoinDesk, a structural shift that resets the regulatory baseline independent of the Clarity Act's Senate timeline
+- Mastercard's $1.8B acquisition of stablecoin firm BVNK per CoinDesk — TradFi absorbing stablecoin infrastructure at scale, a payments story not tracked in BTC/ETH/SOL spot prices
+- Grayscale drops Cardano, Polkadot, Hedera ETF plans per CoinDesk — institutional capital retreating from second-tier altcoins; a signal of which assets aren't making the cut that watchlist coins don't show
+
+<details><summary>8 headlines</summary>
+
+- [U.S. sanctions Iran-linked crypto exchanges Shelbit and Aban Tether](https://www.coindesk.com/policy/2026/08/07/u-s-widens-iran-crypto-crackdown-with-sanctions-on-two-exchanges)
+- [U.S. Senate opens first stage of crypto Clarity Act voting to give bill a chance next month](https://www.coindesk.com/policy/2026/08/08/u-s-senate-opens-first-stage-of-crypto-clarity-act-voting-to-give-bill-a-chance-next-month)
+- [Is Clarity's delay a blessing in disguise?: State of Crypto](https://www.coindesk.com/policy/2026/08/09/is-clarity-s-delay-a-blessing-in-disguise-state-of-crypto)
+- [Everyone has the perps convergence backwards](https://www.coindesk.com/opinion/2026/08/01/everyone-has-the-perps-convergence-backwards)
+- [Crypto may have institutionalized, but it still trades like a rumor mill](https://www.coindesk.com/opinion/2026/08/05/crypto-may-have-institutionalized-but-it-still-trades-like-a-rumor-mill)
+- [Free Markets and Innovation, Sort Of](https://www.coindesk.com/opinion/2026/08/06/free-markets-and-innovation-sort-of)
+- [A part of FTX survived, and it's the case for the CLARITY Act](https://www.coindesk.com/opinion/2026/08/07/a-part-of-ftx-survived-and-it-s-the-case-for-the-clarity-act)
+- [A rare CME shift: Hedge funds abandon structural shorts to bet on a bitcoin rally](https://www.coindesk.com/markets/2026/08/10/a-rare-cme-shift-hedge-funds-abandon-structural-shorts-to-bet-on-a-bitcoin-rally)
+
+</details>
+
+---
+
 ## 2026-08-11
 
 **Movement** — bitcoin $64,042 ↘ -1.42%, ethereum $1,876 ↘ -2.07%, solana $76 ↘ -0.52%

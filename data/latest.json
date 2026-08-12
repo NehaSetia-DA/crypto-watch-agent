@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-08-11T05:00:00.000000Z",
+  "generated_at": "2026-08-12T05:15:00.000000Z",
   "prices": [
-    {"id": "bitcoin", "usd": 64042, "change_24h": -1.420752986029173},
-    {"id": "ethereum", "usd": 1876.25, "change_24h": -2.0699641059422285},
-    {"id": "solana", "usd": 76.11, "change_24h": -0.5202507934143418}
+    {"id": "bitcoin", "usd": 63676, "change_24h": -0.48224561939342464},
+    {"id": "ethereum", "usd": 1885.61, "change_24h": 0.5672539925865432},
+    {"id": "solana", "usd": 76.17, "change_24h": 0.229349247787667}
   ],
-  "narrative": "All three coins reversed yesterday's modest gains Tuesday as ETH led losses at -2.07%, even as $853M in weekly ETF inflows — the largest since April per CoinDesk — and strong whale accumulation provided a bullish underpinning that prices aren't reflecting. The BIP-110 fork resolved anticlimactically, with the minority chain effectively dead after two blocks while BTCPay and Coldcard exploits continued keeping Bitcoin's security track record under pressure. The Senate opened the first procedural stage of Clarity Act voting per CoinDesk, giving the bill a narrow September window, though OKX warned the optimism may already be priced into BTC.",
+  "narrative": "Bitcoin dipped slightly while ethereum and solana recovered modestly on Wednesday, with price action diverging from bullish on-chain signals: large BTC holders (10,000+ BTC wallets) reached a 6-month high and CME hedge funds flipped net long for the first time in years per CoinDesk, even as Strategy sold 1,690 BTC to build a $4.75B cash reserve. The SEC announced it will vote this week to propose \"Reg Crypto,\" its first major digital-asset rulemaking per CoinDesk, as Coinsbuy lost $8 million in a cross-chain attack and BTCPay offered a $190,000 bounty after last week's Lightning drain, keeping Bitcoin's security track record under continued pressure.",
   "worth_watching": [
-    "Bybit secured an asset freeze against North Korea and the Lazarus Group for the $1.5B hack per CoinDesk — first exchange-initiated nation-state legal action, a geopolitical escalation not tracked in BTC/ETH/SOL prices",
-    "Brazil's central bank ordered exchanges to delay cross-border transfers above $10K per CoinDesk — sovereign capital controls on crypto outflows not visible in spot prices",
-    "100+ crypto projects folding in 2026 per CoinDesk — a dot-com-style shakeout selecting for protocols with real cash flow; watchlist coins may appear stable while the broader ecosystem contracts"
+    "SEC proposes \"Reg Crypto\" this week — first formal SEC digital-asset rulemaking per CoinDesk, a structural shift that resets the regulatory baseline independent of the Clarity Act's Senate timeline",
+    "Mastercard's $1.8B acquisition of stablecoin firm BVNK per CoinDesk — TradFi absorbing stablecoin infrastructure at scale, a payments story not tracked in BTC/ETH/SOL spot prices",
+    "Grayscale drops Cardano, Polkadot, Hedera ETF plans per CoinDesk — institutional capital retreating from second-tier altcoins; a signal of which assets aren't making the cut that watchlist coins don't show"
   ],
   "news": [
     {
       "source": "coindesk.com",
       "headlines": [
-        "Bybit sues North Korea and Lazarus Group over $1.5 billion hack, secures asset freeze",
         "U.S. sanctions Iran-linked crypto exchanges Shelbit and Aban Tether",
+        "U.S. Senate opens first stage of crypto Clarity Act voting to give bill a chance next month",
+        "Is Clarity's delay a blessing in disguise?: State of Crypto",
         "Everyone has the perps convergence backwards",
         "Crypto may have institutionalized, but it still trades like a rumor mill",
         "Free Markets and Innovation, Sort Of",
         "A part of FTX survived, and it's the case for the CLARITY Act",
-        "Trump crypto news: DJT scraps Crypto.com deals citing market condition, CRO token falls 5%",
-        "Attention bitcoin holders: You can lose real BTC trying to sell coins from BIP-110 fork"
+        "A rare CME shift: Hedge funds abandon structural shorts to bet on a bitcoin rally"
       ]
     }
   ]
