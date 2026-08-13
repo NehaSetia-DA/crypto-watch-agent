@@ -11,6 +11,32 @@ No investment advice — this surfaces what's happening, you read it.
 
 <!-- new briefs go here, between this marker and the previous entry -->
 
+## 2026-08-13
+
+**Movement** — bitcoin $63,785 ↗ +0.06%, ethereum $1,895 ↗ +0.39%, solana $76 ↘ -0.17%
+
+The SEC announced it will vote this week to propose "Reg Crypto," its first formal crypto rulemaking per CoinDesk, even as the Clarity Act holds only a narrow September window after clearing a procedural hurdle — both regulatory stories playing out while bitcoin stalls just below $65,000 ahead of Wednesday's CPI print. Security incidents deepened: BTCPay posted a $190,000 bounty after last week's Lightning drain, an XRP bridge was drained via fake deposits per CoinDesk, and Ravencoin faces a potential four-day chain rollback. Riot secured a 20-year AI infrastructure deal with Anthropic per CoinDesk, a signal that bitcoin miners are pivoting corporate strategy toward AI — a shift not reflected in flat spot prices.
+
+**Worth watching**
+- Harmony (ONE) fell 40% after an attacker minted 4 billion tokens per CoinDesk — a smart-contract exploit at a non-watchlist L1 showing chain-level security risk not visible in BTC/ETH/SOL prices
+- Wednesday CPI print — bitcoin volatility has collapsed to multi-month lows and STS Digital warns inflation data could be the next breakout catalyst per CoinDesk; a macro binary not tracked in daily coin metrics
+- Coinbase picks Abu Dhabi for global RWA tokenization push per CoinDesk — exchange securing regulatory approval to offer tokenized securities internationally; institutional tokenization scaling outside watchlist coin spot prices
+
+<details><summary>8 headlines</summary>
+
+- [UK lawmaker group APPG questions lenders over lack of banking for the country's crypto firms](https://www.coindesk.com/policy/2026/08/11/uk-lawmakers-question-lenders-over-lack-of-banking-for-the-country-s-crypto-firms)
+- [How a new FlightAware lawsuit threatens Kalshi's cancellation bets](https://www.coindesk.com/policy/2026/08/11/kalshi-faces-new-lawsuit-flightaware-accuses-it-of-using-its-data-for-flight-cancellation-betting)
+- [Everyone has the perps convergence backwards](https://www.coindesk.com/opinion/2026/08/01/everyone-has-the-perps-convergence-backwards)
+- [Crypto may have institutionalized, but it still trades like a rumor mill](https://www.coindesk.com/opinion/2026/08/05/crypto-may-have-institutionalized-but-it-still-trades-like-a-rumor-mill)
+- [Free Markets and Innovation, Sort Of](https://www.coindesk.com/opinion/2026/08/06/free-markets-and-innovation-sort-of)
+- [A part of FTX survived, and it's the case for the CLARITY Act](https://www.coindesk.com/opinion/2026/08/07/a-part-of-ftx-survived-and-it-s-the-case-for-the-clarity-act)
+- [Bitcoin (BTC) price stuck below $65,000 as Iran stalemate, Strategy sale squeeze market](https://www.coindesk.com/markets/2026/08/11/bitcoin-stuck-below-usd65-000-as-the-strait-of-hormuz-stalemate-and-strategy-s-selling-squeeze-the-market)
+- [Bitcoin-backed lending grows up as institutions tap BTC for corporate financing](https://www.coindesk.com/markets/2026/08/11/bitcoin-backed-lending-is-entering-its-institutional-era-two-prime)
+
+</details>
+
+---
+
 ## 2026-08-12
 
 **Movement** — bitcoin $63,676 ↘ -0.48%, ethereum $1,886 ↗ +0.57%, solana $76 ↗ +0.23%

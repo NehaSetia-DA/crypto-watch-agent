@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-08-12T05:15:00.000000Z",
+  "generated_at": "2026-08-13T05:30:00.000000Z",
   "prices": [
-    {"id": "bitcoin", "usd": 63676, "change_24h": -0.48224561939342464},
-    {"id": "ethereum", "usd": 1885.61, "change_24h": 0.5672539925865432},
-    {"id": "solana", "usd": 76.17, "change_24h": 0.229349247787667}
+    {"id": "bitcoin", "usd": 63785, "change_24h": 0.060957590901500956},
+    {"id": "ethereum", "usd": 1895.13, "change_24h": 0.3946858719033841},
+    {"id": "solana", "usd": 76.13, "change_24h": -0.1737179245429476}
   ],
-  "narrative": "Bitcoin dipped slightly while ethereum and solana recovered modestly on Wednesday, with price action diverging from bullish on-chain signals: large BTC holders (10,000+ BTC wallets) reached a 6-month high and CME hedge funds flipped net long for the first time in years per CoinDesk, even as Strategy sold 1,690 BTC to build a $4.75B cash reserve. The SEC announced it will vote this week to propose \"Reg Crypto,\" its first major digital-asset rulemaking per CoinDesk, as Coinsbuy lost $8 million in a cross-chain attack and BTCPay offered a $190,000 bounty after last week's Lightning drain, keeping Bitcoin's security track record under continued pressure.",
+  "narrative": "The SEC announced it will vote this week to propose \"Reg Crypto,\" its first formal crypto rulemaking per CoinDesk, even as the Clarity Act holds only a narrow September window after clearing a procedural hurdle — both regulatory stories playing out while bitcoin stalls just below $65,000 ahead of Wednesday's CPI print. Security incidents deepened: BTCPay posted a $190,000 bounty after last week's Lightning drain, an XRP bridge was drained via fake deposits per CoinDesk, and Ravencoin faces a potential four-day chain rollback. Riot secured a 20-year AI infrastructure deal with Anthropic per CoinDesk, a signal that bitcoin miners are pivoting corporate strategy toward AI — a shift not reflected in flat spot prices.",
   "worth_watching": [
-    "SEC proposes \"Reg Crypto\" this week — first formal SEC digital-asset rulemaking per CoinDesk, a structural shift that resets the regulatory baseline independent of the Clarity Act's Senate timeline",
-    "Mastercard's $1.8B acquisition of stablecoin firm BVNK per CoinDesk — TradFi absorbing stablecoin infrastructure at scale, a payments story not tracked in BTC/ETH/SOL spot prices",
-    "Grayscale drops Cardano, Polkadot, Hedera ETF plans per CoinDesk — institutional capital retreating from second-tier altcoins; a signal of which assets aren't making the cut that watchlist coins don't show"
+    "Harmony (ONE) fell 40% after an attacker minted 4 billion tokens per CoinDesk — a smart-contract exploit at a non-watchlist L1 showing chain-level security risk not visible in BTC/ETH/SOL prices",
+    "Wednesday CPI print — bitcoin volatility has collapsed to multi-month lows and STS Digital warns inflation data could be the next breakout catalyst per CoinDesk; a macro binary not tracked in daily coin metrics",
+    "Coinbase picks Abu Dhabi for global RWA tokenization push per CoinDesk — exchange securing regulatory approval to offer tokenized securities internationally; institutional tokenization scaling outside watchlist coin spot prices"
   ],
   "news": [
     {
       "source": "coindesk.com",
       "headlines": [
-        "U.S. sanctions Iran-linked crypto exchanges Shelbit and Aban Tether",
-        "U.S. Senate opens first stage of crypto Clarity Act voting to give bill a chance next month",
-        "Is Clarity's delay a blessing in disguise?: State of Crypto",
+        "UK lawmaker group APPG questions lenders over lack of banking for the country's crypto firms",
+        "How a new FlightAware lawsuit threatens Kalshi's cancellation bets",
         "Everyone has the perps convergence backwards",
         "Crypto may have institutionalized, but it still trades like a rumor mill",
         "Free Markets and Innovation, Sort Of",
         "A part of FTX survived, and it's the case for the CLARITY Act",
-        "A rare CME shift: Hedge funds abandon structural shorts to bet on a bitcoin rally"
+        "Bitcoin (BTC) price stuck below $65,000 as Iran stalemate, Strategy sale squeeze market",
+        "Bitcoin-backed lending grows up as institutions tap BTC for corporate financing"
       ]
     }
   ]
