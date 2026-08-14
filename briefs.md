@@ -11,6 +11,32 @@ No investment advice — this surfaces what's happening, you read it.
 
 <!-- new briefs go here, between this marker and the previous entry -->
 
+## 2026-08-14
+
+**Movement** — bitcoin $63,307 ↘ -0.73%, ethereum $1,882 ↘ -0.64%, solana $76 ↘ -0.41%
+
+An in-line July CPI print (3.4% per CoinDesk) gave bitcoin no lift — all three watchlist coins edged lower as traders shifted focus to Jackson Hole and the September jobs print as the next breakout catalysts. Institutional demand ran counter to price: Goldman Sachs paid $2.25B for NEOS to acquire a $1.1B bitcoin yield ETF per CoinDesk, and Fidelity moved to add staking to its ~$900M ether ETF, while public miners added $1.78B in selling pressure keeping prices rangebound per CoinDesk. Security incidents dominated: Harmony ONE fell 40% after an attacker minted 4 billion tokens, and Solana narrowly avoided a finality halt when a data-center failure took 29% of staked SOL offline per CoinDesk (Marinade Finance).
+
+**Worth watching**
+- Solana's near-freeze: a data-center routing failure took 29% of staked SOL offline per CoinDesk (Marinade Finance) — validator concentration risk not visible in the spot price, with 597 of 699 validators keeping the network live
+- Goldman Sachs' $2.25B NEOS acquisition — gaining a bitcoin yield ETF at 27% yield per CoinDesk; institutional bitcoin income products scaling in parallel with flat spot prices
+- Russia restricts non-qualified retail to ~$3,600/year in crypto purchases per intermediary per CoinDesk — a major jurisdiction constraining retail access, a demand signal absent from watchlist coin metrics
+
+<details><summary>8 headlines</summary>
+
+- [Crypto may have institutionalized, but it still trades like a rumor mill](https://www.coindesk.com/opinion/2026/08/05/crypto-may-have-institutionalized-but-it-still-trades-like-a-rumor-mill)
+- [Free Markets and Innovation, Sort Of](https://www.coindesk.com/opinion/2026/08/06/free-markets-and-innovation-sort-of)
+- [A part of FTX survived, and it's the case for the CLARITY Act](https://www.coindesk.com/opinion/2026/08/07/a-part-of-ftx-survived-and-it-s-the-case-for-the-clarity-act)
+- [America doesn't need a second-class payments system](https://www.coindesk.com/opinion/2026/08/12/america-doesn-t-need-a-second-class-payments-system)
+- [Bitcoin (BTC) price steady as U.S. inflation data looms, Harmony exploit rattles altcoins](https://www.coindesk.com/markets/2026/08/12/bitcoin-holds-near-usd64-000-as-u-s-inflation-data-looms-harmony-exploit-rattles-altcoins)
+- [XRP trading could get spicy after CPI report as futures bets hit highest since October: Crypto Daily](https://www.coindesk.com/daybook-us/2026/08/12/xrp-trading-could-get-spicy-after-cpi-report-as-futures-bets-hit-highest-since-october)
+- [Russia moves to restrict retail crypto trading to bitcoin (BTC), ether (ETH) and USDT](https://www.coindesk.com/policy/2026/08/12/russia-moves-to-restrict-retail-crypto-trading-to-bitcoin-ether-and-usdt)
+- [FlightAware abruptly drops lawsuit against Kalshi over flight data](https://www.coindesk.com/policy/2026/08/12/flightaware-drops-kalshi-lawsuit-over-a-market-niche-that-data-shows-it-never-took-off)
+
+</details>
+
+---
+
 ## 2026-08-13
 
 **Movement** — bitcoin $63,785 ↗ +0.06%, ethereum $1,895 ↗ +0.39%, solana $76 ↘ -0.17%
