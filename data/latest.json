@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-08-14T05:30:00.000000Z",
+  "generated_at": "2026-08-15T04:00:00.000000Z",
   "prices": [
-    {"id": "bitcoin", "usd": 63307, "change_24h": -0.7261547999702832},
-    {"id": "ethereum", "usd": 1882.43, "change_24h": -0.6351321752653072},
-    {"id": "solana", "usd": 75.83, "change_24h": -0.41161366311807757}
+    {"id": "bitcoin", "usd": 63016, "change_24h": -0.4996864374786121},
+    {"id": "ethereum", "usd": 1881.58, "change_24h": -0.06915215333312631},
+    {"id": "solana", "usd": 75.39, "change_24h": -0.526053150431868}
   ],
-  "narrative": "An in-line July CPI print (3.4% per CoinDesk) gave bitcoin no lift — all three watchlist coins edged lower as traders shifted focus to Jackson Hole and the September jobs print as the next breakout catalysts. Institutional demand ran counter to price: Goldman Sachs paid $2.25B for NEOS to acquire a $1.1B bitcoin yield ETF per CoinDesk, and Fidelity moved to add staking to its ~$900M ether ETF, while public miners added $1.78B in selling pressure keeping prices rangebound per CoinDesk. Security incidents dominated: Harmony ONE fell 40% after an attacker minted 4 billion tokens, and Solana narrowly avoided a finality halt when a data-center failure took 29% of staked SOL offline per CoinDesk (Marinade Finance).",
+  "narrative": "The SEC abruptly canceled its \"Reg Crypto\" open meeting and delayed its tokenization innovation exemption per CoinDesk, extending U.S. regulatory uncertainty just as prices remain rangebound — bitcoin slipping to $63,016 after an in-line July CPI print left traders focused on Jackson Hole as the next breakout catalyst. Institutional momentum ran counter to flat prices: Tether completed a long-promised KPMG audit of its $180B USDT reserve per CoinDesk, and Kalshi is in talks with Sequoia and Wellington for a $750M raise at a $40B valuation. Bitcoin treasury firms Strategy and Metaplanet now face MSCI stock index exclusion per CoinDesk, adding structural pressure on corporate BTC holders without touching the spot price.",
   "worth_watching": [
-    "Solana's near-freeze: a data-center routing failure took 29% of staked SOL offline per CoinDesk (Marinade Finance) — validator concentration risk not visible in the spot price, with 597 of 699 validators keeping the network live",
-    "Goldman Sachs' $2.25B NEOS acquisition — gaining a bitcoin yield ETF at 27% yield per CoinDesk; institutional bitcoin income products scaling in parallel with flat spot prices",
-    "Russia restricts non-qualified retail to ~$3,600/year in crypto purchases per intermediary per CoinDesk — a major jurisdiction constraining retail access, a demand signal absent from watchlist coin metrics"
+    "SEC's Reg Crypto delay with no new date set per CoinDesk — the first major crypto rulemaking now postponed indefinitely, removing a near-term regulatory clarity catalyst that was partially priced in after the earlier announcement",
+    "Kalshi's $750M raise at $40B valuation (nearly doubling from May's $22B per CoinDesk) — prediction markets scaling at a pace that outstrips crypto's own growth, with CFTC actively shielding it from state lawsuits",
+    "MSCI proposal to exclude Strategy and Metaplanet from stock indices per CoinDesk — could force index-tracking funds to sell shares, adding indirect selling pressure on corporate bitcoin treasury strategy"
   ],
   "news": [
     {
       "source": "coindesk.com",
       "headlines": [
+        "Morgan Stanley's infrastructure partner Zerohash rebuffed in pitch to be U.S. trust bank",
+        "Prediction markets should dial back faulty filings for incentives to boost trading: CFTC",
         "Crypto may have institutionalized, but it still trades like a rumor mill",
         "Free Markets and Innovation, Sort Of",
         "A part of FTX survived, and it's the case for the CLARITY Act",
         "America doesn't need a second-class payments system",
-        "Bitcoin (BTC) price steady as U.S. inflation data looms, Harmony exploit rattles altcoins",
-        "XRP trading could get spicy after CPI report as futures bets hit highest since October: Crypto Daily",
-        "Russia moves to restrict retail crypto trading to bitcoin (BTC), ether (ETH) and USDT",
-        "FlightAware abruptly drops lawsuit against Kalshi over flight data"
+        "Bitcoin treasury company Metaplanet (3350) unveils BitBonds with $1.3 million private debt sale",
+        "Live updates: Bitcoin slips back even as Fed rate hike expectations dwindle"
       ]
     }
   ]

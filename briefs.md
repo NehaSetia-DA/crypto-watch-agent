@@ -11,6 +11,32 @@ No investment advice — this surfaces what's happening, you read it.
 
 <!-- new briefs go here, between this marker and the previous entry -->
 
+## 2026-08-15
+
+**Movement** — bitcoin $63,016 ↘ -0.50%, ethereum $1,882 ↘ -0.07%, solana $75 ↘ -0.53%
+
+The SEC abruptly canceled its "Reg Crypto" open meeting and delayed its tokenization innovation exemption per CoinDesk, extending U.S. regulatory uncertainty just as prices remain rangebound — bitcoin slipping to $63,016 after an in-line July CPI print left traders focused on Jackson Hole as the next breakout catalyst. Institutional momentum ran counter to flat prices: Tether completed a long-promised KPMG audit of its $180B USDT reserve per CoinDesk, and Kalshi is in talks with Sequoia and Wellington for a $750M raise at a $40B valuation. Bitcoin treasury firms Strategy and Metaplanet now face MSCI stock index exclusion per CoinDesk, adding structural pressure on corporate BTC holders without touching the spot price.
+
+**Worth watching**
+- SEC's Reg Crypto delay with no new date set per CoinDesk — the first major crypto rulemaking now postponed indefinitely, removing a near-term regulatory clarity catalyst that was partially priced in after the earlier announcement
+- Kalshi's $750M raise at $40B valuation (nearly doubling from May's $22B per CoinDesk) — prediction markets scaling at a pace that outstrips crypto's own growth, with CFTC actively shielding it from state lawsuits
+- MSCI proposal to exclude Strategy and Metaplanet from stock indices per CoinDesk — could force index-tracking funds to sell shares, adding indirect selling pressure on corporate bitcoin treasury strategy
+
+<details><summary>8 headlines</summary>
+
+- [Morgan Stanley's infrastructure partner Zerohash rebuffed in pitch to be U.S. trust bank](https://www.coindesk.com/policy/2026/08/12/morgan-stanley-s-infrastructure-partner-zerohash-rebuffed-in-pitch-to-be-u-s-trust-bank)
+- [Prediction markets should dial back faulty filings for incentives to boost trading: CFTC](https://www.coindesk.com/policy/2026/08/12/prediction-markets-should-dial-back-faulty-filings-for-incentives-to-boost-trading-cftc)
+- [Crypto may have institutionalized, but it still trades like a rumor mill](https://www.coindesk.com/opinion/2026/08/05/crypto-may-have-institutionalized-but-it-still-trades-like-a-rumor-mill)
+- [Free Markets and Innovation, Sort Of](https://www.coindesk.com/opinion/2026/08/06/free-markets-and-innovation-sort-of)
+- [A part of FTX survived, and it's the case for the CLARITY Act](https://www.coindesk.com/opinion/2026/08/07/a-part-of-ftx-survived-and-it-s-the-case-for-the-clarity-act)
+- [America doesn't need a second-class payments system](https://www.coindesk.com/opinion/2026/08/12/america-doesn-t-need-a-second-class-payments-system)
+- [Bitcoin treasury company Metaplanet (3350) unveils BitBonds with $1.3 million private debt sale](https://www.coindesk.com/markets/2026/08/13/bitcoin-treasury-company-metaplanet-unveils-bitbonds-with-usd1-3-million-private-debt-sale)
+- [Live updates: Bitcoin slips back even as Fed rate hike expectations dwindle](https://www.coindesk.com/tech/2026/08/13/live-markets-u-s-inflation-is-stickier-than-july-s-mild-cpi-suggests)
+
+</details>
+
+---
+
 ## 2026-08-14
 
 **Movement** — bitcoin $63,307 ↘ -0.73%, ethereum $1,882 ↘ -0.64%, solana $76 ↘ -0.41%
