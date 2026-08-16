@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-08-15T04:00:00.000000Z",
+  "generated_at": "2026-08-16T04:10:00.000000Z",
   "prices": [
-    {"id": "bitcoin", "usd": 63016, "change_24h": -0.4996864374786121},
-    {"id": "ethereum", "usd": 1881.58, "change_24h": -0.06915215333312631},
-    {"id": "solana", "usd": 75.39, "change_24h": -0.526053150431868}
+    {"id": "bitcoin", "usd": 63075, "change_24h": 0.08961613684877962},
+    {"id": "ethereum", "usd": 1881.64, "change_24h": 0.018250096549119476},
+    {"id": "solana", "usd": 75.55, "change_24h": 0.20094590753485095}
   ],
-  "narrative": "The SEC abruptly canceled its \"Reg Crypto\" open meeting and delayed its tokenization innovation exemption per CoinDesk, extending U.S. regulatory uncertainty just as prices remain rangebound — bitcoin slipping to $63,016 after an in-line July CPI print left traders focused on Jackson Hole as the next breakout catalyst. Institutional momentum ran counter to flat prices: Tether completed a long-promised KPMG audit of its $180B USDT reserve per CoinDesk, and Kalshi is in talks with Sequoia and Wellington for a $750M raise at a $40B valuation. Bitcoin treasury firms Strategy and Metaplanet now face MSCI stock index exclusion per CoinDesk, adding structural pressure on corporate BTC holders without touching the spot price.",
+  "narrative": "Spot prices posted minimal gains even as regulatory headwinds mounted: the SEC canceled its \"Reg Crypto\" open meeting and again delayed its tokenization innovation exemption per CoinDesk, pushing Bullish, Coinbase, and Circle stocks lower. Bitcoin ETFs saw their first back-to-back outflows since late July, and MSCI proposed excluding Strategy and Metaplanet from stock indices per CoinDesk — yet BTC/ETH/SOL barely moved, trading in a tight range just above $63,000. On the political front, Trump's World Liberty Trust won a conditional federal bank charter from the OCC per CoinDesk, and Trump is expected to attend a White House meeting with crypto and AI CEOs next week.",
   "worth_watching": [
-    "SEC's Reg Crypto delay with no new date set per CoinDesk — the first major crypto rulemaking now postponed indefinitely, removing a near-term regulatory clarity catalyst that was partially priced in after the earlier announcement",
-    "Kalshi's $750M raise at $40B valuation (nearly doubling from May's $22B per CoinDesk) — prediction markets scaling at a pace that outstrips crypto's own growth, with CFTC actively shielding it from state lawsuits",
-    "MSCI proposal to exclude Strategy and Metaplanet from stock indices per CoinDesk — could force index-tracking funds to sell shares, adding indirect selling pressure on corporate bitcoin treasury strategy"
+    "Trump's White House meeting with crypto, prediction market, and AI CEOs expected next week per CoinDesk — direct presidential engagement that could accelerate policy without waiting for the stalled SEC regulatory calendar",
+    "MSCI's proposed exclusion of Strategy and Metaplanet from stock indices per CoinDesk — could force index-tracking fund sales of corporate bitcoin treasury shares; Strategy has publicly pushed back",
+    "Bank Leumi partnering with Galaxy to offer BTC/ETH/SOL trading to Israeli retail banking customers from early 2027 per CoinDesk — traditional banking access to watchlist coins expanding to new jurisdictions"
   ],
   "news": [
     {
       "source": "coindesk.com",
       "headlines": [
-        "Morgan Stanley's infrastructure partner Zerohash rebuffed in pitch to be U.S. trust bank",
-        "Prediction markets should dial back faulty filings for incentives to boost trading: CFTC",
         "Crypto may have institutionalized, but it still trades like a rumor mill",
         "Free Markets and Innovation, Sort Of",
         "A part of FTX survived, and it's the case for the CLARITY Act",
         "America doesn't need a second-class payments system",
-        "Bitcoin treasury company Metaplanet (3350) unveils BitBonds with $1.3 million private debt sale",
-        "Live updates: Bitcoin slips back even as Fed rate hike expectations dwindle"
+        "Sequoia and Wellington in talks to lead $750 million Kalshi funding round",
+        "B2C2 targets Asia's family offices with Schroders veteran hire",
+        "Crypto for Advisors: The crypto advice gap",
+        "Third-party breach exposes shipping addresses of 14,000 Trezor buyers"
       ]
     }
   ]

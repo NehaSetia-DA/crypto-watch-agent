@@ -11,6 +11,32 @@ No investment advice — this surfaces what's happening, you read it.
 
 <!-- new briefs go here, between this marker and the previous entry -->
 
+## 2026-08-16
+
+**Movement** — bitcoin $63,075 ↗ +0.09%, ethereum $1,882 → +0.02%, solana $76 ↗ +0.20%
+
+Spot prices posted minimal gains even as regulatory headwinds mounted: the SEC canceled its "Reg Crypto" open meeting and again delayed its tokenization innovation exemption per CoinDesk, pushing Bullish, Coinbase, and Circle stocks lower. Bitcoin ETFs saw their first back-to-back outflows since late July, and MSCI proposed excluding Strategy and Metaplanet from stock indices per CoinDesk — yet BTC/ETH/SOL barely moved, trading in a tight range just above $63,000. On the political front, Trump's World Liberty Trust won a conditional federal bank charter from the OCC per CoinDesk, and Trump is expected to attend a White House meeting with crypto and AI CEOs next week.
+
+**Worth watching**
+- Trump's White House meeting with crypto, prediction market, and AI CEOs expected next week per CoinDesk — direct presidential engagement that could accelerate policy without waiting for the stalled SEC regulatory calendar
+- MSCI's proposed exclusion of Strategy and Metaplanet from stock indices per CoinDesk — could force index-tracking fund sales of corporate bitcoin treasury shares; Strategy has publicly pushed back
+- Bank Leumi partnering with Galaxy to offer BTC/ETH/SOL trading to Israeli retail banking customers from early 2027 per CoinDesk — traditional banking access to watchlist coins expanding to new jurisdictions
+
+<details><summary>8 headlines</summary>
+
+- [Crypto may have institutionalized, but it still trades like a rumor mill](https://www.coindesk.com/opinion/2026/08/05/crypto-may-have-institutionalized-but-it-still-trades-like-a-rumor-mill)
+- [Free Markets and Innovation, Sort Of](https://www.coindesk.com/opinion/2026/08/06/free-markets-and-innovation-sort-of)
+- [A part of FTX survived, and it's the case for the CLARITY Act](https://www.coindesk.com/opinion/2026/08/07/a-part-of-ftx-survived-and-it-s-the-case-for-the-clarity-act)
+- [America doesn't need a second-class payments system](https://www.coindesk.com/opinion/2026/08/12/america-doesn-t-need-a-second-class-payments-system)
+- [Sequoia and Wellington in talks to lead $750 million Kalshi funding round](https://www.coindesk.com/business/2026/08/13/kalshi-in-talks-with-sequoia-wellington-for-usd750-million-fund-raise-at-usd40-billion-valuation)
+- [B2C2 targets Asia's family offices with Schroders veteran hire](https://www.coindesk.com/business/2026/08/13/b2c2-taps-schroders-veteran-to-chase-asia-s-growing-crypto-wealth)
+- [Crypto for Advisors: The crypto advice gap](https://www.coindesk.com/coindesk-indices/2026/08/12/crypto-for-advisors-the-crypto-advice-gap)
+- [Third-party breach exposes shipping addresses of 14,000 Trezor buyers](https://www.coindesk.com/tech/2026/08/13/trezor-warns-14-000-users-after-fulfilment-partner-suffers-data-breach)
+
+</details>
+
+---
+
 ## 2026-08-15
 
 **Movement** — bitcoin $63,016 ↘ -0.50%, ethereum $1,882 ↘ -0.07%, solana $75 ↘ -0.53%
