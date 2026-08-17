@@ -11,6 +11,32 @@ No investment advice — this surfaces what's happening, you read it.
 
 <!-- new briefs go here, between this marker and the previous entry -->
 
+## 2026-08-17
+
+**Movement** — bitcoin $63,442 ↗ +0.58%, ethereum $1,901 ↗ +1.04%, solana $75 ↘ -0.07%
+
+Today bitcoin and ethereum reclaimed modest gains while solana was essentially flat, a mild recovery after last week's regulatory drag. The SEC has now canceled its "Reg Crypto" meeting and delayed its tokenization innovation exemption with no new date per CoinDesk, yet institutional conviction is building in the opposite direction: UBS grew BTC ETF call options 24-fold and Tether completed its long-promised KPMG audit per CoinDesk. Trump is expected to attend a White House meeting with crypto and AI CEOs next week per CoinDesk, a direct political signal that could accelerate policy even without formal SEC rulemaking.
+
+**Worth watching**
+- Trump's expected White House meeting with crypto, AI, and prediction market CEOs next week per CoinDesk — direct presidential engagement that could accelerate policy without the stalled SEC regulatory calendar
+- MSCI's proposed exclusion of Strategy and Metaplanet from stock indices per CoinDesk — could trigger forced selling by index-tracking funds of corporate bitcoin treasury shares
+- Wall Street's $11.2B in H1 2026 crypto funding per CoinDesk — institutional capital concentrating in permissioned infrastructure while broader retail access contracts
+
+<details><summary>8 headlines</summary>
+
+- [SEC to again delay 'innovation exemption' for tokenization amid Wall Street, White House concerns](https://www.coindesk.com/policy/2026/08/13/u-s-sec-to-again-delay-innovation-exemption-for-tokenization-amid-wall-street-white-house-concerns)
+- [Crypto may have institutionalized, but it still trades like a rumor mill](https://www.coindesk.com/opinion/2026/08/05/crypto-may-have-institutionalized-but-it-still-trades-like-a-rumor-mill)
+- [Free Markets and Innovation, Sort Of](https://www.coindesk.com/opinion/2026/08/06/free-markets-and-innovation-sort-of)
+- [A part of FTX survived, and it's the case for the CLARITY Act](https://www.coindesk.com/opinion/2026/08/07/a-part-of-ftx-survived-and-it-s-the-case-for-the-clarity-act)
+- [America doesn't need a second-class payments system](https://www.coindesk.com/opinion/2026/08/12/america-doesn-t-need-a-second-class-payments-system)
+- [JPMorgan debanked Polymarket in late 2025](https://www.coindesk.com/markets/2026/08/14/jpmorgan-shuttered-its-banking-relationship-with-predictions-platform-polymarket-ft)
+- [Bitcoin (BTC) holding firms Strategy and Metaplanet face stock-index exclusion under MSCI's new proposal](https://www.coindesk.com/markets/2026/08/14/bitcoin-holders-strategy-and-metaplanet-face-stock-index-exclusion-under-msci-s-new-proposal)
+- [XRP price: Cluster of headwinds gang up on bitcoin and wider crypto market](https://www.coindesk.com/markets/2026/08/14/cluster-of-headwinds-weigh-on-bitcoin-xrp-teeters-near-usd1)
+
+</details>
+
+---
+
 ## 2026-08-16
 
 **Movement** — bitcoin $63,075 ↗ +0.09%, ethereum $1,882 → +0.02%, solana $76 ↗ +0.20%
