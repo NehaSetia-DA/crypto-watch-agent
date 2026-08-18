@@ -11,6 +11,32 @@ No investment advice — this surfaces what's happening, you read it.
 
 <!-- new briefs go here, between this marker and the previous entry -->
 
+## 2026-08-18
+
+**Movement** — bitcoin $64,119 ↗ +1.08%, ethereum $1,893 ↘ -0.42%, solana $75 ↘ -0.09%
+
+Bitcoin broke above $64,000 for the first time this week — up +1.08% — as Goldman Sachs called a September Fed rate hike "very unlikely" per CoinDesk, while US spot BTC ETFs absorbed more than 14,000 BTC over five days and Q3 flows turned positive per CoinDesk. Ethereum and solana were essentially flat, both down less than 0.5%, even as the SEC's now-canceled Reg Crypto meeting and stalled innovation exemption leave formal regulatory clarity on hold indefinitely. Institutional conviction ran counter to the regulatory gap: UBS grew its BTC ETF call options 24-fold, Tether completed a long-promised KPMG audit per CoinDesk, and TradFi giants are openly partnering with crypto infrastructure rather than competing against it.
+
+**Worth watching**
+- Trump's White House meeting with crypto, AI, and prediction market CEOs expected this week per CoinDesk — first direct presidential participation in a structured crypto industry session; could advance policy faster than the stalled SEC regulatory calendar
+- Bitcoin's $48 billion in futures open interest vs. declining volume per CoinDesk — a potential crowded-exit problem if positioning unwinds faster than liquidity can absorb it
+- EU MiCA migration scam wave per CoinDesk — up to 10 million users forced to relocate funds targeted by impersonation and phishing; a regulatory transition becoming a live security event for European retail
+
+<details><summary>8 headlines</summary>
+
+- [Crypto may have institutionalized, but it still trades like a rumor mill](https://www.coindesk.com/opinion/2026/08/05/crypto-may-have-institutionalized-but-it-still-trades-like-a-rumor-mill)
+- [Free Markets and Innovation, Sort Of](https://www.coindesk.com/opinion/2026/08/06/free-markets-and-innovation-sort-of)
+- [A part of FTX survived, and it's the case for the CLARITY Act](https://www.coindesk.com/opinion/2026/08/07/a-part-of-ftx-survived-and-it-s-the-case-for-the-clarity-act)
+- [America doesn't need a second-class payments system](https://www.coindesk.com/opinion/2026/08/12/america-doesn-t-need-a-second-class-payments-system)
+- [Trump-backed World Liberty wins conditional bank charter from federal regulator](https://www.coindesk.com/policy/2026/08/14/trump-backed-world-liberty-wins-conditional-bank-charter-from-federal-regulator)
+- [Trump expected to attend White House meeting with crypto CEOs, sources say](https://www.coindesk.com/policy/2026/08/14/trump-expected-to-attend-white-house-meeting-with-crypto-ceos-sources-say)
+- [TradFi obsession with permissioned blockchains is 'race to the bottom,' Etherealize CEO Vivek Raman warns](https://www.coindesk.com/business/2026/08/15/wall-street-s-private-blockchain-obsession-is-a-race-to-the-bottom-ethereum-advocate-raman-warns)
+- [Clarity survives (barely), Strategy sells and the untold story of Mastercard's $1.8 billion deal: Crypto's week in 5 stories](https://www.coindesk.com/business/2026/08/15/clarity-survives-barely-strategy-sells-and-the-untold-story-of-mastercard-s-usd1-8-billion-deal-crypto-s-week-in-5-stories)
+
+</details>
+
+---
+
 ## 2026-08-17
 
 **Movement** — bitcoin $63,442 ↗ +0.58%, ethereum $1,901 ↗ +1.04%, solana $75 ↘ -0.07%
