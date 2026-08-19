@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-08-18T04:15:00.000000Z",
+  "generated_at": "2026-08-19T04:10:00.000000Z",
   "prices": [
-    {"id": "bitcoin", "usd": 64119, "change_24h": 1.075019853664867},
-    {"id": "ethereum", "usd": 1892.66, "change_24h": -0.42162043679608124},
-    {"id": "solana", "usd": 75.42, "change_24h": -0.08611032654123012}
+    {"id": "bitcoin", "usd": 64281, "change_24h": 0.37160869918992734},
+    {"id": "ethereum", "usd": 1910.53, "change_24h": 1.074054745998551},
+    {"id": "solana", "usd": 76.94, "change_24h": 2.0978853772480344}
   ],
-  "narrative": "Bitcoin broke above $64,000 for the first time this week — up +1.08% — as Goldman Sachs called a September Fed rate hike \"very unlikely\" per CoinDesk, while US spot BTC ETFs absorbed more than 14,000 BTC over five days and Q3 flows turned positive per CoinDesk. Ethereum and solana were essentially flat, both down less than 0.5%, even as the SEC's now-canceled Reg Crypto meeting and stalled innovation exemption leave formal regulatory clarity on hold indefinitely. Institutional conviction ran counter to the regulatory gap: UBS grew its BTC ETF call options 24-fold, Tether completed a long-promised KPMG audit per CoinDesk, and TradFi giants are openly partnering with crypto infrastructure rather than competing against it.",
+  "narrative": "All three coins gained Wednesday — SOL +2.10%, ETH +1.07%, BTC +0.37% — even as a $390 million ETF outflow week and 10% legislative odds for the Clarity Act per CoinDesk kept sentiment cautious; prices and institutional momentum remain out of sync. A hardware security wave hit simultaneously: Coldcard's bug, undetected for years, tallied $100 million in losses per CoinDesk, while Safepal and Bits of Gold reported data breaches affecting nearly 240,000 customers collectively. Institutional conviction held firm: Bitmine now holds 4.8% of total ETH supply after another purchase per CoinDesk, and the U.S. Treasury published GENIUS Act stablecoin rules, moving regulatory infrastructure forward outside the stalled SEC calendar.",
   "worth_watching": [
-    "Trump's White House meeting with crypto, AI, and prediction market CEOs expected this week per CoinDesk — first direct presidential participation in a structured crypto industry session; could advance policy faster than the stalled SEC regulatory calendar",
-    "Bitcoin's $48 billion in futures open interest vs. declining volume per CoinDesk — a potential crowded-exit problem if positioning unwinds faster than liquidity can absorb it",
-    "EU MiCA migration scam wave per CoinDesk — up to 10 million users forced to relocate funds targeted by impersonation and phishing; a regulatory transition becoming a live security event for European retail"
+    "Ethereum's Hegoтá upgrade narrows to 66 proposals including a major privacy fix per CoinDesk — protocol-level change adding native privacy tools to ETH wallets; not tracked in daily price moves",
+    "XRP fell below $1 for the first time since 2024 per CoinDesk despite a Ripple Payments adoption win — major altcoin hitting multi-year lows while the watchlist gains; a divergence signal",
+    "Compound pivoting to institutional focus with $52M and new leadership per CoinDesk — DeFi's pioneer lending protocol abandoning retail; a structural DeFi shift absent from ETH spot metrics"
   ],
   "news": [
     {
       "source": "coindesk.com",
       "headlines": [
-        "Crypto may have institutionalized, but it still trades like a rumor mill",
+        "Why the world’s second-largest Bitcoin mining power is shutting down rigs in its capital city",
+        "The SEC meeting that wasn’t: State of Crypto",
         "Free Markets and Innovation, Sort Of",
-        "A part of FTX survived, and it's the case for the CLARITY Act",
-        "America doesn't need a second-class payments system",
-        "Trump-backed World Liberty wins conditional bank charter from federal regulator",
-        "Trump expected to attend White House meeting with crypto CEOs, sources say",
-        "TradFi obsession with permissioned blockchains is 'race to the bottom,' Etherealize CEO Vivek Raman warns",
-        "Clarity survives (barely), Strategy sells and the untold story of Mastercard's $1.8 billion deal: Crypto's week in 5 stories"
+        "A part of FTX survived, and it’s the case for the CLARITY Act",
+        "America doesn’t need a second-class payments system",
+        "The Coldcard hack proves reputation is not a security model",
+        "Binance gave Russia client data used in Ukraine donation case",
+        "Bitcoin (BTC) price tracks equity bounce while $390 million ETF outflow week restrains the bulls"
       ]
     }
   ]

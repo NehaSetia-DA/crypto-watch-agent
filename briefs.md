@@ -11,6 +11,32 @@ No investment advice — this surfaces what's happening, you read it.
 
 <!-- new briefs go here, between this marker and the previous entry -->
 
+## 2026-08-19
+
+**Movement** — bitcoin $64,281 ↗ +0.37%, ethereum $1,911 ↗ +1.07%, solana $77 ↗ +2.10%
+
+All three coins gained Wednesday — SOL +2.10%, ETH +1.07%, BTC +0.37% — even as a $390 million ETF outflow week and 10% legislative odds for the Clarity Act per CoinDesk kept sentiment cautious; prices and institutional momentum remain out of sync. A hardware security wave hit simultaneously: Coldcard's bug, undetected for years, tallied $100 million in losses per CoinDesk, while Safepal and Bits of Gold reported data breaches affecting nearly 240,000 customers collectively. Institutional conviction held firm: Bitmine now holds 4.8% of total ETH supply after another purchase per CoinDesk, and the U.S. Treasury published GENIUS Act stablecoin rules, moving regulatory infrastructure forward outside the stalled SEC calendar.
+
+**Worth watching**
+- Ethereum's Hegoтá upgrade narrows to 66 proposals including a major privacy fix per CoinDesk — protocol-level change adding native privacy tools to ETH wallets; not tracked in daily price moves
+- XRP fell below $1 for the first time since 2024 per CoinDesk despite a Ripple Payments adoption win — major altcoin hitting multi-year lows while the watchlist gains; a divergence signal
+- Compound pivoting to institutional focus with $52M and new leadership per CoinDesk — DeFi's pioneer lending protocol abandoning retail; a structural DeFi shift absent from ETH spot metrics
+
+<details><summary>8 headlines</summary>
+
+- [Why the world's second-largest Bitcoin mining power is shutting down rigs in its capital city](https://www.coindesk.com/policy/2026/08/15/why-the-world-s-second-largest-bitcoin-mining-power-is-shutting-down-rigs-in-its-capital-city)
+- [The SEC meeting that wasn't: State of Crypto](https://www.coindesk.com/policy/2026/08/16/the-sec-meeting-that-wasn-t-state-of-crypto)
+- [Free Markets and Innovation, Sort Of](https://www.coindesk.com/opinion/2026/08/06/free-markets-and-innovation-sort-of)
+- [A part of FTX survived, and it's the case for the CLARITY Act](https://www.coindesk.com/opinion/2026/08/07/a-part-of-ftx-survived-and-it-s-the-case-for-the-clarity-act)
+- [America doesn't need a second-class payments system](https://www.coindesk.com/opinion/2026/08/12/america-doesn-t-need-a-second-class-payments-system)
+- [The Coldcard hack proves reputation is not a security model](https://www.coindesk.com/opinion/2026/08/17/the-coldcard-hack-proves-reputation-is-not-a-security-model)
+- [Binance gave Russia client data used in Ukraine donation case](https://www.coindesk.com/policy/2026/08/17/binance-handed-user-data-to-russia-that-led-to-a-ukrainian-donor-s-arrest)
+- [Bitcoin (BTC) price tracks equity bounce while $390 million ETF outflow week restrains the bulls](https://www.coindesk.com/markets/2026/08/17/bitcoin-tracks-equity-bounce-but-usd390-million-etf-outflow-week-keeps-bulls-on-back-foot)
+
+</details>
+
+---
+
 ## 2026-08-18
 
 **Movement** — bitcoin $64,119 ↗ +1.08%, ethereum $1,893 ↘ -0.42%, solana $75 ↘ -0.09%
