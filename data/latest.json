@@ -1,29 +1,20 @@
 {
-  "generated_at": "2026-08-19T04:10:00.000000Z",
+  "generated_at": "2026-08-20T04:15:00.000000Z",
   "prices": [
-    {"id": "bitcoin", "usd": 64281, "change_24h": 0.37160869918992734},
-    {"id": "ethereum", "usd": 1910.53, "change_24h": 1.074054745998551},
-    {"id": "solana", "usd": 76.94, "change_24h": 2.0978853772480344}
+    {"id": "bitcoin", "usd": 69138, "change_24h": 7.555412375162238},
+    {"id": "ethereum", "usd": 2249.44, "change_24h": 17.745938775069074},
+    {"id": "solana", "usd": 84.44, "change_24h": 9.728762904299362}
   ],
-  "narrative": "All three coins gained Wednesday — SOL +2.10%, ETH +1.07%, BTC +0.37% — even as a $390 million ETF outflow week and 10% legislative odds for the Clarity Act per CoinDesk kept sentiment cautious; prices and institutional momentum remain out of sync. A hardware security wave hit simultaneously: Coldcard's bug, undetected for years, tallied $100 million in losses per CoinDesk, while Safepal and Bits of Gold reported data breaches affecting nearly 240,000 customers collectively. Institutional conviction held firm: Bitmine now holds 4.8% of total ETH supply after another purchase per CoinDesk, and the U.S. Treasury published GENIUS Act stablecoin rules, moving regulatory infrastructure forward outside the stalled SEC calendar.",
+  "narrative": "All three watchlist coins surged Thursday — ETH at +17.75% far outpacing BTC's +7.56% and SOL's +9.73%, which typically signals an ETH-specific catalyst. The CoinDesk news feed returned a 403 Forbidden error today, leaving the driver unconfirmed; the price moves are the only available signal. BTC has now recovered from its recent sub-$65,000 range, with ETH reclaiming $2,249 — both diverging sharply from last week's consolidation pattern.",
   "worth_watching": [
-    "Ethereum's Hegoтá upgrade narrows to 66 proposals including a major privacy fix per CoinDesk — protocol-level change adding native privacy tools to ETH wallets; not tracked in daily price moves",
-    "XRP fell below $1 for the first time since 2024 per CoinDesk despite a Ripple Payments adoption win — major altcoin hitting multi-year lows while the watchlist gains; a divergence signal",
-    "Compound pivoting to institutional focus with $52M and new leadership per CoinDesk — DeFi's pioneer lending protocol abandoning retail; a structural DeFi shift absent from ETH spot metrics"
+    "ETH's +17.75% exceptional outperformance — nearly 2.5× BTC's gain; an ETH-specific catalyst (protocol upgrade, ETF event, staking news) is likely but unconfirmed due to the CoinDesk 403 today",
+    "CoinDesk news feed returning 403 Forbidden — spider credentials may have expired; adding TheBlock or Decrypt as redundant sources would prevent news black-outs on high-volatility days",
+    "BTC at $69,138 — approaching price territory not seen since early 2024; macro sentiment may be shifting, though the absent news feed leaves the catalyst unknown"
   ],
   "news": [
     {
       "source": "coindesk.com",
-      "headlines": [
-        "Why the world’s second-largest Bitcoin mining power is shutting down rigs in its capital city",
-        "The SEC meeting that wasn’t: State of Crypto",
-        "Free Markets and Innovation, Sort Of",
-        "A part of FTX survived, and it’s the case for the CLARITY Act",
-        "America doesn’t need a second-class payments system",
-        "The Coldcard hack proves reputation is not a security model",
-        "Binance gave Russia client data used in Ukraine donation case",
-        "Bitcoin (BTC) price tracks equity bounce while $390 million ETF outflow week restrains the bulls"
-      ]
+      "headlines": []
     }
   ]
 }
