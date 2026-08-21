@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-20T04:15:00.000000Z",
+  "generated_at": "2026-08-21T04:15:00.000000Z",
   "prices": [
-    {"id": "bitcoin", "usd": 69138, "change_24h": 7.555412375162238},
-    {"id": "ethereum", "usd": 2249.44, "change_24h": 17.745938775069074},
-    {"id": "solana", "usd": 84.44, "change_24h": 9.728762904299362}
+    {"id": "bitcoin", "usd": 74721, "change_24h": 7.940556243991054},
+    {"id": "ethereum", "usd": 2347.22, "change_24h": 4.284727375299353},
+    {"id": "solana", "usd": 89.32, "change_24h": 5.700074086247573}
   ],
-  "narrative": "All three watchlist coins surged Thursday — ETH at +17.75% far outpacing BTC's +7.56% and SOL's +9.73%, which typically signals an ETH-specific catalyst. The CoinDesk news feed returned a 403 Forbidden error today, leaving the driver unconfirmed; the price moves are the only available signal. BTC has now recovered from its recent sub-$65,000 range, with ETH reclaiming $2,249 — both diverging sharply from last week's consolidation pattern.",
+  "narrative": "All three watchlist coins extended Thursday's surge — BTC reached $74,721 (+7.94%), its highest price since early 2024, with SOL (+5.70%) and ETH (+4.28%) posting solid but more moderate gains. The CoinDesk news feed returned a 403 Forbidden error for a second consecutive day, leaving the catalyst for BTC's two-day ~14% rally unconfirmed; the price action alone is significant. ETH's momentum cooled sharply from yesterday's exceptional +17.75% to +4.28% today while bitcoin reclaimed the lead, suggesting rotation back toward BTC.",
   "worth_watching": [
-    "ETH's +17.75% exceptional outperformance — nearly 2.5× BTC's gain; an ETH-specific catalyst (protocol upgrade, ETF event, staking news) is likely but unconfirmed due to the CoinDesk 403 today",
-    "CoinDesk news feed returning 403 Forbidden — spider credentials may have expired; adding TheBlock or Decrypt as redundant sources would prevent news black-outs on high-volatility days",
-    "BTC at $69,138 — approaching price territory not seen since early 2024; macro sentiment may be shifting, though the absent news feed leaves the catalyst unknown"
+    "BTC at $74,721 — highest price since early 2024; two consecutive days of large gains (+7.56% then +7.94%) are a breakout signal not yet confirmed by news",
+    "CoinDesk 403 Forbidden for a second consecutive day — news blackout during a significant price move; deploying TheBlock or Decrypt spiders (listed in watchlist.yml) would add redundancy",
+    "ETH momentum cooling from +17.75% to +4.28% while BTC surges +7.94% — capital rotating back to bitcoin after ETH's outsized day; a relative-value signal worth tracking"
   ],
   "news": [
     {

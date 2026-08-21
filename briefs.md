@@ -11,6 +11,25 @@ No investment advice — this surfaces what's happening, you read it.
 
 <!-- new briefs go here, between this marker and the previous entry -->
 
+## 2026-08-21
+
+**Movement** — bitcoin $74,721 ↗ +7.94%, ethereum $2,347 ↗ +4.28%, solana $89 ↗ +5.70%
+
+All three watchlist coins extended Thursday's surge — BTC reached $74,721 (+7.94%), its highest price since early 2024, with SOL (+5.70%) and ETH (+4.28%) posting solid but more moderate gains. The CoinDesk news feed returned a 403 Forbidden error for a second consecutive day, leaving the catalyst for BTC's two-day ~14% rally unconfirmed; the price action alone is significant. ETH's momentum cooled sharply from yesterday's exceptional +17.75% to +4.28% today while bitcoin reclaimed the lead, suggesting rotation back toward BTC.
+
+**Worth watching**
+- BTC at $74,721 — highest price since early 2024; two consecutive days of large gains (+7.56% then +7.94%) are a breakout signal not yet confirmed by news
+- CoinDesk 403 Forbidden for a second consecutive day — news blackout during a significant price move; deploying TheBlock or Decrypt spiders (listed in watchlist.yml) would add redundancy
+- ETH momentum cooling from +17.75% to +4.28% while BTC surges +7.94% — capital rotating back to bitcoin after ETH's outsized day; a relative-value signal worth tracking
+
+<details><summary>8 headlines</summary>
+
+*(No headlines — CoinDesk news feed returned a 403 error today.)*
+
+</details>
+
+---
+
 ## 2026-08-20
 
 **Movement** — bitcoin $69,138 ↗ +7.56%, ethereum $2,249 ↗ +17.75%, solana $84 ↗ +9.73%
